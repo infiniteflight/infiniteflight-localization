@@ -10,7 +10,7 @@ The base language of the app is English. Infinite Flight will provide all the ba
 
 If you are interested in contributing a language, please create an Issue first so you can be assigned by Infinite Flight staff to make sure this isn't already being contributed.
 
-## Creating a new language
+## Adding support for a new language
 
 To begin translating Infinite Flight into a new language, create a new file called `AppResources.[code].resx`. This code should be the two-digit ISO-639-1 language code, which you can reference from [here](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
 
