@@ -39,6 +39,8 @@ Each `.resx` file is an XML file and can be edited inside a text editor.
 
  - Text strings with values such as `{0}` and `{1}` represent variables which are replaced at runtime in the simulator. The comments should explain what these variables represent, but please ask if you are unsure.
 
+ - Translated text should be equal or shorter in length to the English equivalent whenever possible to ensure it will fit in the UI. Please state in the Pull Request if this isn't possible.
+
 ## Pull Request Reviews
 
 Before a new language is added into Infinite Flight, the PR should be reviewed by another speaker of this language to ensure the content is correct.
