@@ -4,7 +4,7 @@ This repository is for translating the [Infinite Flight](https://infiniteflight.
 
 ## Supported languages
 
-The base language of the app is English. Infinite Flight will provide all the base strings inside the `en/AppResources.resx` file. We have added additional translations for:
+The base language of the app is English. Infinite Flight will provide all the base strings inside the `AppResources.resx` file. We have added additional translations for:
  - Spanish
  - French
 
