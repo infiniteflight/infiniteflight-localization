@@ -1,0 +1,2161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LoginSubscriptionPage.ProCarouselTitle1" xml:space="preserve">
+    <value>ACCÈS À TOUTE LA FLOTTE</value>
+    <comment>ACCESS TO OUR ENTIRE FLEET</comment>
+  </data>
+  <data name="LoginSubscriptionPage.ProCarouselText1" xml:space="preserve">
+    <value>Des dizaines d'avions, centaines de livrées, modèle de vol réaliste, et cockpits animés</value>
+    <comment>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</comment>
+  </data>
+  <data name="LoginSubscriptionPage.ProCarouselTitle2" xml:space="preserve">
+    <value>DECOUVREZ LE MONDE</value>
+    <comment>DISCOVER THE WORLD</comment>
+  </data>
+  <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
+    <value>Plus de 20,000 aéroports, 90+ aeroports en 3D, imagerie satellite à 15m/px et plus encore.</value>
+    <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
+  </data>
+  <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
+    <value>Volez avec vos amis! Joignez des milliers d'autres pilotes pour une expérience immersive, globale et multi-joueurs.</value>
+    <comment>Fly with friends! Join thousands of other pilots for an immersive, global, multiplayer experience.</comment>
+  </data>
+  <data name="LoginSubscriptionPage.ProCarouselText4" xml:space="preserve">
+    <value>Pilotez avec des controlleurs aériens entrainés sur notre serveur expert ou montez dans les classements pour devenir vous-mème controlleur!</value>
+    <comment>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</comment>
+  </data>
+  <data name="LoginSubscriptionPage.ProCarouselTitle3" xml:space="preserve">
+    <value>MULTIJOUEUR</value>
+    <comment>MULTIPLAYER</comment>
+  </data>
+  <data name="LoginSubscriptionPage.ProCarouselTitle4" xml:space="preserve">
+    <value>CONTROLLEURS AERIENS</value>
+    <comment>HUMAN ATC</comment>
+  </data>
+  <data name="Global.Back" xml:space="preserve">
+    <value>RETOUR</value>
+    <comment>Back button text</comment>
+  </data>
+  <data name="Global.Ok" xml:space="preserve">
+    <value>OK</value>
+    <comment>OK button text</comment>
+  </data>
+  <data name="IntroPage.ATC" xml:space="preserve">
+    <value>CONTROL AÉRIEN</value>
+    <comment>Air Traffic Control</comment>
+  </data>
+  <data name="IntroPage.FlyOnline" xml:space="preserve">
+    <value>MULTIJOUEUR</value>
+    <comment>Fly Online</comment>
+  </data>
+  <data name="IntroPage.FlySolo" xml:space="preserve">
+    <value>VOL SOLO</value>
+    <comment>Fly Solo</comment>
+  </data>
+  <data name="IntroPage.Logbook" xml:space="preserve">
+    <value>CARNET DE VOL</value>
+    <comment>Logbook</comment>
+  </data>
+  <data name="IntroPage.Replays" xml:space="preserve">
+    <value>REPLAYS</value>
+    <comment>Replays</comment>
+  </data>
+  <data name="IntroPage.SceneryEditor" xml:space="preserve">
+    <value>ÉDITEUR DE SCENES</value>
+    <comment>Scenery Editor</comment>
+  </data>
+  <data name="LiveMapControl.LiveData" xml:space="preserve">
+    <value>Données en temps réel</value>
+    <comment>Live Data (All Servers)</comment>
+  </data>
+  <data name="Error.AccountAlreadyInUse" xml:space="preserve">
+    <value>Le compte que vous essayez de connecter est déjà lié avec un autre abonnement à Infinite Flight Pro. (Code d'erreur {0})</value>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+  </data>
+  <data name="Error.AccountSuspended" xml:space="preserve">
+    <value>Votre compte à été suspendu. (Code d'erreur {0})</value>
+    <comment>Your account has been suspended (error code {0})</comment>
+  </data>
+  <data name="Error.ATCSessionNotFound" xml:space="preserve">
+    <value>Session ATC non trouvée. (Code erreur {0})</value>
+    <comment>We can't find information about this ATC session (error code {0})</comment>
+  </data>
+  <data name="Error.AuthProviderFailure" xml:space="preserve">
+    <value>Erreur lors de la validation de ce compte avec le fournisseur (Code erreur {0})</value>
+    <comment>There was an error validating this account with the provider (error code {0})</comment>
+  </data>
+  <data name="Error.DataNotLoaded" xml:space="preserve">
+    <value>Infinite Flight ne peut pas se connecter au serveur (Code erreur {0})</value>
+    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+  </data>
+  <data name="Error.EndpointError" xml:space="preserve">
+    <value>Une erreur s'est produite sur les serveurs d'Infinite Flight. Réessayez dans quelques instants (Erreur {0})</value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+  </data>
+  <data name="Error.EndpointNotAuthorized" xml:space="preserve">
+    <value>Cette action n'est pas permise pour votre compte. Contactez le support client. (Erreur {0})</value>
+    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+  </data>
+  <data name="Error.EndpointTimeout" xml:space="preserve">
+    <value>Nos serveurs ne peuvent pas traiter cette requète. Réessayez dans quelques instants (Erreur {0})</value>
+    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+  </data>
+  <data name="Error.Error" xml:space="preserve">
+    <value>Erreur</value>
+    <comment>Error (title text)</comment>
+  </data>
+  <data name="Error.GenericServerConnection" xml:space="preserve">
+    <value>Infinite Flight rencontre des difficultés pour se connecter au serveur. (Erreur {0})</value>
+    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+  </data>
+  <data name="Error.InvalidInput" xml:space="preserve">
+    <value>Cette valeur est invalide (Erreur {0})</value>
+    <comment>The value you are updating isn't valid (error code {0})</comment>
+  </data>
+  <data name="Error.InvalidToken" xml:space="preserve">
+    <value>Erreur lors de l'authentification avec le serveur. (Erreur {0})</value>
+    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+  </data>
+  <data name="Error.MissingRequestParameters" xml:space="preserve">
+    <value>Erreur lors de la connexion au serveur. (Erreur {0})</value>
+    <comment>There was a problem connecting to the server (error code {0})</comment>
+  </data>
+  <data name="Error.NetworkError" xml:space="preserve">
+    <value>Erreur lors de la connexion au serveur. (Erreur {0})</value>
+    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+  </data>
+  <data name="Error.TileSystemDiskFull" xml:space="preserve">
+    <value>Votre appareil n'a pas assez de memoire disponible pour les telechargements</value>
+    <comment>Global Server streaming has failed because your device storage is full</comment>
+  </data>
+  <data name="Error.UserNotFound" xml:space="preserve">
+    <value>Ce compte n'est pas lie a un abonnement a Infinite Flight Pro (Erreur {0})</value>
+    <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
+  </data>
+  <data name="Global.CarryYourPassion" xml:space="preserve">
+    <value>Portez votre passion</value>
+    <comment>Carry your passion</comment>
+  </data>
+  <data name="Global.Retry" xml:space="preserve">
+    <value>Réessayer</value>
+    <comment>Retry (button text)</comment>
+  </data>
+  <data name="Global.UserGuide" xml:space="preserve">
+    <value>Manuel Utilisateur</value>
+    <comment>User Guide</comment>
+  </data>
+  <data name="LoginAuthPage.ExistingAccountPrompt" xml:space="preserve">
+    <value>Connectez-vous pour utiliser un abonnement acheté sur un autre appareil</value>
+    <comment>Sign in to use a subscription bought on another device</comment>
+  </data>
+  <data name="LoginSubscriptionPage.ExistingAccount" xml:space="preserve">
+    <value>J'ai déjà un compte</value>
+    <comment>I already have an account</comment>
+  </data>
+  <data name="LoginSubscriptionPage.MoreInfo" xml:space="preserve">
+    <value>Plus d'informations</value>
+    <comment>More Info</comment>
+  </data>
+  <data name="LoginSubscriptionPage.NotAvailable" xml:space="preserve">
+    <value>Non Disponible</value>
+    <comment>Not Available</comment>
+  </data>
+  <data name="LoginSubscriptionPage.NotAvailableMessage" xml:space="preserve">
+    <value>This subscription can't be purchased due to an error. Check our User Guide for more information and try again</value>
+    <comment>This subscription can't be purchased due to an error. Check our User Guide for more information and try again</comment>
+  </data>
+  <data name="LoginSubscriptionPage.Pricing" xml:space="preserve">
+    <value>{0} / mois</value>
+    <comment>{price} / month</comment>
+  </data>
+  <data name="Global.Cancel" xml:space="preserve">
+    <value>Annuler</value>
+    <comment>Cancel (button text)</comment>
+  </data>
+  <data name="Settings.About" xml:space="preserve">
+    <value>À PROPOS</value>
+    <comment>About (button title)</comment>
+  </data>
+  <data name="Settings.Account" xml:space="preserve">
+    <value>Compte</value>
+    <comment>Account (tab title)</comment>
+  </data>
+  <data name="Settings.Controls" xml:space="preserve">
+    <value>Contrôles</value>
+    <comment>Controls (tab title)</comment>
+  </data>
+  <data name="Settings.DiagnosticsMode" xml:space="preserve">
+    <value>Mode de diagnostic</value>
+    <comment>Diagnostics Mode (title)</comment>
+  </data>
+  <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
+    <value>Le mode diagnostic est maintenant désactivé, assurez-vous de nous envoyer le journal si vous ne l'avez pas encore fait.\nCliquez sur le bouton "Envoyer le journal", merci !</value>
+    <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
+  </data>
+  <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
+    <value>Redémarrez votre appareil et reproduisez le problème ou le bogue. Revenez ensuite sur cette page et cliquez sur le bouton « Envoyer le log», merci !</value>
+    <comment>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</comment>
+  </data>
+  <data name="Settings.DiagnosticsModeWarning" xml:space="preserve">
+    <value>N'utilisez cette fonction que si un membre de l'équipe Infinite Flight vous le demande.</value>
+    <comment>Use this function only if asked by an Infinite Flight team member.</comment>
+  </data>
+  <data name="Settings.EnterDiagnosticsMode" xml:space="preserve">
+    <value>Entrer en mode diagnostique</value>
+    <comment>Enter Diagnostics Mode (button)</comment>
+  </data>
+  <data name="Settings.ExitDiagnosticsMode" xml:space="preserve">
+    <value>Quitter le mode de diagnostic</value>
+    <comment>Exit Diagnostics Mode (button)</comment>
+  </data>
+  <data name="Settings.General" xml:space="preserve">
+    <value>Général</value>
+    <comment>General (tab title)</comment>
+  </data>
+  <data name="Settings.General.AutoSetStartAirport.Subtitle" xml:space="preserve">
+    <value>Réglez automatiquement l'aéroport de départ à l'endroit où le dernier vol s'est terminé</value>
+    <comment>Automatically set the start airport to where the last flight ended.</comment>
+  </data>
+  <data name="Settings.General.AutoSetStartAirport.Title" xml:space="preserve">
+    <value>Définir automatiquement l'aéroport de départ</value>
+    <comment>Automatically Set Start Airport</comment>
+  </data>
+  <data name="Settings.General.ControlSensitivity.Subtitle" xml:space="preserve">
+    <value>Définit la sensibilité des commandes</value>
+    <comment>Sets the controls sensitivity</comment>
+  </data>
+  <data name="Settings.General.ControlSensitivity.Title" xml:space="preserve">
+    <value>Sensibilité de contrôle</value>
+    <comment>Control Sensitivity</comment>
+  </data>
+  <data name="Settings.General.InterfaceTimeout.Subtitle" xml:space="preserve">
+    <value>Contrôle la durée pendant laquelle les commandes de l'interface utilisateur restent à l'écran.</value>
+    <comment>Controls how long the User Interface controls stay on screen.</comment>
+  </data>
+  <data name="Settings.General.InterfaceTimeout.Title" xml:space="preserve">
+    <value>Délai d'expiration de l'interface</value>
+    <comment>Interface Timeout</comment>
+  </data>
+  <data name="Settings.General.InvertCockpitCameraMotion.Subtitle" xml:space="preserve">
+    <value>Inverse le mouvement de la caméra interne (Tour, Onboard, Cockpit)</value>
+    <comment>Inverts the motion of internal camera (Tower, Onboard, Cockpit)</comment>
+  </data>
+  <data name="Settings.General.InvertCockpitCameraMotion.Title" xml:space="preserve">
+    <value>Inverser le mouvement vertical des caméras internes</value>
+    <comment>Invert Internal Cameras Vertical Motion</comment>
+  </data>
+  <data name="Settings.General.InvertVerticalCameraMotion.Subtitle" xml:space="preserve">
+    <value>Inverser le mouvement vertical des caméras externes</value>
+    <comment>Invert the vertical motion of the external cameras</comment>
+  </data>
+  <data name="Settings.General.InvertVerticalCameraMotion.Title" xml:space="preserve">
+    <value>Inverser le mouvement vertical des caméras externes</value>
+    <comment>Invert External Cameras Vertical Motion</comment>
+  </data>
+  <data name="Settings.General.LandingAid.Subtitle" xml:space="preserve">
+    <value>Affiche un ensemble de rectangles autour de la trajectoire d'atterrissage. Aide à faire des atterrissages stabilisés.</value>
+    <comment>Shows a set of rectangles around the landing path. Helps make stabilized landings.</comment>
+  </data>
+  <data name="Settings.General.LandingAid.Title" xml:space="preserve">
+    <value>Aide à l'atterrissage</value>
+    <comment>Landing Aid</comment>
+  </data>
+  <data name="Settings.General.Language.Subtitle" xml:space="preserve">
+    <value>Définit la langue de l'interface de l'application</value>
+    <comment>Sets the language of the app's interface</comment>
+  </data>
+  <data name="Settings.General.Language.Title" xml:space="preserve">
+    <value>Langue</value>
+    <comment>Language</comment>
+  </data>
+  <data name="Settings.General.ShowAirportNames.Subtitle" xml:space="preserve">
+    <value>Afficher les noms et la distance des aéroports en vol</value>
+    <comment>Show names and distance of the airports while flying</comment>
+  </data>
+  <data name="Settings.General.ShowAirportNames.Title" xml:space="preserve">
+    <value>Noms des aéroports</value>
+    <comment>Airport Names</comment>
+  </data>
+  <data name="Settings.Graphics" xml:space="preserve">
+    <value>Graphismes</value>
+    <comment>Graphics (tab title)</comment>
+  </data>
+  <data name="Settings.Multiplayer" xml:space="preserve">
+    <value>En ligne</value>
+    <comment>Multiplayer (tab title)</comment>
+  </data>
+  <data name="Settings.Option.High" xml:space="preserve">
+    <value>Haut</value>
+    <comment>High (option)</comment>
+  </data>
+  <data name="Settings.Option.Kilograms" xml:space="preserve">
+    <value>Kilogrammes (Kg)</value>
+    <comment>Kilograms (option)</comment>
+  </data>
+  <data name="Settings.Option.Low" xml:space="preserve">
+    <value>Bas</value>
+    <comment>Low (option)</comment>
+  </data>
+  <data name="Settings.Option.Medium" xml:space="preserve">
+    <value>Moyen</value>
+    <comment>Medium (option)</comment>
+  </data>
+  <data name="Settings.Option.None" xml:space="preserve">
+    <value>Aucun</value>
+    <comment>None (option)</comment>
+  </data>
+  <data name="Settings.Option.Off" xml:space="preserve">
+    <value>Désactivé</value>
+    <comment>Off (option)</comment>
+  </data>
+  <data name="Settings.Option.On" xml:space="preserve">
+    <value>Activé</value>
+    <comment>On (option)</comment>
+  </data>
+  <data name="Settings.Option.Pounds" xml:space="preserve">
+    <value>Livres (lbs)</value>
+    <comment>Pounds (option)</comment>
+  </data>
+  <data name="Settings.Option.Unlimited" xml:space="preserve">
+    <value>Illimité</value>
+    <comment>Unlimited (option)</comment>
+  </data>
+  <data name="Settings.Option.VeryHigh" xml:space="preserve">
+    <value>Très haut</value>
+    <comment>Very High (option)</comment>
+  </data>
+  <data name="Settings.SendCurrentLog" xml:space="preserve">
+    <value>Envoyer le journal actuel</value>
+    <comment>Send Current Log (button text)</comment>
+  </data>
+  <data name="Settings.SendPreviousLog" xml:space="preserve">
+    <value>Envoyer le journal précédent</value>
+    <comment>Send Previous Log (button text)</comment>
+  </data>
+  <data name="Settings.Sounds" xml:space="preserve">
+    <value>Audio</value>
+    <comment>Sounds (tab title)</comment>
+  </data>
+  <data name="Global.Confirm" xml:space="preserve">
+    <value>Confirmer</value>
+    <comment>Confirm</comment>
+  </data>
+  <data name="Global.Warning" xml:space="preserve">
+    <value>Attention</value>
+    <comment>Warning</comment>
+  </data>
+  <data name="Settings.General.AutoCoordination.Subtitle" xml:space="preserve">
+    <value>Accoupler automatiquement les ailerons et le gouvernail (au sol uniquement)</value>
+    <comment>Automatically couple the ailerons and rudder (on the ground only)</comment>
+  </data>
+  <data name="Settings.General.AutoCoordination.Title" xml:space="preserve">
+    <value>Auto-Coordination</value>
+    <comment>Auto-Coordination</comment>
+  </data>
+  <data name="Settings.General.AutomaticEngineStart.Subtitle" xml:space="preserve">
+    <value>Commencez toujours avec le moteur en marche</value>
+    <comment>Always start with engine running</comment>
+  </data>
+  <data name="Settings.General.AutomaticEngineStart.Title" xml:space="preserve">
+    <value>Démarrage automatique du moteur</value>
+    <comment>Automatic Engine Start</comment>
+  </data>
+  <data name="Settings.General.AutomaticLowPower.Subtitle" xml:space="preserve">
+    <value>Entrez une faible puissance pendant les longs vols pour économiser la batterie</value>
+    <comment>Enter low power during long flights to save battery</comment>
+  </data>
+  <data name="Settings.General.AutomaticLowPower.Title" xml:space="preserve">
+    <value>Activer la faible consommation automatique</value>
+    <comment>Enable Automatic Low Power</comment>
+  </data>
+  <data name="Settings.General.ClearSceneryCache.Subtitle" xml:space="preserve">
+    <value>Effacer les données de paysage mises en cache sur le stockage local</value>
+    <comment>Clear scenery data cached on local storage</comment>
+  </data>
+  <data name="Settings.General.ClearSceneryCache.Title" xml:space="preserve">
+    <value>Vider le cache des paysages</value>
+    <comment>Clear Scenery Cache</comment>
+  </data>
+  <data name="Settings.General.Connect.Subtitle" xml:space="preserve">
+    <value>Activer le système d'API Infinite Flight Connect (expérimental)</value>
+    <comment>Enable Infinite Flight Connect API System (Experimental)</comment>
+  </data>
+  <data name="Settings.General.Connect.Title" xml:space="preserve">
+    <value>Activer Infinite Flight Connect</value>
+    <comment>Enable Infinite Flight Connect</comment>
+  </data>
+  <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
+    <value>Envoie les données de position/attitude/trafic aux appareils locaux exécutant ForeFlight</value>
+    <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
+  </data>
+  <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
+    <value>Activer le lien ForeFlight</value>
+    <comment>Enable ForeFlight Link</comment>
+  </data>
+  <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
+    <value>Masquer la barre d'état lorsque le délai d'attente de l'interface se produit</value>
+    <comment>Hide the status when interface timeout occurs</comment>
+  </data>
+  <data name="Settings.General.HideStatusBar.Title" xml:space="preserve">
+    <value>Masquer la barre d'état</value>
+    <comment>Hide Status Bar</comment>
+  </data>
+  <data name="Settings.General.LanguageChangeWarning" xml:space="preserve">
+    <value>Voulez-vous vraiment changer la langue de l'application ?</value>
+    <comment>Are you sure you want to change the app language?</comment>
+  </data>
+  <data name="Settings.General.ScreenshotResolutionScale.Subtitle" xml:space="preserve">
+    <value>Facteur d'échelle de résolution pour les captures d'écran</value>
+    <comment>Resolution scale factor for screenshots</comment>
+  </data>
+  <data name="Settings.General.ScreenshotResolutionScale.Title" xml:space="preserve">
+    <value>Échelle de résolution de capture d'écran</value>
+    <comment>Screenshot Resolution scale</comment>
+  </data>
+  <data name="Settings.General.ShowPerformanceMetrics.Subtitle" xml:space="preserve">
+    <value>Affiche les métriques, y compris la fréquence d'images courante</value>
+    <comment>Shows metrics including the current frame rate</comment>
+  </data>
+  <data name="Settings.General.ShowPerformanceMetrics.Title" xml:space="preserve">
+    <value>Afficher les mesures de performances</value>
+    <comment>Show Performance Metrics</comment>
+  </data>
+  <data name="Settings.General.ShowTouches.Subtitle" xml:space="preserve">
+    <value>Utile lors de l'enregistrement de vidéos/tutoriels</value>
+    <comment>Useful when recording videos/tutorials</comment>
+  </data>
+  <data name="Settings.General.ShowTouches.Title" xml:space="preserve">
+    <value>Afficher les touchés de l'écran</value>
+    <comment>Show Touches</comment>
+  </data>
+  <data name="Settings.General.WeightUnits.Subtitle" xml:space="preserve">
+    <value>Sélectionnez l'unité de poids (Kg ou Lbs)</value>
+    <comment>Select weight units (Kg or Lbs)</comment>
+  </data>
+  <data name="Settings.General.WeightUnits.Title" xml:space="preserve">
+    <value>Unité de Poids</value>
+    <comment>Weight Units</comment>
+  </data>
+  <data name="Settings.Graphics.AntiAliasing.Subtitle" xml:space="preserve">
+    <value>Non pris en charge sur tous les appareils et peut rendre le simulateur lent</value>
+    <comment>Not supported on all devices and can run very slow</comment>
+  </data>
+  <data name="Settings.Graphics.AntiAliasing.Title" xml:space="preserve">
+    <value>Anti crénelage (Anti-Aliasing)</value>
+    <comment>Anti-Aliasing</comment>
+  </data>
+  <data name="Settings.Graphics.FrameRateLimit.Subtitle" xml:space="preserve">
+    <value>Définit la fréquence d'images la plus élevée autorisée.</value>
+    <comment>Sets the highest allowed frame rate.</comment>
+  </data>
+  <data name="Settings.Graphics.FrameRateLimit.Title" xml:space="preserve">
+    <value>Limite de fréquence d'images</value>
+    <comment>Frame rate limit</comment>
+  </data>
+  <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
+    <value>Le réglage de la fréquence d'images sur 60 ips peut entraîner une surchauffe de votre appareil. Pour éviter tout dommage, votre appareil peut ralentir, ce qui peut ralentir Infinite Flight. Nous vous recommandons de maintenir ce paramètre à 30 ips.</value>
+    <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
+  </data>
+  <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
+    <value>Use the entire screen when playing.</value>
+    <comment>Use the entire screen when playing.</comment>
+  </data>
+  <data name="Settings.Graphics.FullScreen.Title" xml:space="preserve">
+    <value>Full Screen</value>
+    <comment>Full Screen</comment>
+  </data>
+  <data name="Settings.Graphics.ObjectDensity.Subtitle" xml:space="preserve">
+    <value>Contrôle la densité des objets dans les aéroports</value>
+    <comment>Controls the density of objects at airports</comment>
+  </data>
+  <data name="Settings.Graphics.ObjectDensity.Title" xml:space="preserve">
+    <value>Densité d'objet 3D</value>
+    <comment>3D Object Density</comment>
+  </data>
+  <data name="Settings.Graphics.RenderingQuality.Subtitle" xml:space="preserve">
+    <value>Contrôle la qualité du rendu</value>
+    <comment>Controls the quality of the rendering</comment>
+  </data>
+  <data name="Settings.Graphics.RenderingQuality.Title" xml:space="preserve">
+    <value>Qualité de rendu</value>
+    <comment>Rendering Quality</comment>
+  </data>
+  <data name="Settings.Graphics.RenderingResolution.Subtitle" xml:space="preserve">
+    <value>Contrôle la résolution de rendu des avions et des scènes</value>
+    <comment>Controls the rendering resolution of aircraft and scenery</comment>
+  </data>
+  <data name="Settings.Graphics.RenderingResolution.Title" xml:space="preserve">
+    <value>Résolution de rendu</value>
+    <comment>Rendering Resolution</comment>
+  </data>
+  <data name="Settings.Graphics.TextureQuality.Subtitle" xml:space="preserve">
+    <value>Contrôle la qualité des textures</value>
+    <comment>Controls the quality of textures</comment>
+  </data>
+  <data name="Settings.Graphics.TextureQuality.Title" xml:space="preserve">
+    <value>Qualité des textures</value>
+    <comment>Texture Quality</comment>
+  </data>
+  <data name="Settings.Multiplayer.CurrentVoice.Subtitle" xml:space="preserve">
+    <value>Sélectionnez la voix pour vos communications ATC</value>
+    <comment>Select voice for your ATC communications</comment>
+  </data>
+  <data name="Settings.Multiplayer.CurrentVoice.Title" xml:space="preserve">
+    <value>Voix du pilote</value>
+    <comment>Pilot Voice</comment>
+  </data>
+  <data name="Settings.Multiplayer.DefaultVoice.Subtitle" xml:space="preserve">
+    <value>Sélectionnez la voix par défaut pour les autres pilotes/ATC</value>
+    <comment>Select the default voice for other pilots/ATC</comment>
+  </data>
+  <data name="Settings.Multiplayer.DefaultVoice.Title" xml:space="preserve">
+    <value>Voix par défaut</value>
+    <comment>Default Voice</comment>
+  </data>
+  <data name="Settings.Multiplayer.EnableAirplaneDownloadsOverCellular.Subtitle" xml:space="preserve">
+    <value>Téléchargez les avions automatiquement même lorsque vous êtes sur un réseau cellulaire.</value>
+    <comment>Download airplanes automatically even when on a Cellular Network</comment>
+  </data>
+  <data name="Settings.Multiplayer.EnableAirplaneDownloadsOverCellular.Title" xml:space="preserve">
+    <value>Téléchargements automatiques d'avions sur des données cellulaires</value>
+    <comment>Automatic Airplane Downloads Over Cellular Data</comment>
+  </data>
+  <data name="Settings.Multiplayer.HideAirplaneDots.Subtitle" xml:space="preserve">
+    <value>Cache les positions des autres joueurs en multijoueur</value>
+    <comment>Hides the dots of other players in multiplayer</comment>
+  </data>
+  <data name="Settings.Multiplayer.HideAirplaneDots.Title" xml:space="preserve">
+    <value>Cacher les positions des avions</value>
+    <comment>Hide Airplane Dots</comment>
+  </data>
+  <data name="Settings.Multiplayer.HideAirplaneNames.Subtitle" xml:space="preserve">
+    <value>Masquer les noms des avions</value>
+    <comment>Hides the name of other players in multiplayer</comment>
+  </data>
+  <data name="Settings.Multiplayer.HideAirplaneNames.Title" xml:space="preserve">
+    <value>Masques les noms</value>
+    <comment>Hide Airplane Names</comment>
+  </data>
+  <data name="Settings.Multiplayer.LiveAirplaneDensity.Subtitle" xml:space="preserve">
+    <value>Contrôle le nombre d'avions affichés en multijoueur.</value>
+    <comment>Controls how many airplanes are shown in multiplayer.</comment>
+  </data>
+  <data name="Settings.Multiplayer.LiveAirplaneDensity.Title" xml:space="preserve">
+    <value>Nombre d'avions</value>
+    <comment>Airplane Count</comment>
+  </data>
+  <data name="Settings.Multiplayer.LiveAirplaneDensityNoneWarning" xml:space="preserve">
+    <value>Définir le nombre d'avions sur Aucun n'affichera pas d'autres aéronefs lorsque vous volez en ligne, et il est de votre responsabilité de maintenir l'espacement avec les autres aéronefs.</value>
+    <comment>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</comment>
+  </data>
+  <data name="Settings.Multiplayer.ShowUsernameInFlight.Subtitle" xml:space="preserve">
+    <value>Affichez votre nom d'utilisateur en vol. Décochez pour rester anonyme</value>
+    <comment>Display your username in-flight. Uncheck to remain anonymous</comment>
+  </data>
+  <data name="Settings.Multiplayer.ShowUsernameInFlight.Title" xml:space="preserve">
+    <value>Afficher le nom d'utilisateur en vol</value>
+    <comment>Show Username In-Flight</comment>
+  </data>
+  <data name="Settings.Multiplayer.VoicePitch.Subtitle" xml:space="preserve">
+    <value>Modifie la hauteur de votre voix sélectionnée</value>
+    <comment>Changes the pitch of your selected voice</comment>
+  </data>
+  <data name="Settings.Multiplayer.VoicePitch.Title" xml:space="preserve">
+    <value>Hauteur de la voix</value>
+    <comment>Voice Pitch</comment>
+  </data>
+  <data name="Commands.AileronTrim" xml:space="preserve">
+    <value>Compensateur Ailerons</value>
+    <comment>Aileron Trim</comment>
+  </data>
+  <data name="Commands.AileronTrim.Description" xml:space="preserve">
+    <value>Contrôle le compensateur des ailerons</value>
+    <comment>Controls the Aileron Trim</comment>
+  </data>
+  <data name="Commands.BeaconLights" xml:space="preserve">
+    <value>Lumieres Anti-Collision</value>
+    <comment>Beacon Lights</comment>
+  </data>
+  <data name="Commands.Brakes" xml:space="preserve">
+    <value>Freins</value>
+    <comment>Brakes</comment>
+  </data>
+  <data name="Commands.ElevatorTrim" xml:space="preserve">
+    <value>Compensateur de Profondeur</value>
+    <comment>Elevator Trim</comment>
+  </data>
+  <data name="Commands.ElevatorTrim.Description" xml:space="preserve">
+    <value>Contrôle Compensateur de Profondeur</value>
+    <comment>Controls the Elevator Trim</comment>
+  </data>
+  <data name="Commands.FlapsDownFull" xml:space="preserve">
+    <value>Plein Volets</value>
+    <comment>Flaps Down (Full)</comment>
+  </data>
+  <data name="Commands.FlapsDownStep" xml:space="preserve">
+    <value>Volets +1 cran</value>
+    <comment>Flaps Down (1 Step)</comment>
+  </data>
+  <data name="Commands.FlapsUpFull" xml:space="preserve">
+    <value>Volets Rétractés</value>
+    <comment>Flaps Up (Full)</comment>
+  </data>
+  <data name="Commands.FlapsUpStep" xml:space="preserve">
+    <value>Volets -1 cran</value>
+    <comment>Flaps Up (1 Step)</comment>
+  </data>
+  <data name="Commands.FuelDump" xml:space="preserve">
+    <value>Décharge carburant</value>
+    <comment>Fuel Dump</comment>
+  </data>
+  <data name="Commands.Group.Airplane" xml:space="preserve">
+    <value>Avion</value>
+    <comment>Airplane</comment>
+  </data>
+  <data name="Commands.Group.Cameras" xml:space="preserve">
+    <value>Caméras</value>
+    <comment>Cameras</comment>
+  </data>
+  <data name="Commands.LandingGear" xml:space="preserve">
+    <value>Train d'atterrissage</value>
+    <comment>Landing Gear</comment>
+  </data>
+  <data name="Commands.LandingLights" xml:space="preserve">
+    <value>Phares d'atterrissage</value>
+    <comment>Landing Lights</comment>
+  </data>
+  <data name="Commands.Mixture" xml:space="preserve">
+    <value>Mixture</value>
+    <comment>Mixture</comment>
+  </data>
+  <data name="Commands.Mixture.Description" xml:space="preserve">
+    <value>Contrôle la mixture</value>
+    <comment>Controls the Mixture</comment>
+  </data>
+  <data name="Commands.NavLights" xml:space="preserve">
+    <value>Feux de Navigation</value>
+    <comment>NavLights</comment>
+  </data>
+  <data name="Commands.ParkingBrakes" xml:space="preserve">
+    <value>Frein de parking</value>
+    <comment>Parking Brakes</comment>
+  </data>
+  <data name="Commands.PitchAxis" xml:space="preserve">
+    <value>Attitude</value>
+    <comment>Pitch</comment>
+  </data>
+  <data name="Commands.PitchAxis.Description" xml:space="preserve">
+    <value>Contrôle l'attitude</value>
+    <comment>Controls the horizontal stabilizer</comment>
+  </data>
+  <data name="Commands.Propeller" xml:space="preserve">
+    <value>Pas d'hélice</value>
+    <comment>Propeller</comment>
+  </data>
+  <data name="Commands.Propeller.Description" xml:space="preserve">
+    <value>Contrôle le pas d'hélice</value>
+    <comment>Controls the Propeller</comment>
+  </data>
+  <data name="Commands.Pushback" xml:space="preserve">
+    <value>Pushback</value>
+    <comment>Pushback</comment>
+  </data>
+  <data name="Commands.ReverseThrust" xml:space="preserve">
+    <value>Inversion de poussée</value>
+    <comment>Reverse Thrust</comment>
+  </data>
+  <data name="Commands.RollAxis" xml:space="preserve">
+    <value>Roulis</value>
+    <comment>Roll</comment>
+  </data>
+  <data name="Commands.RollAxis.Description" xml:space="preserve">
+    <value>Contrôle le roulis</value>
+    <comment>Controls the ailerons of the airplane</comment>
+  </data>
+  <data name="Commands.RudderTrim" xml:space="preserve">
+    <value>Compensateur de direction</value>
+    <comment>Rudder Trim</comment>
+  </data>
+  <data name="Commands.RudderTrim.Description" xml:space="preserve">
+    <value>Contrôle Compensateur de direction</value>
+    <comment>Controls the Rudder Trim</comment>
+  </data>
+  <data name="Commands.StrobeLights" xml:space="preserve">
+    <value>Feux Anticollision</value>
+    <comment>Strobe Lights</comment>
+  </data>
+  <data name="Commands.TaxiLights" xml:space="preserve">
+    <value>Feux de Roulage</value>
+    <comment>Taxi Lights</comment>
+  </data>
+  <data name="Commands.Throttle" xml:space="preserve">
+    <value>Manette de Gaz</value>
+    <comment>Throttle</comment>
+  </data>
+  <data name="Commands.Throttle.Description" xml:space="preserve">
+    <value>Contrôle la manette de Gaz</value>
+    <comment>Controls the airplane Throttle(s)</comment>
+  </data>
+  <data name="Commands.ToggleSpoilers" xml:space="preserve">
+    <value>Basculer Aérofreins</value>
+    <comment>Toggle Spoilers</comment>
+  </data>
+  <data name="Commands.YawAxis.Description" xml:space="preserve">
+    <value>Contrôle la gouverne de direction</value>
+    <comment>Controls the vertical stabilizer/rudder</comment>
+  </data>
+  <data name="Commands.YaxAxis" xml:space="preserve">
+    <value>Axe de Lacet</value>
+    <comment>Yaw</comment>
+  </data>
+  <data name="Global.InfiniteFlightPro" xml:space="preserve">
+    <value>Infinite Flight Pro</value>
+    <comment>Infinite Flight Pro</comment>
+  </data>
+  <data name="Global.InfiniteFlightPro.1Month" xml:space="preserve">
+    <value>Infinite Flight Pro (1 mois)</value>
+    <comment>Infinite Flight Pro (1 month)</comment>
+  </data>
+  <data name="Global.InfiniteFlightPro.1Year" xml:space="preserve">
+    <value>Infinite Flight Pro (1 an)</value>
+    <comment>Infinite Flight Pro (1 year)</comment>
+  </data>
+  <data name="Global.InfiniteFlightPro.6Months" xml:space="preserve">
+    <value>Infinite Flight Pro (6 mois)</value>
+    <comment>Infinite Flight Pro (6 months)</comment>
+  </data>
+  <data name="Global.Message" xml:space="preserve">
+    <value>MESSAGE</value>
+    <comment>MESSAGE</comment>
+  </data>
+  <data name="Settings.Account.Callsign.Subtitle" xml:space="preserve">
+    <value>Utilisé pour la communication avec les contrôleurs et autres pilotes</value>
+    <comment>Used for communication with controllers and other pilots</comment>
+  </data>
+  <data name="Settings.Account.Callsign.Title" xml:space="preserve">
+    <value>Signe d'appel</value>
+    <comment>Callsign</comment>
+  </data>
+  <data name="Settings.Account.ConnectedMessage" xml:space="preserve">
+    <value>Vous avez connecté {0} avec Infinite Flight. Voulez-vous dissocier ce profil ?</value>
+    <comment>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</comment>
+  </data>
+  <data name="Settings.Account.DiscourseConnect" xml:space="preserve">
+    <value>Connecter</value>
+    <comment>Connect (Discourse)</comment>
+  </data>
+  <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
+    <value>Vous avez lié votre profil Infinite Flight Community. Connectez-vous sur vos autres appareils pour garder votre compte connecté</value>
+    <comment>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</comment>
+  </data>
+  <data name="Settings.Account.Forum.Title" xml:space="preserve">
+    <value>Compte du forum de la communauté</value>
+    <comment>Community Forum Account</comment>
+  </data>
+  <data name="Settings.Account.Forum.UnlinkedAccount" xml:space="preserve">
+    <value>Connectez un profil Infinite Flight Community pour afficher votre nom d'utilisateur en vol. Cette connexion vous permet également de vous connecter si vous changez de plate-forme d'appareil.</value>
+    <comment>Connect an Infinite Flight Community profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms.</comment>
+  </data>
+  <data name="Settings.Account.ManageSubscription" xml:space="preserve">
+    <value>Gérer l'abonnement</value>
+    <comment>Manage Subscription</comment>
+  </data>
+  <data name="Settings.Account.ManageSubscription.Android" xml:space="preserve">
+    <value>Votre abonnement a été acheté sur une autre plate-forme et ne peut pas être géré à partir de cet appareil.</value>
+    <comment>Your subscription was purchased on a different platform and can't be managed from this device.</comment>
+  </data>
+  <data name="Settings.Account.ManageSubscription.Error" xml:space="preserve">
+    <value>Impossible de se connecter au store. Vous pouvez gérer votre abonnement en vous rendant sur la page des abonnements de la boutique.</value>
+    <comment>Can't connect to the store. You can manage your subscription by going to the store's subscriptions page.</comment>
+  </data>
+  <data name="Settings.Account.ManageSubscription.iOS" xml:space="preserve">
+    <value>Votre abonnement a été acheté sur iOS et ne peut pas être géré depuis cet appareil.</value>
+    <comment>Your subscription was purchased on iOS and can't be managed from this device.</comment>
+  </data>
+  <data name="Settings.Account.NotSubscribed" xml:space="preserve">
+    <value>Vous n'êtes pas abonné à Infinite Flight Pro</value>
+    <comment>You are not subscribed to Infinite Flight Pro</comment>
+  </data>
+  <data name="Settings.Account.Stats.Subtitle" xml:space="preserve">
+    <value>Consultez votre grade et l'historique des violations. Ces statistiques déterminent l'éligibilité au niveau du serveur multijoueur</value>
+    <comment>See your grade level and violation history. These stats determine multiplayer server level eligibility</comment>
+  </data>
+  <data name="Settings.Account.Stats.Title" xml:space="preserve">
+    <value>Statistiques du compte</value>
+    <comment>Account Statistics</comment>
+  </data>
+  <data name="Settings.Account.StatsError" xml:space="preserve">
+    <value>Un problème est survenu lors de l'obtention de vos statistiques. Réessayez ou contactez l'assistance.</value>
+    <comment>There was a problem getting your stats. Try again or contact support.</comment>
+  </data>
+  <data name="Settings.Account.Subscription.ActiveWithAutoRenew" xml:space="preserve">
+    <value>Vous êtes abonné à {0} qui se renouvelle le {1}</value>
+    <comment>You are subscribed to {0} which renews on {1}</comment>
+  </data>
+  <data name="Settings.Account.Subscription.ActiveWithoutAutoRenew" xml:space="preserve">
+    <value>Vous êtes abonné à {0} qui expire le {1}</value>
+    <comment>You are subscribed to {0} which expires on {1}</comment>
+  </data>
+  <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
+    <value>Le renouvellement de votre abonnement a échoué. Appuyez sur Gérer l'abonnement pour vérifier les informations de paiement avant {0}</value>
+    <comment>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</comment>
+  </data>
+  <data name="Settings.Account.Subscription.Title" xml:space="preserve">
+    <value>Votre abonnement Infinite Flight Pro</value>
+    <comment>Your Infinite Flight Pro Subscription</comment>
+  </data>
+  <data name="Settings.Account.SwitchAccount.Subtitle" xml:space="preserve">
+    <value>Utilisez un autre compte Infinite Flight pour accéder à un abonnement acheté sur un autre appareil</value>
+    <comment>Use a different Infinite Flight account to access a subscription bought on another device</comment>
+  </data>
+  <data name="Settings.Account.SwitchAccount.Title" xml:space="preserve">
+    <value>Changer de compte</value>
+    <comment>Switch Account</comment>
+  </data>
+  <data name="Settings.Account.Unlink" xml:space="preserve">
+    <value>Dissocier</value>
+    <comment>Unlink</comment>
+  </data>
+  <data name="Settings.Account.ViewStats" xml:space="preserve">
+    <value>Voir les statistiques</value>
+    <comment>View Stats</comment>
+  </data>
+  <data name="Settings.Controls.Axes" xml:space="preserve">
+    <value>Axes</value>
+    <comment>Axes</comment>
+  </data>
+  <data name="Settings.Controls.Axes.AxesKey" xml:space="preserve">
+    <value>Touches/Axes</value>
+    <comment>Key/Axis</comment>
+  </data>
+  <data name="Settings.Controls.Axes.CommandName" xml:space="preserve">
+    <value>Nom de commande</value>
+    <comment>Command Name</comment>
+  </data>
+  <data name="Settings.Controls.Axes.NullZone" xml:space="preserve">
+    <value>Zone nulle / Sensibilité</value>
+    <comment>Null Zone / Sensitivity</comment>
+  </data>
+  <data name="Settings.Controls.Axes.Reverse" xml:space="preserve">
+    <value>Rev.</value>
+    <comment>Rev.</comment>
+  </data>
+  <data name="Settings.Controls.Axes.Sensitivity" xml:space="preserve">
+    <value>Sensibilité</value>
+    <comment>Sensitivity</comment>
+  </data>
+  <data name="Settings.Controls.Buttons" xml:space="preserve">
+    <value>Boutons</value>
+    <comment>Buttons</comment>
+  </data>
+  <data name="Settings.Controls.Commands" xml:space="preserve">
+    <value>Commandes</value>
+    <comment>Commands</comment>
+  </data>
+  <data name="Settings.Controls.Commands.Alternate" xml:space="preserve">
+    <value>Alternatif</value>
+    <comment>Alternate</comment>
+  </data>
+  <data name="Settings.Controls.MoveAxisToAssign" xml:space="preserve">
+    <value>Déplacer l'axe sur l'appareil à attribuer</value>
+    <comment>Move Axis on Device to Assign</comment>
+  </data>
+  <data name="Settings.Controls.RestoreDefaults" xml:space="preserve">
+    <value>Réinitialiser</value>
+    <comment>Restore Defaults</comment>
+  </data>
+  <data name="Settings.Controls.SetupGuide" xml:space="preserve">
+    <value>Guide d'installation</value>
+    <comment>Setup Guide</comment>
+  </data>
+  <data name="Settings.Controls.ShowDevices" xml:space="preserve">
+    <value>Afficher les appareils</value>
+    <comment>Show Devices</comment>
+  </data>
+  <data name="Settings.Controls.ShowDevices.DeviceSingular" xml:space="preserve">
+    <value>Appareil</value>
+    <comment>Device</comment>
+  </data>
+  <data name="Settings.Controls.ShowDevices.DevicesPlural" xml:space="preserve">
+    <value>Appareils</value>
+    <comment>Devices</comment>
+  </data>
+  <data name="Settings.Controls.ShowDevices.NoDevices" xml:space="preserve">
+    <value>Aucun appareil n'est disponible. Consultez le Guide de configuration pour obtenir de l'aide</value>
+    <comment>No devices are available. Check the Setup Guide for help</comment>
+  </data>
+  <data name="Settings.Controls.Unassigned" xml:space="preserve">
+    <value>Non attribué</value>
+    <comment>Unassigned</comment>
+  </data>
+  <data name="Settings.Controls.UseNetworkJoystick" xml:space="preserve">
+    <value>Utiliser le joystick réseau</value>
+    <comment>Use Network Joystick</comment>
+  </data>
+  <data name="Settings.Sounds.ATC" xml:space="preserve">
+    <value>Volume ATC</value>
+    <comment>ATC Volume</comment>
+  </data>
+  <data name="Settings.Sounds.SFX" xml:space="preserve">
+    <value>Volume Effets</value>
+    <comment>SFX Volume</comment>
+  </data>
+  <data name="Commands.AutoStartEngines" xml:space="preserve">
+    <value>Demarrage Automatique</value>
+    <comment>Auto Start Engine(s)</comment>
+  </data>
+  <data name="Commands.CockpitCamera" xml:space="preserve">
+    <value>Caméra Cockpit</value>
+    <comment>Cockpit Camera</comment>
+  </data>
+  <data name="Commands.FlyByCamera" xml:space="preserve">
+    <value>Caméra Fixe</value>
+    <comment>Fly By Camera</comment>
+  </data>
+  <data name="Commands.FollowCamera" xml:space="preserve">
+    <value>Caméra Suivi</value>
+    <comment>Follow Camera</comment>
+  </data>
+  <data name="Commands.Group.Autopilot" xml:space="preserve">
+    <value>Pilote Auto</value>
+    <comment>Autopilot</comment>
+  </data>
+  <data name="Commands.Group.ControlSurfaces" xml:space="preserve">
+    <value>Surfaces de Vol</value>
+    <comment>Control Surfaces</comment>
+  </data>
+  <data name="Commands.Group.Engines" xml:space="preserve">
+    <value>Moteurs</value>
+    <comment>Engines</comment>
+  </data>
+  <data name="Commands.Group.General" xml:space="preserve">
+    <value>Général</value>
+    <comment>General</comment>
+  </data>
+  <data name="Commands.Group.HUD" xml:space="preserve">
+    <value>HUD</value>
+    <comment>HUD</comment>
+  </data>
+  <data name="Commands.Live" xml:space="preserve">
+    <value>Multijoueur</value>
+    <comment>Multiplayer</comment>
+  </data>
+  <data name="Commands.MoveCameraDown" xml:space="preserve">
+    <value>Bouger caméra en bas</value>
+    <comment>Move Camera Down</comment>
+  </data>
+  <data name="Commands.MoveCameraHorizontal" xml:space="preserve">
+    <value>Bouger caméra à gauche/droite</value>
+    <comment>Move Camera Left/Right</comment>
+  </data>
+  <data name="Commands.MoveCameraLeft" xml:space="preserve">
+    <value>Bouger caméra à gauche</value>
+    <comment>Move Camera Left</comment>
+  </data>
+  <data name="Commands.MoveCameraRight" xml:space="preserve">
+    <value>Bouger caméra à droite</value>
+    <comment>Move Camera Right</comment>
+  </data>
+  <data name="Commands.MoveCameraUp" xml:space="preserve">
+    <value>Bouger caméra en haut</value>
+    <comment>Move Camera Up</comment>
+  </data>
+  <data name="Commands.MoveCameraVertical" xml:space="preserve">
+    <value>Bouger caméra en haut/bas</value>
+    <comment>Move Camera Up/Down</comment>
+  </data>
+  <data name="Commands.NextCamera" xml:space="preserve">
+    <value>Caméra suivante</value>
+    <comment>Next Camera</comment>
+  </data>
+  <data name="Commands.OnboardCamera" xml:space="preserve">
+    <value>Caméra de bord</value>
+    <comment>Onboard Camera</comment>
+  </data>
+  <data name="Commands.PreviousCamera" xml:space="preserve">
+    <value>Caméra suivante</value>
+    <comment>Previous Camera</comment>
+  </data>
+  <data name="Commands.ResetCamera" xml:space="preserve">
+    <value>Remise Caméra à zéro</value>
+    <comment>Reset Camera</comment>
+  </data>
+  <data name="Commands.SelectATCEntry" xml:space="preserve">
+    <value>Sélection ATC {0}</value>
+    <comment>Select ATC Entry {number}</comment>
+  </data>
+  <data name="Commands.StartEngine" xml:space="preserve">
+    <value>Start Specified Engine</value>
+    <comment>Start Specified Engine</comment>
+  </data>
+  <data name="Commands.StopEngine" xml:space="preserve">
+    <value>Stop Specified Engine</value>
+    <comment>Stop Specified Engine</comment>
+  </data>
+  <data name="Commands.ToggleATCWindow" xml:space="preserve">
+    <value>Basculer la fenetre ATC</value>
+    <comment>Toggle ATC Window</comment>
+  </data>
+  <data name="Commands.ToggleAutopilot" xml:space="preserve">
+    <value>Engager/Disengager le pilots automatique</value>
+    <comment>Engage/Disengage Autopilot</comment>
+  </data>
+  <data name="Commands.ToggleFlightPathVector" xml:space="preserve">
+    <value>Basculer l'affichage de la trajectoire de vol</value>
+    <comment>Toggle Flight Path Vector</comment>
+  </data>
+  <data name="Commands.ToggleHUD" xml:space="preserve">
+    <value>Basculer HUD</value>
+    <comment>Toggle HUD</comment>
+  </data>
+  <data name="Commands.TogglePause" xml:space="preserve">
+    <value>Pause</value>
+    <comment>Pause</comment>
+  </data>
+  <data name="Commands.TowerCamera" xml:space="preserve">
+    <value>Caméra de Tour de Contrôle</value>
+    <comment>Tower Camera</comment>
+  </data>
+  <data name="Commands.VirtualCockpitCamera" xml:space="preserve">
+    <value>Cockpit Virtuel</value>
+    <comment>Virtual Cockpit</comment>
+  </data>
+  <data name="Commands.ZoomIn" xml:space="preserve">
+    <value>Agrandir</value>
+    <comment>Zoom In</comment>
+  </data>
+  <data name="Commands.ZoomOut" xml:space="preserve">
+    <value>Dézoomer</value>
+    <comment>Zoom Out</comment>
+  </data>
+  <data name="GameMenu.20sAgo" xml:space="preserve">
+    <value>Retour 20s</value>
+    <comment>20s Ago</comment>
+  </data>
+  <data name="GameMenu.Calibrate" xml:space="preserve">
+    <value>Calibrer</value>
+    <comment>Calibrate</comment>
+  </data>
+  <data name="GameMenu.CalibrationComplete" xml:space="preserve">
+    <value>Calibration Terminée</value>
+    <comment>Calibration Complete</comment>
+  </data>
+  <data name="GameMenu.Crash" xml:space="preserve">
+    <value>CRASH</value>
+    <comment>CRASH</comment>
+  </data>
+  <data name="GameMenu.EndFlight" xml:space="preserve">
+    <value>Terminer le vol</value>
+    <comment>End Flight</comment>
+  </data>
+  <data name="GameMenu.EndSession" xml:space="preserve">
+    <value>Terminer la session</value>
+    <comment>End Session (ATC)</comment>
+  </data>
+  <data name="GameMenu.Paused" xml:space="preserve">
+    <value>PAUSÉ</value>
+    <comment>PAUSED</comment>
+  </data>
+  <data name="GameMenu.Resume" xml:space="preserve">
+    <value>Continuer</value>
+    <comment>Resume</comment>
+  </data>
+  <data name="GameMenu.ShortFinal" xml:space="preserve">
+    <value>Courte Finale</value>
+    <comment>Short Final</comment>
+  </data>
+  <data name="GameMenu.TakeOff" xml:space="preserve">
+    <value>Décollage</value>
+    <comment>Take Off</comment>
+  </data>
+  <data name="GameMenu.TapToCalibrate" xml:space="preserve">
+    <value>Appuyez sur l'écran pour calibrer et commencer</value>
+    <comment>Tap screen to calibrate and start</comment>
+  </data>
+  <data name="GameMenu.Time" xml:space="preserve">
+    <value>Heure</value>
+    <comment>Time</comment>
+  </data>
+  <data name="GameMenu.Weather" xml:space="preserve">
+    <value>Météo</value>
+    <comment>Weather</comment>
+  </data>
+  <data name="GameMenu.WeightBalance" xml:space="preserve">
+    <value>Poids et Centrage</value>
+    <comment>Weight &amp; Balance</comment>
+  </data>
+  <data name="GamePage.EndFlight.Message" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir mettre fin à ce vol ?</value>
+    <comment>Are you sure you want to end this flight?</comment>
+  </data>
+  <data name="GamePage.EndFlight.Title" xml:space="preserve">
+    <value>Terminer le vol</value>
+    <comment>End Flight</comment>
+  </data>
+  <data name="GamePage.EndSession.Message" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir mettre fin à cette session ?</value>
+    <comment>Are you sure you want to end this session?</comment>
+  </data>
+  <data name="GamePage.EndSession.Title" xml:space="preserve">
+    <value>Terminer la session</value>
+    <comment>End Session</comment>
+  </data>
+  <data name="Global.Grade" xml:space="preserve">
+    <value>Grade</value>
+    <comment>Grade</comment>
+  </data>
+  <data name="Global.Operations" xml:space="preserve">
+    <value>Opérations</value>
+    <comment>Operations (ATC Operations)</comment>
+  </data>
+  <data name="SplashScreen.DownloadingAircraft" xml:space="preserve">
+    <value>Téléchargement de l'avion {0} %</value>
+    <comment>Downloading Aircraft {0}%</comment>
+  </data>
+  <data name="SplashScreen.DownloadingAirportData" xml:space="preserve">
+    <value>Téléchargement des données de l'aéroport</value>
+    <comment>Downloading airport data</comment>
+  </data>
+  <data name="SplashScreen.LoadingFlight" xml:space="preserve">
+    <value>Chargement de votre vol</value>
+    <comment>Loading your flight</comment>
+  </data>
+  <data name="SplashScreen.LoadingReplay" xml:space="preserve">
+    <value>Chargement du replay</value>
+    <comment>Loading replay</comment>
+  </data>
+  <data name="SplashScreen.UnloadingFlight" xml:space="preserve">
+    <value>Fin du vol</value>
+    <comment>Ending flight</comment>
+  </data>
+  <data name="SplashScreen.UpdatingNavigationDatabase" xml:space="preserve">
+    <value>Mise à jour de la base de données de navigation</value>
+    <comment>Updating navigation database</comment>
+  </data>
+  <data name="TimePage.CurrentTime" xml:space="preserve">
+    <value>Heure actuelle</value>
+    <comment>Current Time</comment>
+  </data>
+  <data name="TimePage.Night" xml:space="preserve">
+    <value>Nuit</value>
+    <comment>Night</comment>
+  </data>
+  <data name="TimePage.Noon" xml:space="preserve">
+    <value>Midi</value>
+    <comment>Noon</comment>
+  </data>
+  <data name="TimePage.Sunrise" xml:space="preserve">
+    <value>Lever du soleil</value>
+    <comment>Sunrise</comment>
+  </data>
+  <data name="TimePage.Sunset" xml:space="preserve">
+    <value>Coucher du soleil</value>
+    <comment>Sunset</comment>
+  </data>
+  <data name="UserAccountControl.YourAccount" xml:space="preserve">
+    <value>Votre Compte</value>
+    <comment>Your Account</comment>
+  </data>
+  <data name="WeatherPage.CirrusCloudLayer" xml:space="preserve">
+    <value>Couche de nuages ​​cirrus</value>
+    <comment>Cirrus Cloud Layer</comment>
+  </data>
+  <data name="WeatherPage.CloudsAltitude" xml:space="preserve">
+    <value>Altitude des Nuages</value>
+    <comment>Clouds Altitude</comment>
+  </data>
+  <data name="WeatherPage.Temperature" xml:space="preserve">
+    <value>Température</value>
+    <comment>Temperature</comment>
+  </data>
+  <data name="WeatherPage.Turbulence" xml:space="preserve">
+    <value>Turbulence</value>
+    <comment>Turbulence</comment>
+  </data>
+  <data name="WeatherPage.Visibility" xml:space="preserve">
+    <value>Visibilité</value>
+    <comment>Visibility</comment>
+  </data>
+  <data name="WeatherPage.WindDirection" xml:space="preserve">
+    <value>Direction du Vent</value>
+    <comment>Wind Direction</comment>
+  </data>
+  <data name="WeatherPage.WindGusts" xml:space="preserve">
+    <value>Rafales de vent</value>
+    <comment>Wind Gusts</comment>
+  </data>
+  <data name="WeatherPage.WindVelocity" xml:space="preserve">
+    <value>Vitesse du vent</value>
+    <comment>Wind Velocity</comment>
+  </data>
+  <data name="WeatherState.Clouds.Broken" xml:space="preserve">
+    <value>Brisé</value>
+    <comment>Broken</comment>
+  </data>
+  <data name="WeatherState.Clouds.Clear" xml:space="preserve">
+    <value>Clair</value>
+    <comment>Clear</comment>
+  </data>
+  <data name="WeatherState.Clouds.Few" xml:space="preserve">
+    <value>Peu</value>
+    <comment>Few</comment>
+  </data>
+  <data name="WeatherState.Clouds.Scattered" xml:space="preserve">
+    <value>Épars</value>
+    <comment>Scattered</comment>
+  </data>
+  <data name="WeatherState.Turbulence.Extreme" xml:space="preserve">
+    <value>Extrême</value>
+    <comment>Extreme</comment>
+  </data>
+  <data name="WeatherState.Turbulence.Light" xml:space="preserve">
+    <value>Léger</value>
+    <comment>Light</comment>
+  </data>
+  <data name="WeatherState.Turbulence.Moderate" xml:space="preserve">
+    <value>Modéré</value>
+    <comment>Moderate</comment>
+  </data>
+  <data name="WeatherState.Turbulence.None" xml:space="preserve">
+    <value>Aucune</value>
+    <comment>None</comment>
+  </data>
+  <data name="WeatherState.Turbulence.Severe" xml:space="preserve">
+    <value>Sévère</value>
+    <comment>Severe</comment>
+  </data>
+  <data name="About.PrivacyPolicy" xml:space="preserve">
+    <value>POLITIQUE DE CONFIDENTIALITÉ</value>
+  </data>
+  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+    <value>Voulez-vous vraiment vider le cache ?</value>
+  </data>
+  <data name="Settings.DisabledInFlight" xml:space="preserve">
+    <value>ne peut pas être modifié en vol</value>
+  </data>
+  <data name="Settings.DisabledUnlinkedAccount" xml:space="preserve">
+    <value>le compte doit être lié à IFC</value>
+  </data>
+  <data name="Settings.NoVoicesAlert.Message" xml:space="preserve">
+    <value>Aucune voix n'a été trouvée sur l'appareil, voulez-vous visiter les paramètres Android Text to Speech ? (Vous rencontrez toujours des problèmes ? Assurez-vous que Google Speech Engine est sélectionné)</value>
+  </data>
+  <data name="MenuPageBase.Control" xml:space="preserve">
+    <value>Contrôle</value>
+  </data>
+  <data name="MenuPageBase.Fly" xml:space="preserve">
+    <value>Voler</value>
+  </data>
+  <data name="MenuPageBase.Open" xml:space="preserve">
+    <value>Ouvrir</value>
+  </data>
+  <data name="Global.Loading" xml:space="preserve">
+    <value>Chargement en cours...</value>
+  </data>
+  <data name="Settings.Option.Normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="SplashScreen.LoadingSession" xml:space="preserve">
+    <value>Chargement de votre session</value>
+  </data>
+  <data name="AircraftPage.LiveryWillBeDownloaded" xml:space="preserve">
+    <value>La livrée sera téléchargée au début du vol.</value>
+  </data>
+  <data name="AircraftPage.RecentlyReleased" xml:space="preserve">
+    <value>Récemment publiés</value>
+  </data>
+  <data name="AircraftPage.ReleaseInfo" xml:space="preserve">
+    <value>Publié ou mis à jour en {0}</value>
+  </data>
+  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+    <value>Afficher les anciens avions</value>
+  </data>
+  <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
+    <value>Afficher les avions PRO</value>
+  </data>
+  <data name="ATC.Approach" xml:space="preserve">
+    <value>Approche</value>
+  </data>
+  <data name="ATC.ATIS" xml:space="preserve">
+    <value>ATIS</value>
+  </data>
+  <data name="ATC.Departure" xml:space="preserve">
+    <value>Départ</value>
+  </data>
+  <data name="ATC.Ground" xml:space="preserve">
+    <value>Terrain</value>
+  </data>
+  <data name="ATC.Station" xml:space="preserve">
+    <value>Station</value>
+  </data>
+  <data name="ATC.Stations" xml:space="preserve">
+    <value>Stations</value>
+  </data>
+  <data name="ATC.Tower" xml:space="preserve">
+    <value>Tour</value>
+  </data>
+  <data name="ATCJobBoard.Header.Arrivals" xml:space="preserve">
+    <value>Arrivées</value>
+  </data>
+  <data name="ATCJobBoardControl.ActiveFIRs" xml:space="preserve">
+    <value>{0} Régions Actives</value>
+  </data>
+  <data name="ATCJobBoardControl.AirspaceActivity" xml:space="preserve">
+    <value>Activité l'espace aérien</value>
+  </data>
+  <data name="ATCJobBoardControl.FIRs" xml:space="preserve">
+    <value>Régions d'information de vol</value>
+  </data>
+  <data name="ATCJobBoardControl.GoTo" xml:space="preserve">
+    <value>Aller à {0}</value>
+  </data>
+  <data name="ATCJobBoardControl.NoFlightsFound" xml:space="preserve">
+    <value>Aucun vol trouvé</value>
+  </data>
+  <data name="FlightPlan.AddToCurrentFlightPlanPrompt" xml:space="preserve">
+    <value>Ajouter au plan de vol actuel ?</value>
+  </data>
+  <data name="FlightPlan.AddToFlightPlan" xml:space="preserve">
+    <value>Ajouter au plan de vol</value>
+  </data>
+  <data name="FlightPlan.ReplaceCurrentFlightPlanPrompt" xml:space="preserve">
+    <value>Remplacer le plan de vol actuel ?</value>
+  </data>
+  <data name="FlightPlan.ReplaceFlightPlan" xml:space="preserve">
+    <value>Remplacer le plan de vol</value>
+  </data>
+  <data name="Global.Airport" xml:space="preserve">
+    <value>Aéroport</value>
+  </data>
+  <data name="Global.NotQualified" xml:space="preserve">
+    <value>Non qualifié</value>
+  </data>
+  <data name="Global.PleaseWait" xml:space="preserve">
+    <value>Patientez...</value>
+  </data>
+  <data name="Global_FinalApproach" xml:space="preserve">
+    <value>Approche finale</value>
+  </data>
+  <data name="Global_Runway" xml:space="preserve">
+    <value>Piste</value>
+  </data>
+  <data name="Global_Takeoff" xml:space="preserve">
+    <value>Décollage</value>
+  </data>
+  <data name="Global_Unknown" xml:space="preserve">
+    <value>Inconnu</value>
+  </data>
+  <data name="Grade.FlightTimeLongPeriod" xml:space="preserve">
+    <value>Temps de vol (90 jours)</value>
+  </data>
+  <data name="Grade.LandingCountLongPeriod" xml:space="preserve">
+    <value>Atterrissages (90 jours)</value>
+  </data>
+  <data name="Grade.ReportCountMediumPeriod" xml:space="preserve">
+    <value>Violations de niveau 3 (7 jours)</value>
+  </data>
+  <data name="Grade.Requirements" xml:space="preserve">
+    <value>Conditions</value>
+  </data>
+  <data name="Grade.ShowGradeTable" xml:space="preserve">
+    <value>Afficher le tableau des Grades</value>
+  </data>
+  <data name="Grade.ShowViolationHistory" xml:space="preserve">
+    <value>Afficher l'historique</value>
+  </data>
+  <data name="Grade.Total12MonthsATCAllReports" xml:space="preserve">
+    <value>Toutes les violations de niveau 2/3 (1 an)</value>
+  </data>
+  <data name="Grade.Total12MonthsATCMajorReports" xml:space="preserve">
+    <value>Violations de niveau 3 (1 an)</value>
+  </data>
+  <data name="Grade.Total12MonthsATCMinorReports" xml:space="preserve">
+    <value>Violations de niveau 2 (1 an)</value>
+  </data>
+  <data name="Grade.TotalFlightTime" xml:space="preserve">
+    <value>Temps de vol total</value>
+  </data>
+  <data name="Grade.TotalLandings" xml:space="preserve">
+    <value>Atterrissages</value>
+  </data>
+  <data name="Grade.TotalXP" xml:space="preserve">
+    <value>XP</value>
+  </data>
+  <data name="Grade.ViolationsByLandingShortPeriod" xml:space="preserve">
+    <value>Violations de niveau 1/Atterrissage 1 (12 mois)</value>
+  </data>
+  <data name="Grade.ViolationsMediumPeriod" xml:space="preserve">
+    <value>Violations de niveau 1 (7 jours)</value>
+  </data>
+  <data name="Grade.ViolationsShortPeriod" xml:space="preserve">
+    <value>Violations de niveau 1 (24 heures)</value>
+  </data>
+  <data name="ItemSearchControl.NoResultsFor" xml:space="preserve">
+    <value>Aucun résultat pour "{0}"</value>
+  </data>
+  <data name="ItemSearchControl.SearchAirports" xml:space="preserve">
+    <value>Rechercher des aéroports</value>
+  </data>
+  <data name="ItemSearchControl.SearchAirportsAndWaypoints" xml:space="preserve">
+    <value>Rechercher des aéroports/points</value>
+  </data>
+  <data name="LocationPage.NoAvailableStartLocations" xml:space="preserve">
+    <value>Aucun point de départ disponible pour le {0}</value>
+  </data>
+  <data name="LocationPage.ResetZoom" xml:space="preserve">
+    <value>Réinitialiser le zoom</value>
+  </data>
+  <data name="MapItemInfoControl.Procedures.Select" xml:space="preserve">
+    <value>Sélectionner</value>
+  </data>
+  <data name="MapItemInfoControl.Procedures.SelectApproach" xml:space="preserve">
+    <value>Sélectionnez l'approche</value>
+  </data>
+  <data name="MapItemInfoControl.Procedures.SelectArrival" xml:space="preserve">
+    <value>Sélectionnez Arrivée</value>
+  </data>
+  <data name="MapItemInfoControl.Procedures.SelectDeparture" xml:space="preserve">
+    <value>Sélectionnez le départ</value>
+  </data>
+  <data name="MenuPageBase.Grade.GradeRequired" xml:space="preserve">
+    <value>Grade requise : {0}</value>
+  </data>
+  <data name="MenuPageBase.Grade.InsufficientGradePrompt" xml:space="preserve">
+    <value>Vous n'avez pas le grade requis pour voler sur {0}</value>
+  </data>
+  <data name="MenuPageBase.Grade.YourGrade" xml:space="preserve">
+    <value>Votre grade : {0}</value>
+  </data>
+  <data name="MenuPageBase.NoATCAccess" xml:space="preserve">
+    <value>Pas d'accès ATC</value>
+  </data>
+  <data name="MenuPageBase.NoATCAccessOn" xml:space="preserve">
+    <value>Pas d'accès ATC le/la {0}</value>
+  </data>
+  <data name="MenuPageBase.NoProFound" xml:space="preserve">
+    <value>Aucun abonnement Infinite Flight Pro valide n'a été trouvé</value>
+  </data>
+  <data name="MenuPageBase.ProRequired" xml:space="preserve">
+    <value>Infinite Flight Pro est requis pour démarrer un vol à cet endroit. Veuillez changer l'aéroport de départ.</value>
+  </data>
+  <data name="Time.1Hour" xml:space="preserve">
+    <value>1 heure</value>
+  </data>
+  <data name="Time.1HourAgo" xml:space="preserve">
+    <value>Il y a 1 heure</value>
+  </data>
+  <data name="Time.1Minute" xml:space="preserve">
+    <value>1 minute</value>
+  </data>
+  <data name="Time.1MinuteAgo" xml:space="preserve">
+    <value>il y a 1 minute</value>
+  </data>
+  <data name="Time.1YearAgo" xml:space="preserve">
+    <value>il y a 1 an</value>
+  </data>
+  <data name="Time.Days" xml:space="preserve">
+    <value>{0} jours</value>
+  </data>
+  <data name="Time.DaysAgo" xml:space="preserve">
+    <value>il y a {0} jours</value>
+  </data>
+  <data name="Time.Hour" xml:space="preserve">
+    <value>heure</value>
+  </data>
+  <data name="Time.Hours" xml:space="preserve">
+    <value>{0} heures</value>
+  </data>
+  <data name="Time.HoursAgo" xml:space="preserve">
+    <value>il y a {0} heures</value>
+  </data>
+  <data name="Time.HourShortForm" xml:space="preserve">
+    <value>heure</value>
+  </data>
+  <data name="Time.HoursShortForm" xml:space="preserve">
+    <value>heures</value>
+  </data>
+  <data name="Time.In1Hour" xml:space="preserve">
+    <value>Dans 1 heure</value>
+  </data>
+  <data name="Time.In1Minute" xml:space="preserve">
+    <value>Dans une minute</value>
+  </data>
+  <data name="Time.InDays" xml:space="preserve">
+    <value>Dans {0} jours</value>
+  </data>
+  <data name="Time.InHours" xml:space="preserve">
+    <value>Dans {0} heures</value>
+  </data>
+  <data name="Time.InLessThanAMinute" xml:space="preserve">
+    <value>Dans moins d'une minute</value>
+  </data>
+  <data name="Time.InMinutes" xml:space="preserve">
+    <value>Dans {0} minutes</value>
+  </data>
+  <data name="Time.LessThanAMinute" xml:space="preserve">
+    <value>Moins d'une minute</value>
+  </data>
+  <data name="Time.LessThanAMinuteAgo" xml:space="preserve">
+    <value>Il y a moins d'une minute</value>
+  </data>
+  <data name="Time.Minute" xml:space="preserve">
+    <value>minute</value>
+  </data>
+  <data name="Time.Minutes" xml:space="preserve">
+    <value>{0} minutes</value>
+  </data>
+  <data name="Time.MinutesAgo" xml:space="preserve">
+    <value>il y a {0} minutes</value>
+  </data>
+  <data name="Time.MinuteShortForm" xml:space="preserve">
+    <value>mn</value>
+  </data>
+  <data name="Time.Tomorrow" xml:space="preserve">
+    <value>Demain</value>
+  </data>
+  <data name="Time.YearsAgo" xml:space="preserve">
+    <value>il y a {0} ans</value>
+  </data>
+  <data name="Time.Yesterday" xml:space="preserve">
+    <value>Hier</value>
+  </data>
+  <data name="Violation.AerobaticsViolation" xml:space="preserve">
+    <value>Violation de voltige</value>
+  </data>
+  <data name="Violation.AirportClass" xml:space="preserve">
+    <value>Violation de classe d'aéroport</value>
+  </data>
+  <data name="Violation.AirspaceViolation" xml:space="preserve">
+    <value>Violation de l'espace aérien</value>
+  </data>
+  <data name="Violation.FlightOverspeed" xml:space="preserve">
+    <value>Survitesse en vol</value>
+  </data>
+  <data name="Violation.GroundOverspeed" xml:space="preserve">
+    <value>Survitesse au sol</value>
+  </data>
+  <data name="Violation.LevelledViolation" xml:space="preserve">
+    <value>Violation de niveau {0}</value>
+  </data>
+  <data name="Violation.RunwayIdle" xml:space="preserve">
+    <value>Inactivité sur la piste</value>
+  </data>
+  <data name="Global.Continue" xml:space="preserve">
+    <value>Continuer</value>
+  </data>
+  <data name="Global.Settings" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
+    <value>Le {0} est trop grand pour le point de départ actuel {1} à {2}. Veuillez changer l'emplacement de départ</value>
+  </data>
+  <data name="MenuPageBase.ATC" xml:space="preserve">
+    <value>ATC</value>
+  </data>
+  <data name="MenuPageBase.CannotConnect" xml:space="preserve">
+    <value>CONNECTION IMPOSSIBLE</value>
+  </data>
+  <data name="MenuPageBase.CannotConnect.Message" xml:space="preserve">
+    <value>Infinite Flight rencontre des problèmes de connectivité Internet. Veuillez vérifier votre connexion Internet et redémarrer l'application ou réessayer plus tard.</value>
+  </data>
+  <data name="MenuPageBase.ForumNotConnected" xml:space="preserve">
+    <value>Votre profil Infinite Flight Community doit être connecté avant de commencer une session</value>
+  </data>
+  <data name="MenuPageBase.NoLocationSelected" xml:space="preserve">
+    <value>Aucun emplacement n'a été sélectionné, veuillez sélectionner une fréquence à ouvrir</value>
+  </data>
+  <data name="MenuPageBase.ProRequiredAircraft" xml:space="preserve">
+    <value>Infinite Flight Pro est requis pour utiliser cet avion</value>
+  </data>
+  <data name="MenuPageBase.ProRequiredStartAirport" xml:space="preserve">
+    <value>Infinite Flight Pro est requis pour démarrer un vol à cet endroit. Veuillez changer l'aéroport de départ</value>
+  </data>
+  <data name="MenuPageBase.ShowUsernameDisabled" xml:space="preserve">
+    <value>Votre nom d'utilisateur doit être visible avant de démarrer une session. Activer "{0}" dans les paramètres</value>
+  </data>
+  <data name="Notam.Airport" xml:space="preserve">
+    <value>Aéroport : {0}</value>
+  </data>
+  <data name="Notam.Ceiling" xml:space="preserve">
+    <value>Plafond : {0}ft</value>
+  </data>
+  <data name="Notam.Floor" xml:space="preserve">
+    <value>Étage : {0}ft</value>
+  </data>
+  <data name="Notam.From" xml:space="preserve">
+    <value>De : {0} {1}Z</value>
+  </data>
+  <data name="Notam.Message" xml:space="preserve">
+    <value>Message : {0}</value>
+  </data>
+  <data name="Notam.Title" xml:space="preserve">
+    <value>Titre : {0}</value>
+  </data>
+  <data name="Notam.To" xml:space="preserve">
+    <value>À : {0} {1}Z</value>
+  </data>
+  <data name="Notam.UntilFurtherNotice" xml:space="preserve">
+    <value>À : Jusqu'à nouvel ordre</value>
+  </data>
+  <data name="Notam.Warning" xml:space="preserve">
+    <value>Un NOTAM (Notice to Airmen) est actif pour l'aéroport de départ sélectionné. Veuillez lire attentivement le NOTAM suivant avant de continuer</value>
+  </data>
+  <data name="Notam.WarningTitle" xml:space="preserve">
+    <value>ATTENTION : NOTAM ACTIF</value>
+  </data>
+  <data name="About.TermsOfUse" xml:space="preserve">
+    <value>CONDITIONS D'UTILISATION</value>
+  </data>
+  <data name="Global.Aircraft" xml:space="preserve">
+    <value>Avion</value>
+  </data>
+  <data name="Global.Date" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="Global.Day" xml:space="preserve">
+    <value>Jour</value>
+  </data>
+  <data name="Global.Description" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="Global.Night" xml:space="preserve">
+    <value>Nuit</value>
+  </data>
+  <data name="Global.Type" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="Logbook.From" xml:space="preserve">
+    <value>De</value>
+  </data>
+  <data name="Logbook.LiveFlights" xml:space="preserve">
+    <value>Vols en Live</value>
+  </data>
+  <data name="Logbook.Notes" xml:space="preserve">
+    <value>Remarques</value>
+  </data>
+  <data name="Logbook.ShowingFlightsOnDevice" xml:space="preserve">
+    <value>Affichage des vols enregistrés sur cet appareil</value>
+  </data>
+  <data name="Logbook.SoloFlights" xml:space="preserve">
+    <value>Vols en solo</value>
+  </data>
+  <data name="Logbook.To" xml:space="preserve">
+    <value>À</value>
+  </data>
+  <data name="Logbook.TotalFlightTime" xml:space="preserve">
+    <value>Temps de vol total</value>
+  </data>
+  <data name="Logbook.TotalTime" xml:space="preserve">
+    <value>Temps total</value>
+  </data>
+  <data name="Global.Details" xml:space="preserve">
+    <value>Des détails</value>
+  </data>
+  <data name="Global.Name" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="Global.Report" xml:space="preserve">
+    <value>Signaler</value>
+  </data>
+  <data name="Global.Reports" xml:space="preserve">
+    <value>SIgnalements</value>
+  </data>
+  <data name="Global.Violation" xml:space="preserve">
+    <value>Violation</value>
+  </data>
+  <data name="Global.Violations" xml:space="preserve">
+    <value>Violations</value>
+  </data>
+  <data name="Logbook.ATCReport" xml:space="preserve">
+    <value>Rapport ATC</value>
+  </data>
+  <data name="Logbook.ATCReport.Description" xml:space="preserve">
+    <value>Rapport ATC par [{0}]\n{1}</value>
+  </data>
+  <data name="Logbook.ViewFlightDetails" xml:space="preserve">
+    <value>Afficher les détails du vol</value>
+  </data>
+  <data name="Replay.Comments" xml:space="preserve">
+    <value>Commentaires</value>
+  </data>
+  <data name="Replay.Delete" xml:space="preserve">
+    <value>EFFACER</value>
+  </data>
+  <data name="Replay.Duration" xml:space="preserve">
+    <value>Durée</value>
+  </data>
+  <data name="Replay.Edit" xml:space="preserve">
+    <value>ÉDITER</value>
+  </data>
+  <data name="Replay.FileSize" xml:space="preserve">
+    <value>Taille</value>
+  </data>
+  <data name="Replay.Import" xml:space="preserve">
+    <value>IMPORTER</value>
+  </data>
+  <data name="Replay.Share" xml:space="preserve">
+    <value>PARTAGER</value>
+  </data>
+  <data name="Logbook.Details" xml:space="preserve">
+    <value>Des détails</value>
+  </data>
+  <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
+    <value>Appuyez sur le bouton
+Clavier à attribuer</value>
+  </data>
+  <data name="Settings.Controls.Delete" xml:space="preserve">
+    <value>Effacer</value>
+  </data>
+  <data name="Settings.Controls.MoveAxisPrompt" xml:space="preserve">
+    <value>Déplacer l'axe sur le contrôleur à attribuer</value>
+  </data>
+  <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
+    <value>Appuyez sur le bouton
+Contrôleur/Clavier à assigner</value>
+  </data>
+  <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
+    <value>Appuyez sur le bouton ou déplacez l'axe à attribuer</value>
+  </data>
+  <data name="Settings.Controls.Reset" xml:space="preserve">
+    <value>Réinitialiser</value>
+  </data>
+  <data name="SystemMessaging.Approach.CannotActivate" xml:space="preserve">
+    <value>Le mode d'approche ne peut pas être activé</value>
+  </data>
+  <data name="SystemMessaging.ApproachMode.AirspeedOutOfRange" xml:space="preserve">
+    <value>Mode d'approche désactivé - Vitesse hors plage (250 kts max)</value>
+  </data>
+  <data name="SystemMessaging.ApproachMode.BankOutOfRange" xml:space="preserve">
+    <value>Mode d'approche désactivé - Roulis hors limite</value>
+  </data>
+  <data name="SystemMessaging.ApproachMode.LandingWeightOutOfRange" xml:space="preserve">
+    <value>Mode d'approche désactivé - L'avion est en surpoids</value>
+  </data>
+  <data name="SystemMessaging.ApproachMode.VSNotEnabled" xml:space="preserve">
+    <value>Mode d'approche désactivé
+Le mode vitesse verticale doit être activé lorsque le mode approche est actif</value>
+  </data>
+  <data name="SystemMessaging.ApproachMode.VSOutOfRange" xml:space="preserve">
+    <value>Mode d'approche désactivé - VS hors limite</value>
+  </data>
+  <data name="SystemMessaging.ATC.TuningTo" xml:space="preserve">
+    <value>Réglage sur {0} {1}</value>
+  </data>
+  <data name="SystemMessaging.Autopilot.Disengaged" xml:space="preserve">
+    <value>PILOTE AUTOMATIQUE DÉSENGAGÉ</value>
+  </data>
+  <data name="SystemMessaging.Autopilot.DisengagedCheckParams" xml:space="preserve">
+    <value>PILOTE AUTOMATIQUE DÉSENGAGÉ - VÉRIFIER LES PARAMÈTRES DE VOL</value>
+  </data>
+  <data name="SystemMessaging.Autopilot.EngagedWithClimbRate" xml:space="preserve">
+    <value>PILOTE AUTOMATIQUE ON - VS : {0:#0} ft/min</value>
+  </data>
+  <data name="SystemMessaging.Engine.MasterSwitchPrompt" xml:space="preserve">
+    <value>Allumez l'interrupteur principal dans le panneau électrique avant de démarrer le moteur</value>
+  </data>
+  <data name="SystemMessaging.FlightPathVector.Off" xml:space="preserve">
+    <value>FLIGHT PATH VECTOR DÉSACTIVÉ</value>
+  </data>
+  <data name="SystemMessaging.FlightPathVector.On" xml:space="preserve">
+    <value>FLIGHT PATH VECTOR ACTIVÉ</value>
+  </data>
+  <data name="SystemMessaging.FlightPlan.Alt" xml:space="preserve">
+    <value>ALT</value>
+  </data>
+  <data name="SystemMessaging.FlightPlan.ArrivingAtDestination" xml:space="preserve">
+    <value>ARRIVÉE À DESTINATION en &lt; 1min</value>
+  </data>
+  <data name="SystemMessaging.FlightPlan.FlyHdg" xml:space="preserve">
+    <value>VOL HDG</value>
+  </data>
+  <data name="SystemMessaging.FlightPlan.FT" xml:space="preserve">
+    <value>FT</value>
+  </data>
+  <data name="SystemMessaging.FlightPlan.NextWpt" xml:space="preserve">
+    <value>PROCHAIN WPT :</value>
+  </data>
+  <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
+    <value>PROCHAIN WPT dans &lt; 1 min - Tourner au cap</value>
+  </data>
+  <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
+    <value>Impossible de démarrer la vidange de carburant. Altitude minimale 7000 pieds AGL</value>
+  </data>
+  <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelowMLW" xml:space="preserve">
+    <value>Impossible de démarrer la vidange de carburant. L'avion est en dessous de la masse maximale à l'atterrissage</value>
+  </data>
+  <data name="SystemMessaging.FuelDump.CannotStart.FuelTooLow" xml:space="preserve">
+    <value>Impossible de démarrer la vidange de carburant. Niveau de carburant trop bas !</value>
+  </data>
+  <data name="SystemMessaging.FuelDump.Starting" xml:space="preserve">
+    <value>Démarrage de la vidange de carburant - Surveiller le niveau de carburant</value>
+  </data>
+  <data name="SystemMessaging.FuelDump.Stopped.AircraftBelow7000" xml:space="preserve">
+    <value>Vidange de carburant arrêté. L'avion est en dessous de 7000 pieds AGL</value>
+  </data>
+  <data name="SystemMessaging.FuelDump.Stopped.AircraftBelowMLW" xml:space="preserve">
+    <value>Vidange de carburant arrêté. L'avion est en dessous de la masse maximale à l'atterrissage</value>
+  </data>
+  <data name="SystemMessaging.FuelDump.Stopped.FuelTooLow" xml:space="preserve">
+    <value>Vidange de carburant arrêté. Niveau de carburant trop bas</value>
+  </data>
+  <data name="SystemMessaging.Gear.UpWarning" xml:space="preserve">
+    <value>Attention, le train d'atterrissage est rentré</value>
+  </data>
+  <data name="SystemMessaging.LowPowerMode.Disabled" xml:space="preserve">
+    <value>Mode faible consommation désactivé</value>
+  </data>
+  <data name="SystemMessaging.LowPowerMode.Enabled" xml:space="preserve">
+    <value>Mode faible consommation activé</value>
+  </data>
+  <data name="SystemMessaging.OutOfRegion" xml:space="preserve">
+    <value>Infinite Flight Pro est requis pour voler en dehors des régions par défaut.
+Appuyez ici pour plus d'informations</value>
+  </data>
+  <data name="SystemMessaging.Overspeed" xml:space="preserve">
+    <value>Excès de vitesse ! Réduire l'accélérateur/la puissance pour ralentir en dessous de la vitesse maximale de l'avion</value>
+  </data>
+  <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
+    <value>DÉMARRAGE DU REPOUSSAGE</value>
+  </data>
+  <data name="SystemMessaging.PushbackStopped" xml:space="preserve">
+    <value>REPOUSSAGE ARRÊTÉ</value>
+  </data>
+  <data name="SystemMessaging.Refueling.Aerial" xml:space="preserve">
+    <value>Le ravitaillement a commencé...</value>
+  </data>
+  <data name="SystemMessaging.Refueling.Complete" xml:space="preserve">
+    <value>Ravitaillement terminé</value>
+  </data>
+  <data name="SystemMessaging.Refueling.Standard" xml:space="preserve">
+    <value>Le ravitaillement a commencé...</value>
+  </data>
+  <data name="SystemMessaging.SpeedMode.CannotActivate" xml:space="preserve">
+    <value>Impossible d'activer le mode vitesse. L'avion est au sol.</value>
+  </data>
+  <data name="SystemMessaging.Stall.Approaching" xml:space="preserve">
+    <value>Décrochage en approche ! Poussez le manche vers l'avant pour récupérer</value>
+  </data>
+  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
+    <value>DÉCROCHAGE! Poussez le joug/bâton vers l'avant pour récupérer</value>
+  </data>
+  <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
+    <value>Le pilote automatique doit être activé pour modifier l'échelle de temps de la simulation</value>
+  </data>
+  <data name="SystemMessaging.TimeScale.FighterJetsWarning" xml:space="preserve">
+    <value>L'échelle de temps de simulation ne peut pas être modifiée pour les avions de chasse.</value>
+  </data>
+  <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
+    <value>AVERTISSEMENT DE VOLTIGE
+Acrobaties aériennes interdites à proximité des aéroports.</value>
+  </data>
+  <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
+    <value>AVERTISSEMENT DE TEMPS SUR PISTE
+Il est interdit de rester sur les pistes actives pendant de longues périodes.
+Quitter la piste ou décoller pour éviter de recevoir une violation</value>
+  </data>
+  <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
+    <value>AVERTISSEMENT DE VITESSE DE TAXI
+Vitesse sol max au roulage : 35kts.
+Ralentissez pour éviter les violations.</value>
+  </data>
+  <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
+    <value>VNAV indisponible pendant la montée.
+Cette fonctionnalité n'est disponible que pour la descente.</value>
+  </data>
+  <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
+    <value>Descente VNAV jusqu'à {0} à {1:n0}ft</value>
+  </data>
+  <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
+    <value>VNAV non disponible
+Aucune altitude définie pour aucun point de cheminement dans le plan de vol</value>
+  </data>
+  <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
+    <value>VNAV non disponible
+Pas de waypoint dans le plan de vol</value>
+  </data>
+  <data name="SystemMessaging.VNAV.TargetUpdated" xml:space="preserve">
+    <value>Cible VNAV mise à jour à {0} ({2:#0.0}NM) @ {1:n0}ft</value>
+  </data>
+  <data name="Violations.ExceededDisconnection" xml:space="preserve">
+    <value>Vous avez été déconnecté en raison de violations excessives pour la session en cours.</value>
+  </data>
+  <data name="Violations.LimitExceeded" xml:space="preserve">
+    <value>Limite de violation dépassée</value>
+  </data>
+  <data name="WeightAndBalance.Cargo" xml:space="preserve">
+    <value>Cargaison</value>
+  </data>
+  <data name="WeightAndBalance.FlightTime" xml:space="preserve">
+    <value>Temps de vol estimé</value>
+  </data>
+  <data name="WeightAndBalance.FuelBurn" xml:space="preserve">
+    <value>Consommasion de carburant</value>
+  </data>
+  <data name="WeightAndBalance.FuelTanks" xml:space="preserve">
+    <value>Réservoir d'essence</value>
+  </data>
+  <data name="WeightAndBalance.Heavy" xml:space="preserve">
+    <value>Lourd</value>
+  </data>
+  <data name="WeightAndBalance.Light" xml:space="preserve">
+    <value>Léger</value>
+  </data>
+  <data name="WeightAndBalance.Normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="WeightAndBalance.Others" xml:space="preserve">
+    <value>Autres</value>
+  </data>
+  <data name="WeightAndBalance.Passengers" xml:space="preserve">
+    <value>Passagers</value>
+  </data>
+  <data name="WeightAndBalance.Synchronize" xml:space="preserve">
+    <value>Synchroniser</value>
+  </data>
+  <data name="WarningMessageControl.Reported" xml:space="preserve">
+    <value>Signalé</value>
+  </data>
+  <data name="WarningMessageControl.TapToDismiss" xml:space="preserve">
+    <value>Appuyez pour fermer</value>
+  </data>
+  <data name="WarningMessageControl.ViolationsCount" xml:space="preserve">
+    <value>Violations : {0}/{1}</value>
+  </data>
+  <data name="Multiplayer.GotIt" xml:space="preserve">
+    <value>Entendu!</value>
+  </data>
+  <data name="Multiplayer.Welcome" xml:space="preserve">
+    <value>Bienvenue</value>
+  </data>
+  <data name="Tips.Default" xml:space="preserve">
+    <value>Glissez votre doigt vers le bas tout en maintenant un appui sur le contrôle du palonnier pour activer les freins.  </value>
+  </data>
+  <data name="FlightRatingPage.CurrentGrade" xml:space="preserve">
+    <value>Grade</value>
+  </data>
+  <data name="FlightRatingPage.FlightRating" xml:space="preserve">
+    <value>NOTE DE VOL</value>
+  </data>
+  <data name="FlightRatingPage.FlightTime" xml:space="preserve">
+    <value>Temps de vol</value>
+  </data>
+  <data name="FlightRatingPage.Penalty" xml:space="preserve">
+    <value>Penalité</value>
+  </data>
+  <data name="FlightRatingPage.Reputation" xml:space="preserve">
+    <value>XP</value>
+  </data>
+  <data name="FlightRatingPage.ReputationEarned" xml:space="preserve">
+    <value>XP gagné</value>
+  </data>
+  <data name="FlightRatingPage.ViolationCount" xml:space="preserve">
+    <value>Violations</value>
+  </data>
+  <data name="Multiplayer.Disconnected" xml:space="preserve">
+    <value>DÉCONNECTÉ</value>
+  </data>
+  <data name="ReportControl.ContinueOffline" xml:space="preserve">
+    <value>Continuer hors ligne</value>
+  </data>
+  <data name="ReportControl.Reason" xml:space="preserve">
+    <value>Raison:</value>
+  </data>
+  <data name="ReportControl.ReportedBy" xml:space="preserve">
+    <value>Rapporté par:</value>
+  </data>
+  <data name="SplashScreen.LoadingAirport" xml:space="preserve">
+    <value>Chargement de votre aéroport</value>
+  </data>
+  <data name="SystemMessaging.OverspeedViolation.EnablingAutopilot" xml:space="preserve">
+    <value>Réglage de la vitesse du pilote automatique sur {0}</value>
+  </data>
+  <data name="SystemMessaging.OverspeedViolation.EnablingSpoilers" xml:space="preserve">
+    <value>Activation des spoilers</value>
+  </data>
+  <data name="SystemMessaging.OverspeedViolation.EnablingSpoilersAndAutopilot" xml:space="preserve">
+    <value>Activation des spoilers et réglage de la vitesse du pilote automatique sur {0}</value>
+  </data>
+  <data name="SystemMessaging.OverspeedViolation.Issued" xml:space="preserve">
+    <value>Dépassement de vitesse émis</value>
+  </data>
+  <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnots" xml:space="preserve">
+    <value>Réduisez la vitesse en dessous de {0}kts pour éviter les infractions</value>
+  </data>
+  <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnotsBelow10k" xml:space="preserve">
+    <value>Réduisez la vitesse en dessous de {0}kts en dessous de 10 000 pieds pour éviter les violations</value>
+  </data>
+  <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowMach" xml:space="preserve">
+    <value>Réduisez la vitesse en dessous de Mach {0:0.00} pour éviter les violations</value>
+  </data>
+  <data name="SystemMessaging.OverspeedViolation.WarningTitle" xml:space="preserve">
+    <value>AVERTISSEMENT DE VITESSE</value>
+  </data>
+  <data name="Violation.Level0Received.Message" xml:space="preserve">
+    <value>Vous avez été déconnecté par un contrôleur ou un membre du personnel. Ce n'est pas une violation et aucun appel n'est nécessaire.</value>
+  </data>
+  <data name="Violation.Level2Received.Message" xml:space="preserve">
+    <value>Vous avez reçu une violation de niveau 2 et avez été déconnecté de votre session en cours. Vous pouvez commencer un autre vol immédiatement et un appel n'est pas nécessaire si votre nombre total de violations le permet. Nous vous encourageons à consulter tous les didacticiels applicables sur youtube.com/infiniteflight</value>
+  </data>
+  <data name="Violation.Level3Received.Message" xml:space="preserve">
+    <value>Vous avez reçu une violation de niveau 3 et avez été déconnecté de votre session en cours. Nous vous encourageons à consulter les didacticiels applicables sur youtube.com/infiniteflight</value>
+  </data>
+  <data name="Violation.UnspecifiedReason" xml:space="preserve">
+    <value>Raison non spécifiée</value>
+  </data>
+  <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
+    <value>Acrobaties aériennes interdites à proximité des aéroports.
+Une infraction de niveau 1 a été émise.</value>
+  </data>
+  <data name="Violations.AircraftIdle.Message" xml:space="preserve">
+    <value>Aéronef au ralenti sur la piste active pendant trop longtemps
+Une infraction de niveau 1 a été émise.</value>
+  </data>
+  <data name="Violations.GroundSpeed.Message" xml:space="preserve">
+    <value>Dépassement de la vitesse au sol maximale de 35 nœuds.
+Une infraction de niveau 1 a été émise.
+Ralentissez pour éviter d'autres violations.</value>
+  </data>
+  <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
+    <value>Fréquences actives</value>
+  </data>
+  <data name="ATCRatingPage.Operations" xml:space="preserve">
+    <value>Opérations de session</value>
+  </data>
+  <data name="ATCRatingPage.Reports" xml:space="preserve">
+    <value>Rapports de session</value>
+  </data>
+  <data name="ATCRatingPage.Title" xml:space="preserve">
+    <value>RÉSUMÉ DE LA SÉANCE</value>
+  </data>
+  <data name="ATCRatingPage.TotalOperations" xml:space="preserve">
+    <value>Opérations totales</value>
+  </data>
+  <data name="ATCRatingPage.TotalTime" xml:space="preserve">
+    <value>Temps sur Fréquence</value>
+  </data>
+  <data name="SystemMessaging.ATCActive" xml:space="preserve">
+    <value>{0} {1} est actif. Vous avez été réglé sur cette fréquence.</value>
+  </data>
+  <data name="SystemMessaging.ATCOffline" xml:space="preserve">
+    <value>{0} {1} est maintenant hors ligne</value>
+  </data>
+  <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
+    <value>{0} {1} est désormais hors ligne. Vous avez été réglé sur {2} {3}.</value>
+  </data>
+</root>
