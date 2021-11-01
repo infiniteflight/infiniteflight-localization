@@ -946,7 +946,7 @@
     <value>SOBRE</value>
   </data>
   <data name="Settings.Account" xml:space="preserve">
-    <value>CONTA</value>
+    <value>Conta</value>
   </data>
   <data name="Settings.Account.Callsign.Subtitle" xml:space="preserve">
     <value>Usado para comunicação com os outros pilotos e controladores</value>

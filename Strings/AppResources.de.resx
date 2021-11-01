@@ -170,7 +170,7 @@
     <comment>Fly Solo</comment>
   </data>
   <data name="IntroPage.Logbook" xml:space="preserve">
-    <value>LOGBOOK</value>
+    <value>LOGBUCH</value>
     <comment>Logbook</comment>
   </data>
   <data name="IntroPage.Replays" xml:space="preserve">
@@ -1870,7 +1870,7 @@
     <comment>Night</comment>
   </data>
   <data name="Global.Type" xml:space="preserve">
-    <value>Type</value>
+    <value>Typ</value>
     <comment>Type</comment>
   </data>
   <data name="Logbook.From" xml:space="preserve">

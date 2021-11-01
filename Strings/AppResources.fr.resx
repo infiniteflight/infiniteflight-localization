@@ -2044,7 +2044,7 @@ Pas de waypoint dans le plan de vol</value>
     <value>Bienvenue</value>
   </data>
   <data name="Tips.Default" xml:space="preserve">
-    <value>Glissez votre doigt vers le bas tout en maintenant un appui sur le contrôle du palonnier pour activer les freins.  </value>
+    <value>Glissez votre doigt vers le bas tout en maintenant un appui sur le contrôle du palonnier pour activer les freins.</value>
   </data>
   <data name="FlightRatingPage.CurrentGrade" xml:space="preserve">
     <value>Grade</value>
@@ -2074,10 +2074,10 @@ Pas de waypoint dans le plan de vol</value>
     <value>Continuer hors ligne</value>
   </data>
   <data name="ReportControl.Reason" xml:space="preserve">
-    <value>Raison:</value>
+    <value>Raison: </value>
   </data>
   <data name="ReportControl.ReportedBy" xml:space="preserve">
-    <value>Rapporté par:</value>
+    <value>Rapporté par: </value>
   </data>
   <data name="SplashScreen.LoadingAirport" xml:space="preserve">
     <value>Chargement de votre aéroport</value>

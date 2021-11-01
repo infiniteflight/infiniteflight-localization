@@ -2431,4 +2431,44 @@ Slow down to avoid further violations.</comment>
     <value>{0} {1} is now offline. You have been tuned to {2} {3}.</value>
     <comment>{airport} {position} is now offline. You have been tuned to {2} {3}.</comment>
   </data>
+  <data name="Settings.General.ClearCache" xml:space="preserve">
+    <value>Clear Cache</value>
+    <comment>Clear Cache</comment>
+  </data>
+  <data name="Settings.General.NoVoicesFound" xml:space="preserve">
+    <value>No voices found</value>
+    <comment>No voices found</comment>
+  </data>
+  <data name="Settings.Option.FiveSeconds" xml:space="preserve">
+    <value>5 Seconds</value>
+    <comment>5 Seconds</comment>
+  </data>
+  <data name="Settings.Option.Never" xml:space="preserve">
+    <value>Never</value>
+    <comment>Never</comment>
+  </data>
+  <data name="Settings.Option.TenSeconds" xml:space="preserve">
+    <value>10 Seconds</value>
+    <comment>10 Seconds</comment>
+  </data>
+  <data name="Settings.Option.TwoSeconds" xml:space="preserve">
+    <value>2 Seconds</value>
+    <comment>2 Seconds</comment>
+  </data>
+  <data name="Commands.ElevatorTrimDown" xml:space="preserve">
+    <value>Elevator Trim Down</value>
+    <comment>Elevator Trim Down</comment>
+  </data>
+  <data name="Commands.ElevatorTrimUp" xml:space="preserve">
+    <value>Elevator Trim Up</value>
+    <comment>Elevator Trim Up</comment>
+  </data>
+  <data name="Commands.ThrottleDown" xml:space="preserve">
+    <value>Throttle Down</value>
+    <comment>Throttle Down</comment>
+  </data>
+  <data name="Commands.ThrottleUp" xml:space="preserve">
+    <value>Throttle Up</value>
+    <comment>Throttle Up</comment>
+  </data>
 </root>

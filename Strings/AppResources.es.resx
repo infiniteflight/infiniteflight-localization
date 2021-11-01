@@ -214,7 +214,7 @@
     <comment>Landing Lights</comment>
   </data>
   <data name="Commands.Live" xml:space="preserve">
-    <value>Multijugado</value>
+    <value>Multijugador</value>
     <comment>Multiplayer</comment>
   </data>
   <data name="Commands.Mixture" xml:space="preserve">
@@ -766,7 +766,7 @@
     <comment>View Stats</comment>
   </data>
   <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
-    <value>Are you sure you want to clear the scenery cache?</value>
+    <value>¿Estás seguro/a que quieres borrar el caché?</value>
     <comment>Are you sure you want to clear the scenery cache?</comment>
   </data>
   <data name="Settings.Controls" xml:space="preserve">
@@ -2158,5 +2158,35 @@ Reduce velocidad para evitar más infracciones.</value>
   </data>
   <data name="ATCRatingPage.TotalTime" xml:space="preserve">
     <value>Tiempo Abierto</value>
+  </data>
+  <data name="Settings.Option.Never" xml:space="preserve">
+    <value>Nunca</value>
+  </data>
+  <data name="Settings.Option.TenSeconds" xml:space="preserve">
+    <value>10 Segundos</value>
+  </data>
+  <data name="Settings.Option.TwoSeconds" xml:space="preserve">
+    <value>2 Segundos</value>
+  </data>
+  <data name="Settings.Option.FiveSeconds" xml:space="preserve">
+    <value>5 Segundos</value>
+  </data>
+  <data name="Settings.General.NoVoicesFound" xml:space="preserve">
+    <value>No hay voces</value>
+  </data>
+  <data name="Settings.General.ClearCache" xml:space="preserve">
+    <value>Borrar Caché</value>
+  </data>
+  <data name="Commands.ElevatorTrimDown" xml:space="preserve">
+    <value>Reducir compensación de cabeceo</value>
+  </data>
+  <data name="Commands.ElevatorTrimUp" xml:space="preserve">
+    <value>Incrementar compensación de cabeceo</value>
+  </data>
+  <data name="Commands.ThrottleDown" xml:space="preserve">
+    <value>Bajar Palanca de Aceleración</value>
+  </data>
+  <data name="Commands.ThrottleUp" xml:space="preserve">
+    <value>Subir Palanca de Aceleración</value>
   </data>
 </root>
