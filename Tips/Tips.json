@@ -28,7 +28,7 @@
     "Tip: Finely tune the weather in solo mode to practice instrument navigation in actual white out conditions.",
     "Long flight through center airspace? The 'away' icon will allow ATC to let you pass through uninterrupted when away from your device."
   ],
-  "es": [
+    "es": [
     "Consejo: Con tu dedo en el rudder, arrastra hacia abajo para activar los frenos en tierra.",
     "¿Hay algo que quieres ver en Infinite Flight? Vota para tu idea en nuestro foro en community.infiniteflight.com",
     "Consejo de Control Aéreo: Para ocultar comunicaciones de otros pilotos con Control Aéreo, pulse dos veces en el historial de mensajes",
@@ -56,7 +56,36 @@
     "Consejo: Ajusta la meteorología en modo 'solo' para practicar aproximaciones instrumentales con poca visibilidad",
     "¿Estás sobrevolando espacio aéreo activo? Los controladores aéreos verán un símobolo de 'Away' cuando no estés al lado de tu dispositivo para no interrumpir tu vuelo"
   ],
-  "fr": [
+    "fr": [
     "Conseil de freinage : Avec votre doigt sur la commande de la gouverne de direction, glissez vers le bas pour activer les freins au sol."
-  ]
+  ],
+    "de": [
+    "Brems-Tipp: Mit deinem Finger auf dem Ruder-Slider kannst du auf dem Boden bremsen, indem du mit deinem Finger nach unten ziehst.",
+    "Du hast eine Idee für ein neues Feature? Stimme in unserem Forum auf community.infiniteflight.com dafür ab.",
+    "ATC-Tipp: Um die Nachrichten anderer Pilot:innen mit ATC aus dem Log zu entfernen, klicke doppelt in das Log.",
+    "Folge uns auf Instagram, Twitter und Facebook @infiniteflight",
+    "Auf der Suche nach gleichgesinnten Infinite Flight Nutzern oder Virtual Airlines? Besuche unser Forum auf community.infiniteflight.com.",
+    "Folge uns auf YouTube unter youtube.com/infiniteflight für viele nützliche Tipps und Tutorials um dein Infinite Flight Erlebnis weiter zu verbessern!",
+    "Tipp: Um das HUD anzupassen nutze das Systems-Menü und klicke auf den HUD-Knopf.",
+    "Tipp: Passe die Statusleiste an indem du die einzelnen Elemente gedrückt hälts und durch Wischen änderst.",
+    "Tipp: Du willst besonders realistisch fliegen? Schalte deine Blitzlichter (Strobes) erst an, wenn du dich auf einer aktiven Piste befindest.",
+    "Besuche infiniteflight.com/blog für offizielle Neuigkeiten und Informationen zu Infinite Flight.",
+    "Batterie-Tipp: Reduziere deine Bildschirmhelligkeit auf Langstreckenflügen um Batterie zu sparen.",
+    "Flug-Tipp: Näherst du dich einem aktiven Luftraum? Verbinde dich mit der ATIS-Frequenz um wichtige Flughafen-Informationen zu erhalten.",
+    "Flug-Tipp: Durch ein doppeltes Tippen auf den Bildschirm kannst du die meisten Kameras auf ihren Ausgangszustand zurücksetzen.",
+    "Flug-Tipp: Deaktiviere Auto-Koordination in den Einstellungen um die Steuerung von Querruder und Bugfahrwerk auf dem Boden zu trennen.",
+    "Flug-Tipp: Verbinde dich mit den Frequenzen eines Flughafens, indem du in der Karte auf den Flughafen tippst.",
+    "Du kannst deine Framerate (und deinen Batterieverbrauch) verbessern, indem du in den Grafikeinstellungen Anti-Aliasing deaktivierst und die Renderingauflösung reduzierst.",
+    "Replay-Tipp: Halte den Bildschirm an einer beliebingen Stelle gedrückt, um die Benutzeroberfläche auszublenden. Um die Oberfläche wieder einzublenden, halte den Bildschirm erneut gedrückt.",
+    "Tipp für den Autopiloten: Aktiviere VNAV 1 Minute bevor du deinen Sinkflug beginnen musst.",
+    "Tipp: Um Treinbstoff zu sparen kannst du mit nur einem Triebwerk rollen und das zweite Triebwerk erst kurz vor dem Start anlassen.",
+    "Besuche unser Benutzerhandbuch auf der Startseite um tiefergehende Anleitungen zu finden.",
+    "Tipp: Achte im Sinkflug auf deine Geschwindigkeit. Überschreite unter 10 000ft nicht 250kts (IAS).",
+    "Tipp: Start deine APU bevor du deine Triebwerke abschaltest, damit die Systeme des Flugzeugs weiterlaufen können.",
+    "Tipp: Beachte das D-ATIS wenn du deinen Anflug auf einen Flughafen planst.",
+    "Flug-Tipp: Du kannst schrittweise höher steigen (Step-Climb) um auf Langstreckenflügen deine Reichweite und Performance zu erhöhen.",
+    "ATC-Tipp: Du kannst die Transparenz der An- und Abflugouten in der Karte anpassen um sie übersichtlicher zu gestalten.",
+    "Tipp: Im Solo-Modus kannst du das Wetter präzise anpassen um Instrumenten-Navigation unter Nullsicht-Bedingungen zu trainieren.",
+    "Du fliegst lange durch einen aktiven Center-Luftraum? Durch das 'Away'-Icon weiß ATC, wenn du nicht an deinem Gerät bist und lässt dich unbehelligt weiterfliegen."
+    ]
 }
