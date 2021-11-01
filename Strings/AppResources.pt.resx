@@ -697,7 +697,7 @@
     <value>VOAR ONLINE</value>
   </data>
   <data name="IntroPage.FlySolo" xml:space="preserve">
-    <value>VOAR OFFLINE</value>
+    <value>VOAR SOLO</value>
   </data>
   <data name="IntroPage.Logbook" xml:space="preserve">
     <value>DIÁRIO DE BORDO</value>
@@ -748,7 +748,7 @@
     <value>Mostrando voos guardados neste dispositivo</value>
   </data>
   <data name="Logbook.SoloFlights" xml:space="preserve">
-    <value>Voos Offline</value>
+    <value>Voos Solo</value>
   </data>
   <data name="Logbook.To" xml:space="preserve">
     <value>Para</value>
@@ -1849,5 +1849,35 @@ Reduza para evitar mais violações.</value>
   </data>
   <data name="WeightAndBalance.Synchronize" xml:space="preserve">
     <value>Sincronizar</value>
+  </data>
+  <data name="Commands.ElevatorTrimDown" xml:space="preserve">
+    <value>Descer compensador do profundor</value>
+  </data>
+  <data name="Commands.ElevatorTrimUp" xml:space="preserve">
+    <value>Subir compensador do profundor</value>
+  </data>
+  <data name="Commands.ThrottleDown" xml:space="preserve">
+    <value>Reduzir Potência</value>
+  </data>
+  <data name="Commands.ThrottleUp" xml:space="preserve">
+    <value>Aumentar Potência</value>
+  </data>
+  <data name="Settings.General.ClearCache" xml:space="preserve">
+    <value>Limpar Cache</value>
+  </data>
+  <data name="Settings.General.NoVoicesFound" xml:space="preserve">
+    <value>Nenhuma voz encontrado</value>
+  </data>
+  <data name="Settings.Option.FiveSeconds" xml:space="preserve">
+    <value>5 segundos</value>
+  </data>
+  <data name="Settings.Option.Never" xml:space="preserve">
+    <value>Nunca</value>
+  </data>
+  <data name="Settings.Option.TenSeconds" xml:space="preserve">
+    <value>10 segundos</value>
+  </data>
+  <data name="Settings.Option.TwoSeconds" xml:space="preserve">
+    <value>2 segundos</value>
   </data>
 </root>
