@@ -4,7 +4,7 @@ This repository is for translating the [Infinite Flight](https://infiniteflight.
 
 ## Supported languages
 
-The base language of the app is English. Infinite Flight will provide all the base strings inside the `AppResources.resx` file. We have added additional translations for:
+The base language of the app is English. Infinite Flight will provide all the base strings inside the `strings/AppResources.resx` file. We have added additional translations for:
  - Spanish
  - French
 
@@ -12,11 +12,13 @@ If you are interested in contributing a language, please create an Issue first s
 
 ## Adding support for a new language
 
-To begin translating Infinite Flight into a new language, create a new file called `AppResources.[code].resx`. This code should be the two-digit ISO-639-1 language code, which you can reference from [here](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
+To begin translating Infinite Flight into a new language, create a new file called `strings/AppResources.[code].resx`. This code should be the two-digit ISO-639-1 language code, which you can reference from [here](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
+
+Once you have edited this, you can add translations using the same code inside `ServerMessages` and `Tips`.
 
 ## How to edit
 
-Localization files are in `resx` format, which is a version of XML designated for localizing app strings. This means you can edit these files inside a text editor or using a specialist editor.
+Localization string files are in `resx` format, which is a version of XML designated for localizing app strings. This means you can edit these files inside a text editor or using a specialist editor.
 
 ### Recommended: ResxResourceManager
 _This is only supported on Windows_
@@ -32,6 +34,8 @@ Download: [https://marketplace.visualstudio.com/items?itemName=DominicVonk.vscod
 ### Edit the source
 
 Each `.resx` file is an XML file and can be edited inside a text editor.
+
+ServerMessages and Tips are json files and can be edited in any text editor. VSCode is an example of this.
 
 ## Formatting and Verbiage
 
