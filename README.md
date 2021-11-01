@@ -45,6 +45,9 @@ ServerMessages and Tips are json files and can be edited in any text editor. VSC
 
  - Translated text should be equal or shorter in length to the English equivalent whenever possible to ensure it will fit in the UI. Please state in the Pull Request if this isn't possible.
 
+ - For ServerMessages, it is important to state the following in the `welcomeMessages`: 
+   > Communications with ATC and other pilots is done in English (the official language of aviation)
+
 ## Pull Request Reviews
 
 Before a new language is added into Infinite Flight, the PR should be reviewed by another speaker of this language to ensure the content is correct.
