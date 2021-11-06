@@ -1402,7 +1402,7 @@
     <comment>Show Pro Aircraft</comment>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
-    <value>Anflugkontrolle</value>
+    <value>Anflug</value>
     <comment>Approach</comment>
   </data>
   <data name="ATC.ATIS" xml:space="preserve">
@@ -1410,7 +1410,7 @@
     <comment>ATIS</comment>
   </data>
   <data name="ATC.Departure" xml:space="preserve">
-    <value>Abflugkontolle</value>
+    <value>Abflug</value>
     <comment>Departure</comment>
   </data>
   <data name="ATC.Ground" xml:space="preserve">
@@ -1842,11 +1842,13 @@
     <comment>WARNING: ACTIVE NOTAM</comment>
   </data>
   <data name="About.PrivacyPolicy" xml:space="preserve">
-    <value>DATENSCHUTZBEDINGUNGEN</value>
+    <value>DATENSCHUTZ
+BEDINGUNGEN</value>
     <comment>PRIVACY POLICY</comment>
   </data>
   <data name="About.TermsOfUse" xml:space="preserve">
-    <value>NUTZUNGSBEDINGUNGEN</value>
+    <value>NUTZUNGS
+BEDINGUNGEN</value>
     <comment>TERMS OF USE</comment>
   </data>
   <data name="Global.Aircraft" xml:space="preserve">
