@@ -28,7 +28,7 @@
     "Tip: Finely tune the weather in solo mode to practice instrument navigation in actual white out conditions.",
     "Long flight through center airspace? The 'away' icon will allow ATC to let you pass through uninterrupted when away from your device."
   ],
-    "es": [
+  "es": [
     "Consejo: Con tu dedo en el rudder, arrastra hacia abajo para activar los frenos en tierra.",
     "¿Hay algo que quieres ver en Infinite Flight? Vota para tu idea en nuestro foro en community.infiniteflight.com",
     "Consejo de Control Aéreo: Para ocultar comunicaciones de otros pilotos con Control Aéreo, pulse dos veces en el historial de mensajes",
@@ -56,10 +56,10 @@
     "Consejo: Ajusta la meteorología en modo 'solo' para practicar aproximaciones instrumentales con poca visibilidad",
     "¿Estás sobrevolando espacio aéreo activo? Los controladores aéreos verán un símobolo de 'Away' cuando no estés al lado de tu dispositivo para no interrumpir tu vuelo"
   ],
-    "fr": [
+  "fr": [
     "Conseil de freinage : Avec votre doigt sur la commande de la gouverne de direction, glissez vers le bas pour activer les freins au sol."
   ],
-    "de": [
+  "de": [
     "Brems-Tipp: Mit deinem Finger auf dem Ruder-Slider kannst du auf dem Boden bremsen, indem du mit deinem Finger nach unten ziehst.",
     "Du hast eine Idee für ein neues Feature? Stimme in unserem Forum auf community.infiniteflight.com dafür ab.",
     "ATC-Tipp: Um die Nachrichten anderer Pilot:innen mit ATC aus dem Log zu entfernen, klicke doppelt in das Log.",
@@ -87,8 +87,8 @@
     "ATC-Tipp: Du kannst die Transparenz der An- und Abflugouten in der Karte anpassen um sie übersichtlicher zu gestalten.",
     "Tipp: Im Solo-Modus kannst du das Wetter präzise anpassen um Instrumenten-Navigation unter Nullsicht-Bedingungen zu trainieren.",
     "Du fliegst lange durch einen aktiven Center-Luftraum? Durch das 'Away'-Icon weiß ATC, wenn du nicht an deinem Gerät bist und lässt dich unbehelligt weiterfliegen."
-],
-    "pt": [
+  ],
+  "pt": [
     "Dica: Utilizando o seu dedo para controlar o leme, arraste para baixo para ativar os freios em solo.",
     "Tem algum recurso que queira ver no Infinite Flight? Vote a sua ideia no nosso fórum da comunidade em community.infiniteflight.com.",
     "Dica de ATC: Para remover outras comunicações dos pilotos com o ATC, Toque 2 vezes no Registro do ATC.",
@@ -116,8 +116,8 @@
     "Dica de ATC: Ajuste a opacidade dos procedimentos para permitir uma visualização mais fácil no mapa.",
     "Dica: Ajuste o clima no modo solo para praticar navegação por instrumentos em condições de pouca visibilidade.",
     "Voos longos através do centro? O icone 'ausente' vai permitir o ATC deixar você passar sem interrupções enquanto estiver longe do seu dispositivo."
-],
-}   "ml": [
+  ],
+  "ms": [
     "Petua Brek: Dengan jari anda pada kawalan kemudi, gelongsor ke bawah untuk mengaktifkan brek di atas tanah.",
     "Mempunyai ciri yang anda ingin lihat dalam Infinite Flight? Undi untuk ciri anda pada forum komuniti kami di community.infiniteflight.com.",
     "Petua Pengawal Trafik Udara: Untuk mengalih keluar komunikasi juruterbang lain dengan ATC, ketik dua kali teks dalam log Pengawal Trafik Udara.",
@@ -145,4 +145,5 @@
     "Petua ATC: Laraskan kelegapan prosedur untuk membolehkan paparan peta dengan lebih mudah.",
     "Petua: Sesuaikan cuaca dalam mod solo untuk mengamalkan navigasi instrumen dalam keadaan putih keluar sebenar.",
     "Penerbangan jauh melalui ruang udara tengah? Ikon 'jauh' akan membolehkan ATC membenarkan anda melalui tanpa gangguan apabila jauh dari peranti anda."
-]
+  ]
+}
