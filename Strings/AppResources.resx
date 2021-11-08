@@ -2471,4 +2471,20 @@ Slow down to avoid further violations.</comment>
     <value>Throttle Up</value>
     <comment>Throttle Up</comment>
   </data>
+  <data name="Error.NetworkErrorShort" xml:space="preserve">
+    <value>Network Error</value>
+    <comment>Network Error</comment>
+  </data>
+  <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
+    <value>No Additional Information</value>
+    <comment>No Additional Information</comment>
+  </data>
+  <data name="SystemsStatus.NoInfo" xml:space="preserve">
+    <value>No Info</value>
+    <comment>No Info</comment>
+  </data>
+  <data name="SystemStatus.Name" xml:space="preserve">
+    <value>Systems Status</value>
+    <comment>Systems Status</comment>
+  </data>
 </root>
