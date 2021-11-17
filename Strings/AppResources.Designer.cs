@@ -1096,6 +1096,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add.
+        /// </summary>
+        internal static string FlightPlan_Add {
+            get {
+                return ResourceManager.GetString("FlightPlan.Add", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Add to current flight plan?.
         /// </summary>
         internal static string FlightPlan_AddToCurrentFlightPlanPrompt {
@@ -1110,6 +1119,24 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string FlightPlan_AddToFlightPlan {
             get {
                 return ResourceManager.GetString("FlightPlan.AddToFlightPlan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you want to replace or add to the existing flight plan?.
+        /// </summary>
+        internal static string FlightPlan_ImportReplaceAdd {
+            get {
+                return ResourceManager.GetString("FlightPlan.ImportReplaceAdd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Replace.
+        /// </summary>
+        internal static string FlightPlan_Replace {
+            get {
+                return ResourceManager.GetString("FlightPlan.Replace", resourceCulture);
             }
         }
         
