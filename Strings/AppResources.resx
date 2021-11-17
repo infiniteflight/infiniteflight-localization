@@ -1469,6 +1469,18 @@
     <value>Replace Flight Plan</value>
     <comment>Replace Flight Plan</comment>
   </data>
+  <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
+    <value>Do you want to replace or add to the existing flight plan?</value>
+    <comment>Shown when importing a flight plan FPL file</comment>
+  </data>
+  <data name="FlightPlan.Replace" xml:space="preserve">
+    <value>Replace</value>
+    <comment>Replace</comment>
+  </data>
+  <data name="FlightPlan.Add" xml:space="preserve">
+    <value>Add</value>
+    <comment>Add</comment>
+  </data>
   <data name="Global.Airport" xml:space="preserve">
     <value>Airport</value>
     <comment>Airport</comment>
