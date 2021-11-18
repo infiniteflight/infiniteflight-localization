@@ -1627,6 +1627,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Restore Purchases.
+        /// </summary>
+        internal static string Global_RestorePurchases {
+            get {
+                return ResourceManager.GetString("Global.RestorePurchases", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Retry.
         /// </summary>
         internal static string Global_Retry {
@@ -2532,6 +2541,69 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string Replay_Delete {
             get {
                 return ResourceManager.GetString("Replay.Delete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete All.
+        /// </summary>
+        internal static string Replay_DeleteAll {
+            get {
+                return ResourceManager.GetString("Replay.DeleteAll", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete all replay files?.
+        /// </summary>
+        internal static string Replay_DeleteAll_Message {
+            get {
+                return ResourceManager.GetString("Replay.DeleteAll.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete Selected.
+        /// </summary>
+        internal static string Replay_DeleteSelected {
+            get {
+                return ResourceManager.GetString("Replay.DeleteSelected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete {0} selected replay files?.
+        /// </summary>
+        internal static string Replay_DeleteSelectedPlural_Message {
+            get {
+                return ResourceManager.GetString("Replay.DeleteSelectedPlural.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete selected replay file?.
+        /// </summary>
+        internal static string Replay_DeleteSelectedSingular_Message {
+            get {
+                return ResourceManager.GetString("Replay.DeleteSelectedSingular.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete Unstarred.
+        /// </summary>
+        internal static string Replay_DeleteUnstarred {
+            get {
+                return ResourceManager.GetString("Replay.DeleteUnstarred", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete unstarred replay files?.
+        /// </summary>
+        internal static string Replay_DeleteUnstarred_Message {
+            get {
+                return ResourceManager.GetString("Replay.DeleteUnstarred.Message", resourceCulture);
             }
         }
         

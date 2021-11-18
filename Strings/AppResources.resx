@@ -2499,4 +2499,36 @@ Slow down to avoid further violations.</comment>
     <value>Systems Status</value>
     <comment>Systems Status</comment>
   </data>
+  <data name="Global.RestorePurchases" xml:space="preserve">
+    <value>Restore Purchases</value>
+    <comment>Restore Purchases</comment>
+  </data>
+  <data name="Replay.DeleteAll" xml:space="preserve">
+    <value>Delete All</value>
+    <comment>Delete All</comment>
+  </data>
+  <data name="Replay.DeleteAll.Message" xml:space="preserve">
+    <value>Delete all replay files?</value>
+    <comment>Delete all replay files?</comment>
+  </data>
+  <data name="Replay.DeleteSelected" xml:space="preserve">
+    <value>Delete Selected</value>
+    <comment>Delete Selected</comment>
+  </data>
+  <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
+    <value>Delete {0} selected replay files?</value>
+    <comment>Delete {0} selected replay files?</comment>
+  </data>
+  <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
+    <value>Delete selected replay file?</value>
+    <comment>Delete selected replay file?</comment>
+  </data>
+  <data name="Replay.DeleteUnstarred" xml:space="preserve">
+    <value>Delete Unstarred</value>
+    <comment>Delete Unstarred</comment>
+  </data>
+  <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
+    <value>Delete unstarred replay files?</value>
+    <comment>Delete unstarred replay files?</comment>
+  </data>
 </root>
