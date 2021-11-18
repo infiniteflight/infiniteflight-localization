@@ -2189,4 +2189,61 @@ Reduce velocidad para evitar más infracciones.</value>
   <data name="Commands.ThrottleUp" xml:space="preserve">
     <value>Subir Palanca de Aceleración</value>
   </data>
+  <data name="Error.NetworkErrorShort" xml:space="preserve">
+    <value>Error de Conexión</value>
+  </data>
+  <data name="FlightPlan.Add" xml:space="preserve">
+    <value>Añadir</value>
+  </data>
+  <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
+    <value>¿Quieres añadir al plan de vuelo actual o reemplazarlo?</value>
+  </data>
+  <data name="FlightPlan.Replace" xml:space="preserve">
+    <value>Reemplazar</value>
+  </data>
+  <data name="Global.RestorePurchases" xml:space="preserve">
+    <value>Restaurar Compras</value>
+  </data>
+  <data name="MapItemInfoControl.Class" xml:space="preserve">
+    <value>Clase {0}</value>
+  </data>
+  <data name="MapItemInfoControl.Information" xml:space="preserve">
+    <value>INFORMACIÓN</value>
+  </data>
+  <data name="Replay.DeleteAll" xml:space="preserve">
+    <value>Borrar Todos</value>
+  </data>
+  <data name="Replay.DeleteAll.Message" xml:space="preserve">
+    <value>¿Quieres borrar todos los replays?</value>
+  </data>
+  <data name="Replay.DeleteSelected" xml:space="preserve">
+    <value>Borrar Seleccionados</value>
+  </data>
+  <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
+    <value>¿Quieres borrar {0} archivos de replay?</value>
+  </data>
+  <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
+    <value>¿Quieres borrar el replay seleccionado?</value>
+  </data>
+  <data name="Replay.DeleteUnstarred" xml:space="preserve">
+    <value>Borrar no-destacados</value>
+  </data>
+  <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
+    <value>¿Quieres borrar los replays no-destacados?</value>
+  </data>
+  <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
+    <value>No hay información adicional</value>
+  </data>
+  <data name="SystemsStatus.NoInfo" xml:space="preserve">
+    <value>No hay info</value>
+  </data>
+  <data name="SystemStatus.Name" xml:space="preserve">
+    <value>Estado de Sistemas</value>
+  </data>
+  <data name="WeightAndBalance.Unavailable" xml:space="preserve">
+    <value>No disponible</value>
+  </data>
+  <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
+    <value>Activa los frenos en la rampa para cambiar el peso y balance en modo multijugador.</value>
+  </data>
 </root>

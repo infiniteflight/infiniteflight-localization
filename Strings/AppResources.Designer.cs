@@ -2203,6 +2203,24 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Class {0}.
+        /// </summary>
+        internal static string MapItemInfoControl_Class {
+            get {
+                return ResourceManager.GetString("MapItemInfoControl.Class", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to INFORMATION.
+        /// </summary>
+        internal static string MapItemInfoControl_Information {
+            get {
+                return ResourceManager.GetString("MapItemInfoControl.Information", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Select.
         /// </summary>
         internal static string MapItemInfoControl_Procedures_Select {
@@ -5455,6 +5473,24 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string WeightAndBalance_Synchronize {
             get {
                 return ResourceManager.GetString("WeightAndBalance.Synchronize", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unavailable.
+        /// </summary>
+        internal static string WeightAndBalance_Unavailable {
+            get {
+                return ResourceManager.GetString("WeightAndBalance.Unavailable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode.
+        /// </summary>
+        internal static string WeightAndBalance_Unavailable_Message {
+            get {
+                return ResourceManager.GetString("WeightAndBalance.Unavailable.Message", resourceCulture);
             }
         }
     }

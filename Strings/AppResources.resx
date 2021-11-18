@@ -2531,4 +2531,20 @@ Slow down to avoid further violations.</comment>
     <value>Delete unstarred replay files?</value>
     <comment>Delete unstarred replay files?</comment>
   </data>
+  <data name="MapItemInfoControl.Class" xml:space="preserve">
+    <value>Class {0}</value>
+    <comment>Class {0}</comment>
+  </data>
+  <data name="MapItemInfoControl.Information" xml:space="preserve">
+    <value>INFORMATION</value>
+    <comment>Information</comment>
+  </data>
+  <data name="WeightAndBalance.Unavailable" xml:space="preserve">
+    <value>Unavailable</value>
+    <comment>Unavailable</comment>
+  </data>
+  <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
+    <value>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode.</value>
+    <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
+  </data>
 </root>

@@ -2506,4 +2506,16 @@ Slow down to avoid further violations.</comment>
   <data name="SystemsStatus.NoInfo" xml:space="preserve">
     <value>Keine Information</value>
   </data>
+  <data name="MapItemInfoControl.Information" xml:space="preserve">
+    <value>INFORMATION</value>
+  </data>
+  <data name="MapItemInfoControl.Class" xml:space="preserve">
+    <value>Klasse {0}</value>
+  </data>
+  <data name="WeightAndBalance.Unavailable" xml:space="preserve">
+    <value>Nicht verfügbar</value>
+  </data>
+  <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
+    <value>Aktiviere die Parkbremse auf dem Vorfeld um im Mehrspielermodus die Gewichtseinstellungen zu ändern.</value>
+  </data>
 </root>
