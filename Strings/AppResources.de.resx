@@ -2438,10 +2438,10 @@ Slow down to avoid further violations.</comment>
     <value>Höhenruder-Trimmung hoch</value>
   </data>
   <data name="Commands.ThrottleDown" xml:space="preserve">
-    <value>Schubhebel runter</value>
+    <value>Schubhebel zurück</value>
   </data>
   <data name="Commands.ThrottleUp" xml:space="preserve">
-    <value>Schubhebel hoch</value>
+    <value>Schubhebel vor</value>
   </data>
   <data name="Error.NetworkErrorShort" xml:space="preserve">
     <value>Netzwerk-Fehler</value>
