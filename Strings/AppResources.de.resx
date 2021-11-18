@@ -2431,4 +2431,79 @@ Slow down to avoid further violations.</comment>
     <value>{0} {1} ist jetzt offline. Du wurdest mit {2} {3} verbunden.</value>
     <comment>{airport} {position} is now offline. You have been tuned to {2} {3}.</comment>
   </data>
+  <data name="Commands.ElevatorTrimDown" xml:space="preserve">
+    <value>Höhenruder-Trimmung runter</value>
+  </data>
+  <data name="Commands.ElevatorTrimUp" xml:space="preserve">
+    <value>Höhenruder-Trimmung hoch</value>
+  </data>
+  <data name="Commands.ThrottleDown" xml:space="preserve">
+    <value>Schubhebel runter</value>
+  </data>
+  <data name="Commands.ThrottleUp" xml:space="preserve">
+    <value>Schubhebel hoch</value>
+  </data>
+  <data name="Error.NetworkErrorShort" xml:space="preserve">
+    <value>Netzwerk-Fehler</value>
+  </data>
+  <data name="FlightPlan.Add" xml:space="preserve">
+    <value>Hinzufügen</value>
+  </data>
+  <data name="FlightPlan.Replace" xml:space="preserve">
+    <value>Ersetzen</value>
+  </data>
+  <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
+    <value>Möchtest du deinen bestehenden Flugplan erweitern oder ersetzen?</value>
+  </data>
+  <data name="Global.RestorePurchases" xml:space="preserve">
+    <value>Käufe wiederherstellen</value>
+  </data>
+  <data name="Replay.DeleteAll" xml:space="preserve">
+    <value>Alle löschen</value>
+  </data>
+  <data name="Replay.DeleteAll.Message" xml:space="preserve">
+    <value>Alle Replay-Dateien löschen?</value>
+  </data>
+  <data name="Replay.DeleteSelected" xml:space="preserve">
+    <value>Ausgewählte löschen</value>
+  </data>
+  <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
+    <value>{0} gewählte Replay-Dateien löschen?</value>
+  </data>
+  <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
+    <value>Gewählte Replay-Datei löschen?</value>
+  </data>
+  <data name="Replay.DeleteUnstarred" xml:space="preserve">
+    <value>Nicht markierte löschen</value>
+  </data>
+  <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
+    <value>Alle nicht markierten Replay-Dateien löschen?</value>
+  </data>
+  <data name="Settings.General.ClearCache" xml:space="preserve">
+    <value>Cache leeren</value>
+  </data>
+  <data name="Settings.General.NoVoicesFound" xml:space="preserve">
+    <value>Keine Stimmen gefunden</value>
+  </data>
+  <data name="Settings.Option.FiveSeconds" xml:space="preserve">
+    <value>5 Sekunden</value>
+  </data>
+  <data name="Settings.Option.Never" xml:space="preserve">
+    <value>Nie</value>
+  </data>
+  <data name="Settings.Option.TenSeconds" xml:space="preserve">
+    <value>10 Sekunden</value>
+  </data>
+  <data name="Settings.Option.TwoSeconds" xml:space="preserve">
+    <value>2 Sekunden</value>
+  </data>
+  <data name="SystemStatus.Name" xml:space="preserve">
+    <value>System-Status</value>
+  </data>
+  <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
+    <value>Keine weiteren Informationen</value>
+  </data>
+  <data name="SystemsStatus.NoInfo" xml:space="preserve">
+    <value>Keine Information</value>
+  </data>
 </root>
