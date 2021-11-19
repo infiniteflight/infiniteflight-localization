@@ -1378,10 +1378,10 @@
     <value>Muito alto</value>
   </data>
   <data name="Settings.SendCurrentLog" xml:space="preserve">
-    <value>Enviar Log</value>
+    <value>Enviar Log Atual</value>
   </data>
   <data name="Settings.SendPreviousLog" xml:space="preserve">
-    <value>Enviar Último Log</value>
+    <value>Enviar Log Anterior</value>
   </data>
   <data name="Settings.Sounds" xml:space="preserve">
     <value>Áudio</value>
@@ -1879,5 +1879,62 @@ Reduza para evitar mais violações.</value>
   </data>
   <data name="Settings.Option.TwoSeconds" xml:space="preserve">
     <value>2 segundos</value>
+  </data>
+  <data name="Global.RestorePurchases" xml:space="preserve">
+    <value>Restaurar Compras</value>
+  </data>
+  <data name="Error.NetworkErrorShort" xml:space="preserve">
+    <value>Erro de Rede</value>
+  </data>
+  <data name="FlightPlan.Add" xml:space="preserve">
+    <value>Adicionar</value>
+  </data>
+  <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
+    <value>Você deseja substituir ou adicionar ao plano de voo atual?</value>
+  </data>
+  <data name="FlightPlan.Replace" xml:space="preserve">
+    <value>Substituir</value>
+  </data>
+  <data name="MapItemInfoControl.Class" xml:space="preserve">
+    <value>Classe {0}</value>
+  </data>
+  <data name="MapItemInfoControl.Information" xml:space="preserve">
+    <value>INFORMAÇÃO</value>
+  </data>
+  <data name="Replay.DeleteAll" xml:space="preserve">
+    <value>Deletar Tudo</value>
+  </data>
+  <data name="Replay.DeleteAll.Message" xml:space="preserve">
+    <value>Deletar todos os arquivos de replay?</value>
+  </data>
+  <data name="Replay.DeleteSelected" xml:space="preserve">
+    <value>Deletar Selecionados</value>
+  </data>
+  <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
+    <value>Deletar {0} selecionados arquivos de replay?</value>
+  </data>
+  <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
+    <value>Deletar arquivo de replay selecionado?</value>
+  </data>
+  <data name="Replay.DeleteUnstarred" xml:space="preserve">
+    <value>Deletar não destacados</value>
+  </data>
+  <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
+    <value>Deletar arquivos de replay não destacados?</value>
+  </data>
+  <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
+    <value>Sem informação adicional</value>
+  </data>
+  <data name="SystemsStatus.NoInfo" xml:space="preserve">
+    <value>Sem Informação</value>
+  </data>
+  <data name="SystemStatus.Name" xml:space="preserve">
+    <value>Status dos Sistemas</value>
+  </data>
+  <data name="WeightAndBalance.Unavailable" xml:space="preserve">
+    <value>Indisponível</value>
+  </data>
+  <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
+    <value>Ativar Freio de Estacionamento no pátio para realizar mudanças no peso e balanceamento no modo online.</value>
   </data>
 </root>
