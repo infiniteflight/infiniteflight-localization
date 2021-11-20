@@ -1952,7 +1952,7 @@ Mengawal aileron kapal terbang</value>
   </data>
   <data name="Replay.Duration" xml:space="preserve">
     <value>Tempoh</value>
-    <comment>Duration</comment>Gerakkan paksi pada pengawal untuk ditetapkan
+    <comment>Duration</comment>
   </data>
   <data name="Replay.Edit" xml:space="preserve">
     <value>MENYUNTING</value>
