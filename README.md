@@ -48,9 +48,9 @@ ServerMessages and Tips are json files and can be edited in any text editor. VSC
  - For ServerMessages, it is important to state the following in the `welcomeMessages`: 
    > Communications with ATC and other pilots is done in English (the official language of aviation)
 
-## Getting started with Github 
+## Getting started with GitHub 
 
-If you are new to github and don't know where to start, [go here](https://medium.com/@mvthanoshan9/ubuntu-a-beginners-guide-to-git-github-44a2d2fda0b8). You should then [create a github account](https://github.com/signup) if you haven't already, and [fork this repository](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) to contribute.
+If you are new to GitHub and don't know where to start, [go here](https://medium.com/@mvthanoshan9/ubuntu-a-beginners-guide-to-git-github-44a2d2fda0b8). You should then [create a GitHub account](https://github.com/signup) if you haven't already, and [fork this repository](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) to contribute.
 
 ## Pull Request Reviews
 
