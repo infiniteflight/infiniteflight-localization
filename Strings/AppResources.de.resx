@@ -1834,8 +1834,8 @@
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>Ein NOTAM (Notice to Airmen) ist am gewählten Abflughafen aktiv. Bitte lies das folgende NOTAM aufmerksam, bevor du deinen Flug startest</value>
-    <comment>A NOTAM (Notice to Airmen) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
+    <value>Ein NOTAM (Notice to Air Missions) ist am gewählten Abflughafen aktiv. Bitte lies das folgende NOTAM aufmerksam, bevor du deinen Flug startest</value>
+    <comment>A NOTAM (Notice to Air Missions) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
     <value>WARNUNG: AKTIVES NOTAM</value>

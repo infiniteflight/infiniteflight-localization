@@ -907,7 +907,7 @@
     <value>A      : Até novo aviso</value>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>Um NOTAM (Notice to Airmen) está ativo para o aeroporto de saída selecionado. Por favor leia o seguinte NOTAM com cuidado antes de continuar</value>
+    <value>Um NOTAM (Notice to Air Missions) está ativo para o aeroporto de saída selecionado. Por favor leia o seguinte NOTAM com cuidado antes de continuar</value>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
     <value>AVISO: NOTAM ATIVO</value>

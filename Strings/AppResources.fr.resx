@@ -1723,7 +1723,7 @@
     <value>À : Jusqu'à nouvel ordre</value>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>Un NOTAM (Notice to Airmen) est actif pour l'aéroport de départ sélectionné. Veuillez lire attentivement le NOTAM suivant avant de continuer</value>
+    <value>Un NOTAM (Notice to Air Missions) est actif pour l'aéroport de départ sélectionné. Veuillez lire attentivement le NOTAM suivant avant de continuer</value>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
     <value>ATTENTION : NOTAM ACTIF</value>
