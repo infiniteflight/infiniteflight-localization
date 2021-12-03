@@ -1835,8 +1835,8 @@ Mengawal aileron kapal terbang</value>
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>NOTAM (Notis kepada Airmen) aktif untuk lapangan terbang berlepas yang dipilih. Sila baca NOTAM berikut dengan teliti sebelum meneruskan</value>
-    <comment>A NOTAM (Notice to Airmen) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
+    <value>NOTAM (Notis kepada Air Missions) aktif untuk lapangan terbang berlepas yang dipilih. Sila baca NOTAM berikut dengan teliti sebelum meneruskan</value>
+    <comment>A NOTAM (Notice to Air Missions) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
     <value>AMARAN: NOTAM AKTIF</value>

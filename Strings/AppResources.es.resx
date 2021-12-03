@@ -1714,7 +1714,7 @@
     <value>Nombre     : {0}</value>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>Un NOTAM (Notice to Airmen) está activo para el aeropuerto de salida seleccionado. Por favor, lee el aviso atentamente antes de continuar</value>
+    <value>Un NOTAM (Notice to Air Missions) está activo para el aeropuerto de salida seleccionado. Por favor, lee el aviso atentamente antes de continuar</value>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
     <value>AVISO: NOTAM ACTIVO</value>
