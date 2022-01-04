@@ -118,10 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LoginSubscriptionPage.ProCarouselTitle1" xml:space="preserve">
-    <value>获取游玩所有飞机的权限</value>
+    <value>获取驾驶所有飞机的权限</value>
     <comment>ACCESS TO OUR ENTIRE FLEET</comment>
   </data>
-  //获取驾驶所有飞机的权限
   <data name="LoginSubscriptionPage.ProCarouselText1" xml:space="preserve">
     <value>数十架飞机、几百种涂装、逼真的飞机模型和可动驾驶舱</value>
     <comment>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</comment>
@@ -143,7 +142,7 @@
     <comment>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle3" xml:space="preserve">
-    <value>多人游戏</value>
+    <value>连线飞行</value>
     <comment>MULTIPLAYER</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle4" xml:space="preserve">
@@ -163,10 +162,9 @@
     <comment>Air Traffic Control</comment>
   </data>
   <data name="IntroPage.FlyOnline" xml:space="preserve">
-    <value>线上飞行</value>
+    <value>连线飞行</value>
     <comment>Fly Online</comment>
   </data>
-  //连线飞行
   <data name="IntroPage.FlySolo" xml:space="preserve">
     <value>单人飞行</value>
     <comment>Fly Solo</comment>
@@ -184,20 +182,19 @@
     <comment>Scenery Editor</comment>
   </data>
   <data name="LiveMapControl.LiveData" xml:space="preserve">
-    <value>线上数据 (所有服务器)</value>
+    <value>在线玩家 (所有服务器)</value>
     <comment>Live Data (All Servers)</comment>
   </data>
-  //在线玩家（所有服务器）？
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>你正在尝试连接的账户已经绑定了另一个Infinite Flight Pro订阅 (错误代码 {0})</value>
+    <value>正在连接的账户已经绑定了另一个Infinite Flight Pro订阅 (错误代码 {0})</value>
     <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>你的账户已经被封禁 (错误代码 {0})</value>
+    <value>该账户已经被封禁 (错误代码 {0})</value>
     <comment>Your account has been suspended (error code {0})</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>无法找到这个ATC会话信息 (错误代码 {0})</value>
+    <value>未找到此次管制的信息 (错误代码 {0})</value>
     <comment>We can't find information about this ATC session (error code {0})</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
@@ -213,7 +210,7 @@
     <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>你的账户不能进行该操作，请联系玩家支持 (错误代码 {0})</value>
+    <value>该账户不能进行该操作，请联系玩家支持 (错误代码 {0})</value>
     <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
@@ -229,11 +226,11 @@
     <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>无法验证你正在进行的更新 (错误代码 {0})</value>
+    <value>无法验证正在进行的更新 (错误代码 {0})</value>
     <comment>The value you are updating isn't valid (error code {0})</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>你尝试登录的帐户的凭据无效 (错误代码 {0})</value>
+    <value>该帐户的凭据无效 (错误代码 {0})</value>
     <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
@@ -245,15 +242,13 @@
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
-    <value>因为你的设备储存空间已满，全球服务器数据传输失败</value>
+    <value>由于本设备存储空间已满，全球服务器数据传输失败</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
-  //因为-》由于
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>该账户尚未链接一个Infinite Flight Pro 订阅 (错误代码 {0})</value>
+    <value>该账户尚未关联一个Infinite Flight Pro 订阅 (错误代码 {0})</value>
     <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
   </data>
-  //链接-》关联
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>飞向你的梦想</value>
     <comment>Carry your passion</comment>
@@ -287,10 +282,9 @@
     <comment>This subscription can't be purchased due to an error. Check our User Guide for more information and try again</comment>
   </data>
   <data name="LoginSubscriptionPage.Pricing" xml:space="preserve">
-    <value>{0} / 每月</value>
+    <value>{0}/月</value>
     <comment>{price} / month</comment>
   </data>
-  //每月-》月
   <data name="Global.Cancel" xml:space="preserve">
     <value>取消</value>
     <comment>Cancel (button text)</comment>
@@ -336,10 +330,9 @@
     <comment>General (tab title)</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Subtitle" xml:space="preserve">
-    <value>自动设定出发机场为上一次飞行的结束机场</value>
+    <value>自动设定出发机场为上次飞行的到达机场</value>
     <comment>Automatically set the start airport to where the last flight ended.</comment>
   </data>
-  //结束机场？
   <data name="Settings.General.AutoSetStartAirport.Title" xml:space="preserve">
     <value>自动设定出发机场</value>
     <comment>Automatically Set Start Airport</comment>
@@ -353,15 +346,13 @@
     <comment>Control Sensitivity</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Subtitle" xml:space="preserve">
-    <value>控制用户界面控制组件在屏幕上的显示时间。</value>
+    <value>调整飞行控制组件在屏幕上的显示时间</value>
     <comment>Controls how long the User Interface controls stay on screen.</comment>
   </data>
-  //调整飞行控制组件在屏幕上的显示时间
   <data name="Settings.General.InterfaceTimeout.Title" xml:space="preserve">
-    <value>飞行信息显示</value>
+    <value>飞行控制组件隐藏</value>
     <comment>Interface Timeout</comment>
   </data>
-  //飞行控制组件隐藏
   <data name="Settings.General.InvertCockpitCameraMotion.Subtitle" xml:space="preserve">
     <value>反转内部视角移动 (塔台, 客舱, 驾驶舱视角)</value>
     <comment>Inverts the motion of internal camera (Tower, Onboard, Cockpit)</comment>
@@ -379,19 +370,17 @@
     <comment>Invert External Cameras Vertical Motion</comment>
   </data>
   <data name="Settings.General.LandingAid.Subtitle" xml:space="preserve">
-    <value>在进近航线周围显示一系列矩形框。帮助稳定着陆</value>
+    <value>在进近航线周围显示一组矩形框，帮助稳定着陆</value>
     <comment>Shows a set of rectangles around the landing path. Helps make stabilized landings.</comment>
   </data>
-  //一系列-》一组
   <data name="Settings.General.LandingAid.Title" xml:space="preserve">
     <value>着陆引导</value>
     <comment>Landing Aid</comment>
   </data>
   <data name="Settings.General.Language.Subtitle" xml:space="preserve">
-    <value>设置应用程序页面所用语言</value>
+    <value>设置本程序页面所用的语言</value>
     <comment>Sets the language of the app's interface</comment>
   </data>
-  //设置本程序页面所用的语言
   <data name="Settings.General.Language.Title" xml:space="preserve">
     <value>语言</value>
     <comment>Language</comment>
@@ -409,7 +398,7 @@
     <comment>Graphics (tab title)</comment>
   </data>
   <data name="Settings.Multiplayer" xml:space="preserve">
-    <value>线上</value>
+    <value>连线</value>
     <comment>Multiplayer (tab title)</comment>
   </data>
   <data name="Settings.Option.High" xml:space="preserve">
@@ -473,10 +462,9 @@
     <comment>Warning</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Subtitle" xml:space="preserve">
-    <value>使副翼和方向舵联动 (仅在地面上)</value>
+    <value>联动副翼和方向舵 (仅在地面上)</value>
     <comment>Automatically couple the ailerons and rudder (on the ground only)</comment>
   </data>
-  //联动副翼和方向舵
   <data name="Settings.General.AutoCoordination.Title" xml:space="preserve">
     <value>自动协调</value>
     <comment>Auto-Coordination</comment>
@@ -490,19 +478,17 @@
     <comment>Automatic Engine Start</comment>
   </data>
   <data name="Settings.General.AutomaticLowPower.Subtitle" xml:space="preserve">
-    <value>长途飞行时使用省电模式以保护电池</value>
+    <value>长途飞行时使用省电模式以节省电量</value>
     <comment>Enter low power during long flights to save battery</comment>
   </data>
-  //保护电池-》节省电量
   <data name="Settings.General.AutomaticLowPower.Title" xml:space="preserve">
     <value>自动开启省电模式</value>
     <comment>Enable Automatic Low Power</comment>
   </data>
   <data name="Settings.General.ClearSceneryCache.Subtitle" xml:space="preserve">
-    <value>清除设备上缓存的的地景数据</value>
+    <value>清除设备上的地景数据缓存</value>
     <comment>Clear scenery data cached on local storage</comment>
   </data>
-  //清除设备上的地精数据缓存
   <data name="Settings.General.ClearSceneryCache.Title" xml:space="preserve">
     <value>清除地景缓存</value>
     <comment>Clear Scenery Cache</comment>
@@ -512,7 +498,7 @@
     <comment>Enable Infinite Flight Connect API System (Experimental)</comment>
   </data>
   <data name="Settings.General.Connect.Title" xml:space="preserve">
-    <value>启用 Infinite Flight Connect</value>
+    <value>启用Infinite Flight Connect</value>
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
@@ -524,33 +510,29 @@
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
-    <value>打开自动隐藏状态栏功能时隐藏状态</value>
+    <value>隐藏飞行控制组件同时隐藏底部状态栏</value>
     <comment>Hide the status when interface timeout occurs</comment>
   </data>
-  //隐藏飞行控制组件时同样隐藏底部状态栏
   <data name="Settings.General.HideStatusBar.Title" xml:space="preserve">
     <value>隐藏状态栏</value>
     <comment>Hide Status Bar</comment>
   </data>
   <data name="Settings.General.LanguageChangeWarning" xml:space="preserve">
-    <value>你确定要更改应用程序语言吗？</value>
+    <value>你确定要更改本程序语言吗？</value>
     <comment>Are you sure you want to change the app language?</comment>
   </data>
-  //应用程序-》本程序
   <data name="Settings.General.ScreenshotResolutionScale.Subtitle" xml:space="preserve">
-    <value>截图分辨率</value>
+    <value>调整截图分辨率</value>
     <comment>Resolution scale factor for screenshots</comment>
   </data>
-  //调整截图分辨率
   <data name="Settings.General.ScreenshotResolutionScale.Title" xml:space="preserve">
-    <value>截图分辨率比例</value>
+    <value>截图分辨率</value>
     <comment>Screenshot Resolution scale</comment>
   </data>
   <data name="Settings.General.ShowPerformanceMetrics.Subtitle" xml:space="preserve">
-    <value>显示当前帧速率</value>
+    <value>显示当前帧速率和延迟</value>
     <comment>Shows metrics including the current frame rate</comment>
   </data>
-  //显示当前帧速率和延迟
   <data name="Settings.General.ShowPerformanceMetrics.Title" xml:space="preserve">
     <value>显示性能指标</value>
     <comment>Show Performance Metrics</comment>
@@ -564,28 +546,25 @@
     <comment>Show Touches</comment>
   </data>
   <data name="Settings.General.WeightUnits.Subtitle" xml:space="preserve">
-    <value>选择重量单位 (Kg 或 Lbs)</value>
+    <value>选择重量单位（Kg 或 Lbs）</value>
     <comment>Select weight units (Kg or Lbs)</comment>
   </data>
-  //统一改为全角括号？
   <data name="Settings.General.WeightUnits.Title" xml:space="preserve">
     <value>重量单位</value>
     <comment>Weight Units</comment>
   </data>
   <data name="Settings.Graphics.AntiAliasing.Subtitle" xml:space="preserve">
-    <value>不在所有设备上受支持，可能会导致运行缓慢</value>
+    <value>部分设备可能不支持，可能会导致运行缓慢</value>
     <comment>Not supported on all devices and can run very slow</comment>
   </data>
-  //部分设备可能不支持
   <data name="Settings.Graphics.AntiAliasing.Title" xml:space="preserve">
     <value>抗锯齿</value>
     <comment>Anti-Aliasing</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Subtitle" xml:space="preserve">
-    <value>设置允许的最高帧率。</value>
+    <value>设置允许的最高帧率</value>
     <comment>Sets the highest allowed frame rate.</comment>
   </data>
-  //句末标点符号是否要加？
   <data name="Settings.Graphics.FrameRateLimit.Title" xml:space="preserve">
     <value>最高帧率限制</value>
     <comment>Frame rate limit</comment>
@@ -603,7 +582,7 @@
     <comment>Full Screen</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Subtitle" xml:space="preserve">
-    <value>控制机场物体的密度</value>
+    <value>控制机场内物体的密度</value>
     <comment>Controls the density of objects at airports</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Title" xml:space="preserve">
@@ -619,10 +598,9 @@
     <comment>Rendering Quality</comment>
   </data>
   <data name="Settings.Graphics.RenderingResolution.Subtitle" xml:space="preserve">
-    <value>控制飞机和地景渲染</value>
+    <value>控制飞机和地景渲染质量</value>
     <comment>Controls the rendering resolution of aircraft and scenery</comment>
   </data>
-  //渲染-》渲染的分辨率/渲染的质量
   <data name="Settings.Graphics.RenderingResolution.Title" xml:space="preserve">
     <value>渲染分辨率</value>
     <comment>Rendering Resolution</comment>
@@ -636,19 +614,17 @@
     <comment>Texture Quality</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Subtitle" xml:space="preserve">
-    <value>设置你的ATC交流声音</value>
+    <value>设置你与atc交流的声音</value>
     <comment>Select voice for your ATC communications</comment>
   </data>
-  //你与atc交流的声音
   <data name="Settings.Multiplayer.CurrentVoice.Title" xml:space="preserve">
     <value>飞行员声音</value>
     <comment>Pilot Voice</comment>
   </data>
   <data name="Settings.Multiplayer.DefaultVoice.Subtitle" xml:space="preserve">
-    <value>设置其他飞行员的默认声音</value>
+    <value>设置其他飞行员/管制员的默认声音</value>
     <comment>Select the default voice for other pilots/ATC</comment>
   </data>
-  //飞行员/管制员
   <data name="Settings.Multiplayer.DefaultVoice.Title" xml:space="preserve">
     <value>默认声音</value>
     <comment>Default Voice</comment>
@@ -662,15 +638,13 @@
     <comment>Automatic Airplane Downloads Over Cellular Data</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneDots.Subtitle" xml:space="preserve">
-    <value>在连线飞行中隐藏其他飞机的小方框</value>
+    <value>在连线飞行中隐藏代表其他飞机的小方框</value>
     <comment>Hides the dots of other players in multiplayer</comment>
   </data>
-  //隐藏代表其他飞机……
   <data name="Settings.Multiplayer.HideAirplaneDots.Title" xml:space="preserve">
-    <value>隐藏其他飞机的小方框</value>
+    <value>隐藏其他飞机的位置标记</value>
     <comment>Hide Airplane Dots</comment>
   </data>
-  //隐藏代表其他飞机……
   <data name="Settings.Multiplayer.HideAirplaneNames.Subtitle" xml:space="preserve">
     <value>在连线飞行中隐藏其他飞行员的名字</value>
     <comment>Hides the name of other players in multiplayer</comment>
@@ -688,15 +662,13 @@
     <comment>Airplane Count</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensityNoneWarning" xml:space="preserve">
-    <value>将飞机数量设置为 无 将不会在连线飞行时显示其他飞机。你仍需负责与其他飞机保持间隔。</value>
+    <value>将飞机数量设置为”无“将不会在连线飞行时显示其他飞机。你仍需负责与其他飞机保持间隔。</value>
     <comment>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</comment>
   </data>
-  //无 是否需要改成“无”
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Subtitle" xml:space="preserve">
-    <value>在飞行时显示你的用户名。取消勾选可保持匿名</value>
+    <value>在飞行时显示你的用户名。不勾选则保持匿名</value>
     <comment>Display your username in-flight. Uncheck to remain anonymous</comment>
   </data>
-  //不勾选则保持匿名
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Title" xml:space="preserve">
     <value>飞行时显示用户名</value>
     <comment>Show Username In-Flight</comment>
@@ -858,15 +830,15 @@
     <comment>Infinite Flight Pro</comment>
   </data>
   <data name="Global.InfiniteFlightPro.1Month" xml:space="preserve">
-    <value>Infinite Flight Pro (包月)</value>
+    <value>Infinite Flight Pro (1个月)</value>
     <comment>Infinite Flight Pro (1 month)</comment>
   </data>
   <data name="Global.InfiniteFlightPro.1Year" xml:space="preserve">
-    <value>Infinite Flight Pro (包年)</value>
+    <value>Infinite Flight Pro (1年)</value>
     <comment>Infinite Flight Pro (1 year)</comment>
   </data>
   <data name="Global.InfiniteFlightPro.6Months" xml:space="preserve">
-    <value>Infinite Flight Pro (半年)</value>
+    <value>Infinite Flight Pro (6个月)</value>
     <comment>Infinite Flight Pro (6 months)</comment>
   </data>
   <data name="Global.Message" xml:space="preserve">
@@ -874,7 +846,7 @@
     <comment>MESSAGE</comment>
   </data>
   <data name="Settings.Account.Callsign.Subtitle" xml:space="preserve">
-    <value>用于和管制员与飞行员通话</value>
+    <value>用于同管制员和其他飞行员通话</value>
     <comment>Used for communication with controllers and other pilots</comment>
   </data>
   <data name="Settings.Account.Callsign.Title" xml:space="preserve">
@@ -882,11 +854,11 @@
     <comment>Callsign</comment>
   </data>
   <data name="Settings.Account.ConnectedMessage" xml:space="preserve">
-    <value>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</value>
+    <value>你已经将 {0} 与Infinite Flight绑定。是否解绑该账号？</value>
     <comment>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</comment>
   </data>
   <data name="Settings.Account.DiscourseConnect" xml:space="preserve">
-    <value>绑定</value>
+    <value>通过Discourse绑定</value>
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
@@ -918,11 +890,11 @@
     <comment>Your subscription was purchased on iOS and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.NotSubscribed" xml:space="preserve">
-    <value>你尚未订阅Infinite Flight Pro。</value>
+    <value>你尚未订阅Infinite Flight Pro</value>
     <comment>You are not subscribed to Infinite Flight Pro</comment>
   </data>
   <data name="Settings.Account.Stats.Subtitle" xml:space="preserve">
-    <value>查看你的连飞等级和违规记录。这些数据决定了连线飞行的等级资质。</value>
+    <value>查看你的连飞等级和违规记录。这些数据决定了连线飞行的等级资质</value>
     <comment>See your grade level and violation history. These stats determine multiplayer server level eligibility</comment>
   </data>
   <data name="Settings.Account.Stats.Title" xml:space="preserve">
@@ -934,11 +906,11 @@
     <comment>There was a problem getting your stats. Try again or contact support.</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithAutoRenew" xml:space="preserve">
-    <value>你目前拥有 {0} ，将在 {1} 续费</value>
+    <value>你目前订阅了 {0} ，将在 {1} 续费</value>
     <comment>You are subscribed to {0} which renews on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithoutAutoRenew" xml:space="preserve">
-    <value>你目前拥有 {0}，将在 {1} 到期</value>
+    <value>你目前订阅了 {0}，将在 {1} 到期</value>
     <comment>You are subscribed to {0} which expires on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
@@ -1034,7 +1006,7 @@
     <comment>Unassigned</comment>
   </data>
   <data name="Settings.Controls.UseNetworkJoystick" xml:space="preserve">
-    <value>Use Network Joystick</value>
+    <value>使用网络摇杆</value>
     <comment>Use Network Joystick</comment>
   </data>
   <data name="Settings.Sounds.ATC" xml:space="preserve">
@@ -1214,7 +1186,7 @@
     <comment>Take Off</comment>
   </data>
   <data name="GameMenu.TapToCalibrate" xml:space="preserve">
-    <value>点击屏幕校准后开始飞行</value>
+    <value>点击屏幕以校准并开始飞行</value>
     <comment>Tap screen to calibrate and start</comment>
   </data>
   <data name="GameMenu.Time" xml:space="preserve">
@@ -1238,7 +1210,7 @@
     <comment>End Flight</comment>
   </data>
   <data name="GamePage.EndSession.Message" xml:space="preserve">
-    <value>确定结束管制？</value>
+    <value>确定结束本次管制？</value>
     <comment>Are you sure you want to end this session?</comment>
   </data>
   <data name="GamePage.EndSession.Title" xml:space="preserve">
@@ -1250,7 +1222,7 @@
     <comment>Grade</comment>
   </data>
   <data name="Global.Operations" xml:space="preserve">
-    <value>Operations</value>
+    <value>条有效指令</value>
     <comment>Operations (ATC Operations)</comment>
   </data>
   <data name="SplashScreen.DownloadingAircraft" xml:space="preserve">
@@ -1334,7 +1306,7 @@
     <comment>Wind Velocity</comment>
   </data>
   <data name="WeatherState.Clouds.Broken" xml:space="preserve">
-    <value>5-7分云</value>
+    <value>5-7分云（BKN）</value>
     <comment>Broken</comment>
   </data>
   <data name="WeatherState.Clouds.Clear" xml:space="preserve">
@@ -1342,11 +1314,11 @@
     <comment>Clear</comment>
   </data>
   <data name="WeatherState.Clouds.Few" xml:space="preserve">
-    <value>1-2分云</value>
+    <value>1-2分云（FEW）</value>
     <comment>Few</comment>
   </data>
   <data name="WeatherState.Clouds.Scattered" xml:space="preserve">
-    <value>3-4分云</value>
+    <value>3-4分云（SCT）</value>
     <comment>Scattered</comment>
   </data>
   <data name="WeatherState.Turbulence.Extreme" xml:space="preserve">
@@ -1406,7 +1378,7 @@
     <comment>Normal</comment>
   </data>
   <data name="SplashScreen.LoadingSession" xml:space="preserve">
-    <value>加载回放中</value>
+    <value>正在加载管制界面</value>
     <comment>(ATC)</comment>
   </data>
   <data name="AircraftPage.LiveryWillBeDownloaded" xml:space="preserve">
@@ -1458,7 +1430,7 @@
     <comment>Tower</comment>
   </data>
   <data name="ATCJobBoard.Header.Arrivals" xml:space="preserve">
-    <value>正在到达</value>
+    <value>预计到港</value>
     <comment>Arrivals</comment>
   </data>
   <data name="ATCJobBoardControl.ActiveFIRs" xml:space="preserve">
@@ -1498,7 +1470,7 @@
     <comment>Replace Flight Plan</comment>
   </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
-    <value>替换/添加至当前飞行计划？</value>
+    <value>替换或添加至当前飞行计划？</value>
     <comment>Shown when importing a flight plan FPL file</comment>
   </data>
   <data name="FlightPlan.Replace" xml:space="preserve">
@@ -1646,11 +1618,11 @@
     <comment>Your Grade: {0}</comment>
   </data>
   <data name="MenuPageBase.NoATCAccess" xml:space="preserve">
-    <value>No ATC Access</value>
+    <value>无法管制</value>
     <comment>No ATC Access</comment>
   </data>
   <data name="MenuPageBase.NoATCAccessOn" xml:space="preserve">
-    <value>No ATC Access on {0}</value>
+    <value>无法在 {0} 管制</value>
     <comment>No ATC Access on {0}</comment>
   </data>
   <data name="MenuPageBase.NoProFound" xml:space="preserve">
@@ -1782,7 +1754,7 @@
     <comment>Airspace Violation</comment>
   </data>
   <data name="Violation.FlightOverspeed" xml:space="preserve">
-    <value>飞行时超速</value>
+    <value>空中超速</value>
     <comment>Overspeed in Flight</comment>
   </data>
   <data name="Violation.GroundOverspeed" xml:space="preserve">
@@ -1806,7 +1778,7 @@
     <comment>Settings</comment>
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
-    <value>{0} 飞机过大，无法停靠在当前选择的 {2} 的 {1} 机位。 请更换出发地点。</value>
+    <value>{0} 飞机过大，无法停靠在位于 {2} 的 {1} 机位。 请更换出发地点。</value>
     <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
@@ -1842,35 +1814,35 @@
     <comment>Your username needs to be visible before starting a session. Enable \"Show Username In-Flight\" in settings</comment>
   </data>
   <data name="Notam.Airport" xml:space="preserve">
-    <value>机场 : {0}</value>
+    <value>机场：{0}</value>
     <comment>Airport</comment>
   </data>
   <data name="Notam.Ceiling" xml:space="preserve">
-    <value>高度下限 : {0}英尺</value>
+    <value>高度下限：{0}英尺</value>
     <comment>Ceiling</comment>
   </data>
   <data name="Notam.Floor" xml:space="preserve">
-    <value>高度上限   : {0}英尺</value>
+    <value>高度上限：{0}英尺</value>
     <comment>Floor</comment>
   </data>
   <data name="Notam.From" xml:space="preserve">
-    <value>生效时间    : {0} {1}Z</value>
+    <value>生效时间：{0} {1}Z</value>
     <comment>From (Date)</comment>
   </data>
   <data name="Notam.Message" xml:space="preserve">
-    <value>信息 : {0}</value>
+    <value>信息：{0}</value>
     <comment>Message</comment>
   </data>
   <data name="Notam.Title" xml:space="preserve">
-    <value>标题   : {0}</value>
+    <value>标题：{0}</value>
     <comment>Title</comment>
   </data>
   <data name="Notam.To" xml:space="preserve">
-    <value>失效时间      : {0} {1}Z</value>
+    <value>失效时间：{0} {1}Z</value>
     <comment>To (Date)</comment>
   </data>
   <data name="Notam.UntilFurtherNotice" xml:space="preserve">
-    <value>失效时间      : 待定</value>
+    <value>失效时间：待定</value>
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
@@ -1910,7 +1882,7 @@
     <comment>Night</comment>
   </data>
   <data name="Global.Type" xml:space="preserve">
-    <value>Type</value>
+    <value>类型</value>
     <comment>Type</comment>
   </data>
   <data name="Logbook.From" xml:space="preserve">
@@ -1954,27 +1926,27 @@
     <comment>Name</comment>
   </data>
   <data name="Global.Report" xml:space="preserve">
-    <value>Report</value>
+    <value>次违规报告</value>
     <comment>Report</comment>
   </data>
   <data name="Global.Reports" xml:space="preserve">
-    <value>Reports</value>
+    <value>次违规报告</value>
     <comment>Reports</comment>
   </data>
   <data name="Global.Violation" xml:space="preserve">
-    <value>违规</value>
+    <value>次违规</value>
     <comment>Violation</comment>
   </data>
   <data name="Global.Violations" xml:space="preserve">
-    <value>违规</value>
+    <value>次违规</value>
     <comment>Violations</comment>
   </data>
   <data name="Logbook.ATCReport" xml:space="preserve">
-    <value>ATC Report</value>
+    <value>违规报告</value>
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>ATC Report by [{0}]\n{1}</value>
+    <value>违规报告 管制员： [{0}]\n{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
@@ -2011,9 +1983,10 @@
   </data>
   <data name="Logbook.Details" xml:space="preserve">
     <value>详情</value>
+    <comment>View Flight Details</comment>
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
-    <value>按下键盘上的案件来绑定</value>
+    <value>按下键盘上的按键来绑定</value>
     <comment>Press button on \nKeyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
@@ -2081,11 +2054,11 @@
     <comment>Turn on the master switch in the electrical panel before starting engine</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.Off" xml:space="preserve">
-    <value>航迹矢量：关</value>
+    <value>飞行轨迹矢量：关</value>
     <comment>FLIGHT PATH VECTOR OFF</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.On" xml:space="preserve">
-    <value>航迹矢量：开</value>
+    <value>飞行轨迹矢量：开</value>
     <comment>FLIGHT PATH VECTOR ON</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.Alt" xml:space="preserve">
@@ -2109,7 +2082,7 @@
     <comment>NEXT WPT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
-    <value>1分钟后到达下一航电：航向</value>
+    <value>1分钟后到达下一航点：航向</value>
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
@@ -2157,15 +2130,15 @@
     <comment>Infinite Flight Pro is required to fly outside of the default regions.Tap here for more information</comment>
   </data>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
-    <value>超速！减小油门把速度降低到飞机最大速度以下。</value>
+    <value>超速！减小油门把速度降低到飞机最大速度以下</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
-    <value>后推开始</value>
+    <value>推出开始</value>
     <comment>STARTING PUSHBACK</comment>
   </data>
   <data name="SystemMessaging.PushbackStopped" xml:space="preserve">
-    <value>后推停止</value>
+    <value>推出停止</value>
     <comment>PUSHBACK STOPPED</comment>
   </data>
   <data name="SystemMessaging.Refueling.Aerial" xml:space="preserve">
@@ -2205,11 +2178,11 @@
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>跑道逗留警告 在开放跑道上停留时间过长属于违规。尽快脱离跑道或起飞以避免违规。</value>
+    <value>跑道逗留警告\n在开放跑道上停留时间过长属于违规。尽快脱离跑道或起飞以避免违规。</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>滑行速度警告 滑行时最大地速：35节。减速以避免违规。</value>
+    <value>滑行速度警告\n滑行时最大地速：35节。减速以避免违规。</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
@@ -2233,7 +2206,7 @@
     <comment>VNAV Target updated to {0} ({2:#0.0}NM) @ {1:n0}ft</comment>
   </data>
   <data name="Violations.ExceededDisconnection" xml:space="preserve">
-    <value>由于本次飞行收到过多违规，你已经被强制断线。</value>
+    <value>由于违规次数过多，你已经被强制断线。</value>
     <comment>You have been disconnected due to excess violations for this current session.</comment>
   </data>
   <data name="Violations.LimitExceeded" xml:space="preserve">
@@ -2281,7 +2254,7 @@
     <comment>Synchronize</comment>
   </data>
   <data name="WarningMessageControl.Reported" xml:space="preserve">
-    <value>Reported</value>
+    <value>违规</value>
     <comment>Reported</comment>
   </data>
   <data name="WarningMessageControl.TapToDismiss" xml:space="preserve">
@@ -2301,7 +2274,7 @@
     <comment>Welcome</comment>
   </data>
   <data name="Tips.Default" xml:space="preserve">
-    <value>向下拉动方向舵滑块即可激活地面刹车。</value>
+    <value>向下拉动方向舵滑块即可在地面激活刹车。</value>
     <comment>With your finger on the rudder control, slide down to activate the brakes on the ground.</comment>
   </data>
   <data name="FlightRatingPage.CurrentGrade" xml:space="preserve">
@@ -2345,7 +2318,7 @@
     <comment>Reason:</comment>
   </data>
   <data name="ReportControl.ReportedBy" xml:space="preserve">
-    <value>Reported By: </value>
+    <value>管制员: </value>
     <comment>Reported By:</comment>
   </data>
   <data name="SplashScreen.LoadingAirport" xml:space="preserve">
@@ -2385,7 +2358,7 @@
     <comment>SPEED WARNING</comment>
   </data>
   <data name="Violation.Level0Received.Message" xml:space="preserve">
-    <value>你已被一名管制员或工作人员强制断线。这不是违规，因此无需申诉。</value>
+    <value>你已被一名管制员或官方人员强制断线。这不是违规，因此无需申诉。</value>
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
@@ -2417,7 +2390,7 @@
     <comment>Frequencies Staffed</comment>
   </data>
   <data name="ATCRatingPage.Operations" xml:space="preserve">
-    <value>许可颁发数</value>
+    <value>有效指令数</value>
     <comment>Session Operations</comment>
   </data>
   <data name="ATCRatingPage.Reports" xml:space="preserve">
@@ -2429,7 +2402,7 @@
     <comment>SESSION SUMMARY</comment>
   </data>
   <data name="ATCRatingPage.TotalOperations" xml:space="preserve">
-    <value>总许可颁发数</value>
+    <value>有效指令总数</value>
     <comment>Total Operations</comment>
   </data>
   <data name="ATCRatingPage.TotalTime" xml:space="preserve">
