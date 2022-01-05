@@ -122,7 +122,7 @@
     <comment>ACCESS TO OUR ENTIRE FLEET</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText1" xml:space="preserve">
-    <value>数十架飞机、几百种涂装、逼真的飞机模型和可动驾驶舱</value>
+    <value>数十架飞机、几百种涂装、逼真的气动模型和可动驾驶舱</value>
     <comment>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle2" xml:space="preserve">
@@ -394,7 +394,7 @@
     <comment>Airport Names</comment>
   </data>
   <data name="Settings.Graphics" xml:space="preserve">
-    <value>图形显示</value>
+    <value>显示</value>
     <comment>Graphics (tab title)</comment>
   </data>
   <data name="Settings.Multiplayer" xml:space="preserve">
@@ -2218,7 +2218,7 @@
     <comment>Cargo</comment>
   </data>
   <data name="WeightAndBalance.FlightTime" xml:space="preserve">
-    <value>预计飞行时间</value>
+    <value>可飞行时长</value>
     <comment>Est. Flight Time</comment>
   </data>
   <data name="WeightAndBalance.FuelBurn" xml:space="preserve">
@@ -2226,7 +2226,7 @@
     <comment>Fuel Burn</comment>
   </data>
   <data name="WeightAndBalance.FuelTanks" xml:space="preserve">
-    <value>油箱</value>
+    <value>燃油</value>
     <comment>Fuel Tanks</comment>
   </data>
   <data name="WeightAndBalance.Heavy" xml:space="preserve">
