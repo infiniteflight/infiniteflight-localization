@@ -126,7 +126,7 @@
     <comment>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle2" xml:space="preserve">
-    <value>ОТКРОЙТЕ МИР</value>
+    <value>ИССЛЕДУЙТЕ МИР</value>
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
@@ -186,7 +186,7 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>Аккаунт который вы хотите подключить уже связан с другой активной подпиской Infinite Flight Pro (код ошибки {0})</value>
+    <value>Аккаунт, который вы хотите подключить, уже связан с другой активной подпиской Infinite Flight Pro (код ошибки {0})</value>
     <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
@@ -210,7 +210,7 @@
     <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Ваш аккаунт не может совершать это действие, пожалуйста свяжитесь с поддержкой (код ошибки {0})</value>
+    <value>Ваш аккаунт не может совершать это действие, пожалуйста, свяжитесь с поддержкой (код ошибки {0})</value>
     <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
@@ -230,7 +230,7 @@
     <comment>The value you are updating isn't valid (error code {0})</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>Аккаунт с которым вы хотите войти имеет неправильные данные (код ошибки {0})</value>
+    <value>Аккаунт, с которым вы хотите войти, имеет неправильные данные входа (код ошибки {0})</value>
     <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
@@ -242,7 +242,7 @@
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
-    <value>Скачивание ландшафта невозможно так как на вашем устройстве закончилась свободная память</value>
+    <value>Загрузка ландшафта невозможна, так как на вашем устройстве закончилась свободная память</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
@@ -262,7 +262,7 @@
     <comment>User Guide</comment>
   </data>
   <data name="LoginAuthPage.ExistingAccountPrompt" xml:space="preserve">
-    <value>Войдите чтобы использовать подписку, купленную на другом устройстве</value>
+    <value>Войдите, чтобы использовать подписку, купленную на другом устройстве</value>
     <comment>Sign in to use a subscription bought on another device</comment>
   </data>
   <data name="LoginSubscriptionPage.ExistingAccount" xml:space="preserve">
@@ -330,7 +330,7 @@
     <comment>General (tab title)</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Subtitle" xml:space="preserve">
-    <value>Автоматически утсанавливает стартовый аэропорт на тот, где закончился последний полёт</value>
+    <value>Автоматически устанавливает стартовый аэропорт на тот, где закончился последний полёт</value>
     <comment>Automatically set the start airport to where the last flight ended.</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Title" xml:space="preserve">
@@ -562,7 +562,7 @@
     <comment>Anti-Aliasing</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Subtitle" xml:space="preserve">
-    <value>Утсанавливает максимальную частоту кадров в секунду.</value>
+    <value>Устанавливает максимальную частоту кадров в секунду.</value>
     <comment>Sets the highest allowed frame rate.</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Title" xml:space="preserve">
@@ -614,7 +614,7 @@
     <comment>Texture Quality</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Subtitle" xml:space="preserve">
-    <value>Устанавливает ваш голос для коммуникаций с другими играками</value>
+    <value>Устанавливает ваш голос для коммуникаций с другими игроками</value>
     <comment>Select voice for your ATC communications</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Title" xml:space="preserve">
@@ -654,7 +654,7 @@
     <comment>Hide Airplane Names</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Subtitle" xml:space="preserve">
-    <value>Контролирует сколько самолётов показывается в многопользовательском режиме.</value>
+    <value>Контролирует количество показываемых самолётов в многопользовательском режиме.</value>
     <comment>Controls how many airplanes are shown in multiplayer.</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Title" xml:space="preserve">
@@ -722,7 +722,7 @@
     <comment>Flaps Up (1 Step)</comment>
   </data>
   <data name="Commands.FuelDump" xml:space="preserve">
-    <value>Слив Топлива</value>
+    <value>Сброс Топлива</value>
     <comment>Fuel Dump</comment>
   </data>
   <data name="Commands.Group.Airplane" xml:space="preserve">
@@ -754,7 +754,7 @@
     <comment>NavLights</comment>
   </data>
   <data name="Commands.ParkingBrakes" xml:space="preserve">
-    <value>Парковочный Тормоз</value>
+    <value>Стояночный Тормоз</value>
     <comment>Parking Brakes</comment>
   </data>
   <data name="Commands.PitchAxis" xml:space="preserve">
@@ -774,7 +774,7 @@
     <comment>Controls the Propeller</comment>
   </data>
   <data name="Commands.Pushback" xml:space="preserve">
-    <value>Буксировка</value>
+    <value>Выталкивание</value>
     <comment>Pushback</comment>
   </data>
   <data name="Commands.ReverseThrust" xml:space="preserve">
@@ -914,7 +914,7 @@
     <comment>You are subscribed to {0} which expires on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
-    <value>Возобновление вашей подписки не удалось. Нажмите на Управление Подпиской чтобы проверить вашу платёжную информацию до {0}</value>
+    <value>Возобновление вашей подписки не удалось. Нажмите на Управление Подпиской, чтобы проверить вашу платёжную информацию до {0}</value>
     <comment>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</comment>
   </data>
   <data name="Settings.Account.Subscription.Title" xml:space="preserve">
@@ -922,7 +922,7 @@
     <comment>Your Infinite Flight Pro Subscription</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Subtitle" xml:space="preserve">
-    <value>Используйте другой аккаунт Infinite Flight чтобы получить доступ к подписке приобретённой на другом устройстве</value>
+    <value>Используйте другой аккаунт Infinite Flight, чтобы получить доступ к подписке, приобретённой на другом устройстве</value>
     <comment>Use a different Infinite Flight account to access a subscription bought on another device</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Title" xml:space="preserve">
@@ -938,7 +938,7 @@
     <comment>View Stats</comment>
   </data>
   <data name="Settings.Controls.Axes" xml:space="preserve">
-    <value>Ось</value>
+    <value>Оси</value>
     <comment>Axes</comment>
   </data>
   <data name="Settings.Controls.Axes.AxesKey" xml:space="preserve">
@@ -998,7 +998,7 @@
     <comment>Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.NoDevices" xml:space="preserve">
-    <value>Нет доступных устройств. За помощью в настройке обратитесь к Инструкции по Настройке </value>
+    <value>Нет доступных устройств. За помощью обратитесь к Инструкции по Настройке</value>
     <comment>No devices are available. Check the Setup Guide for help</comment>
   </data>
   <data name="Settings.Controls.Unassigned" xml:space="preserve">
@@ -1018,7 +1018,7 @@
     <comment>SFX Volume</comment>
   </data>
   <data name="Commands.AutoStartEngines" xml:space="preserve">
-    <value>Автозапускать Двигатели</value>
+    <value>Автозапуск Двигателей</value>
     <comment>Auto Start Engine(s)</comment>
   </data>
   <data name="Commands.CockpitCamera" xml:space="preserve">
@@ -1162,11 +1162,11 @@
     <comment>CRASH</comment>
   </data>
   <data name="GameMenu.EndFlight" xml:space="preserve">
-    <value>Окончить полёт</value>
+    <value>Закончить полёт</value>
     <comment>End Flight</comment>
   </data>
   <data name="GameMenu.EndSession" xml:space="preserve">
-    <value>Окончить сессию</value>
+    <value>Закончить сессию</value>
     <comment>End Session (ATC)</comment>
   </data>
   <data name="GameMenu.Paused" xml:space="preserve">
@@ -1330,7 +1330,7 @@
     <comment>Light</comment>
   </data>
   <data name="WeatherState.Turbulence.Moderate" xml:space="preserve">
-    <value>Срелняя</value>
+    <value>Средняя</value>
     <comment>Moderate</comment>
   </data>
   <data name="WeatherState.Turbulence.None" xml:space="preserve">
@@ -1402,7 +1402,7 @@
     <comment>Show Pro Aircraft</comment>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
-    <value>Заход</value>
+    <value>Прилёт</value>
     <comment>Approach</comment>
   </data>
   <data name="ATC.ATIS" xml:space="preserve">
@@ -1418,11 +1418,11 @@
     <comment>Ground</comment>
   </data>
   <data name="ATC.Station" xml:space="preserve">
-    <value>Частоты</value>
+    <value>Частота</value>
     <comment>Station (as in, selected frequencies)</comment>
   </data>
   <data name="ATC.Stations" xml:space="preserve">
-    <value>Частота</value>
+    <value>Частоты</value>
     <comment>Stations</comment>
   </data>
   <data name="ATC.Tower" xml:space="preserve">
@@ -1454,11 +1454,11 @@
     <comment>No Flights Found</comment>
   </data>
   <data name="FlightPlan.AddToCurrentFlightPlanPrompt" xml:space="preserve">
-    <value>Добавить в текущему плану полёта?</value>
+    <value>Добавить к текущему плану полёта?</value>
     <comment>Add to current flight plan?</comment>
   </data>
   <data name="FlightPlan.AddToFlightPlan" xml:space="preserve">
-    <value>Добавить в План Полёта</value>
+    <value>Добавить к Плану Полёта</value>
     <comment>Add to Flight Plan</comment>
   </data>
   <data name="FlightPlan.ReplaceCurrentFlightPlanPrompt" xml:space="preserve">
@@ -1478,7 +1478,7 @@
     <comment>Not Qualified</comment>
   </data>
   <data name="Global.PleaseWait" xml:space="preserve">
-    <value>Пожалуйста подождите...</value>
+    <value>Пожалуйста, подождите...</value>
     <comment>Please wait...</comment>
   </data>
   <data name="Global_FinalApproach" xml:space="preserve">
@@ -1598,7 +1598,7 @@
     <comment>Grade Required: {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.InsufficientGradePrompt" xml:space="preserve">
-    <value>У вас нет достаточного ранга чтобы летать на {0}</value>
+    <value>У вас нет достаточного ранга, чтобы летать на {0}</value>
     <comment>You do not have the required grade to fly on {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.YourGrade" xml:space="preserve">
@@ -1618,7 +1618,7 @@
     <comment>No valid Infinite Flight Pro subscription found</comment>
   </data>
   <data name="MenuPageBase.ProRequired" xml:space="preserve">
-    <value>Что бы начать полёт с этой локации требуется Infinite Flight Pro. Пожалуйста измените стартовый аэропорт.</value>
+    <value>Что бы начать полёт с этой локации требуется Infinite Flight Pro. Пожалуйста, измените стартовый аэропорт.</value>
     <comment>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="Time.1Hour" xml:space="preserve">
@@ -1670,7 +1670,7 @@
     <comment>hrs</comment>
   </data>
   <data name="Time.In1Hour" xml:space="preserve">
-    <value>Через час</value>
+    <value>Через 1 час</value>
     <comment>In 1 hour</comment>
   </data>
   <data name="Time.In1Minute" xml:space="preserve">
@@ -1766,7 +1766,7 @@
     <comment>Settings</comment>
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
-    <value>{0} слишком большой для стартовой точки {1} в {2}. Пожалуйста измените точку старта</value>
+    <value>{0} слишком большой для стартовой точки {1} в {2}. Пожалуйста, измените точку старта</value>
     <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
@@ -1778,7 +1778,7 @@
     <comment>CAN'T CONNECT</comment>
   </data>
   <data name="MenuPageBase.CannotConnect.Message" xml:space="preserve">
-    <value>Infinite Flight испытывает проблемы с подключением к интернетом. Пожалуйста проверьте ваше интернет соединение и перезапустите приложение или попробуйте позже.</value>
+    <value>Infinite Flight испытывает проблемы с подключением к интернетом. Пожалуйста, проверьте ваше интернет соединение и перезапустите приложение или попробуйте позже.</value>
     <comment>Infinite Flight is experiencing internet connectivity issues. Please check your internet connection and restart the app or try again later.</comment>
   </data>
   <data name="MenuPageBase.ForumNotConnected" xml:space="preserve">
@@ -1786,7 +1786,7 @@
     <comment>Your Infinite Flight Community profile needs to be connected before starting a session</comment>
   </data>
   <data name="MenuPageBase.NoLocationSelected" xml:space="preserve">
-    <value>Локация не была выбрана, пожалуйста выберите частоту которую вы откроете</value>
+    <value>Локация не была выбрана, пожалуйста, выберите частоту которую вы откроете</value>
     <comment>No location has been selected, please select a frequency to open.</comment>
   </data>
   <data name="MenuPageBase.ProRequiredAircraft" xml:space="preserve">
@@ -1794,11 +1794,11 @@
     <comment>Infinite Flight Pro is required to use this aircraft</comment>
   </data>
   <data name="MenuPageBase.ProRequiredStartAirport" xml:space="preserve">
-    <value>Что бы начать полёт в выбранном аэропорте нужна подписка Infinite Flight Pro. Пожалуйста измените начальный аэропорт</value>
+    <value>Что бы начать полёт в выбранном аэропорте нужна подписка Infinite Flight Pro. Пожалуйста, измените начальный аэропорт</value>
     <comment>Infinite Flight PRO is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="MenuPageBase.ShowUsernameDisabled" xml:space="preserve">
-    <value>Ваше имя пользователя должно быть видно другим пользователям что бы начать сессию. Активируйте опцию "{0}" в настройках</value>
+    <value>Ваше имя пользователя должно быть видно другим пользователям, чтобы начать сессию. Активируйте опцию "{0}" в настройках</value>
     <comment>Your username needs to be visible before starting a session. Enable \"Show Username In-Flight\" in settings</comment>
   </data>
   <data name="Notam.Airport" xml:space="preserve">
@@ -1930,7 +1930,7 @@
     <comment>Violations</comment>
   </data>
   <data name="Logbook.ATCReport" xml:space="preserve">
-    <value>Нарушение, Выписаное Диспетчером</value>
+    <value>Нарушение, Выписанное Диспетчером</value>
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
@@ -2002,23 +2002,23 @@
     <comment>Approach Mode Cannot Be Enabled</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.AirspeedOutOfRange" xml:space="preserve">
-    <value>Режим автопосадки отключён - Превышена максимальная воздушная скорость (250узл макс.)</value>
+    <value>Режим автозахода отключён - Превышена максимальная воздушная скорость (250узл макс.)</value>
     <comment>Approach Mode Disabled - Airspeed out of range (250kts max)</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.BankOutOfRange" xml:space="preserve">
-    <value>Режим автопосадки отключён - Слишком большой крен</value>
+    <value>Режим автозахода отключён - Слишком большой крен</value>
     <comment>Approach Mode Disabled - Bank out of range</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.LandingWeightOutOfRange" xml:space="preserve">
-    <value>Режим автопосадки отключён - Превышен максимальный посадочный вес</value>
+    <value>Режим автозахода отключён - Превышен максимальный посадочный вес</value>
     <comment>Approach Mode Disabled - Aircraft is overweight</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSNotEnabled" xml:space="preserve">
-    <value>Режим автопосадки отключён - Режим вертикальной скорости должен быть активирован во время работа режима автопосадки</value>
+    <value>Режим автозахода отключён - Режим вертикальной скорости должен быть активирован во время работа режима автопосадки</value>
     <comment>Approach Mode DisabledVertical Speed Mode must be enabled when Approach Mode is active</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSOutOfRange" xml:space="preserve">
-    <value>Режим автопосадки отключён - Вертикальная скорость вне допустимого диапозона</value>
+    <value>Режим автозахода отключён - Вертикальная скорость вне допустимого диапозона</value>
     <comment>Approach Mode Disabled - VS out of range</comment>
   </data>
   <data name="SystemMessaging.ATC.TuningTo" xml:space="preserve">
@@ -2074,19 +2074,19 @@
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
-    <value>Слив топлива недоступен. Самолёт ниже 7000фт над землёй</value>
+    <value>Сброс топлива недоступен. Самолёт ниже 7000фт над землёй</value>
     <comment>Cannot start fuel dump. Min altitude 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelowMLW" xml:space="preserve">
-    <value>Невозможно начать слив топлива. Самолёт ниже максимального посадочного веса</value>
+    <value>Невозможно начать сброс топлива. Самолёт легче максимального посадочного веса</value>
     <comment>Cannot start fuel dump. Aircraft is below Maximum Landing Weight</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.FuelTooLow" xml:space="preserve">
-    <value>Невозможно начать слив топлива. Уровень топлива слишком низок!</value>
+    <value>Невозможно начать сброс топлива. Уровень топлива слишком низок!</value>
     <comment>Cannot start fuel dump. Fuel level too low!</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Starting" xml:space="preserve">
-    <value>Слив Топлива Начат - Следите за уровнем топлева</value>
+    <value>Сброс Топлива Начат - Следите за уровнем топлива</value>
     <comment>Starting Fuel Dump - Monitor Fuel Level</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelow7000" xml:space="preserve">
@@ -2122,11 +2122,11 @@
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
-    <value>НАЧИНАЕМ БУКСИРОВКУ</value>
+    <value>НАЧИНАЕМ ВЫТАЛКИВАНИЕ</value>
     <comment>STARTING PUSHBACK</comment>
   </data>
   <data name="SystemMessaging.PushbackStopped" xml:space="preserve">
-    <value>БУКСИРОВКА ОСТАНОВЛЕНА</value>
+    <value>ВЫТАЛКИВАНИЕ ОСТАНОВЛЕНО</value>
     <comment>PUSHBACK STOPPED</comment>
   </data>
   <data name="SystemMessaging.Refueling.Aerial" xml:space="preserve">
@@ -2146,11 +2146,11 @@
     <comment>Cannot activate speed mode. Airplane is on the ground.</comment>
   </data>
   <data name="SystemMessaging.Stall.Approaching" xml:space="preserve">
-    <value>Приближается сваливание! Потяните штурвал/стик вниз чтобы восстановить управление</value>
+    <value>Приближается сваливание! Потяните штурвал/стик вниз, чтобы восстановить управление</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
   <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>СВАЛИВАНИЕ! Потяните штурвал/стик вниз чтобы восстановить управление</value>
+    <value>СВАЛИВАНИЕ! Потяните штурвал/стик вниз, чтобы восстановить управление</value>
     <comment>STALL! Push yoke/stick forward to recover</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
@@ -2166,7 +2166,7 @@
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>БЕЗДЕЙСТВИЕ НА ПОЛОСЕ Длительная стоянка на активной полосе запрещена. Покиньте полосу или взлетите чтобы избежать нарушения</value>
+    <value>БЕЗДЕЙСТВИЕ НА ПОЛОСЕ Длительная стоянка на активной полосе запрещена. Покиньте полосу или взлетите, чтобы избежать нарушения</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
@@ -2254,7 +2254,7 @@
     <comment>Violations: {0}/{1}</comment>
   </data>
   <data name="Multiplayer.GotIt" xml:space="preserve">
-    <value>Ладушки!</value>
+    <value>Ясно!</value>
     <comment>Got it!</comment>
   </data>
   <data name="Multiplayer.Welcome" xml:space="preserve">
@@ -2286,7 +2286,7 @@
     <comment>XP</comment>
   </data>
   <data name="FlightRatingPage.ReputationEarned" xml:space="preserve">
-    <value>Заработано XP</value>
+    <value>Получено XP</value>
     <comment>XP Earned</comment>
   </data>
   <data name="FlightRatingPage.ViolationCount" xml:space="preserve">
@@ -2326,7 +2326,7 @@
     <comment>Enabling spoilers and setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.Issued" xml:space="preserve">
-    <value>Вам было Выписано Нарушение Скоростного Режима</value>
+    <value>Вы Получили Нарушение Скоростного Режима</value>
     <comment>Speed Violation Issued</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnots" xml:space="preserve">
@@ -2346,15 +2346,15 @@
     <comment>SPEED WARNING</comment>
   </data>
   <data name="Violation.Level0Received.Message" xml:space="preserve">
-    <value>Вы были отключены от вашей текущей сессии диспетчером или сотрудником Infinite Flight. Это не нарушение, посему аппеляция не тредуется.</value>
+    <value>Вы были отключены от вашей текущей сессии диспетчером или сотрудником Infinite Flight. Это не нарушение, поэтому аппеляция не требуется.</value>
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
-    <value>Вам было выписано нарушение 2 уровня и вы были отключены от вашей сессии. Аппеляция не обязательна и вы можете начать другой полёт если количество ваших нарушений это позволяет. Мы рекомендуем ознакомиться с соответствующими видеоинструкциями на youtube.com/infiniteflight</value>
+    <value>Вы получили нарушение 2 уровня и вы были отключены от вашей сессии. Аппеляция не обязательна и вы можете начать другой полёт, если количество ваших нарушений это позволяет. Мы рекомендуем ознакомиться с соответствующими видеоинструкциями на youtube.com/infiniteflight</value>
     <comment>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.Level3Received.Message" xml:space="preserve">
-    <value>Вам было выписано нарушение 3 уровня и вы были отключены от вашей сессии. Мы рекомендуем ознакомиться с соответствующими видеоинструкциями на youtube.com/infiniteflight</value>
+    <value>Вы получили нарушение 3 уровня и вы были отключены от вашей сессии. Мы рекомендуем ознакомиться с соответствующими видеоинструкциями на youtube.com/infiniteflight</value>
     <comment>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review and applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.UnspecifiedReason" xml:space="preserve">
@@ -2362,15 +2362,15 @@
     <comment>Unspecified Reason</comment>
   </data>
   <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
-    <value>Манёвры высшего пилотажа запрещены около аэропортов. Вам было выписано нарушение 1 уровня.</value>
+    <value>Манёвры высшего пилотажа запрещены около аэропортов. Вы получили нарушение 1 уровня.</value>
     <comment>Aerobatic Maneuvers prohibited near airports.A level 1 violation has been issued.</comment>
   </data>
   <data name="Violations.AircraftIdle.Message" xml:space="preserve">
-    <value>Вы слишком долго простояли на полосе. Вам было выписано нарушение 1 уровня.</value>
+    <value>Вы слишком долго простояли на полосе. Вы получили нарушение 1 уровня.</value>
     <comment>Aircraft idle on active runway for too longA level 1 violation has been issued</comment>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
-    <value>Вы превысили максимальную скорость на земле (35узл.). Вам было выписано нарушение 1 уровня. Сбавьте скорость что бы избежать дополнительных нарушений.</value>
+    <value>Вы превысили максимальную скорость на земле (35узл.). Вы получили нарушение 1 уровня. Сбавьте скорость что бы избежать дополнительных нарушений.</value>
     <comment>Exceeded max ground speed of 35kts.A level 1 violation has been issued.Slow down to avoid further violations.</comment>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
@@ -2378,7 +2378,7 @@
     <comment>Frequencies Staffed</comment>
   </data>
   <data name="ATCRatingPage.Operations" xml:space="preserve">
-    <value>Операций за Соссию</value>
+    <value>Операций за Сессию</value>
     <comment>Session Operations</comment>
   </data>
   <data name="ATCRatingPage.Reports" xml:space="preserve">
@@ -2450,8 +2450,8 @@
     <comment>Throttle Up</comment>
   </data>
   <data name="Error.NetworkErrorShort" xml:space="preserve">
-     <value>Network Error</value>
-     <comment>Ошибка Сети</comment>
+     <value>Сетевая Ошибка</value>
+     <comment>Network Error</comment>
    </data>
    <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
      <value>Нет Дополнительной Информации</value>
