@@ -19,7 +19,7 @@ namespace Fds.InfiniteRunway.Resources {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class AppResources {
@@ -961,6 +961,24 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to An agreement has not been signed; you must sign the agreement to perform this action (error code {0}).
+        /// </summary>
+        internal static string Error_AgreementNotSigned {
+            get {
+                return ResourceManager.GetString("Error.AgreementNotSigned", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The selected airport is not available (error code {0}).
+        /// </summary>
+        internal static string Error_AirportNotFound {
+            get {
+                return ResourceManager.GetString("Error.AirportNotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to We can&apos;t find information about this ATC session (error code {0}).
         /// </summary>
         internal static string Error_ATCSessionNotFound {
@@ -1024,6 +1042,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You have been logged out and need to log in again manually (error code {0}).
+        /// </summary>
+        internal static string Error_ExpiredToken {
+            get {
+                return ResourceManager.GetString("Error.ExpiredToken", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Infinite Flight is having trouble connecting to the server (error code {0}).
         /// </summary>
         internal static string Error_GenericServerConnection {
@@ -1078,11 +1105,38 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to This feature is not supported (error code {0}).
+        /// </summary>
+        internal static string Error_NotSupported {
+            get {
+                return ResourceManager.GetString("Error.NotSupported", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The selected server is not available (error code {0}).
+        /// </summary>
+        internal static string Error_ServerNotFound {
+            get {
+                return ResourceManager.GetString("Error.ServerNotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Global Server streaming has failed because your device storage is full.
         /// </summary>
         internal static string Error_TileSystemDiskFull {
             get {
                 return ResourceManager.GetString("Error.TileSystemDiskFull", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You are not assigned to this airport. Please contact a reviewer or moderator (error code {0}).
+        /// </summary>
+        internal static string Error_UserNotAssigned {
+            get {
+                return ResourceManager.GetString("Error.UserNotAssigned", resourceCulture);
             }
         }
         
@@ -2694,6 +2748,17 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string ReportControl_ReportedBy {
             get {
                 return ResourceManager.GetString("ReportControl.ReportedBy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You do not have permission to upload changes to this airport.
+        ///
+        ///Please ask to be assigned via the Scenery Editing forum first.
+        /// </summary>
+        internal static string SceneryEditor_NoUploadPermissions {
+            get {
+                return ResourceManager.GetString("SceneryEditor.NoUploadPermissions", resourceCulture);
             }
         }
         
@@ -5486,7 +5551,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode.
+        ///   Looks up a localized string similar to Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode..
         /// </summary>
         internal static string WeightAndBalance_Unavailable_Message {
             get {

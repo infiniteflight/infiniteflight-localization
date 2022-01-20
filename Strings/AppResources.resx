@@ -2547,4 +2547,36 @@ Slow down to avoid further violations.</comment>
     <value>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode.</value>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
   </data>
+  <data name="Error.AgreementNotSigned" xml:space="preserve">
+    <value>An agreement has not been signed; you must sign the agreement to perform this action (error code {0})</value>
+    <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
+  </data>
+  <data name="Error.AirportNotFound" xml:space="preserve">
+    <value>The selected airport is not available (error code {0})</value>
+    <comment>The selected airport is not available</comment>
+  </data>
+  <data name="Error.ExpiredToken" xml:space="preserve">
+    <value>You have been logged out and need to log in again manually (error code {0})</value>
+    <comment>You have been logged out and need to log in again manually</comment>
+  </data>
+  <data name="Error.NotSupported" xml:space="preserve">
+    <value>This feature is not supported (error code {0})</value>
+    <comment>This feature is not supported</comment>
+  </data>
+  <data name="Error.ServerNotFound" xml:space="preserve">
+    <value>The selected server is not available (error code {0})</value>
+    <comment>The selected server is not available</comment>
+  </data>
+  <data name="Error.UserNotAssigned" xml:space="preserve">
+    <value>You are not assigned to this airport. Please contact a reviewer or moderator (error code {0})</value>
+    <comment>You are not assigned to this airport</comment>
+  </data>
+  <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
+    <value>You do not have permission to upload changes to this airport.
+
+Please ask to be assigned via the Scenery Editing forum first</value>
+    <comment>You do not have permission to upload changes to this airport.
+
+Please ask to be assigned via the Scenery Editing forum first</comment>
+  </data>
 </root>
