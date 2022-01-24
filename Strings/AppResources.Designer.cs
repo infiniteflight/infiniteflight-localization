@@ -4447,6 +4447,33 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Set parking brake and turn off all engines to dock jetbridges.
+        /// </summary>
+        internal static string SystemMessaging_Jetbridges_InvalidDockingConditions {
+            get {
+                return ResourceManager.GetString("SystemMessaging.Jetbridges.InvalidDockingConditions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No jetbridges available at this airport.
+        /// </summary>
+        internal static string SystemMessaging_Jetbridges_NoJetbridgesAvailableAtAirport {
+            get {
+                return ResourceManager.GetString("SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No accessible jetbridges nearby.
+        /// </summary>
+        internal static string SystemMessaging_Jetbridges_NoJetbridgesAvailableNearby {
+            get {
+                return ResourceManager.GetString("SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Low Power Mode Disabled.
         /// </summary>
         internal static string SystemMessaging_LowPowerMode_Disabled {
@@ -5486,7 +5513,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode.
+        ///   Looks up a localized string similar to Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode..
         /// </summary>
         internal static string WeightAndBalance_Unavailable_Message {
             get {
