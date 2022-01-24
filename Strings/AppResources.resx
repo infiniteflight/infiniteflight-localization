@@ -2547,6 +2547,10 @@ Slow down to avoid further violations.</comment>
     <value>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode.</value>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
   </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
+    <value>No jetbridges available at this airport</value>
+    <comment>No jetbridges available at this airport</comment>
+  </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
     <value>An agreement has not been signed; you must sign the agreement to perform this action (error code {0})</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
