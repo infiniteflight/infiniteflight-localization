@@ -2548,8 +2548,8 @@ Slow down to avoid further violations.</comment>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
-    <value>No jetbridges available at this airport</value>
-    <comment>No jetbridges available at this airport</comment>
+    <value>No jet bridges available at this airport</value>
+    <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
     <value>An agreement has not been signed; you must sign the agreement to perform this action (error code {0})</value>
@@ -2582,5 +2582,13 @@ Please ask to be assigned via the Scenery Editing forum first</value>
     <comment>You do not have permission to upload changes to this airport.
 
 Please ask to be assigned via the Scenery Editing forum first</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
+    <value>Set parking brake and turn off all engines to dock jet bridges</value>
+    <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
+    <value>No jet bridges available nearby</value>
+    <comment>No jet bridges available nearby</comment>
   </data>
 </root>

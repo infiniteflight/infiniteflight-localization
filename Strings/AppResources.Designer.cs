@@ -19,7 +19,7 @@ namespace Fds.InfiniteRunway.Resources {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class AppResources {
@@ -4512,7 +4512,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Set parking brake and turn off all engines to dock jetbridges.
+        ///   Looks up a localized string similar to Set parking brake and turn off all engines to dock jet bridges.
         /// </summary>
         internal static string SystemMessaging_Jetbridges_InvalidDockingConditions {
             get {
@@ -4521,7 +4521,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No jetbridges available at this airport.
+        ///   Looks up a localized string similar to No jet bridges available at this airport.
         /// </summary>
         internal static string SystemMessaging_Jetbridges_NoJetbridgesAvailableAtAirport {
             get {
@@ -4530,7 +4530,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No accessible jetbridges nearby.
+        ///   Looks up a localized string similar to No jet bridges available nearby.
         /// </summary>
         internal static string SystemMessaging_Jetbridges_NoJetbridgesAvailableNearby {
             get {
