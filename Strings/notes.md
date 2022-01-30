@@ -1,0 +1,75 @@
+Only phrases that are substantially longer in characters than their English counterparts have been mentioned in this file. Phrases which are similar in length have been left out.
+
+- Row 141 - 'Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!' in BG longer than in English
+- Row 161 - 'AIR TRAFFIC CONTROL' in BG longer than in English
+- Row 181 - 'Scenery Editor' in BG longer than in English
+- Row 257 - 'Retry' in BG longer than in English
+- Row 261 - 'User Guide' in BG longer than in English
+- Row 481 - 'Enter low power during long flights to save battery' in BG longer than in English
+- Row 485 - 'Enable Automatic Low Power' in BG longer than in English
+- Row 665 - 'Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.' in BG longer than in English
+- Row 898 - 'See your grade level and violation history. These stats determine multiplayer server level eligibility' in BG longer than in English
+- Row 905 - 'There was a problem getting your stats. Try again or contact support.' in BG longer than in English
+- Row 917 - 'The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}' in BG longer than in English
+- Row 933 - 'Unlink' in BG longer than in English
+- Row 981 - 'Restore Defaults' in BG longer than in English
+- Row 989 - 'Show Devices' in BG longer than in English
+- Row 985 - 'Setup Guide' in BG longer than in English
+- Row 1009 - 'Use Network Joystick' in BG longer than in English
+- Row 1013 - 'ATC Volume' in BG longer than in English
+- Row 1017 - 'SFX Volume' in BG longer than in English
+- Row 1053 - 'HUD' in BG longer than in English
+- Row 1121 - 'Toggle Flight Path Vector' in BG longer than in English
+- Row 1361 - 'Control' in BG longer than in English
+- Row 1365 - 'Fly' in BG longer than in English
+- Row 1589 - 'Reset Zoom' in BG longer than in English
+- Row 1601 - 'Select Arrival' in BG longer than in English
+- Row 1605 - 'Select Departure' in BG longer than in English 
+- Row 1745 - 'Aerobatics Violation' in BG longer than in English
+- Row 1753 - 'Airspace Violation' in BG longer than in English
+- Row 1757 - 'Overspeed in Flight' in BG longer than in English
+- Row 1761 - 'Ground Overspeed' in BG longer than in English
+- Row 1769 - 'Runway Idle' in BG longer than in English
+- Row 1805 - 'Infinite Flight Pro is required to use this aircraft' in BG longer than in English
+- Row 1821 - 'Ceiling' in BG longer than in English 
+- Row 1824 - 'Floor in BG longer than in English
+- Row 1857 - 'Privacy Policy' in BG longer than in English
+- Row 1861 - 'Terms of Use' in BG longer than in English
+- Row 1969 - 'Edit' in BG longer than in English
+- Row 1985 - 'Import' in BG longer than in English
+- Row 2005 - 'Press button or move axis to assign' in BG longer than in English
+- Row 2009 - 'Reset' in BG longer than in English
+- Row 2013 - 'Approach Mode Cannot Be Enabled' in BG longer than in English
+- Row 2019 - 'Approach Mode Disabled - Airspeed out of range (250kts max)' in BG longer than in English
+- Row 2022 - 'Approach Mode Disabled - Bank out of range' in BG longer than in English
+- Row 2026 - 'Approach Mode Disabled - Aircraft is overweight' in BG longer than in English
+- Row 2030 - 'Approach Mode DisabledVertical Speed Mode must be enabled when Approach Mode is active' in BG longer than in English
+- Row 2057 - 'FLIGHT PATH VECTOR OFF' in BG longer than in English
+- Row 2061 - 'FLIGHT PATH VECTOR ON' in BG longer than in English
+- Row 2073 - 'FLY HDG' in BG longer than in English
+- Row 2089 - 'Cannot start fuel dump. Min altitude 7000ft AGL' in BG longer than in English
+- Row 2093 - 'Cannot start fuel dump. Aircraft is below Maximum Landing Weight' in BG longer than in English
+- Row 2097 - 'Cannot start fuel dump. Fuel level too low!' in BG longer than in English
+- Row 2101 - 'Starting Fuel Dump - Monitor Fuel Level' in BG longer than in English
+- Row 2109 - 'Fuel dump stopped. Aircraft is below maximum landing weight' in BG longer than in English
+- Row 2113 - 'Fuel dump stopped. Fuel level too low' in BG longer than in English
+- Row 2133 - 'Overspeeding! Reduce throttle/power to slow down below max aircraft speed' in BG longer than in English
+- Row 2157 - 'Cannot activate speed mode. Airplane is on the ground.' in BG longer than in English
+- Row 2165 - 'STALL! Push yoke/stick forward to recover' in BG longer than in English
+- Row 2169 - 'Autopilot must be activated to change simulation time scale' in BG longer than in English
+- Row 2173 - 'Simulation time scale cannot be changed for fighter jets.' in BG longer than in English
+- Row 2177 - 'AEROBATICS WARNINGAerobatic Maneuvers prohibited near airports.' in BG longer than in English
+- Row 2181 - 'RUNWAY IDLE WARNINGStaying on active runways for extended periods of time is prohibited.Exit the runway or take off to avoid receiving a violation' in BG longer than in English
+- Row 2185 - 'TAXI SPEED WARNINGMax ground speed while taxiing: 35kts.Slow down to avoid violations.' in BG longer than in English
+- Row 2221 - 'Est. Flight Time' in BG longer than in English
+- Row 2225 - 'Fuel Burn' in BG longer than in English
+- Row 2229 - 'Fuel Tanks' in BG longer than in English
+- Row 2261 - 'Tap to dismiss' in BG longer than in English
+- Row 2357 - 'SPEED WARNING' in BG longer than in English
+- Row 2385 - 'Exceeded max ground speed of 35kts.A level 1 violation has been issued.Slow down to avoid further violations.' in BG longer than in English
+- Row 2449 - 'Elevator Trim Down' in BG longer than in English
+- Row 2453 - 'Elevator Trim Up' in BG longer than in English
+- Row 2457 - 'Throttle Down' in BG longer than in English
+- Row 2461 - 'Throttle Up' in BG longer than in English
+- Row 2481 - 'Restore Purchases' in BG longer than in English
+- Row 2505 - 'Delete Unstarred' in BG longer than in English
