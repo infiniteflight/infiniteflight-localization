@@ -2591,4 +2591,12 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <value>No jet bridges available nearby</value>
     <comment>No jet bridges available nearby</comment>
   </data>
+  <data name="MapItemInfoControl.Contributor" xml:space="preserve">
+    <value>Contributor</value>
+    <comment>Contributor</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributors" xml:space="preserve">
+    <value>Contributors</value>
+    <comment>Contributors</comment>
+  </data>
 </root>
