@@ -1990,7 +1990,7 @@ Keyboard to assign</value>
     <comment>Press button on \nKeyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>לִמְחוֹק</value>
     <comment>Delete</comment>
   </data>
   <data name="Settings.Controls.MoveAxisPrompt" xml:space="preserve">
@@ -2280,7 +2280,7 @@ No waypoint in Flight Plan</comment>
     <comment>Violations: {0}/{1}</comment>
   </data>
   <data name="Multiplayer.GotIt" xml:space="preserve">
-    <value>הבנת!</value>
+    <value>!הבנת</value>
     <comment>Got it!</comment>
   </data>
   <data name="Multiplayer.Welcome" xml:space="preserve">
@@ -2312,7 +2312,7 @@ No waypoint in Flight Plan</comment>
     <comment>XP</comment>
   </data>
   <data name="FlightRatingPage.ReputationEarned" xml:space="preserve">
-    <value>XP Earned</value>
+    <value>הרוויח XP</value>
     <comment>XP Earned</comment>
   </data>
   <data name="FlightRatingPage.ViolationCount" xml:space="preserve">
@@ -2520,7 +2520,7 @@ Slow down to avoid further violations.</comment>
     <comment>Delete {0} selected replay files?</comment>
   </data>
   <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
-    <value>למחוק קובץ השמעה חוזרת שנבחרה?</value>
+    <value>?למחוק קובץ השמעה חוזרת שנבחרה</value>
     <comment>Delete selected replay file?</comment>
   </data>
   <data name="Replay.DeleteUnstarred" xml:space="preserve">
