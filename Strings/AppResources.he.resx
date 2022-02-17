@@ -686,7 +686,7 @@
     <comment>Aileron Trim</comment>
   </data>
   <data name="Commands.AileronTrim.Description" xml:space="preserve">
-    <value>שולט על עיטור הכנפיים/value>
+    <value>שולט על עיטור הכנפיים/</value>
     <comment>Controls the Aileron Trim</comment>
   </data>
   <data name="Commands.BeaconLights" xml:space="preserve">
