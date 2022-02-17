@@ -186,35 +186,35 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>(error code {0}) Infinite Flight Pro החשבון שאליו אתה מנסה להתחבר כבר מקושר למנוי אחר של</value>
+    <value>(קוד שגיאה {0}) Infinite Flight Pro החשבון שאליו אתה מנסה להתחבר כבר מקושר למנוי אחר של</value>
     <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>(error code {0}) חשבונך הושעה</value>
+    <value>(קוד שגיאה {0}) חשבונך הושעה</value>
     <comment>Your account has been suspended (error code {0})</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>(error code {0}) לא הצלחנו למצוא מידע על הפעלת בקרת תעבורה אווירית זו</value>
+    <value>(קוד שגיאה {0}) לא הצלחנו למצוא מידע על הפעלת בקרת תעבורה אווירית זו</value>
     <comment>We can't find information about this ATC session (error code {0})</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>(error code {0}) אירעה שגיאה באימות חשבון זה אצל הספק</value>
+    <value>(קוד שגיאה {0}) אירעה שגיאה באימות חשבון זה אצל הספק</value>
     <comment>There was an error validating this account with the provider (error code {0})</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>(error code {0}) לא יכול להתחבר לשרת Infinite Flight</value>
+    <value>(קוד שגיאה {0}) לא יכול להתחבר לשרת Infinite Flight</value>
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>(error code {0}) נסה שוב בקרוב .Infinite Flight הייתה שגיאה בשרתים</value>
+    <value>(קוד שגיאה {0}) נסה שוב בקרוב .Infinite Flight הייתה שגיאה בשרתים</value>
     <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>(error code {0}) חשבונך אינו מורשה לבצע פעולה זו, אנא צור קשר עם התמיכה</value>
+    <value>(קוד שגיאה {0}) חשבונך אינו מורשה לבצע פעולה זו, אנא צור קשר עם התמיכה</value>
     <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>(error code {0}) השרתים שלנו מתקשים בעיבוד זה, נסה שוב בקרוב</value>
+    <value>(קוד שגיאה {0}) השרתים שלנו מתקשים בעיבוד זה, נסה שוב בקרוב</value>
     <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
@@ -222,23 +222,23 @@
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>(error code {0}) מתקשה להתחבר לשרת Infinite Flight</value>
+    <value>(קוד שגיאה {0}) מתקשה להתחבר לשרת Infinite Flight</value>
     <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>(error code {0}) הערך שאתה מעדכן אינו חוקי</value>
+    <value>(קוד שגיאה {0}) הערך שאתה מעדכן אינו חוקי</value>
     <comment>The value you are updating isn't valid (error code {0})</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>(error code {0}) לחשבון שאליו אתה מנסה להיכנס יש אישורים לא חוקיים</value>
+    <value>(קוד שגיאה {0}) לחשבון שאליו אתה מנסה להיכנס יש אישורים לא חוקיים</value>
     <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>(error code {0}) הייתה בעיה בחיבור לשרת</value>
+    <value>(קוד שגיאה {0}) הייתה בעיה בחיבור לשרת</value>
     <comment>There was a problem connecting to the server (error code {0})</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>(error code {0}) אנחנו לא יכולים להתחבר לשרת Infinite Flight</value>
+    <value>(קוד שגיאה {0}) אנחנו לא יכולים להתחבר לשרת Infinite Flight</value>
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
@@ -246,7 +246,7 @@
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>(error code {0}) Infinite Flight Pro חשבון זה אינו מקושר למנוי</value>
+    <value>(קוד שגיאה {0}) Infinite Flight Pro חשבון זה אינו מקושר למנוי</value>
     <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
@@ -838,7 +838,7 @@
     <comment>Infinite Flight Pro (1 year)</comment>
   </data>
   <data name="Global.InfiniteFlightPro.6Months" xml:space="preserve">
-    <value>Infinite Flight Pro (שישה חודשים)</value>
+    <value>(שישה חודשים) Infinite Flight Pro</value>
     <comment>Infinite Flight Pro (6 months)</comment>
   </data>
   <data name="Global.Message" xml:space="preserve">
