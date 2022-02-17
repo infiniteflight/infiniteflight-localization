@@ -222,7 +222,7 @@
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>({0} קוד שגיאה) מתקשה להתחבר לשרת Infinite Flight</value>
+    <value>מתקשה להתחבר לשרת (קוד שגיאה {0}) Infinite Flight</value>
     <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
