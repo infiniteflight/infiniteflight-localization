@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LoginSubscriptionPage.ProCarouselTitle1" xml:space="preserve">
-    <value>获取驾驶所有飞机的权限</value>
+    <value>驾驶所有飞机</value>
     <comment>ACCESS TO OUR ENTIRE FLEET</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText1" xml:space="preserve">
@@ -142,11 +142,11 @@
     <comment>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle3" xml:space="preserve">
-    <value>连线飞行</value>
+    <value>加入连线飞行</value>
     <comment>MULTIPLAYER</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle4" xml:space="preserve">
-    <value>真人ATC管制</value>
+    <value>享受真人管制</value>
     <comment>HUMAN ATC</comment>
   </data>
   <data name="Global.Back" xml:space="preserve">
@@ -862,7 +862,7 @@
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
-    <value>你已经绑定了你的IFC账号。在其他设备上登录即可同步账号信息。</value>
+    <value>你已经绑定了你的IFC账号。在其他设备上登录即可同步账号信息</value>
     <comment>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</comment>
   </data>
   <data name="Settings.Account.Forum.Title" xml:space="preserve">
@@ -1166,7 +1166,7 @@
     <comment>End Flight</comment>
   </data>
   <data name="GameMenu.EndSession" xml:space="preserve">
-    <value>结束管制</value>
+    <value>退出</value>
     <comment>End Session (ATC)</comment>
   </data>
   <data name="GameMenu.Paused" xml:space="preserve">
@@ -1210,11 +1210,11 @@
     <comment>End Flight</comment>
   </data>
   <data name="GamePage.EndSession.Message" xml:space="preserve">
-    <value>确定结束本次管制？</value>
+    <value>确定退出？</value>
     <comment>Are you sure you want to end this session?</comment>
   </data>
   <data name="GamePage.EndSession.Title" xml:space="preserve">
-    <value>结束管制</value>
+    <value>退出</value>
     <comment>End Session</comment>
   </data>
   <data name="Global.Grade" xml:space="preserve">
@@ -1818,11 +1818,11 @@
     <comment>Airport</comment>
   </data>
   <data name="Notam.Ceiling" xml:space="preserve">
-    <value>高度下限：{0}英尺</value>
+    <value>高度上限：{0}英尺</value>
     <comment>Ceiling</comment>
   </data>
   <data name="Notam.Floor" xml:space="preserve">
-    <value>高度上限：{0}英尺</value>
+    <value>高度下限：{0}英尺</value>
     <comment>Floor</comment>
   </data>
   <data name="Notam.From" xml:space="preserve">
@@ -1898,7 +1898,7 @@
     <comment>Notes</comment>
   </data>
   <data name="Logbook.ShowingFlightsOnDevice" xml:space="preserve">
-    <value>仅显示存储与此设备上的飞行</value>
+    <value>仅显示存储于此设备上的飞行</value>
     <comment>Showing flights stored on this device</comment>
   </data>
   <data name="Logbook.SoloFlights" xml:space="preserve">
