@@ -182,63 +182,63 @@
     <comment>Scenery Editor</comment>
   </data>
   <data name="LiveMapControl.LiveData" xml:space="preserve">
-    <value>נתונים חיים (כל השרתים)</value>
+    <value>Live Data (All Servers)</value>
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>(error code {0}) Infinite Flight Pro החשבון שאליו אתה מנסה להתחבר כבר מקושר למנוי אחר של</value>
+    <value>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</value>
     <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>(error code {0}) חשבונך הושעה</value>
+    <value>Your account has been suspended (error code {0})</value>
     <comment>Your account has been suspended (error code {0})</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>(error code {0}) לא הצלחנו למצוא מידע על הפעלת בקרת תעבורה אווירית זו</value>
+    <value>We can't find information about this ATC session (error code {0})</value>
     <comment>We can't find information about this ATC session (error code {0})</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>(error code {0}) אירעה שגיאה באימות חשבון זה אצל הספק</value>
+    <value>There was an error validating this account with the provider (error code {0})</value>
     <comment>There was an error validating this account with the provider (error code {0})</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>(error code {0}) לא יכול להתחבר לשרת Infinite Flight</value>
+    <value>Infinite Flight can't connect to the server (error code {0})</value>
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>(error code {0}) נסה שוב בקרוב .Infinite Flight הייתה שגיאה בשרתים</value>
+    <value>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</value>
     <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>(error code {0}) חשבונך אינו מורשה לבצע פעולה זו, אנא צור קשר עם התמיכה</value>
+    <value>Your account isn't allowed to carry out this action, please contact support (error code {0})</value>
     <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>(error code {0}) השרתים שלנו מתקשים בעיבוד זה, נסה שוב בקרוב</value>
+    <value>Our servers are having trouble processing this, try again shortly (error code {0})</value>
     <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
-    <value>שְׁגִיאָה</value>
+    <value>Error</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>(error code {0}) מתקשה להתחבר לשרת Infinite Flight</value>
+    <value>Infinite Flight is having trouble connecting to the server (error code {0})</value>
     <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>(error code {0}) הערך שאתה מעדכן אינו חוקי</value>
+    <value>The value you are updating isn't valid (error code {0})</value>
     <comment>The value you are updating isn't valid (error code {0})</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>(error code {0}) לחשבון שאליו אתה מנסה להיכנס יש אישורים לא חוקיים</value>
+    <value>The account you are trying to login to has invalid credentials (error code {0})</value>
     <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>(error code {0}) הייתה בעיה בחיבור לשרת</value>
+    <value>There was a problem connecting to the server (error code {0})</value>
     <comment>There was a problem connecting to the server (error code {0})</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>(error code {0}) אנחנו לא יכולים להתחבר לשרת Infinite Flight</value>
+    <value>Infinite Flight can't connect to the server (error code {0})</value>
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
@@ -246,7 +246,7 @@
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>(error code {0}) Infinite Flight Pro חשבון זה אינו מקושר למנוי</value>
+    <value>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</value>
     <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
@@ -282,7 +282,7 @@
     <comment>This subscription can't be purchased due to an error. Check our User Guide for more information and try again</comment>
   </data>
   <data name="LoginSubscriptionPage.Pricing" xml:space="preserve">
-    <value>{0} / חוֹדֶשׁ</value>
+    <value>{0} / month</value>
     <comment>{price} / month</comment>
   </data>
   <data name="Global.Cancel" xml:space="preserve">
@@ -314,7 +314,7 @@
     <comment>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeWarning" xml:space="preserve">
-    <value>.Infinite Flight השתמש בפונקציה זו רק אם נדרש על ידי חבר צוות</value>
+    <value>Use this function only if asked by an Infinite Flight team member.</value>
     <comment>Use this function only if asked by an Infinite Flight team member.</comment>
   </data>
   <data name="Settings.EnterDiagnosticsMode" xml:space="preserve">
@@ -354,7 +354,7 @@
     <comment>Interface Timeout</comment>
   </data>
   <data name="Settings.General.InvertCockpitCameraMotion.Subtitle" xml:space="preserve">
-    <value>הופך את התנועה של המצלמה הפנימית (מגדל, מובנה, תא נהג)</value>
+    <value>Inverts the motion of internal camera (Tower, Onboard, Cockpit)</value>
     <comment>Inverts the motion of internal camera (Tower, Onboard, Cockpit)</comment>
   </data>
   <data name="Settings.General.InvertCockpitCameraMotion.Title" xml:space="preserve">
@@ -462,7 +462,7 @@
     <comment>Warning</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Subtitle" xml:space="preserve">
-    <value>צמידו אוטומטית את הגלגלים הגה (על הקרקע בלבד)</value>
+    <value>Automatically couple the ailerons and rudder (on the ground only)</value>
     <comment>Automatically couple the ailerons and rudder (on the ground only)</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Title" xml:space="preserve">
@@ -494,19 +494,19 @@
     <comment>Clear Scenery Cache</comment>
   </data>
   <data name="Settings.General.Connect.Subtitle" xml:space="preserve">
-    <value>(ניסיוני) Infinite Flight Connect API הפעל את מערכת</value>
+    <value>Enable Infinite Flight Connect API System (Experimental)</value>
     <comment>Enable Infinite Flight Connect API System (Experimental)</comment>
   </data>
   <data name="Settings.General.Connect.Title" xml:space="preserve">
-    <value>Infinite Flight Connect לְאַפשֵׁר</value>
+    <value>Enable Infinite Flight Connect</value>
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>ForeFlight שולח נתוני מיקום/גישה/תנועה למכשירים מקומיים המריצים</value>
+    <value>Sends Position/Attitude/Traffic data to local devices running ForeFlight</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>ForeFlight Link לְאַפשֵׁר</value>
+    <value>Enable ForeFlight Link</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
@@ -706,19 +706,19 @@
     <comment>Controls the Elevator Trim</comment>
   </data>
   <data name="Commands.FlapsDownFull" xml:space="preserve">
-    <value>למטה (מלא) Flaps</value>
+    <value>Flaps Down (Full)</value>
     <comment>Flaps Down (Full)</comment>
   </data>
   <data name="Commands.FlapsDownStep" xml:space="preserve">
-    <value>למטה (שלב אחד) Flaps</value>
+    <value>Flaps Down (1 Step)</value>
     <comment>Flaps Down (1 Step)</comment>
   </data>
   <data name="Commands.FlapsUpFull" xml:space="preserve">
-    <value>(מלא) למעלה Flaps</value>
+    <value>Flaps Up (Full)</value>
     <comment>Flaps Up (Full)</comment>
   </data>
   <data name="Commands.FlapsUpStep" xml:space="preserve">
-    <value>(שלב אחד) למעלה Flaps</value>
+    <value>Flaps Up (1 Step)</value>
     <comment>Flaps Up (1 Step)</comment>
   </data>
   <data name="Commands.FuelDump" xml:space="preserve">
@@ -810,7 +810,7 @@
     <comment>Throttle</comment>
   </data>
   <data name="Commands.Throttle.Description" xml:space="preserve">
-    <value>שולט במצערת המטוס(ים)</value>
+    <value>Controls the airplane Throttle(s)</value>
     <comment>Controls the airplane Throttle(s)</comment>
   </data>
   <data name="Commands.ToggleSpoilers" xml:space="preserve">
@@ -830,7 +830,7 @@
     <comment>Infinite Flight Pro</comment>
   </data>
   <data name="Global.InfiniteFlightPro.1Month" xml:space="preserve">
-    <value>(חודש אחד) Infinite Flight Pro</value>
+    <value>Infinite Flight Pro (1 month)</value>
     <comment>Infinite Flight Pro (1 month)</comment>
   </data>
   <data name="Global.InfiniteFlightPro.1Year" xml:space="preserve">
@@ -890,7 +890,7 @@
     <comment>Your subscription was purchased on iOS and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.NotSubscribed" xml:space="preserve">
-    <value>Infinite Flight אתה לא מנוי</value>
+    <value>You are not subscribed to Infinite Flight Pro</value>
     <comment>You are not subscribed to Infinite Flight Pro</comment>
   </data>
   <data name="Settings.Account.Stats.Subtitle" xml:space="preserve">
@@ -906,19 +906,19 @@
     <comment>There was a problem getting your stats. Try again or contact support.</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithAutoRenew" xml:space="preserve">
-    <value>אתה מנוי ל-{0} שמתחדש ב-{1}</value>
+    <value>You are subscribed to {0} which renews on {1}</value>
     <comment>You are subscribed to {0} which renews on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithoutAutoRenew" xml:space="preserve">
-    <value>אתה מנוי ל-{0} שתוקפו יפוג ב-{1}</value>
+    <value>You are subscribed to {0} which expires on {1}</value>
     <comment>You are subscribed to {0} which expires on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
-    <value>חידוש המנוי שלך נכשל. הקש על נהל הרשמה כדי לבדוק את פרטי התשלום לפני {0}</value>
+    <value>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</value>
     <comment>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</comment>
   </data>
   <data name="Settings.Account.Subscription.Title" xml:space="preserve">
-    <value>שלך Infinite Flight Pro המנוי</value>
+    <value>Your Infinite Flight Pro Subscription</value>
     <comment>Your Infinite Flight Pro Subscription</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Subtitle" xml:space="preserve">
@@ -1098,7 +1098,7 @@
     <comment>Reset Camera</comment>
   </data>
   <data name="Commands.SelectATCEntry" xml:space="preserve">
-    <value>בחר ערך בקרת תעבורה אווירית {0}</value>
+    <value>Select ATC Entry {0}</value>
     <comment>Select ATC Entry {number}</comment>
   </data>
   <data name="Commands.StartEngine" xml:space="preserve">
@@ -1122,7 +1122,7 @@
     <comment>Toggle Flight Path Vector</comment>
   </data>
   <data name="Commands.ToggleHUD" xml:space="preserve">
-    <value>HUD הפעל</value>
+    <value>Toggle HUD</value>
     <comment>Toggle HUD</comment>
   </data>
   <data name="Commands.TogglePause" xml:space="preserve">
@@ -1166,7 +1166,7 @@
     <comment>End Flight</comment>
   </data>
   <data name="GameMenu.EndSession" xml:space="preserve">
-    <value>(בקרת תעבורה אווירית) להפסיק את מושב</value>
+    <value>להפסיק את מושב</value>
     <comment>End Session (ATC)</comment>
   </data>
   <data name="GameMenu.Paused" xml:space="preserve">
@@ -1390,7 +1390,7 @@
     <comment>Recently released</comment>
   </data>
   <data name="AircraftPage.ReleaseInfo" xml:space="preserve">
-    <value>{0} שוחרר או עודכן ב</value>
+    <value>Released or updated in {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
   <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
@@ -1398,7 +1398,7 @@
     <comment>Show Legacy Aircraft</comment>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
-    <value>Pro הצג מטוסי</value>
+    <value>Show Pro Aircraft</value>
     <comment>Show Pro Aircraft</comment>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
@@ -1510,15 +1510,15 @@
     <comment>Unknown</comment>
   </data>
   <data name="Grade.FlightTimeLongPeriod" xml:space="preserve">
-    <value>זמן טיסה (90 ימים)</value>
+    <value>Flight Time (90 days)</value>
     <comment>Flight Time (90 days)</comment>
   </data>
   <data name="Grade.LandingCountLongPeriod" xml:space="preserve">
-    <value>נחיתות (90 ימים)</value>
+    <value>Landings (90 days)</value>
     <comment>Landings (90 days)</comment>
   </data>
   <data name="Grade.ReportCountMediumPeriod" xml:space="preserve">
-    <value>הפרות ברמה שלוש (שבעה ימים)</value>
+    <value>Level 3 Violations (7 days)</value>
     <comment>Level 3 Violations (7 days)</comment>
   </data>
   <data name="Grade.Requirements" xml:space="preserve">
@@ -1534,23 +1534,23 @@
     <comment>Show Violation History</comment>
   </data>
   <data name="Grade.Total12MonthsATCAllReports" xml:space="preserve">
-    <value>כל ההפרות ברמה שתיים/שלוש (שנה אחת)</value>
+    <value>All Level 2/3 Violations (1 year)</value>
     <comment>All Level 2/3 Violations (1 year)</comment>
   </data>
   <data name="Grade.Total12MonthsATCMajorReports" xml:space="preserve">
-    <value>הפרות ברמה שלוש (שנה אחת)</value>
+    <value>Level 3 Violations (1 year)</value>
     <comment>Level 3 Violations (1 year)</comment>
   </data>
   <data name="Grade.Total12MonthsATCMinorReports" xml:space="preserve">
-    <value>הפרות ברמה שתיים (שנה אחת)</value>
+    <value>Level 2 Violations (1 year)</value>
     <comment>Level 2 Violations (1 year)</comment>
   </data>
   <data name="Grade.TotalFlightTime" xml:space="preserve">
-    <value>זמן טיסה כולל</value>
+    <value>Total Flight Time</value>
     <comment>Total Flight Time</comment>
   </data>
   <data name="Grade.TotalLandings" xml:space="preserve">
-    <value>סך נחיתות</value>
+    <value>Total Landings</value>
     <comment>Total Landings</comment>
   </data>
   <data name="Grade.TotalXP" xml:space="preserve">
@@ -1558,15 +1558,15 @@
     <comment>XP</comment>
   </data>
   <data name="Grade.ViolationsByLandingShortPeriod" xml:space="preserve">
-    <value>הפרות / נחיתה ברמה אחת (שנים עשר חודשים)</value>
+    <value>Level 1 Violations/Landing (12 Months)</value>
     <comment>Level 1 Violations/Landing (12 Months)</comment>
   </data>
   <data name="Grade.ViolationsMediumPeriod" xml:space="preserve">
-    <value>הפרות ברמה אחת (שבעה ימים)</value>
+    <value>Level 1 Violations (7 days)</value>
     <comment>Level 1 Violations (7 days)</comment>
   </data>
   <data name="Grade.ViolationsShortPeriod" xml:space="preserve">
-    <value>הפרות ברמה אחת (עשרים וארבע שעות)</value>
+    <value>Level 1 Violations (24 hours)</value>
     <comment>Level 1 Violations (24 hours)</comment>
   </data>
   <data name="ItemSearchControl.NoResultsFor" xml:space="preserve">
@@ -1610,7 +1610,7 @@
     <comment>Grade Required: {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.InsufficientGradePrompt" xml:space="preserve">
-    <value>אין לך את הציון הנדרש לטוס עליו {0}</value>
+    <value>You do not have the required grade to fly on {0}</value>
     <comment>You do not have the required grade to fly on {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.YourGrade" xml:space="preserve">
@@ -1626,11 +1626,11 @@
     <comment>No ATC Access on {0}</comment>
   </data>
   <data name="MenuPageBase.NoProFound" xml:space="preserve">
-    <value>Infinite Flight Pro לא נמצא מנוי חוקי של</value>
+    <value>No valid Infinite Flight Pro subscription found</value>
     <comment>No valid Infinite Flight Pro subscription found</comment>
   </data>
   <data name="MenuPageBase.ProRequired" xml:space="preserve">
-    <value>.נדרש להתחיל טיסה במיקום זה. אנא שנה את שדה התעופה ההתחלתי Infinite Flight Pro</value>
+    <value>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</value>
     <comment>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="Time.1Hour" xml:space="preserve">
@@ -1790,11 +1790,11 @@
     <comment>CAN'T CONNECT</comment>
   </data>
   <data name="MenuPageBase.CannotConnect.Message" xml:space="preserve">
-    <value>.חווה בעיות קישוריות לאינטרנט. אנא בדוק את חיבור האינטרנט שלך והפעל מחדש את האפליקציה או נסה שוב מאוחר יותר Infinite Flight</value>
+    <value>Infinite Flight is experiencing internet connectivity issues. Please check your internet connection and restart the app or try again later.</value>
     <comment>Infinite Flight is experiencing internet connectivity issues. Please check your internet connection and restart the app or try again later.</comment>
   </data>
   <data name="MenuPageBase.ForumNotConnected" xml:space="preserve">
-    <value>צריך להיות מחובר לפני תחילת מושב Infinite Flight Community הפרופיל שלך</value>
+    <value>Your Infinite Flight Community profile needs to be connected before starting a session</value>
     <comment>Your Infinite Flight Community profile needs to be connected before starting a session</comment>
   </data>
   <data name="MenuPageBase.NoLocationSelected" xml:space="preserve">
@@ -1802,15 +1802,15 @@
     <comment>No location has been selected, please select a frequency to open.</comment>
   </data>
   <data name="MenuPageBase.ProRequiredAircraft" xml:space="preserve">
-    <value>נדרש להשתמש במטוס זה Infinite Flight Pro</value>
+    <value>Infinite Flight Pro is required to use this aircraft</value>
     <comment>Infinite Flight Pro is required to use this aircraft</comment>
   </data>
   <data name="MenuPageBase.ProRequiredStartAirport" xml:space="preserve">
-    <value>נדרש להתחיל טיסה במיקום זה. אנא שנה את שדה התעופה ההתחלתי Infinite Flight Pro</value>
+    <value>Infinite Flight Pro is required to start a flight at this location. Please change the start airport</value>
     <comment>Infinite Flight PRO is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="MenuPageBase.ShowUsernameDisabled" xml:space="preserve">
-    <value>שם המשתמש שלך צריך להיות גלוי לפני תחילת הפעלה. הפעל את "{0}" בהגדרות</value>
+    <value>Your username needs to be visible before starting a session. Enable "{0}" in settings</value>
     <comment>Your username needs to be visible before starting a session. Enable \"Show Username In-Flight\" in settings</comment>
   </data>
   <data name="Notam.Airport" xml:space="preserve">
@@ -2015,7 +2015,7 @@ Controller/Keyboard to assign</value>
     <comment>Approach Mode Cannot Be Enabled</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.AirspeedOutOfRange" xml:space="preserve">
-    <value>(250kts מקסימום) מצב גישה מושבת - מהירות אוויר מחוץ לטווח</value>
+    <value>Approach Mode Disabled - Airspeed out of range (250kts max)</value>
     <comment>Approach Mode Disabled - Airspeed out of range (250kts max)</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.BankOutOfRange" xml:space="preserve">
@@ -2220,7 +2220,7 @@ No waypoint in Flight Plan</comment>
     <comment>VNAV Target updated to {0} ({2:#0.0}NM) @ {1:n0}ft</comment>
   </data>
   <data name="Violations.ExceededDisconnection" xml:space="preserve">
-    <value>נותקת עקב הפרות עודפות עבור ההפעלה הנוכחית הזו.</value>
+    <value>.נותקת עקב הפרות עודפות עבור ההפעלה הנוכחית הזו</value>
     <comment>You have been disconnected due to excess violations for this current session.</comment>
   </data>
   <data name="Violations.LimitExceeded" xml:space="preserve">
@@ -2312,7 +2312,7 @@ No waypoint in Flight Plan</comment>
     <comment>XP</comment>
   </data>
   <data name="FlightRatingPage.ReputationEarned" xml:space="preserve">
-    <value>הרוויח XP</value>
+    <value>XP Earned</value>
     <comment>XP Earned</comment>
   </data>
   <data name="FlightRatingPage.ViolationCount" xml:space="preserve">
@@ -2340,7 +2340,7 @@ No waypoint in Flight Plan</comment>
     <comment>Loading your Airport</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingAutopilot" xml:space="preserve">
-    <value>הגדרת מהירות הטייס האוטומטי ל-{0}</value>
+    <value>Setting autopilot speed to {0}</value>
     <comment>Setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilers" xml:space="preserve">
@@ -2348,7 +2348,7 @@ No waypoint in Flight Plan</comment>
     <comment>Enabling spoilers</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilersAndAutopilot" xml:space="preserve">
-    <value>הפעלת ספוילרים והגדרת מהירות הטייס האוטומטי ל-{0}</value>
+    <value>Enabling spoilers and setting autopilot speed to {0}</value>
     <comment>Enabling spoilers and setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.Issued" xml:space="preserve">
@@ -2508,7 +2508,7 @@ Slow down to avoid further violations.</comment>
     <comment>Delete All</comment>
   </data>
   <data name="Replay.DeleteAll.Message" xml:space="preserve">
-    <value>למחוק את כל קבצי השמעה חוזרת?</value>
+    <value>?למחוק את כל קבצי השמעה חוזרת</value>
     <comment>Delete all replay files?</comment>
   </data>
   <data name="Replay.DeleteSelected" xml:space="preserve">
@@ -2528,7 +2528,7 @@ Slow down to avoid further violations.</comment>
     <comment>Delete Unstarred</comment>
   </data>
   <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
-    <value>למחוק קבצי הפעלה חוזרת ללא כוכב?</value>
+    <value>?למחוק קבצי הפעלה חוזרת ללא כוכב</value>
     <comment>Delete unstarred replay files?</comment>
   </data>
   <data name="MapItemInfoControl.Class" xml:space="preserve">
@@ -2552,27 +2552,27 @@ Slow down to avoid further violations.</comment>
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>לא נחתם הסכם; עליך לחתום על ההסכם כדי לבצע פעולה זו (קוד שגיאה {0})</value>
+    <value>An agreement has not been signed; you must sign the agreement to perform this action (error code {0})</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>שדה התעופה שנבחר אינו זמין (קוד שגיאה {0})</value>
+    <value>The selected airport is not available (error code {0})</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>יצאת מהחשבון ועליך להיכנס שוב באופן ידני (קוד שגיאה {0})</value>
+    <value>You have been logged out and need to log in again manually (error code {0})</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>תכונה זו אינה נתמכת (קוד שגיאה {0})</value>
+    <value>This feature is not supported (error code {0})</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>השרת שנבחר אינו זמין (קוד שגיאה {0})</value>
+    <value>The selected server is not available (error code {0})</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>אתה לא מוקצה לשדה התעופה הזה. אנא צור קשר עם מבקר או מנחה (קוד שגיאה {0})</value>
+    <value>You are not assigned to this airport. Please contact a reviewer or moderator (error code {0})</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
