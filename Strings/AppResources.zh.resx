@@ -144,8 +144,9 @@
     <comment>Fly with friends! Join thousands of other pilots for an immersive, global, multiplayer experience.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText4" xml:space="preserve">
-    <value>在我们的专家服务器上享受训练有素的真人ATC
-服务 或者自己加入团队成为管制员！</value>
+    <value>在我们的专家服务器上
+享受训练有素的真人ATC服务
+或者自己加入团队成为管制员！</value>
     <comment>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle3" xml:space="preserve">
