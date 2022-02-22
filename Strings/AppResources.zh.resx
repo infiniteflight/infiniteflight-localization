@@ -122,7 +122,9 @@
     <comment>ACCESS TO OUR ENTIRE FLEET</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText1" xml:space="preserve">
-    <value>数十架飞机、几百种涂装、逼真的气动模型和可动驾驶舱</value>
+    <value>数十架飞机、
+几百种涂装、
+逼真的气动模型和可动驾驶舱</value>
     <comment>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle2" xml:space="preserve">
@@ -130,15 +132,20 @@
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>全球超过20,000个机场、90 多个 3D 机场并且数量在持续增加、15m级分辨率卫星地形图像等。</value>
+    <value>全球超过20,000个机场、
+90 多个 3D 机场并且数量在持续增加、
+15m级分辨率卫星地形图像等。</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
-    <value>和你的朋友一起飞行！加入其他数千名飞行员，获得身临其境的全球多人飞行体验。</value>
+    <value>和你的朋友一起飞行！
+加入其他数千名飞行员，
+获得身临其境的全球多人飞行体验。</value>
     <comment>Fly with friends! Join thousands of other pilots for an immersive, global, multiplayer experience.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText4" xml:space="preserve">
-    <value> 在我们的专家服务器上享受训练有素的真人ATC服务，或者自己加入团队成为管制员！</value>
+    <value>在我们的专家服务器上享受训练有素的真人ATC
+服务 或者自己加入团队成为管制员！</value>
     <comment>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle3" xml:space="preserve">
@@ -570,7 +577,11 @@
     <comment>Frame rate limit</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
-    <value>将帧率设置为 60fps 可能会导致你的设备过热。为防止损坏，你的设备可能会自动降低性能，这会导致 Infinite Flight 运行缓慢。我们建议将此设置保持为 30fps。</value>
+    <value>将帧率设置为 60fps 可能会导致你的设备过热。
+为防止损坏，
+你的设备可能会自动降低性能，
+这会导致 Infinite Flight 运行缓慢。
+我们建议将此设置保持为 30fps。</value>
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
