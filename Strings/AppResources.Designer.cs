@@ -4575,6 +4575,17 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Entered an Active TFR at or near {0}
+        ///{1}
+        ///Check map for more information.
+        /// </summary>
+        internal static string SystemMessaging_Notams_EnteredTFR {
+            get {
+                return ResourceManager.GetString("SystemMessaging.Notams.EnteredTFR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Infinite Flight Pro is required to fly outside of the default regions.
         ///Tap here for more information.
         /// </summary>

@@ -2599,4 +2599,12 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <value>Contributors</value>
     <comment>Contributors</comment>
   </data>
+  <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
+    <value>Entered an Active TFR at or near {0}
+{1}
+Check map for more information</value>
+    <comment>Entered an Active TFR at or near {ICAO}
+{Title}
+Check map for more information</comment>
+  </data>
 </root>
