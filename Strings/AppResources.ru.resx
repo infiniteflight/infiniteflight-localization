@@ -306,11 +306,11 @@
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>Режим Диагностики Выключен. Убедитесь, что вы отправили последний журнал, если вы этого ещё не сделали.\nДля этого нажмите на кнопку "Отправить Журнал". Спасибо!</value>
+    <value>Режим Диагностики Выключен. Убедитесь, что вы отправили последний журнал, если вы этого ещё не сделали.\nДля этого нажмите на кнопку \"Отправить Журнал\". Спасибо!</value>
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
-    <value>Перезагрузите устройство и воспроизвести проблему или баг. После этого, вернитесь на эту страницу и нажмите "Отправить Журнал". Спасибо!</value>
+    <value>Перезагрузите устройство и воспроизведите проблему или баг. После этого, вернитесь на эту страницу и нажмите "Отправить Журнал". Спасибо!</value>
     <comment>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeWarning" xml:space="preserve">
@@ -354,7 +354,7 @@
     <comment>Interface Timeout</comment>
   </data>
   <data name="Settings.General.InvertCockpitCameraMotion.Subtitle" xml:space="preserve">
-    <value>Инвертирует вертикальное движение внешних камер (Вышка, На Борту, Кабина)</value>
+    <value>Инвертирует вертикальное движение внешних камер (Вышка, На борту, Кабина)</value>
     <comment>Inverts the motion of internal camera (Tower, Onboard, Cockpit)</comment>
   </data>
   <data name="Settings.General.InvertCockpitCameraMotion.Title" xml:space="preserve">
@@ -502,7 +502,7 @@
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Отправляет позицию/высоту/окружающий трафик на локальное устройство с запущенным ForeFlight</value>
+    <value>Отправляет позицию, высоту и окружающий трафик на локальное устройство с запущенным ForeFlight</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
@@ -522,7 +522,7 @@
     <comment>Are you sure you want to change the app language?</comment>
   </data>
   <data name="Settings.General.ScreenshotResolutionScale.Subtitle" xml:space="preserve">
-    <value>Множитель разрешения внутриигровых снимков экрана</value>
+    <value>Множитель разрешения для внутриигровых снимков экрана</value>
     <comment>Resolution scale factor for screenshots</comment>
   </data>
   <data name="Settings.General.ScreenshotResolutionScale.Title" xml:space="preserve">
@@ -862,7 +862,7 @@
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
-    <value>Вы связали ваш аккаунт Infinite Flight Community. </value>
+    <value>Вы связали ваш аккаунт Infinite Flight Community.</value>
     <comment>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</comment>
   </data>
   <data name="Settings.Account.Forum.Title" xml:space="preserve">
@@ -882,7 +882,7 @@
     <comment>Your subscription was purchased on a different platform and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Error" xml:space="preserve">
-    <value>Не можем подключиться к магазину приложений. Вы можете управлять своей подпиской зайдя в настройки подписок вашего магазина приложений.</value>
+    <value>Не можем подключиться к магазину приложений. Вы можете управлять своей подпиской, зайдя в настройки подписок вашего магазина приложений.</value>
     <comment>Can't connect to the store. You can manage your subscription by going to the store's subscriptions page.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.iOS" xml:space="preserve">
@@ -1098,7 +1098,7 @@
     <comment>Reset Camera</comment>
   </data>
   <data name="Commands.SelectATCEntry" xml:space="preserve">
-    <value>Выбрать Вариант Коммуникаций {0}</value>
+    <value>Выбрать Опцию Коммуникаций {0}</value>
     <comment>Select ATC Entry {number}</comment>
   </data>
   <data name="Commands.StartEngine" xml:space="preserve">
@@ -1146,7 +1146,7 @@
     <comment>Zoom Out</comment>
   </data>
   <data name="GameMenu.20sAgo" xml:space="preserve">
-    <value>20сек Назад</value>
+    <value>20 сек Назад</value>
     <comment>20s Ago</comment>
   </data>
   <data name="GameMenu.Calibrate" xml:space="preserve">
@@ -1806,31 +1806,31 @@
     <comment>Airport</comment>
   </data>
   <data name="Notam.Ceiling" xml:space="preserve">
-    <value>Верхний порог  : {0}фт</value>
+    <value>Верхний порог : {0}фт</value>
     <comment>Ceiling</comment>
   </data>
   <data name="Notam.Floor" xml:space="preserve">
-    <value>Нижний порог   : {0}фт</value>
+    <value>Нижний порог  : {0}фт</value>
     <comment>Floor</comment>
   </data>
   <data name="Notam.From" xml:space="preserve">
-    <value>С    : {0} {1}Z</value>
+    <value>Начало        : {0} {1}Z</value>
     <comment>From (Date)</comment>
   </data>
   <data name="Notam.Message" xml:space="preserve">
-    <value>Сообщение : {0}</value>
+    <value>Сообщение     : {0}</value>
     <comment>Message</comment>
   </data>
   <data name="Notam.Title" xml:space="preserve">
-    <value>Заголовок   : {0}</value>
+    <value>Заголовок     : {0}</value>
     <comment>Title</comment>
   </data>
   <data name="Notam.To" xml:space="preserve">
-    <value>До      : {0} {1}Z</value>
+    <value>Конец         : {0} {1}Z</value>
     <comment>To (Date)</comment>
   </data>
   <data name="Notam.UntilFurtherNotice" xml:space="preserve">
-    <value>До      : До Особого Распоряжения</value>
+    <value>Конец         : До Особого Распоряжения</value>
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
@@ -1974,7 +1974,7 @@
     <comment/>
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
-    <value>Нажмите любую конопку на клавиатуре для присваивания</value>
+    <value>Нажмите любую кнопку на клавиатуре для присваивания</value>
     <comment>Press button on \nKeyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
@@ -2114,7 +2114,7 @@
     <comment>Low Power Mode Enabled</comment>
   </data>
   <data name="SystemMessaging.OutOfRegion" xml:space="preserve">
-    <value>Чтобы летать за пределами регионов по умолчанию требуется Infinite Flight Pro. Нажмите здесь чтобы узнать больше</value>
+    <value>Чтобы летать за пределами регионов по умолчанию требуется Infinite Flight Pro. Нажмите здесь, чтобы узнать больше</value>
     <comment>Infinite Flight Pro is required to fly outside of the default regions.Tap here for more information</comment>
   </data>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
@@ -2170,7 +2170,7 @@
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>ВЫСОКАЯ СКОРОСТЬ НА ЗЕМЛЕ\nМаксимальная скорость на рулёжной дорожке: 35 узл.\nСбавьте скорость чтобы избежать нарушения.</value>
+    <value>ВЫСОКАЯ СКОРОСТЬ НА ЗЕМЛЕ\nМаксимальная скорость на рулёжной дорожке: 35 узл.\nСбавьте скорость, чтобы избежать нарушения.</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
@@ -2452,17 +2452,125 @@
   <data name="Error.NetworkErrorShort" xml:space="preserve">
      <value>Сетевая Ошибка</value>
      <comment>Network Error</comment>
-   </data>
-   <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
-     <value>Нет Дополнительной Информации</value>
-     <comment>No Additional Information</comment>
-   </data>
-   <data name="SystemsStatus.NoInfo" xml:space="preserve">
-     <value>Нет Информации</value>
-     <comment>No Info</comment>
-   </data>
-   <data name="SystemStatus.Name" xml:space="preserve">
-     <value>Статус Системы</value>
-     <comment>Systems Status</comment>
-   </data>
+  </data>
+  <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
+    <value>Нет Дополнительной Информации</value>
+    <comment>No Additional Information</comment>
+  </data>
+  <data name="SystemsStatus.NoInfo" xml:space="preserve">
+    <value>Нет Информации</value>
+    <comment>No Info</comment>
+  </data>
+  <data name="SystemStatus.Name" xml:space="preserve">
+    <value>Статус Системы</value>
+    <comment>Systems Status</comment>
+  </data>
+  <data name="Global.RestorePurchases" xml:space="preserve">
+    <value>Восстановить Покупки</value>
+    <comment>Restore Purchases</comment>
+  </data>
+  <data name="Replay.DeleteAll" xml:space="preserve">
+    <value>Удалить Все</value>
+    <comment>Delete All</comment>
+  </data>
+  <data name="Replay.DeleteAll.Message" xml:space="preserve">
+    <value>Удалить все повторы?</value>
+    <comment>Delete all replay files?</comment>
+  </data>
+  <data name="Replay.DeleteSelected" xml:space="preserve">
+    <value>Удалить Выбранные</value>
+    <comment>Delete Selected</comment>
+  </data>
+  <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
+    <value>Удалить {0} выбранных повторов?</value>
+    <comment>Delete {0} selected replay files?</comment>
+  </data>
+  <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
+    <value>Удалить выбранный повтор?</value>
+    <comment>Delete selected replay file?</comment>
+  </data>
+  <data name="Replay.DeleteUnstarred" xml:space="preserve">
+    <value>Удалить неотмеченные</value>
+    <comment>Delete Unstarred</comment>
+  </data>
+  <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
+    <value>Удалить неотмеченные повторы?</value>
+    <comment>Delete unstarred replay files?</comment>
+  </data>
+  <data name="MapItemInfoControl.Class" xml:space="preserve">
+    <value>Класс {0}</value>
+    <comment>Class {0}</comment>
+  </data>
+  <data name="MapItemInfoControl.Information" xml:space="preserve">
+    <value>ИНФОРМАЦИЯ</value>
+    <comment>Information</comment>
+  </data>
+  <data name="WeightAndBalance.Unavailable" xml:space="preserve">
+    <value>Недоступно</value>
+    <comment>Unavailable</comment>
+  </data>
+  <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
+    <value>Активируйте парковочный тормоз на рулёжной торожке чтобы менять Вес и Баланс самолёта в онлайн режиме.</value>
+    <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
+    <value>В этом аэропорту нет доступных телетрапов</value>
+    <comment>No jet bridges available at this airport</comment>
+  </data>
+  <data name="Error.AgreementNotSigned" xml:space="preserve">
+    <value>Вы не приняли соглашение; вы должны принять соглашение чтобы выполнить это действие (код ошибки {0})</value>
+    <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
+  </data>
+  <data name="Error.AirportNotFound" xml:space="preserve">
+    <value>Выбранный аэропорт недоступен (код ошибки {0})</value>
+    <comment>The selected airport is not available</comment>
+  </data>
+  <data name="Error.ExpiredToken" xml:space="preserve">
+    <value>Вы вышли из системы. Пожалуйста, войдите ещё раз (код ошибки {0})</value>
+    <comment>You have been logged out and need to log in again manually</comment>
+  </data>
+  <data name="Error.NotSupported" xml:space="preserve">
+    <value>Данный функционал не поддерживается (код ошибки {0})</value>
+    <comment>This feature is not supported</comment>
+  </data>
+  <data name="Error.ServerNotFound" xml:space="preserve">
+    <value>Выбранный сервер недоступен (код ошибки {0})</value>
+    <comment>The selected server is not available</comment>
+  </data>
+  <data name="Error.UserNotAssigned" xml:space="preserve">
+    <value>Вы не назначены к этому аэропорту. Пожалуйста, обратитесь к рецензору или модератору (код ошибки {0})</value>
+    <comment>You are not assigned to this airport</comment>
+  </data>
+  <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
+    <value>У вас нет разрешения загружать изменения для этого аэропорта.
+
+Пожалуйста, попросите быть назначеным к этому аэропорту на форуме</value>
+    <comment>You do not have permission to upload changes to this airport.
+
+Please ask to be assigned via the Scenery Editing forum first</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
+    <value>Активируйте парковочный тормоз и остановите двигатели чтобы присоединить телетрап</value>
+    <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
+    <value>Поблизости нет доступных телетрапов</value>
+    <comment>No jet bridges available nearby</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributor" xml:space="preserve">
+    <value>Автор</value>
+    <comment>Contributor</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributors" xml:space="preserve">
+    <value>Авторы</value>
+    <comment>Contributors</comment>
+  </data>
+  <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
+    <value>Вы вошли в зону ограничения полётов (TFR) {0}
+{1}
+Для более детальной информации обратитесь к карте</value>
+    <comment>Entered an Active TFR at or near {ICAO}
+{Title}
+Check map for more information</comment>
+  </data>
 </root>
