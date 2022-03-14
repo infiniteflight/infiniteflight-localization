@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!--
-    Microsoft ResX Schema
-
+  <!-- 
+    Microsoft ResX Schema 
+    
     Version 2.0
-
-    The primary goals of this format is to allow a simple XML format
-    that is mostly human readable. The generation and parsing of the
-    various data types are done through the TypeConverter classes
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
     associated with the data types.
-
+    
     Example:
-
+    
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,79 +26,79 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-
-    There are any number of "resheader" rows that contain simple
+                
+    There are any number of "resheader" rows that contain simple 
     name/value pairs.
-
-    Each data row contains a name, and value. The row also contains a
-    type or mimetype. Type corresponds to a .NET class that support
-    text/value conversion through the TypeConverter architecture.
-    Classes that don't support this are serialized and stored with the
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
     mimetype set.
-
-    The mimetype is used for serialized objects, and tells the
-    ResXResourceReader how to depersist the object. This is currently not
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
     extensible. For a given mimetype the value must be set accordingly:
-
-    Note - application/x-microsoft.net.object.binary.base64 is the format
-    that the ResXResourceWriter will generate, however the reader can
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
     read any of the formats listed below.
-
+    
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with
+    value   : The object must be serialized with 
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-
+    
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with
+    value   : The object must be serialized with 
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array
+    value   : The object must be serialized into a byte array 
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -118,711 +118,711 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LoginSubscriptionPage.ProCarouselTitle1" xml:space="preserve">
-    <value>ДОСТЪП ДО ЦЯЛАТА НИ ФЛОТА</value>
+    <value>ACCESS TO OUR ENTIRE FLEET</value>
     <comment>ACCESS TO OUR ENTIRE FLEET</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText1" xml:space="preserve">
-    <value>Множество самолети, стотици ливреи, реалистични модели и анимирани кабини</value>
+    <value>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</value>
     <comment>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle2" xml:space="preserve">
-    <value>ПРЕОТКРИЙТЕ СВЕТА</value>
+    <value>DISCOVER THE WORLD</value>
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>Над 20000 летища по целия свят, 90+ 3D летища, 15m/px сателитни снимки на света, и още.</value>
+    <value>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
-    <value>Летете с приятели! Присъединете се към хиляди други пилоти за поглъщащо, глобално мултиплейър преживяване.</value>
+    <value>Fly with friends! Join thousands of other pilots for an immersive, global, multiplayer experience.</value>
     <comment>Fly with friends! Join thousands of other pilots for an immersive, global, multiplayer experience.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText4" xml:space="preserve">
-    <value>Изпитайте истински, тренирани ръководители на въздушния трафик в нашия експертен сървър, или се изкачете по ранговете, за да станете ръководител сами!</value>
+    <value>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</value>
     <comment>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle3" xml:space="preserve">
-    <value>МУЛТИПЛЕйЪР</value>
+    <value>MULTIPLAYER</value>
     <comment>MULTIPLAYER</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle4" xml:space="preserve">
-    <value>ИСТИНСКИ РВД</value>
+    <value>HUMAN ATC</value>
     <comment>HUMAN ATC</comment>
   </data>
   <data name="Global.Back" xml:space="preserve">
-    <value>ОБРАТНО</value>
+    <value>BACK</value>
     <comment>Back button text</comment>
   </data>
   <data name="Global.Ok" xml:space="preserve">
-    <value>ОК</value>
+    <value>OK</value>
     <comment>OK button text</comment>
   </data>
   <data name="IntroPage.ATC" xml:space="preserve">
-    <value>РЪКОВОДСТВО НА ВЪЗДУШНИЯ ТРАФИК (РВД)</value>
+    <value>AIR TRAFFIC CONTROL</value>
     <comment>Air Traffic Control</comment>
   </data>
   <data name="IntroPage.FlyOnline" xml:space="preserve">
-    <value>ОНЛАЙН ПОЛЕТ</value>
+    <value>FLY ONLINE</value>
     <comment>Fly Online</comment>
   </data>
   <data name="IntroPage.FlySolo" xml:space="preserve">
-    <value>СОЛО ПОЛЕТ</value>
+    <value>FLY SOLO</value>
     <comment>Fly Solo</comment>
   </data>
   <data name="IntroPage.Logbook" xml:space="preserve">
-    <value>ДНЕВНИК</value>
+    <value>LOGBOOK</value>
     <comment>Logbook</comment>
   </data>
   <data name="IntroPage.Replays" xml:space="preserve">
-    <value>ЗАПИСИ</value>
+    <value>REPLAYS</value>
     <comment>Replays</comment>
   </data>
   <data name="IntroPage.SceneryEditor" xml:space="preserve">
-    <value>РЕДАКТОР НА ТОПОГРАФИЯТА</value>
+    <value>SCENERY EDITOR</value>
     <comment>Scenery Editor</comment>
   </data>
   <data name="LiveMapControl.LiveData" xml:space="preserve">
-    <value>Данни на живо (Всички сървъри)</value>
+    <value>Live Data (All Servers)</value>
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>Акаунтът, към който се опитвате да се свържете, вече е свързан с друг Infinite Flight Pro абонамент (код на грешката {0})</value>
+    <value>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</value>
     <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Акаунтът ви е прекратен (код на грешката {0})</value>
+    <value>Your account has been suspended (error code {0})</value>
     <comment>Your account has been suspended (error code {0})</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>Не можем да намерим информация за тази РВД сесия (код на грешката {0})</value>
+    <value>We can't find information about this ATC session (error code {0})</value>
     <comment>We can't find information about this ATC session (error code {0})</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>Грешка при валидиране на акаунта с доставчика (код на грешката {0})</value>
+    <value>There was an error validating this account with the provider (error code {0})</value>
     <comment>There was an error validating this account with the provider (error code {0})</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight не може да се свърже със сървъра (код на грешката {0})</value>
+    <value>Infinite Flight can't connect to the server (error code {0})</value>
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Грешка в сървърите на Infinite Flight. Опитайте отново по-късно (код на грешката {0})</value>
+    <value>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</value>
     <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Акаунтът ви няма права да извърши това действие, моля, свържете се с поддръжката (код на грешката {0})</value>
+    <value>Your account isn't allowed to carry out this action, please contact support (error code {0})</value>
     <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Сървърите ни не могат да обработят заявката, опитайте отново по-късно (код на грешката {0})</value>
+    <value>Our servers are having trouble processing this, try again shortly (error code {0})</value>
     <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
-    <value>Грешка</value>
+    <value>Error</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight не може да се свърже със сървъра (код на грешката {0})</value>
+    <value>Infinite Flight is having trouble connecting to the server (error code {0})</value>
     <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>Стойността, която редактирате, не е валидна (код на грешката {0})</value>
+    <value>The value you are updating isn't valid (error code {0})</value>
     <comment>The value you are updating isn't valid (error code {0})</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>Акаунтът, към който се опитвате да се свържете, е с невалидни данни (код на грешката {0})</value>
+    <value>The account you are trying to login to has invalid credentials (error code {0})</value>
     <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>Проблем при свързването със сървъра (код на грешката {0})</value>
+    <value>There was a problem connecting to the server (error code {0})</value>
     <comment>There was a problem connecting to the server (error code {0})</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Infinite Flight не може да се свърже със сървъра (код на грешката {0})</value>
+    <value>Infinite Flight can't connect to the server (error code {0})</value>
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
-    <value>Стриймингът на Глобалния сървър е неуспешен, защото паметта на устройството ви е пълна</value>
+    <value>Global Server streaming has failed because your device storage is full</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Този акаунт не е свързан с Infinite Flight Pro абонамент (код на грешката {0})</value>
+    <value>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</value>
     <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
-    <value>Носете страстта си</value>
+    <value>Carry your passion</value>
     <comment>Carry your passion</comment>
   </data>
   <data name="Global.Retry" xml:space="preserve">
-    <value>Опитайте Отново</value>
+    <value>Retry</value>
     <comment>Retry (button text)</comment>
   </data>
   <data name="Global.UserGuide" xml:space="preserve">
-    <value>Упътване за Употреба</value>
+    <value>User Guide</value>
     <comment>User Guide</comment>
   </data>
   <data name="LoginAuthPage.ExistingAccountPrompt" xml:space="preserve">
-    <value>Впишете се, за да използвате абонамент, купен на друго устройство</value>
+    <value>Sign in to use a subscription bought on another device</value>
     <comment>Sign in to use a subscription bought on another device</comment>
   </data>
   <data name="LoginSubscriptionPage.ExistingAccount" xml:space="preserve">
-    <value>Вече имам акаунт</value>
+    <value>I already have an account</value>
     <comment>I already have an account</comment>
   </data>
   <data name="LoginSubscriptionPage.MoreInfo" xml:space="preserve">
-    <value>Повече инфо</value>
+    <value>More Info</value>
     <comment>More Info</comment>
   </data>
   <data name="LoginSubscriptionPage.NotAvailable" xml:space="preserve">
-    <value>Недостъпно</value>
+    <value>Not Available</value>
     <comment>Not Available</comment>
   </data>
   <data name="LoginSubscriptionPage.NotAvailableMessage" xml:space="preserve">
-    <value>Абонаментът не може да бъде купен поради грешка. Прочетете Упътването ни за Употреба за повече информация и опитайте отново</value>
+    <value>This subscription can't be purchased due to an error. Check our User Guide for more information and try again</value>
     <comment>This subscription can't be purchased due to an error. Check our User Guide for more information and try again</comment>
   </data>
   <data name="LoginSubscriptionPage.Pricing" xml:space="preserve">
-    <value>{0} / месец</value>
+    <value>{0} / month</value>
     <comment>{price} / month</comment>
   </data>
   <data name="Global.Cancel" xml:space="preserve">
-    <value>Отмяна</value>
+    <value>Cancel</value>
     <comment>Cancel (button text)</comment>
   </data>
   <data name="Settings.About" xml:space="preserve">
-    <value>Относно</value>
+    <value>ABOUT</value>
     <comment>About (button title)</comment>
   </data>
   <data name="Settings.Account" xml:space="preserve">
-    <value>Акаунт</value>
+    <value>Account</value>
     <comment>Account (tab title)</comment>
   </data>
   <data name="Settings.Controls" xml:space="preserve">
-    <value>Контроли</value>
+    <value>Controls</value>
     <comment>Controls (tab title)</comment>
   </data>
   <data name="Settings.DiagnosticsMode" xml:space="preserve">
-    <value>Режим на диагностика</value>
+    <value>Diagnostics Mode</value>
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>Режимът на диагностика е изключен, изпратете ни логът, ако все още не сте.\nНатиснете бутона "Изпратете Лог", благодарим!</value>
+    <value>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the "Send Log" button, thanks!</value>
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
-    <value>Рестартирайте устройството си и възпроизведете проблем или бъг. След това се върнете на тази страница и натиснете бутона "Изпрати Лог", благодарим!</value>
+    <value>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</value>
     <comment>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeWarning" xml:space="preserve">
-    <value>Използвайте тази функция само ако сте помолени от член на Infinite Flight.</value>
+    <value>Use this function only if asked by an Infinite Flight team member.</value>
     <comment>Use this function only if asked by an Infinite Flight team member.</comment>
   </data>
   <data name="Settings.EnterDiagnosticsMode" xml:space="preserve">
-    <value>Включи режим на диагностика</value>
+    <value>Enter Diagnostics Mode</value>
     <comment>Enter Diagnostics Mode (button)</comment>
   </data>
   <data name="Settings.ExitDiagnosticsMode" xml:space="preserve">
-    <value>Изключи режимът на диагностика</value>
+    <value>Exit Diagnostics Mode</value>
     <comment>Exit Diagnostics Mode (button)</comment>
   </data>
   <data name="Settings.General" xml:space="preserve">
-    <value>Общи</value>
+    <value>General</value>
     <comment>General (tab title)</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Subtitle" xml:space="preserve">
-    <value>Автоматично задаване на началното летище където последният полет е приключил</value>
+    <value>Automatically set the start airport to where the last flight ended</value>
     <comment>Automatically set the start airport to where the last flight ended.</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Title" xml:space="preserve">
-    <value>Автоматично Задаване На Началното Летище</value>
+    <value>Automatically Set Start Airport</value>
     <comment>Automatically Set Start Airport</comment>
   </data>
   <data name="Settings.General.ControlSensitivity.Subtitle" xml:space="preserve">
-    <value>Задава чувствителността на контролите</value>
+    <value>Sets the controls sensitivity</value>
     <comment>Sets the controls sensitivity</comment>
   </data>
   <data name="Settings.General.ControlSensitivity.Title" xml:space="preserve">
-    <value>Чувствителност на контролите</value>
+    <value>Control Sensitivity</value>
     <comment>Control Sensitivity</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Subtitle" xml:space="preserve">
-    <value>Контролира колко време контролите на Интерфейса остават на екрана.</value>
+    <value>Controls how long the User Interface controls stay on screen.</value>
     <comment>Controls how long the User Interface controls stay on screen.</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Title" xml:space="preserve">
-    <value>Таймаут на Интерфейса</value>
+    <value>Interface Timeout</value>
     <comment>Interface Timeout</comment>
   </data>
   <data name="Settings.General.InvertCockpitCameraMotion.Subtitle" xml:space="preserve">
-    <value>Обръща движението на вътрешните камери (Кула, Бордова камера, Кабина)</value>
+    <value>Inverts the motion of internal camera (Tower, Onboard, Cockpit)</value>
     <comment>Inverts the motion of internal camera (Tower, Onboard, Cockpit)</comment>
   </data>
   <data name="Settings.General.InvertCockpitCameraMotion.Title" xml:space="preserve">
-    <value>Обръщане На Вертикалното Движението На Вътрешните Камери</value>
+    <value>Invert Internal Cameras Vertical Motion</value>
     <comment>Invert Internal Cameras Vertical Motion</comment>
   </data>
   <data name="Settings.General.InvertVerticalCameraMotion.Subtitle" xml:space="preserve">
-    <value>Обръщане на вертикалното движение на външните камери</value>
+    <value>Invert the vertical motion of the external cameras</value>
     <comment>Invert the vertical motion of the external cameras</comment>
   </data>
   <data name="Settings.General.InvertVerticalCameraMotion.Title" xml:space="preserve">
-    <value>Обръщане на Вертикалното Движение на Външните Камери</value>
+    <value>Invert External Cameras Vertical Motion</value>
     <comment>Invert External Cameras Vertical Motion</comment>
   </data>
   <data name="Settings.General.LandingAid.Subtitle" xml:space="preserve">
-    <value>Показва правоъгълници около глисадата. Помага за стабилизирани кацания.</value>
+    <value>Shows a set of rectangles around the landing path. Helps make stabilized landings.</value>
     <comment>Shows a set of rectangles around the landing path. Helps make stabilized landings.</comment>
   </data>
   <data name="Settings.General.LandingAid.Title" xml:space="preserve">
-    <value>Помощ при Кацане</value>
+    <value>Landing Aid</value>
     <comment>Landing Aid</comment>
   </data>
   <data name="Settings.General.Language.Subtitle" xml:space="preserve">
-    <value>Задава езика на интерйеса на приложението</value>
+    <value>Sets the language of the app's interface</value>
     <comment>Sets the language of the app's interface</comment>
   </data>
   <data name="Settings.General.Language.Title" xml:space="preserve">
-    <value>Език</value>
+    <value>Language</value>
     <comment>Language</comment>
   </data>
   <data name="Settings.General.ShowAirportNames.Subtitle" xml:space="preserve">
-    <value>Показва имената и дистанцията до летищата по време на полет</value>
+    <value>Show names and distance of the airports while flying</value>
     <comment>Show names and distance of the airports while flying</comment>
   </data>
   <data name="Settings.General.ShowAirportNames.Title" xml:space="preserve">
-    <value>Имена на Летища</value>
+    <value>Airport Names</value>
     <comment>Airport Names</comment>
   </data>
   <data name="Settings.Graphics" xml:space="preserve">
-    <value>Графики</value>
+    <value>Graphics</value>
     <comment>Graphics (tab title)</comment>
   </data>
   <data name="Settings.Multiplayer" xml:space="preserve">
-    <value>Мултиплейър</value>
+    <value>Online</value>
     <comment>Multiplayer (tab title)</comment>
   </data>
   <data name="Settings.Option.High" xml:space="preserve">
-    <value>Висока</value>
+    <value>High</value>
     <comment>High (option)</comment>
   </data>
   <data name="Settings.Option.Kilograms" xml:space="preserve">
-    <value>Килограми (Kg)</value>
+    <value>Kilograms (Kg)</value>
     <comment>Kilograms (option)</comment>
   </data>
   <data name="Settings.Option.Low" xml:space="preserve">
-    <value>Ниска</value>
+    <value>Low</value>
     <comment>Low (option)</comment>
   </data>
   <data name="Settings.Option.Medium" xml:space="preserve">
-    <value>Средна</value>
+    <value>Medium</value>
     <comment>Medium (option)</comment>
   </data>
   <data name="Settings.Option.None" xml:space="preserve">
-    <value>Никаква</value>
+    <value>None</value>
     <comment>None (option)</comment>
   </data>
   <data name="Settings.Option.Off" xml:space="preserve">
-    <value>Изкл</value>
+    <value>Off</value>
     <comment>Off (option)</comment>
   </data>
   <data name="Settings.Option.On" xml:space="preserve">
-    <value>Вкл</value>
+    <value>On</value>
     <comment>On (option)</comment>
   </data>
   <data name="Settings.Option.Pounds" xml:space="preserve">
-    <value>Фунтове (lbs)</value>
+    <value>Pounds (lbs)</value>
     <comment>Pounds (option)</comment>
   </data>
   <data name="Settings.Option.Unlimited" xml:space="preserve">
-    <value>Неограничена</value>
+    <value>Unlimited</value>
     <comment>Unlimited (option)</comment>
   </data>
   <data name="Settings.Option.VeryHigh" xml:space="preserve">
-    <value>Много висока</value>
+    <value>Very High</value>
     <comment>Very High (option)</comment>
   </data>
   <data name="Settings.SendCurrentLog" xml:space="preserve">
-    <value>Изпрати Текущия Лог</value>
+    <value>Send Current Log</value>
     <comment>Send Current Log (button text)</comment>
   </data>
   <data name="Settings.SendPreviousLog" xml:space="preserve">
-    <value>Изпрати Предишния Лог</value>
+    <value>Send Previous Log</value>
     <comment>Send Previous Log (button text)</comment>
   </data>
   <data name="Settings.Sounds" xml:space="preserve">
-    <value>Аудио</value>
+    <value>Audio</value>
     <comment>Sounds (tab title)</comment>
   </data>
   <data name="Global.Confirm" xml:space="preserve">
-    <value>Подтвърди</value>
+    <value>Confirm</value>
     <comment>Confirm</comment>
   </data>
   <data name="Global.Warning" xml:space="preserve">
-    <value>Предупреждение</value>
+    <value>Warning</value>
     <comment>Warning</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Subtitle" xml:space="preserve">
-    <value>Автоматично съединяване на елероните и руля (само на земята)</value>
+    <value>Automatically couple the ailerons and rudder (on the ground only)</value>
     <comment>Automatically couple the ailerons and rudder (on the ground only)</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Title" xml:space="preserve">
-    <value>Авто-Координация</value>
+    <value>Auto-Coordination</value>
     <comment>Auto-Coordination</comment>
   </data>
   <data name="Settings.General.AutomaticEngineStart.Subtitle" xml:space="preserve">
-    <value>Винаги стартирайте с включени двигатели</value>
+    <value>Always start with engine running</value>
     <comment>Always start with engine running</comment>
   </data>
   <data name="Settings.General.AutomaticEngineStart.Title" xml:space="preserve">
-    <value>Автоматичен Старт на Двигателите</value>
+    <value>Automatic Engine Start</value>
     <comment>Automatic Engine Start</comment>
   </data>
   <data name="Settings.General.AutomaticLowPower.Subtitle" xml:space="preserve">
-    <value>Включване на режим на ниска мощност по време на дълги полети за пестене на батерия</value>
+    <value>Enter low power during long flights to save battery</value>
     <comment>Enter low power during long flights to save battery</comment>
   </data>
   <data name="Settings.General.AutomaticLowPower.Title" xml:space="preserve">
-    <value>Автоматичнo включване на Режим на Ниска Мощност</value>
+    <value>Enable Automatic Low Power</value>
     <comment>Enable Automatic Low Power</comment>
   </data>
   <data name="Settings.General.ClearSceneryCache.Subtitle" xml:space="preserve">
-    <value>Изчистване на кеширани топографични данни на локалната памет</value>
+    <value>Clear scenery data cached on local storage</value>
     <comment>Clear scenery data cached on local storage</comment>
   </data>
   <data name="Settings.General.ClearSceneryCache.Title" xml:space="preserve">
-    <value>Изчистване на Топографичния Кеш</value>
+    <value>Clear Scenery Cache</value>
     <comment>Clear Scenery Cache</comment>
   </data>
   <data name="Settings.General.Connect.Subtitle" xml:space="preserve">
-    <value>Включване на системата Infinite Flight Connect API (Експериментално)</value>
+    <value>Enable Infinite Flight Connect API System (Experimental)</value>
     <comment>Enable Infinite Flight Connect API System (Experimental)</comment>
   </data>
   <data name="Settings.General.Connect.Title" xml:space="preserve">
-    <value>Включване на Infinite Flight Connect</value>
+    <value>Enable Infinite Flight Connect</value>
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Изпраща данни за Позиция/Височина/Трафик на локални устройства с ForeFlight</value>
+    <value>Sends Position/Attitude/Traffic data to local devices running ForeFlight</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>Включване на ForeFlight Link</value>
+    <value>Enable ForeFlight Link</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
-    <value>Скриване на статуса при таймаут на интерфейса </value>
+    <value>Hide the status when interface timeout occurs</value>
     <comment>Hide the status when interface timeout occurs</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Title" xml:space="preserve">
-    <value>Скриване на Статус Лентата</value>
+    <value>Hide Status Bar</value>
     <comment>Hide Status Bar</comment>
   </data>
   <data name="Settings.General.LanguageChangeWarning" xml:space="preserve">
-    <value>Сигурни ли сте, че искате да промените езика на приложението?</value>
+    <value>Are you sure you want to change the app language?</value>
     <comment>Are you sure you want to change the app language?</comment>
   </data>
   <data name="Settings.General.ScreenshotResolutionScale.Subtitle" xml:space="preserve">
-    <value>Скала на резолюцията на скрийншоти</value>
+    <value>Resolution scale factor for screenshots</value>
     <comment>Resolution scale factor for screenshots</comment>
   </data>
   <data name="Settings.General.ScreenshotResolutionScale.Title" xml:space="preserve">
-    <value>Скала на Скрийншот Резолюцията</value>
+    <value>Screenshot Resolution scale</value>
     <comment>Screenshot Resolution scale</comment>
   </data>
   <data name="Settings.General.ShowPerformanceMetrics.Subtitle" xml:space="preserve">
-    <value>Показва данни, включително кадрите в секунда</value>
+    <value>Shows metrics including the current frame rate</value>
     <comment>Shows metrics including the current frame rate</comment>
   </data>
   <data name="Settings.General.ShowPerformanceMetrics.Title" xml:space="preserve">
-    <value>Показване на Данни за Производителността</value>
+    <value>Show Performance Metrics</value>
     <comment>Show Performance Metrics</comment>
   </data>
   <data name="Settings.General.ShowTouches.Subtitle" xml:space="preserve">
-    <value>Полезно при записване на видеа/уроци</value>
+    <value>Useful when recording videos/tutorials</value>
     <comment>Useful when recording videos/tutorials</comment>
   </data>
   <data name="Settings.General.ShowTouches.Title" xml:space="preserve">
-    <value>Показване на Докосванията</value>
+    <value>Show Touches</value>
     <comment>Show Touches</comment>
   </data>
   <data name="Settings.General.WeightUnits.Subtitle" xml:space="preserve">
-    <value>Избор на мерни единици за тегло (Kg или Lbs)</value>
+    <value>Select weight units (Kg or Lbs)</value>
     <comment>Select weight units (Kg or Lbs)</comment>
   </data>
   <data name="Settings.General.WeightUnits.Title" xml:space="preserve">
-    <value>Мерни Единици за Тегло</value>
+    <value>Weight Units</value>
     <comment>Weight Units</comment>
   </data>
   <data name="Settings.Graphics.AntiAliasing.Subtitle" xml:space="preserve">
-    <value>Не се поддържа на всички устройства и може да работи бавно</value>
+    <value>Not supported on all devices and can run very slow</value>
     <comment>Not supported on all devices and can run very slow</comment>
   </data>
   <data name="Settings.Graphics.AntiAliasing.Title" xml:space="preserve">
-    <value>Анти-Алиасинг</value>
+    <value>Anti-Aliasing</value>
     <comment>Anti-Aliasing</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Subtitle" xml:space="preserve">
-    <value>Лимитира кадрите в секунда.</value>
+    <value>Sets the highest allowed frame rate.</value>
     <comment>Sets the highest allowed frame rate.</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Title" xml:space="preserve">
-    <value>Лимит на Кадрите в Секунда</value>
+    <value>Frame rate limit</value>
     <comment>Frame rate limit</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
-    <value>Задаването на кадрите в секунда на 60fps може да накара устройството ви да прегрее. За да предотврати щети, устройството ви може да забави работата си, което може да накара Infinite Flight да работи бавно. Препоръчваме да оставите тази настройка на 30fps.</value>
+    <value>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly. We recommend keeping this setting to 30fps.</value>
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
-    <value>Използване на целия екран по време на игра.</value>
+    <value>Use the entire screen when playing.</value>
     <comment>Use the entire screen when playing.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Title" xml:space="preserve">
-    <value>Цял Екран</value>
+    <value>Full Screen</value>
     <comment>Full Screen</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Subtitle" xml:space="preserve">
-    <value>Контролира гъстотата на обектите на летищата</value>
+    <value>Controls the density of objects at airports</value>
     <comment>Controls the density of objects at airports</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Title" xml:space="preserve">
-    <value>Гъстота на 3D Обектите</value>
+    <value>3D Object Density</value>
     <comment>3D Object Density</comment>
   </data>
   <data name="Settings.Graphics.RenderingQuality.Subtitle" xml:space="preserve">
-    <value>Контролира степента на изобразяването</value>
+    <value>Controls the quality of the rendering</value>
     <comment>Controls the quality of the rendering</comment>
   </data>
   <data name="Settings.Graphics.RenderingQuality.Title" xml:space="preserve">
-    <value>Степен на Изобразяването</value>
+    <value>Rendering Quality</value>
     <comment>Rendering Quality</comment>
   </data>
   <data name="Settings.Graphics.RenderingResolution.Subtitle" xml:space="preserve">
-    <value>Контролира резолюцията на изобразяването на самолети и топография</value>
+    <value>Controls the rendering resolution of aircraft and scenery</value>
     <comment>Controls the rendering resolution of aircraft and scenery</comment>
   </data>
   <data name="Settings.Graphics.RenderingResolution.Title" xml:space="preserve">
-    <value>Резолюция на Изобразяването</value>
+    <value>Rendering Resolution</value>
     <comment>Rendering Resolution</comment>
   </data>
   <data name="Settings.Graphics.TextureQuality.Subtitle" xml:space="preserve">
-    <value>Контролира степента на текстурите</value>
+    <value>Controls the quality of textures</value>
     <comment>Controls the quality of textures</comment>
   </data>
   <data name="Settings.Graphics.TextureQuality.Title" xml:space="preserve">
-    <value>Степен на Текстурите</value>
+    <value>Texture Quality</value>
     <comment>Texture Quality</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Subtitle" xml:space="preserve">
-    <value>Избор на глас за вашите разговори с РВД</value>
+    <value>Select voice for your ATC communications</value>
     <comment>Select voice for your ATC communications</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Title" xml:space="preserve">
-    <value>Глас на Пилота</value>
+    <value>Pilot Voice</value>
     <comment>Pilot Voice</comment>
   </data>
   <data name="Settings.Multiplayer.DefaultVoice.Subtitle" xml:space="preserve">
-    <value>Избор на глас по подразбиране за другите пилоти/РВД</value>
+    <value>Select the default voice for other pilots/ATC</value>
     <comment>Select the default voice for other pilots/ATC</comment>
   </data>
   <data name="Settings.Multiplayer.DefaultVoice.Title" xml:space="preserve">
-    <value>Глас по Подразбиране</value>
+    <value>Default Voice</value>
     <comment>Default Voice</comment>
   </data>
   <data name="Settings.Multiplayer.EnableAirplaneDownloadsOverCellular.Subtitle" xml:space="preserve">
-    <value>Автоматично сваляне на самолети, дори и при използването на мобилни данни.</value>
+    <value>Download airplanes automatically even when on a Cellular Network.</value>
     <comment>Download airplanes automatically even when on a Cellular Network</comment>
   </data>
   <data name="Settings.Multiplayer.EnableAirplaneDownloadsOverCellular.Title" xml:space="preserve">
-    <value>Автоматично Сваляне на Самолети по Мобилни Данни</value>
+    <value>Automatic Airplane Downloads Over Cellular Data</value>
     <comment>Automatic Airplane Downloads Over Cellular Data</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneDots.Subtitle" xml:space="preserve">
-    <value>Скрива точките на другите играчи в мултиплейър</value>
+    <value>Hides the dots of other players in multiplayer</value>
     <comment>Hides the dots of other players in multiplayer</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneDots.Title" xml:space="preserve">
-    <value>Скриване на Точките на Самолетите</value>
+    <value>Hide Airplane Dots</value>
     <comment>Hide Airplane Dots</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneNames.Subtitle" xml:space="preserve">
-    <value>Скрива имената на другите играчи в мултиплейър</value>
+    <value>Hides the name of other players in multiplayer</value>
     <comment>Hides the name of other players in multiplayer</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneNames.Title" xml:space="preserve">
-    <value>Скриване на Имената на Самолетите</value>
+    <value>Hide Airplane Names</value>
     <comment>Hide Airplane Names</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Subtitle" xml:space="preserve">
-    <value>Контролира колко самолета се показват в мултиплейър.</value>
+    <value>Controls how many airplanes are shown in multiplayer.</value>
     <comment>Controls how many airplanes are shown in multiplayer.</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Title" xml:space="preserve">
-    <value>Гъстота на Самолетите</value>
+    <value>Airplane Count</value>
     <comment>Airplane Count</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensityNoneWarning" xml:space="preserve">
-    <value>Задаването на Гъстотата на Самолетите на Никаква няма да показва други самолети по време на онлайн полет и е изцяло ваша отговорност да спазвате дистанция с други самолети.</value>
+    <value>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</value>
     <comment>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Subtitle" xml:space="preserve">
-    <value>Показване на името ви по време на полет. Премахнете отметката, за да останете анонимни</value>
+    <value>Display your username in-flight. Uncheck to remain anonymous</value>
     <comment>Display your username in-flight. Uncheck to remain anonymous</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Title" xml:space="preserve">
-    <value>Показване на Името Ви в Полет</value>
+    <value>Show Username In-Flight</value>
     <comment>Show Username In-Flight</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Subtitle" xml:space="preserve">
-    <value>Променя височината на избрания глас</value>
+    <value>Changes the pitch of your selected voice</value>
     <comment>Changes the pitch of your selected voice</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Title" xml:space="preserve">
-    <value>Височина на Гласа</value>
+    <value>Voice Pitch</value>
     <comment>Voice Pitch</comment>
   </data>
   <data name="Commands.AileronTrim" xml:space="preserve">
-    <value>Баланс на Елероните</value>
+    <value>Aileron Trim</value>
     <comment>Aileron Trim</comment>
   </data>
   <data name="Commands.AileronTrim.Description" xml:space="preserve">
-    <value>Контролира баланса на елероните</value>
+    <value>Controls the Aileron Trim</value>
     <comment>Controls the Aileron Trim</comment>
   </data>
   <data name="Commands.BeaconLights" xml:space="preserve">
-    <value>Противоколизионни светлини</value>
+    <value>Beacon Lights</value>
     <comment>Beacon Lights</comment>
   </data>
   <data name="Commands.Brakes" xml:space="preserve">
-    <value>Спирачки</value>
+    <value>Brakes</value>
     <comment>Brakes</comment>
   </data>
   <data name="Commands.ElevatorTrim" xml:space="preserve">
-    <value>Баланс на Елеватора</value>
+    <value>Elevator Trim</value>
     <comment>Elevator Trim</comment>
   </data>
   <data name="Commands.ElevatorTrim.Description" xml:space="preserve">
-    <value>Контролира баланса на елеватора</value>
+    <value>Controls the Elevator Trim</value>
     <comment>Controls the Elevator Trim</comment>
   </data>
   <data name="Commands.FlapsDownFull" xml:space="preserve">
-    <value>Задкрилки надолу (Напълно)</value>
+    <value>Flaps Down (Full)</value>
     <comment>Flaps Down (Full)</comment>
   </data>
   <data name="Commands.FlapsDownStep" xml:space="preserve">
-    <value>Задкрилки надолу (1 Степен)</value>
+    <value>Flaps Down (1 Step)</value>
     <comment>Flaps Down (1 Step)</comment>
   </data>
   <data name="Commands.FlapsUpFull" xml:space="preserve">
-    <value>Задкрилки нагоре (Напълно)</value>
+    <value>Flaps Up (Full)</value>
     <comment>Flaps Up (Full)</comment>
   </data>
   <data name="Commands.FlapsUpStep" xml:space="preserve">
-    <value>Задкрилки нагоре (1 Степен)</value>
+    <value>Flaps Up (1 Step)</value>
     <comment>Flaps Up (1 Step)</comment>
   </data>
   <data name="Commands.FuelDump" xml:space="preserve">
-    <value>Изхвърляне на Гориво</value>
+    <value>Fuel Dump</value>
     <comment>Fuel Dump</comment>
   </data>
   <data name="Commands.Group.Airplane" xml:space="preserve">
-    <value>Самолет</value>
+    <value>Airplane</value>
     <comment>Airplane</comment>
   </data>
   <data name="Commands.Group.Cameras" xml:space="preserve">
-    <value>Камери</value>
+    <value>Cameras</value>
     <comment>Cameras</comment>
   </data>
   <data name="Commands.LandingGear" xml:space="preserve">
-    <value>Колесник</value>
+    <value>Landing Gear</value>
     <comment>Landing Gear</comment>
   </data>
   <data name="Commands.LandingLights" xml:space="preserve">
-    <value>Светлини за Кацане</value>
+    <value>Landing Lights</value>
     <comment>Landing Lights</comment>
   </data>
   <data name="Commands.Mixture" xml:space="preserve">
-    <value>Смес</value>
+    <value>Mixture</value>
     <comment>Mixture</comment>
   </data>
   <data name="Commands.Mixture.Description" xml:space="preserve">
-    <value>Контролира сместа</value>
+    <value>Controls the Mixture</value>
     <comment>Controls the Mixture</comment>
   </data>
   <data name="Commands.NavLights" xml:space="preserve">
-    <value>Навигационни Светлини</value>
+    <value>NavLights</value>
     <comment>NavLights</comment>
   </data>
   <data name="Commands.ParkingBrakes" xml:space="preserve">
-    <value>Ръчна Спирачка</value>
+    <value>Parking Brakes</value>
     <comment>Parking Brakes</comment>
   </data>
   <data name="Commands.PitchAxis" xml:space="preserve">
-    <value>Наклон (Вертикален)</value>
+    <value>Pitch</value>
     <comment>Pitch</comment>
   </data>
   <data name="Commands.PitchAxis.Description" xml:space="preserve">
-    <value>Контролира хоризонталния стабилизатор</value>
+    <value>Controls the horizontal stabilizer</value>
     <comment>Controls the horizontal stabilizer</comment>
   </data>
   <data name="Commands.Propeller" xml:space="preserve">
-    <value>Перка</value>
+    <value>Propeller</value>
     <comment>Propeller</comment>
   </data>
   <data name="Commands.Propeller.Description" xml:space="preserve">
-    <value>Контролира перката</value>
+    <value>Controls the Propeller</value>
     <comment>Controls the Propeller</comment>
   </data>
   <data name="Commands.Pushback" xml:space="preserve">
-    <value>Буксиране</value>
+    <value>Pushback</value>
     <comment>Pushback</comment>
   </data>
   <data name="Commands.ReverseThrust" xml:space="preserve">
-    <value>Реверс</value>
+    <value>Reverse Thurst</value>
     <comment>Reverse Thrust</comment>
   </data>
   <data name="Commands.RollAxis" xml:space="preserve">
-    <value>Наклон (Хоризонтален)</value>
+    <value>Roll</value>
     <comment>Roll</comment>
   </data>
   <data name="Commands.RollAxis.Description" xml:space="preserve">
-    <value>Контролира елероните на самолета</value>
+    <value>Controls the ailerons of the airplane</value>
     <comment>Controls the ailerons of the airplane</comment>
   </data>
   <data name="Commands.RudderTrim" xml:space="preserve">
-    <value>Баланс на Руля</value>
+    <value>Rudder Trim</value>
     <comment>Rudder Trim</comment>
   </data>
   <data name="Commands.RudderTrim.Description" xml:space="preserve">
-    <value>Контролира баланса на руля</value>
+    <value>Controls the Rudder Trim</value>
     <comment>Controls the Rudder Trim</comment>
   </data>
   <data name="Commands.StrobeLights" xml:space="preserve">
-    <value>Стробни Светлини</value>
+    <value>Strobe Lights</value>
     <comment>Strobe Lights</comment>
   </data>
   <data name="Commands.TaxiLights" xml:space="preserve">
-    <value>Светлини за Рулиране</value>
+    <value>Taxi Lights</value>
     <comment>Taxi Lights</comment>
   </data>
   <data name="Commands.Throttle" xml:space="preserve">
-    <value>Дросел</value>
+    <value>Throttle</value>
     <comment>Throttle</comment>
   </data>
   <data name="Commands.Throttle.Description" xml:space="preserve">
-    <value>Контролира дроселя/-ите на самолета</value>
+    <value>Controls the airplane Throttle(s)</value>
     <comment>Controls the airplane Throttle(s)</comment>
   </data>
   <data name="Commands.ToggleSpoilers" xml:space="preserve">
-    <value>Превключване на Спойлерите</value>
+    <value>Toggle Spoilers</value>
     <comment>Toggle Spoilers</comment>
   </data>
   <data name="Commands.YawAxis.Description" xml:space="preserve">
-    <value>Контролира вертикалния стабилизатор/руля</value>
+    <value>Controls the vertical stabilizer/rudder</value>
     <comment>Controls the vertical stabilizer/rudder</comment>
   </data>
   <data name="Commands.YaxAxis" xml:space="preserve">
-    <value>Отклонение</value>
+    <value>Yaw</value>
     <comment>Yaw</comment>
   </data>
   <data name="Global.InfiniteFlightPro" xml:space="preserve">
@@ -830,579 +830,579 @@
     <comment>Infinite Flight Pro</comment>
   </data>
   <data name="Global.InfiniteFlightPro.1Month" xml:space="preserve">
-    <value>Infinite Flight Pro (1 месец)</value>
+    <value>Infinite Flight Pro (1 month)</value>
     <comment>Infinite Flight Pro (1 month)</comment>
   </data>
   <data name="Global.InfiniteFlightPro.1Year" xml:space="preserve">
-    <value>Infinite Flight Pro (1 година)</value>
+    <value>Infinite Flight Pro (1 year)</value>
     <comment>Infinite Flight Pro (1 year)</comment>
   </data>
   <data name="Global.InfiniteFlightPro.6Months" xml:space="preserve">
-    <value>Infinite Flight Pro (6 месеца)</value>
+    <value>Infinite Flight Pro (6 months)</value>
     <comment>Infinite Flight Pro (6 months)</comment>
   </data>
   <data name="Global.Message" xml:space="preserve">
-    <value>СЪОБЩЕНИЕ</value>
+    <value>MESSAGE</value>
     <comment>MESSAGE</comment>
   </data>
   <data name="Settings.Account.Callsign.Subtitle" xml:space="preserve">
-    <value>Използва се за комуникация с ръководители и други пилоти</value>
+    <value>Used for communication with controllers and other pilots</value>
     <comment>Used for communication with controllers and other pilots</comment>
   </data>
   <data name="Settings.Account.Callsign.Title" xml:space="preserve">
-    <value>Позивна</value>
+    <value>Callsign</value>
     <comment>Callsign</comment>
   </data>
   <data name="Settings.Account.ConnectedMessage" xml:space="preserve">
-    <value>Свързали сте {0} с Infinite Flight. Искате ли да прекратите връзката с този профил?</value>
+    <value>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</value>
     <comment>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</comment>
   </data>
   <data name="Settings.Account.DiscourseConnect" xml:space="preserve">
-    <value>Свързване</value>
+    <value>Connect</value>
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
-    <value>Свързали сте вашия Infinite Flight Community профил. Впишете се на другите си устройства, за да сте свързани с акаунта си</value>
+    <value>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</value>
     <comment>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</comment>
   </data>
   <data name="Settings.Account.Forum.Title" xml:space="preserve">
-    <value>Акаунт във Форума</value>
+    <value>Community Forum Account</value>
     <comment>Community Forum Account</comment>
   </data>
   <data name="Settings.Account.Forum.UnlinkedAccount" xml:space="preserve">
-    <value>Свържете Infinite Flight Community профил, за да виждате името си по време на полет. Свързването ви позволява и да се впишете от устройство на друга платформа.</value>
+    <value>Connect an Infinite Flight Community profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms.</value>
     <comment>Connect an Infinite Flight Community profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription" xml:space="preserve">
-    <value>Управление на Абонамента</value>
+    <value>Manage Subscription</value>
     <comment>Manage Subscription</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Android" xml:space="preserve">
-    <value>Абонаментът ви е закупен от друга платформа и не може да бъде управляван от това устройство.</value>
+    <value>Your subscription was purchased on a different platform and can't be managed from this device.</value>
     <comment>Your subscription was purchased on a different platform and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Error" xml:space="preserve">
-    <value>Не можем да се свържем с магазина. Можете да управлявате абонамента си от страницата за абонаменти във вашия магазин.</value>
+    <value>Can't connect to the store. You can manage your subscription by going to the store's subscriptions page.</value>
     <comment>Can't connect to the store. You can manage your subscription by going to the store's subscriptions page.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.iOS" xml:space="preserve">
-    <value>Абонаментът ви е закупен от iOS и не може да бъде управляван от това устройство.</value>
+    <value>Your subscription was purchased on iOS and can't be managed from this device.</value>
     <comment>Your subscription was purchased on iOS and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.NotSubscribed" xml:space="preserve">
-    <value>Не сте абонирани за Infinite Flight Pro</value>
+    <value>You are not subscribed to Infinite Flight Pro</value>
     <comment>You are not subscribed to Infinite Flight Pro</comment>
   </data>
   <data name="Settings.Account.Stats.Subtitle" xml:space="preserve">
-    <value>Вижте вашия ранг и история на нарушенията ви. Тези статистики определят нивото ви на достъп за мултиплейър сървъри</value>
+    <value>See your grade level and violation history. These stats determine multiplayer server level eligibility</value>
     <comment>See your grade level and violation history. These stats determine multiplayer server level eligibility</comment>
   </data>
   <data name="Settings.Account.Stats.Title" xml:space="preserve">
-    <value>Статистики на Акаунта</value>
+    <value>Account Statistics</value>
     <comment>Account Statistics</comment>
   </data>
   <data name="Settings.Account.StatsError" xml:space="preserve">
-    <value>Проблем при получаването на вашата статистика. Опитайте отново или се свържете с поддръжката.</value>
+    <value>There was a problem getting your stats. Try again or contact support.</value>
     <comment>There was a problem getting your stats. Try again or contact support.</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithAutoRenew" xml:space="preserve">
-    <value>Абонирани сте за {0}, който се подновява на {1}</value>
+    <value>You are subscribed to {0} which renews on {1}</value>
     <comment>You are subscribed to {0} which renews on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithoutAutoRenew" xml:space="preserve">
-    <value>Абонирани сте за {0}, който изтича на {1}</value>
+    <value>You are subscribed to {0} which expires on {1}</value>
     <comment>You are subscribed to {0} which expires on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
-    <value>Подновяването на абонамента ви беше неуспешно. Натиснете Управление на Абонамента, за да проверите платежната информация преди {0}</value>
+    <value>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</value>
     <comment>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</comment>
   </data>
   <data name="Settings.Account.Subscription.Title" xml:space="preserve">
-    <value>Вашият Infinite Flight Pro Абонамент</value>
+    <value>Your Infinite Flight Pro Subscription</value>
     <comment>Your Infinite Flight Pro Subscription</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Subtitle" xml:space="preserve">
-    <value>Използвайте друг Infinite Flight акаунт, за да имате достъп до абонамент, купен от друго устройство</value>
+    <value>Use a different Infinite Flight account to access a subscription bought on another device</value>
     <comment>Use a different Infinite Flight account to access a subscription bought on another device</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Title" xml:space="preserve">
-    <value>Смяна на Акаунта</value>
+    <value>Switch Account</value>
     <comment>Switch Account</comment>
   </data>
   <data name="Settings.Account.Unlink" xml:space="preserve">
-    <value>Прекратяване на Връзката</value>
+    <value>Unlink</value>
     <comment>Unlink</comment>
   </data>
   <data name="Settings.Account.ViewStats" xml:space="preserve">
-    <value>Вижте Статистиките си</value>
+    <value>View Stats</value>
     <comment>View Stats</comment>
   </data>
   <data name="Settings.Controls.Axes" xml:space="preserve">
-    <value>Оси</value>
+    <value>Axes</value>
     <comment>Axes</comment>
   </data>
   <data name="Settings.Controls.Axes.AxesKey" xml:space="preserve">
-    <value>Бутон/Ос</value>
+    <value>Key/Axis</value>
     <comment>Key/Axis</comment>
   </data>
   <data name="Settings.Controls.Axes.CommandName" xml:space="preserve">
-    <value>Име на Командата</value>
+    <value>Command Name</value>
     <comment>Command Name</comment>
   </data>
   <data name="Settings.Controls.Axes.NullZone" xml:space="preserve">
-    <value>Мъртва зона / Чувствителност</value>
+    <value>Null Zone / Sensitivity</value>
     <comment>Null Zone / Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Axes.Reverse" xml:space="preserve">
-    <value>Обръщане</value>
+    <value>Rev.</value>
     <comment>Rev.</comment>
   </data>
   <data name="Settings.Controls.Axes.Sensitivity" xml:space="preserve">
-    <value>Чувствителност</value>
+    <value>Sensitivity</value>
     <comment>Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Buttons" xml:space="preserve">
-    <value>Бутони</value>
+    <value>Buttons</value>
     <comment>Buttons</comment>
   </data>
   <data name="Settings.Controls.Commands" xml:space="preserve">
-    <value>Команди</value>
+    <value>Commands</value>
     <comment>Commands</comment>
   </data>
   <data name="Settings.Controls.Commands.Alternate" xml:space="preserve">
-    <value>Вторичен</value>
+    <value>Alternate</value>
     <comment>Alternate</comment>
   </data>
   <data name="Settings.Controls.MoveAxisToAssign" xml:space="preserve">
-    <value>Раздвижете оста, за да я зададете</value>
+    <value>Move Axis on Device to Assign</value>
     <comment>Move Axis on Device to Assign</comment>
   </data>
   <data name="Settings.Controls.RestoreDefaults" xml:space="preserve">
-    <value>Връщане на Настройки по Подразбиране</value>
+    <value>Restore Defaults</value>
     <comment>Restore Defaults</comment>
   </data>
   <data name="Settings.Controls.SetupGuide" xml:space="preserve">
-    <value>Упътване за Настройка</value>
+    <value>Setup Guide</value>
     <comment>Setup Guide</comment>
   </data>
   <data name="Settings.Controls.ShowDevices" xml:space="preserve">
-    <value>Показване на Устройства</value>
+    <value>Show Devices</value>
     <comment>Show Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.DeviceSingular" xml:space="preserve">
-    <value>Устройство</value>
+    <value>Device</value>
     <comment>Device</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.DevicesPlural" xml:space="preserve">
-    <value>Устройства</value>
+    <value>Devices</value>
     <comment>Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.NoDevices" xml:space="preserve">
-    <value>Няма налични устройства. Проверете Упътването за Настройка за помощ</value>
+    <value>No devices are available. Check the Setup Guide for help</value>
     <comment>No devices are available. Check the Setup Guide for help</comment>
   </data>
   <data name="Settings.Controls.Unassigned" xml:space="preserve">
-    <value>Неозначено</value>
+    <value>Unassigned</value>
     <comment>Unassigned</comment>
   </data>
   <data name="Settings.Controls.UseNetworkJoystick" xml:space="preserve">
-    <value>Използване на Интернет Джойстик</value>
+    <value>Use Network Joystick</value>
     <comment>Use Network Joystick</comment>
   </data>
   <data name="Settings.Sounds.ATC" xml:space="preserve">
-    <value>Сила на Звука на РВД</value>
+    <value>ATC Volume</value>
     <comment>ATC Volume</comment>
   </data>
   <data name="Settings.Sounds.SFX" xml:space="preserve">
-    <value>Сила на Звука на Звуковите Ефекти</value>
+    <value>SFX Volume</value>
     <comment>SFX Volume</comment>
   </data>
   <data name="Commands.AutoStartEngines" xml:space="preserve">
-    <value>Автоматичен Старт на Двигателя/-ите</value>
+    <value>Auto Start Engine(s)</value>
     <comment>Auto Start Engine(s)</comment>
   </data>
   <data name="Commands.CockpitCamera" xml:space="preserve">
-    <value>Кабинна Камера</value>
+    <value>Cockpit Camera</value>
     <comment>Cockpit Camera</comment>
   </data>
   <data name="Commands.FlyByCamera" xml:space="preserve">
-    <value>Fly By Камера</value>
+    <value>Fly By Camera</value>
     <comment>Fly By Camera</comment>
   </data>
   <data name="Commands.FollowCamera" xml:space="preserve">
-    <value>Follow Камера</value>
+    <value>Follow Camera</value>
     <comment>Follow Camera</comment>
   </data>
   <data name="Commands.Group.Autopilot" xml:space="preserve">
-    <value>Автопилот</value>
+    <value>Autopilot</value>
     <comment>Autopilot</comment>
   </data>
   <data name="Commands.Group.ControlSurfaces" xml:space="preserve">
-    <value>Контролни повърхности</value>
+    <value>Control Surfaces</value>
     <comment>Control Surfaces</comment>
   </data>
   <data name="Commands.Group.Engines" xml:space="preserve">
-    <value>Двигатели</value>
+    <value>Engines</value>
     <comment>Engines</comment>
   </data>
   <data name="Commands.Group.General" xml:space="preserve">
-    <value>Общи</value>
+    <value>General</value>
     <comment>General</comment>
   </data>
   <data name="Commands.Group.HUD" xml:space="preserve">
-    <value>HUD Дисплей</value>
+    <value>HUD</value>
     <comment>HUD</comment>
   </data>
   <data name="Commands.Live" xml:space="preserve">
-    <value>Мултиплейър</value>
+    <value>Multiplayer</value>
     <comment>Multiplayer</comment>
   </data>
   <data name="Commands.MoveCameraDown" xml:space="preserve">
-    <value>Преместване на Камерата Надолу</value>
+    <value>Move Camera Down</value>
     <comment>Move Camera Down</comment>
   </data>
   <data name="Commands.MoveCameraHorizontal" xml:space="preserve">
-    <value>Преместване на Камерата Наляво/Надясно</value>
+    <value>Move Camera Left/Right</value>
     <comment>Move Camera Left/Right</comment>
   </data>
   <data name="Commands.MoveCameraLeft" xml:space="preserve">
-    <value>Преместване на Камерата Наляво</value>
+    <value>Move Camera Left</value>
     <comment>Move Camera Left</comment>
   </data>
   <data name="Commands.MoveCameraRight" xml:space="preserve">
-    <value>Преместване на Камерата Надясно</value>
+    <value>Move Camera Right</value>
     <comment>Move Camera Right</comment>
   </data>
   <data name="Commands.MoveCameraUp" xml:space="preserve">
-    <value>Преместване на Камерата Нагоре</value>
+    <value>Move Camera Up</value>
     <comment>Move Camera Up</comment>
   </data>
   <data name="Commands.MoveCameraVertical" xml:space="preserve">
-    <value>Преместване на Камерата Нагоре/Надолу</value>
+    <value>Move Camera Up/Down</value>
     <comment>Move Camera Up/Down</comment>
   </data>
   <data name="Commands.NextCamera" xml:space="preserve">
-    <value>Следваща Камера</value>
+    <value>Next Camera</value>
     <comment>Next Camera</comment>
   </data>
   <data name="Commands.OnboardCamera" xml:space="preserve">
-    <value>Бордова Камера</value>
+    <value>Onboard Camera</value>
     <comment>Onboard Camera</comment>
   </data>
   <data name="Commands.PreviousCamera" xml:space="preserve">
-    <value>Предишна Камера</value>
+    <value>Previous Camera</value>
     <comment>Previous Camera</comment>
   </data>
   <data name="Commands.ResetCamera" xml:space="preserve">
-    <value>Нулиране на Камерата</value>
+    <value>Reset Camera</value>
     <comment>Reset Camera</comment>
   </data>
   <data name="Commands.SelectATCEntry" xml:space="preserve">
-    <value>Избор на РВД Съобщение {0}</value>
+    <value>Select ATC Entry {0}</value>
     <comment>Select ATC Entry {number}</comment>
   </data>
   <data name="Commands.StartEngine" xml:space="preserve">
-    <value>Стартиране на Определен Двигател</value>
+    <value>Start Specified Engine</value>
     <comment>Start Specified Engine</comment>
   </data>
   <data name="Commands.StopEngine" xml:space="preserve">
-    <value>Спиране на Определен Двигател</value>
+    <value>Stop Specified Engine</value>
     <comment>Stop Specified Engine</comment>
   </data>
   <data name="Commands.ToggleATCWindow" xml:space="preserve">
-    <value>Превключване на РВД Прозорец</value>
+    <value>Toggle ATC Window</value>
     <comment>Toggle ATC Window</comment>
   </data>
   <data name="Commands.ToggleAutopilot" xml:space="preserve">
-    <value>Включване/Изключване на Автопилота</value>
+    <value>Engage/Disengage Autopilot</value>
     <comment>Engage/Disengage Autopilot</comment>
   </data>
   <data name="Commands.ToggleFlightPathVector" xml:space="preserve">
-    <value>Превключване на Вектора на Траекторията на Полета</value>
+    <value>Toggle Flight Path Vector</value>
     <comment>Toggle Flight Path Vector</comment>
   </data>
   <data name="Commands.ToggleHUD" xml:space="preserve">
-    <value>Превключване на HUD Дисплея</value>
+    <value>Toggle HUD</value>
     <comment>Toggle HUD</comment>
   </data>
   <data name="Commands.TogglePause" xml:space="preserve">
-    <value>Пауза</value>
+    <value>Pause</value>
     <comment>Pause</comment>
   </data>
   <data name="Commands.TowerCamera" xml:space="preserve">
-    <value>Камера от Кулата</value>
+    <value>Tower Camera</value>
     <comment>Tower Camera</comment>
   </data>
   <data name="Commands.VirtualCockpitCamera" xml:space="preserve">
-    <value>Виртуална Кабина</value>
+    <value>Virtual Cockpit</value>
     <comment>Virtual Cockpit</comment>
   </data>
   <data name="Commands.ZoomIn" xml:space="preserve">
-    <value>Увеличаване</value>
+    <value>Zoom In</value>
     <comment>Zoom In</comment>
   </data>
   <data name="Commands.ZoomOut" xml:space="preserve">
-    <value>Намаляване</value>
+    <value>Zoom Out</value>
     <comment>Zoom Out</comment>
   </data>
   <data name="GameMenu.20sAgo" xml:space="preserve">
-    <value>Връщане 20сек</value>
+    <value>20s Ago</value>
     <comment>20s Ago</comment>
   </data>
   <data name="GameMenu.Calibrate" xml:space="preserve">
-    <value>Калибриране</value>
+    <value>Calibrate</value>
     <comment>Calibrate</comment>
   </data>
   <data name="GameMenu.CalibrationComplete" xml:space="preserve">
-    <value>Калибрацията е Завършена</value>
+    <value>Calibration Complete</value>
     <comment>Calibration Complete</comment>
   </data>
   <data name="GameMenu.Crash" xml:space="preserve">
-    <value>СБЛЪСЪК</value>
+    <value>CRASH</value>
     <comment>CRASH</comment>
   </data>
   <data name="GameMenu.EndFlight" xml:space="preserve">
-    <value>Край на Полета</value>
+    <value>End Flight</value>
     <comment>End Flight</comment>
   </data>
   <data name="GameMenu.EndSession" xml:space="preserve">
-    <value>Край на Сесията</value>
+    <value>End Session</value>
     <comment>End Session (ATC)</comment>
   </data>
   <data name="GameMenu.Paused" xml:space="preserve">
-    <value>НА ПАУЗА</value>
+    <value>PAUSED</value>
     <comment>PAUSED</comment>
   </data>
   <data name="GameMenu.Resume" xml:space="preserve">
-    <value>Продължи</value>
+    <value>Resume</value>
     <comment>Resume</comment>
   </data>
   <data name="GameMenu.ShortFinal" xml:space="preserve">
-    <value>Кратък Финал</value>
+    <value>Short Final</value>
     <comment>Short Final</comment>
   </data>
   <data name="GameMenu.TakeOff" xml:space="preserve">
-    <value>Излитане</value>
+    <value>Take Off</value>
     <comment>Take Off</comment>
   </data>
   <data name="GameMenu.TapToCalibrate" xml:space="preserve">
-    <value>Натиснете екрана, за да калибрирате и да започнете</value>
+    <value>Tap screen to calibrate and start</value>
     <comment>Tap screen to calibrate and start</comment>
   </data>
   <data name="GameMenu.Time" xml:space="preserve">
-    <value>Час</value>
+    <value>Time</value>
     <comment>Time</comment>
   </data>
   <data name="GameMenu.Weather" xml:space="preserve">
-    <value>Време</value>
+    <value>Weather</value>
     <comment>Weather</comment>
   </data>
   <data name="GameMenu.WeightBalance" xml:space="preserve">
-    <value>Тегло и Баланс</value>
+    <value>Weight &amp; Balance</value>
     <comment>Weight &amp; Balance</comment>
   </data>
   <data name="GamePage.EndFlight.Message" xml:space="preserve">
-    <value>Сигурни ли сте, че искате да прекратите полета?</value>
+    <value>Are you sure you want to end this flight?</value>
     <comment>Are you sure you want to end this flight?</comment>
   </data>
   <data name="GamePage.EndFlight.Title" xml:space="preserve">
-    <value>Край на Полета</value>
+    <value>End Flight</value>
     <comment>End Flight</comment>
   </data>
   <data name="GamePage.EndSession.Message" xml:space="preserve">
-    <value>Сигурни ли сте, че искате да прекратите сесията?</value>
+    <value>Are you sure you want to end this session?</value>
     <comment>Are you sure you want to end this session?</comment>
   </data>
   <data name="GamePage.EndSession.Title" xml:space="preserve">
-    <value>Край на Сесията</value>
+    <value>End Session</value>
     <comment>End Session</comment>
   </data>
   <data name="Global.Grade" xml:space="preserve">
-    <value>Ранг</value>
+    <value>Grade</value>
     <comment>Grade</comment>
   </data>
   <data name="Global.Operations" xml:space="preserve">
-    <value>Операции</value>
+    <value>Operations</value>
     <comment>Operations (ATC Operations)</comment>
   </data>
   <data name="SplashScreen.DownloadingAircraft" xml:space="preserve">
-    <value>Изтегляне на Самолета {0}%</value>
+    <value>Downloading Aircraft {0}%</value>
     <comment>Downloading Aircraft {0}%</comment>
   </data>
   <data name="SplashScreen.DownloadingAirportData" xml:space="preserve">
-    <value>Изтегляне на данни за летището</value>
+    <value>Downloading airport data</value>
     <comment>Downloading airport data</comment>
   </data>
   <data name="SplashScreen.LoadingFlight" xml:space="preserve">
-    <value>Зареждане на полета</value>
+    <value>Loading your flight</value>
     <comment>Loading your flight</comment>
   </data>
   <data name="SplashScreen.LoadingReplay" xml:space="preserve">
-    <value>Зареждане на записа</value>
+    <value>Loading replay</value>
     <comment>Loading replay</comment>
   </data>
   <data name="SplashScreen.UnloadingFlight" xml:space="preserve">
-    <value>Прекратяване на полета</value>
+    <value>Ending flight</value>
     <comment>Ending flight</comment>
   </data>
   <data name="SplashScreen.UpdatingNavigationDatabase" xml:space="preserve">
-    <value>Обновяване на навигационната база данни</value>
+    <value>Updating navigation database</value>
     <comment>Updating navigation database</comment>
   </data>
   <data name="TimePage.CurrentTime" xml:space="preserve">
-    <value>Местен Час</value>
+    <value>Current Time</value>
     <comment>Current Time</comment>
   </data>
   <data name="TimePage.Night" xml:space="preserve">
-    <value>Нощ</value>
+    <value>Night</value>
     <comment>Night</comment>
   </data>
   <data name="TimePage.Noon" xml:space="preserve">
-    <value>Пладне</value>
+    <value>Noon</value>
     <comment>Noon</comment>
   </data>
   <data name="TimePage.Sunrise" xml:space="preserve">
-    <value>Изгрев</value>
+    <value>Sunrise</value>
     <comment>Sunrise</comment>
   </data>
   <data name="TimePage.Sunset" xml:space="preserve">
-    <value>Залез</value>
+    <value>Sunset</value>
     <comment>Sunset</comment>
   </data>
   <data name="UserAccountControl.YourAccount" xml:space="preserve">
-    <value>Вашият Акаунт</value>
+    <value>Your Account</value>
     <comment>Your Account</comment>
   </data>
   <data name="WeatherPage.CirrusCloudLayer" xml:space="preserve">
-    <value>Слой на Перести Облаци</value>
+    <value>Cirrus Cloud Layer</value>
     <comment>Cirrus Cloud Layer</comment>
   </data>
   <data name="WeatherPage.CloudsAltitude" xml:space="preserve">
-    <value>Височина на Облаците</value>
+    <value>Clouds Altitude</value>
     <comment>Clouds Altitude</comment>
   </data>
   <data name="WeatherPage.Temperature" xml:space="preserve">
-    <value>Температура</value>
+    <value>Temperature</value>
     <comment>Temperature</comment>
   </data>
   <data name="WeatherPage.Turbulence" xml:space="preserve">
-    <value>Турбуленция</value>
+    <value>Turbulence</value>
     <comment>Turbulence</comment>
   </data>
   <data name="WeatherPage.Visibility" xml:space="preserve">
-    <value>Видимост</value>
+    <value>Visibility</value>
     <comment>Visibility</comment>
   </data>
   <data name="WeatherPage.WindDirection" xml:space="preserve">
-    <value>Посока на Вятъра</value>
+    <value>Wind Direction</value>
     <comment>Wind Direction</comment>
   </data>
   <data name="WeatherPage.WindGusts" xml:space="preserve">
-    <value>Пориви на Вятъра</value>
+    <value>Wind Gusts</value>
     <comment>Wind Gusts</comment>
   </data>
   <data name="WeatherPage.WindVelocity" xml:space="preserve">
-    <value>Скорост на Вятъра</value>
+    <value>Wind Velocity</value>
     <comment>Wind Velocity</comment>
   </data>
   <data name="WeatherState.Clouds.Broken" xml:space="preserve">
-    <value>Разбити</value>
+    <value>Broken</value>
     <comment>Broken</comment>
   </data>
   <data name="WeatherState.Clouds.Clear" xml:space="preserve">
-    <value>Ясни (Без)</value>
+    <value>Clear</value>
     <comment>Clear</comment>
   </data>
   <data name="WeatherState.Clouds.Few" xml:space="preserve">
-    <value>Малко</value>
+    <value>Few</value>
     <comment>Few</comment>
   </data>
   <data name="WeatherState.Clouds.Scattered" xml:space="preserve">
-    <value>Разпръснати</value>
+    <value>Scattered</value>
     <comment>Scattered</comment>
   </data>
   <data name="WeatherState.Turbulence.Extreme" xml:space="preserve">
-    <value>Екстремна</value>
+    <value>Extreme</value>
     <comment>Extreme</comment>
   </data>
   <data name="WeatherState.Turbulence.Light" xml:space="preserve">
-    <value>Лека</value>
+    <value>Light</value>
     <comment>Light</comment>
   </data>
   <data name="WeatherState.Turbulence.Moderate" xml:space="preserve">
-    <value>Умерена</value>
+    <value>Moderate</value>
     <comment>Moderate</comment>
   </data>
   <data name="WeatherState.Turbulence.None" xml:space="preserve">
-    <value>Никаква</value>
+    <value>None</value>
     <comment>None</comment>
   </data>
   <data name="WeatherState.Turbulence.Severe" xml:space="preserve">
-    <value>Силна</value>
+    <value>Severe</value>
     <comment>Severe</comment>
   </data>
   <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
-    <value>Сигурни ли сте, че искате да изчистите топографичния кеш?</value>
+    <value>Are you sure you want to clear the scenery cache?</value>
     <comment>Are you sure you want to clear the scenery cache?</comment>
   </data>
   <data name="Settings.DisabledInFlight" xml:space="preserve">
-    <value>Не може да бъде променено по време на полет</value>
+    <value>can't be changed while in-flight</value>
     <comment>can't be changed while in-flight</comment>
   </data>
   <data name="Settings.DisabledUnlinkedAccount" xml:space="preserve">
-    <value>Акаунтът трябва да е свързан с IFC</value>
+    <value>account must be linked with IFC</value>
     <comment>account must be linked with IFC</comment>
   </data>
   <data name="Settings.NoVoicesAlert.Message" xml:space="preserve">
-    <value>Не бяха намерени гласове на устройството, искате ли да посетите Android Text to Speech настройките? (Все още имате проблеми? Проверете дали Google Speech Engine е избран)</value>
+    <value>No voices were found on the device, would you like to visit the Android Text to Speech Settings? (Still having issues? Make sure Google Speech Engine is selected)</value>
     <comment>No voices were found on the device, would you like to visit the Android Text to Speech Settings? (Still having issues? Make sure Google Speech Engine is selected)</comment>
   </data>
   <data name="MenuPageBase.Control" xml:space="preserve">
-    <value>Старт на Сесията</value>
+    <value>Control</value>
     <comment>Control (ATC)</comment>
   </data>
   <data name="MenuPageBase.Fly" xml:space="preserve">
-    <value>Старт на Полета</value>
+    <value>Fly</value>
     <comment>Fly (Fly)</comment>
   </data>
   <data name="MenuPageBase.Open" xml:space="preserve">
-    <value>Отворете</value>
+    <value>Open</value>
     <comment>Open (Scenery Editor)</comment>
   </data>
   <data name="Global.Loading" xml:space="preserve">
-    <value>Зареждане...</value>
+    <value>Loading...</value>
     <comment>Loading...</comment>
   </data>
   <data name="Settings.Option.Normal" xml:space="preserve">
-    <value>Нормално</value>
+    <value>Normal</value>
     <comment>Normal</comment>
   </data>
   <data name="SplashScreen.LoadingSession" xml:space="preserve">
-    <value>Зареждане на сесията</value>
+    <value>Loading your session</value>
     <comment>(ATC)</comment>
   </data>
   <data name="AircraftPage.LiveryWillBeDownloaded" xml:space="preserve">
-    <value>Ливреята ще бъде свалена когато полетът стартира.</value>
+    <value>Livery will be downloaded when flight starts.</value>
     <comment>Livery will be downloaded when flight starts.</comment>
   </data>
   <data name="AircraftPage.RecentlyReleased" xml:space="preserve">
-    <value>Наскоро пуснат</value>
+    <value>Recently released</value>
     <comment>Recently released</comment>
   </data>
   <data name="AircraftPage.ReleaseInfo" xml:space="preserve">
-    <value>Пуснат или обновен през {0}</value>
+    <value>Released or updated in {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
   <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
-    <value>Показване на Наследени Самолети</value>
+    <value>Show Legacy Aircraft</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
-    <value>Показване на  Pro Самолети</value>
+    <value>Show Pro Aircraft</value>
     <comment>Show Pro Aircraft</comment>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
-    <value>Подход</value>
+    <value>Approach</value>
     <comment>Approach</comment>
   </data>
   <data name="ATC.ATIS" xml:space="preserve">
@@ -1410,1177 +1410,1199 @@
     <comment>ATIS</comment>
   </data>
   <data name="ATC.Departure" xml:space="preserve">
-    <value>Заминаване</value>
+    <value>Departure</value>
     <comment>Departure</comment>
   </data>
   <data name="ATC.Ground" xml:space="preserve">
-    <value>Земя</value>
+    <value>Ground</value>
     <comment>Ground</comment>
   </data>
   <data name="ATC.Station" xml:space="preserve">
-    <value>Стация</value>
+    <value>Station</value>
     <comment>Station (as in, selected frequencies)</comment>
   </data>
   <data name="ATC.Stations" xml:space="preserve">
-    <value>Станции</value>
+    <value>Stations</value>
     <comment>Stations</comment>
   </data>
   <data name="ATC.Tower" xml:space="preserve">
-    <value>Кула</value>
+    <value>Tower</value>
     <comment>Tower</comment>
   </data>
   <data name="ATCJobBoard.Header.Arrivals" xml:space="preserve">
-    <value>Пристигащи</value>
+    <value>Arrivals</value>
     <comment>Arrivals</comment>
   </data>
   <data name="ATCJobBoardControl.ActiveFIRs" xml:space="preserve">
-    <value>{0} Активни Полетни Информационни Региони</value>
+    <value>{0} Active Flight Information Regions</value>
     <comment>{0} Active Flight Information Regions</comment>
   </data>
   <data name="ATCJobBoardControl.AirspaceActivity" xml:space="preserve">
-    <value>Активност на Въздушното Пространство</value>
+    <value>Airspace Activity</value>
     <comment>Airspace Activity</comment>
   </data>
   <data name="ATCJobBoardControl.FIRs" xml:space="preserve">
-    <value>Полетни Информационни Региони</value>
+    <value>Flight Information Regions</value>
     <comment>Flight Information Regions</comment>
   </data>
   <data name="ATCJobBoardControl.GoTo" xml:space="preserve">
-    <value>Отидете до {0}</value>
+    <value>Go to {0}</value>
     <comment>Go to {0}</comment>
   </data>
   <data name="ATCJobBoardControl.NoFlightsFound" xml:space="preserve">
-    <value>Няма Намерени Полети</value>
+    <value>No Flights Found</value>
     <comment>No Flights Found</comment>
   </data>
   <data name="FlightPlan.AddToCurrentFlightPlanPrompt" xml:space="preserve">
-    <value>Добавяне към текущия полетен план?</value>
+    <value>Add to current flight plan?</value>
     <comment>Add to current flight plan?</comment>
   </data>
   <data name="FlightPlan.AddToFlightPlan" xml:space="preserve">
-    <value>Добавяне към Полетния План</value>
+    <value>Add to Flight Plan</value>
     <comment>Add to Flight Plan</comment>
   </data>
   <data name="FlightPlan.ReplaceCurrentFlightPlanPrompt" xml:space="preserve">
-    <value>Замяна на текущия полетен план?</value>
+    <value>Replace current flight plan?</value>
     <comment>Replace current flight plan?</comment>
   </data>
   <data name="FlightPlan.ReplaceFlightPlan" xml:space="preserve">
-    <value>Замяна на Полетния План</value>
+    <value>Replace Flight Plan</value>
     <comment>Replace Flight Plan</comment>
   </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
-    <value>Искате да замените или добавите към текушия полетен план?</value>
+    <value>Do you want to replace or add to the existing flight plan?</value>
     <comment>Shown when importing a flight plan FPL file</comment>
   </data>
   <data name="FlightPlan.Replace" xml:space="preserve">
-    <value>Замяна</value>
+    <value>Replace</value>
     <comment>Replace</comment>
   </data>
   <data name="FlightPlan.Add" xml:space="preserve">
-    <value>Добавяне</value>
+    <value>Add</value>
     <comment>Add</comment>
   </data>
   <data name="Global.Airport" xml:space="preserve">
-    <value>Летище</value>
+    <value>Airport</value>
     <comment>Airport</comment>
   </data>
   <data name="Global.NotQualified" xml:space="preserve">
-    <value>Не сте квалифицирани</value>
+    <value>Not Qualified</value>
     <comment>Not Qualified</comment>
   </data>
   <data name="Global.PleaseWait" xml:space="preserve">
-    <value>Моля, изчакайте...</value>
+    <value>Please wait...</value>
     <comment>Please wait...</comment>
   </data>
   <data name="Global_FinalApproach" xml:space="preserve">
-    <value>Финален Подход</value>
+    <value>Final Approach</value>
     <comment>Final Approach</comment>
   </data>
   <data name="Global_Runway" xml:space="preserve">
-    <value>Писта</value>
+    <value>Runway</value>
     <comment>Runway</comment>
   </data>
   <data name="Global_Takeoff" xml:space="preserve">
-    <value>Излитане</value>
+    <value>Takeoff</value>
     <comment>Takeoff</comment>
   </data>
   <data name="Global_Unknown" xml:space="preserve">
-    <value>Неопределено</value>
+    <value>Unknown</value>
     <comment>Unknown</comment>
   </data>
   <data name="Grade.FlightTimeLongPeriod" xml:space="preserve">
-    <value>Полетно Време (90 дни)</value>
+    <value>Flight Time (90 days)</value>
     <comment>Flight Time (90 days)</comment>
   </data>
   <data name="Grade.LandingCountLongPeriod" xml:space="preserve">
-    <value>Кацания (90 дни)</value>
+    <value>Landings (90 days)</value>
     <comment>Landings (90 days)</comment>
   </data>
   <data name="Grade.ReportCountMediumPeriod" xml:space="preserve">
-    <value>Нарушения Ниво 3 (7 дни)</value>
+    <value>Level 3 Violations (7 days)</value>
     <comment>Level 3 Violations (7 days)</comment>
   </data>
   <data name="Grade.Requirements" xml:space="preserve">
-    <value>Изисквания</value>
+    <value>Requirements</value>
     <comment>Requirements</comment>
   </data>
   <data name="Grade.ShowGradeTable" xml:space="preserve">
-    <value>Показване на Ранговата Таблица</value>
+    <value>Show Grade Table</value>
     <comment>Show Grade Table</comment>
   </data>
   <data name="Grade.ShowViolationHistory" xml:space="preserve">
-    <value>Показване на Историята на Нарушенията</value>
+    <value>Show Violation History</value>
     <comment>Show Violation History</comment>
   </data>
   <data name="Grade.Total12MonthsATCAllReports" xml:space="preserve">
-    <value>Всички Нарушения Ниво 2/3 (1 година)</value>
+    <value>All Level 2/3 Violations (1 year)</value>
     <comment>All Level 2/3 Violations (1 year)</comment>
   </data>
   <data name="Grade.Total12MonthsATCMajorReports" xml:space="preserve">
-    <value>Нарушения Ниво 3 (1 year)</value>
+    <value>Level 3 Violations (1 year)</value>
     <comment>Level 3 Violations (1 year)</comment>
   </data>
   <data name="Grade.Total12MonthsATCMinorReports" xml:space="preserve">
-    <value>Нарушения Ниво 2 (1 година)</value>
+    <value>Level 2 Violations (1 year)</value>
     <comment>Level 2 Violations (1 year)</comment>
   </data>
   <data name="Grade.TotalFlightTime" xml:space="preserve">
-    <value>ОБщо Полетно Време</value>
+    <value>Total Flight Time</value>
     <comment>Total Flight Time</comment>
   </data>
   <data name="Grade.TotalLandings" xml:space="preserve">
-    <value>Общ Брой Кацания</value>
+    <value>Total Landings</value>
     <comment>Total Landings</comment>
   </data>
   <data name="Grade.TotalXP" xml:space="preserve">
-    <value>Опит</value>
+    <value>XP</value>
     <comment>XP</comment>
   </data>
   <data name="Grade.ViolationsByLandingShortPeriod" xml:space="preserve">
-    <value>Нарушения Ниво 1/Кацане (12 Месеца)</value>
+    <value>Level 1 Violations/Landing (12 Months)</value>
     <comment>Level 1 Violations/Landing (12 Months)</comment>
   </data>
   <data name="Grade.ViolationsMediumPeriod" xml:space="preserve">
-    <value>Нарушения Ниво 1 (7 дни)</value>
+    <value>Level 1 Violations (7 days)</value>
     <comment>Level 1 Violations (7 days)</comment>
   </data>
   <data name="Grade.ViolationsShortPeriod" xml:space="preserve">
-    <value>Нарушения Ниво 1 (24 часа)</value>
+    <value>Level 1 Violations (24 hours)</value>
     <comment>Level 1 Violations (24 hours)</comment>
   </data>
   <data name="ItemSearchControl.NoResultsFor" xml:space="preserve">
-    <value>Няма резултат за "{0}"</value>
+    <value>No results for "{0}"</value>
     <comment>No results for "{0}"</comment>
   </data>
   <data name="ItemSearchControl.SearchAirports" xml:space="preserve">
-    <value>Търсене на летища</value>
+    <value>Search airports</value>
     <comment>Search airports</comment>
   </data>
   <data name="ItemSearchControl.SearchAirportsAndWaypoints" xml:space="preserve">
-    <value>Търсене на летища/точки</value>
+    <value>Search airports/waypoints</value>
     <comment>Search airports/waypoints</comment>
   </data>
   <data name="LocationPage.NoAvailableStartLocations" xml:space="preserve">
-    <value>Няма налични начални локации за {0}</value>
+    <value>No available start locations for the {0}</value>
     <comment>No Available start locations for the {0}</comment>
   </data>
   <data name="LocationPage.ResetZoom" xml:space="preserve">
-    <value>Нулиране на Мащабирането</value>
+    <value>Reset Zoom</value>
     <comment>Reset Zoom</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.Select" xml:space="preserve">
-    <value>Избиране</value>
+    <value>Select</value>
     <comment>Select</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectApproach" xml:space="preserve">
-    <value>Избор на Подход</value>
+    <value>Select Approach</value>
     <comment>Select Approach</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectArrival" xml:space="preserve">
-    <value>Избор на Процедура за Долитане</value>
+    <value>Select Arrival</value>
     <comment>Select Arrival</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectDeparture" xml:space="preserve">
-    <value>Избор на Процедура за Отлитане</value>
+    <value>Select Departure</value>
     <comment>Select Departure</comment>
   </data>
   <data name="MenuPageBase.Grade.GradeRequired" xml:space="preserve">
-    <value>Нужен Клас: {0}</value>
+    <value>Grade Required: {0}</value>
     <comment>Grade Required: {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.InsufficientGradePrompt" xml:space="preserve">
-    <value>Нямате нужния ранг, за да летите в {0}</value>
+    <value>You do not have the required grade to fly on {0}</value>
     <comment>You do not have the required grade to fly on {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.YourGrade" xml:space="preserve">
-    <value>Вашият Ранг: {0}</value>
+    <value>Your Grade: {0}</value>
     <comment>Your Grade: {0}</comment>
   </data>
   <data name="MenuPageBase.NoATCAccess" xml:space="preserve">
-    <value>Нямате достъп до РВД</value>
+    <value>No ATC Access</value>
     <comment>No ATC Access</comment>
   </data>
   <data name="MenuPageBase.NoATCAccessOn" xml:space="preserve">
-    <value>Нямате достъп до РВД на {0}</value>
+    <value>No ATC Access on {0}</value>
     <comment>No ATC Access on {0}</comment>
   </data>
   <data name="MenuPageBase.NoProFound" xml:space="preserve">
-    <value>Не беше намерен валиден Infinite Flight Pro абонамент</value>
+    <value>No valid Infinite Flight Pro subscription found</value>
     <comment>No valid Infinite Flight Pro subscription found</comment>
   </data>
   <data name="MenuPageBase.ProRequired" xml:space="preserve">
-    <value>Infinite Flight Pro се изисква, за да започнете полет на тази локация. Моля, променете началното летище.</value>
+    <value>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</value>
     <comment>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="Time.1Hour" xml:space="preserve">
-    <value>1 час</value>
+    <value>1 hour</value>
     <comment>1 hour</comment>
   </data>
   <data name="Time.1HourAgo" xml:space="preserve">
-    <value>Преди 1 час</value>
+    <value>1 hour ago</value>
     <comment>1 hour ago</comment>
   </data>
   <data name="Time.1Minute" xml:space="preserve">
-    <value>1 минута</value>
+    <value>1 minute</value>
     <comment>1 minute</comment>
   </data>
   <data name="Time.1MinuteAgo" xml:space="preserve">
-    <value>Преди 1 миунта</value>
+    <value>1 minute ago</value>
     <comment>1 minute ago</comment>
   </data>
   <data name="Time.1YearAgo" xml:space="preserve">
-    <value>Преди 1 година</value>
+    <value>1 year ago</value>
     <comment>1 year ago</comment>
   </data>
   <data name="Time.Days" xml:space="preserve">
-    <value>{0} дни</value>
+    <value>{0} days</value>
     <comment>{0} days</comment>
   </data>
   <data name="Time.DaysAgo" xml:space="preserve">
-    <value>Преди {0} дни</value>
+    <value>{0} days ago</value>
     <comment>{0} days ago</comment>
   </data>
   <data name="Time.Hour" xml:space="preserve">
-    <value>час</value>
+    <value>hour</value>
     <comment>hour</comment>
   </data>
   <data name="Time.Hours" xml:space="preserve">
-    <value>{0} часа</value>
+    <value>{0} hours</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HoursAgo" xml:space="preserve">
-    <value>Преди {0} часа</value>
+    <value>{0} hours ago</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HourShortForm" xml:space="preserve">
-    <value>ч</value>
+    <value>hr</value>
     <comment>hr</comment>
   </data>
   <data name="Time.HoursShortForm" xml:space="preserve">
-    <value>ч</value>
+    <value>hrs</value>
     <comment>hrs</comment>
   </data>
   <data name="Time.In1Hour" xml:space="preserve">
-    <value>След 1 час</value>
+    <value>In 1 hour</value>
     <comment>In 1 hour</comment>
   </data>
   <data name="Time.In1Minute" xml:space="preserve">
-    <value>След 1 минута</value>
+    <value>In a minute</value>
     <comment>In a minute</comment>
   </data>
   <data name="Time.InDays" xml:space="preserve">
-    <value>След {0} дни</value>
+    <value>In {0} days</value>
     <comment>In {0} days</comment>
   </data>
   <data name="Time.InHours" xml:space="preserve">
-    <value>След {0} час(а)</value>
+    <value>In {0} hours</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.InLessThanAMinute" xml:space="preserve">
-    <value>След по-малко от минута</value>
+    <value>In less than a minute</value>
     <comment>In less than a minute</comment>
   </data>
   <data name="Time.InMinutes" xml:space="preserve">
-    <value>След {0} минути</value>
+    <value>In {0} minutes</value>
     <comment>In {0} minutes</comment>
   </data>
   <data name="Time.LessThanAMinute" xml:space="preserve">
-    <value>По-малко от минута</value>
+    <value>Less than a minute</value>
     <comment>less than a minute</comment>
   </data>
   <data name="Time.LessThanAMinuteAgo" xml:space="preserve">
-    <value>Преди по-малко от минута</value>
+    <value>Less than a minute ago</value>
     <comment>Less than a minute ago</comment>
   </data>
   <data name="Time.Minute" xml:space="preserve">
-    <value>минута</value>
+    <value>minute</value>
     <comment>minute</comment>
   </data>
   <data name="Time.Minutes" xml:space="preserve">
-    <value>{0} минути</value>
+    <value>{0} minutes</value>
     <comment>{0} minutes</comment>
   </data>
   <data name="Time.MinutesAgo" xml:space="preserve">
-    <value>Преди {0} минути</value>
+    <value>{0} minutes ago</value>
     <comment>{0} minutes ago</comment>
   </data>
   <data name="Time.MinuteShortForm" xml:space="preserve">
-    <value>мин</value>
+    <value>mn</value>
     <comment>mn</comment>
   </data>
   <data name="Time.Tomorrow" xml:space="preserve">
-    <value>Утре</value>
+    <value>Tomorrow</value>
     <comment>Tomorrow</comment>
   </data>
   <data name="Time.YearsAgo" xml:space="preserve">
-    <value>Преди {0} години</value>
+    <value>{0} years ago</value>
     <comment>{0} years ago</comment>
   </data>
   <data name="Time.Yesterday" xml:space="preserve">
-    <value>Вчера</value>
+    <value>Yesterday</value>
     <comment>Yesterday</comment>
   </data>
   <data name="Violation.AerobaticsViolation" xml:space="preserve">
-    <value>Нарушение за Аеробатика</value>
+    <value>Aerobatics Violation</value>
     <comment>Aerobatics Violation</comment>
   </data>
   <data name="Violation.AirportClass" xml:space="preserve">
-    <value>Нарушение за Клас на Летището</value>
+    <value>Airport Class Violation</value>
     <comment>Airport Class Violation</comment>
   </data>
   <data name="Violation.AirspaceViolation" xml:space="preserve">
-    <value>Нарушение за Въздушно Пространство</value>
+    <value>Airspace Violation</value>
     <comment>Airspace Violation</comment>
   </data>
   <data name="Violation.FlightOverspeed" xml:space="preserve">
-    <value>Превишение на Скоростта по Време на Полет</value>
+    <value>Overspeed in Flight</value>
     <comment>Overspeed in Flight</comment>
   </data>
   <data name="Violation.GroundOverspeed" xml:space="preserve">
-    <value>Превишение на Скоростта на Рулиране</value>
+    <value>Ground Overspeed</value>
     <comment>Ground Overspeed</comment>
   </data>
   <data name="Violation.LevelledViolation" xml:space="preserve">
-    <value>Нарушение Ниво {0}</value>
+    <value>Level {0} Violation</value>
     <comment>Level {violationLevel} Violation</comment>
   </data>
   <data name="Violation.RunwayIdle" xml:space="preserve">
-    <value>Бездействие на Пистата</value>
+    <value>Runway Idle</value>
     <comment>Runway Idle</comment>
   </data>
   <data name="Global.Continue" xml:space="preserve">
-    <value>Продължи</value>
+    <value>Continue</value>
     <comment>Continue</comment>
   </data>
   <data name="Global.Settings" xml:space="preserve">
-    <value>Настройки</value>
+    <value>Settings</value>
     <comment>Settings</comment>
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
-    <value>{0} е прекалено голям за стартовата локация {1} в {2}. Моля, променете стартовата локация</value>
+    <value>The {0} is too large for current starting point {1} at {2}. Please change the start location</value>
     <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
-    <value>РВД</value>
+    <value>ATC</value>
     <comment>ATC</comment>
   </data>
   <data name="MenuPageBase.CannotConnect" xml:space="preserve">
-    <value>НЕ МОЖАХМЕ ДА ВИ СВЪРЖЕМ</value>
+    <value>CAN'T CONNECT</value>
     <comment>CAN'T CONNECT</comment>
   </data>
   <data name="MenuPageBase.CannotConnect.Message" xml:space="preserve">
-    <value>Infinite Flight има проблем с интернет връзката. Моля, проверете интернет връзката си и рестартирайте приложението, или опитайте отново по-късно.</value>
+    <value>Infinite Flight is experiencing internet connectivity issues. Please check your internet connection and restart the app or try again later.</value>
     <comment>Infinite Flight is experiencing internet connectivity issues. Please check your internet connection and restart the app or try again later.</comment>
   </data>
   <data name="MenuPageBase.ForumNotConnected" xml:space="preserve">
-    <value>Вашият Infinite Flight Community профил трябва да е свързан преди да започнете сесия</value>
+    <value>Your Infinite Flight Community profile needs to be connected before starting a session</value>
     <comment>Your Infinite Flight Community profile needs to be connected before starting a session</comment>
   </data>
   <data name="MenuPageBase.NoLocationSelected" xml:space="preserve">
-    <value>Няма избрана локация, моля, изберете честота, която да контролирате</value>
+    <value>No location has been selected, please select a frequency to open</value>
     <comment>No location has been selected, please select a frequency to open.</comment>
   </data>
   <data name="MenuPageBase.ProRequiredAircraft" xml:space="preserve">
-    <value>Нужен ви е Infinite Flight Pro абонамент, за да използвате този самолет</value>
+    <value>Infinite Flight Pro is required to use this aircraft</value>
     <comment>Infinite Flight Pro is required to use this aircraft</comment>
   </data>
   <data name="MenuPageBase.ProRequiredStartAirport" xml:space="preserve">
-    <value>Нужен ви е Infinite Flight Pro абонамент, за да започнете полет на тази локация. Моля, променете началното летище.</value>
+    <value>Infinite Flight Pro is required to start a flight at this location. Please change the start airport</value>
     <comment>Infinite Flight PRO is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="MenuPageBase.ShowUsernameDisabled" xml:space="preserve">
-    <value>Името ви трябва да е видимо преди да започнете сесия. Включете "{0}" в настройките.</value>
+    <value>Your username needs to be visible before starting a session. Enable "{0}" in settings</value>
     <comment>Your username needs to be visible before starting a session. Enable \"Show Username In-Flight\" in settings</comment>
   </data>
   <data name="Notam.Airport" xml:space="preserve">
-    <value>Летище : {0}</value>
+    <value>Airport : {0}</value>
     <comment>Airport</comment>
   </data>
   <data name="Notam.Ceiling" xml:space="preserve">
-    <value>Крайна Височина : {0}ft</value>
+    <value>Ceiling : {0}ft</value>
     <comment>Ceiling</comment>
   </data>
   <data name="Notam.Floor" xml:space="preserve">
-    <value>Начална Височина   : {0}ft</value>
+    <value>Floor   : {0}ft</value>
     <comment>Floor</comment>
   </data>
   <data name="Notam.From" xml:space="preserve">
-    <value>От    : {0} {1}Z</value>
+    <value>From    : {0} {1}Z</value>
     <comment>From (Date)</comment>
   </data>
   <data name="Notam.Message" xml:space="preserve">
-    <value>Съобщение : {0}</value>
+    <value>Message : {0}</value>
     <comment>Message</comment>
   </data>
   <data name="Notam.Title" xml:space="preserve">
-    <value>Заглавие   : {0}</value>
+    <value>Title   : {0}</value>
     <comment>Title</comment>
   </data>
   <data name="Notam.To" xml:space="preserve">
-    <value>До      : {0} {1}Z</value>
+    <value>To      : {0} {1}Z</value>
     <comment>To (Date)</comment>
   </data>
   <data name="Notam.UntilFurtherNotice" xml:space="preserve">
-    <value>До      : Второ Нареждане</value>
+    <value>To      : Until Further Notice</value>
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>Има активно ИВМ (Известие до Въздушните Мисии) за избраното летище за излитане. Моля, прочетете следното ИВМ внимателно преди да продължите.</value>
+    <value>A NOTAM (Notice to Air Missions) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</value>
     <comment>A NOTAM (Notice to Air Missions) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
-    <value>ВНИМАНИЕ: АКТИВНО ИВМ</value>
+    <value>WARNING: ACTIVE NOTAM</value>
     <comment>WARNING: ACTIVE NOTAM</comment>
   </data>
   <data name="About.PrivacyPolicy" xml:space="preserve">
-    <value>ПОЛИТИКА ЗА ПОВЕРИТЕЛНОСТ</value>
+    <value>PRIVACY POLICY</value>
     <comment>PRIVACY POLICY</comment>
   </data>
   <data name="About.TermsOfUse" xml:space="preserve">
-    <value>УСЛОВИЯ ЗА ПОЛЗВАНЕ</value>
+    <value>TERMS OF USE</value>
     <comment>TERMS OF USE</comment>
   </data>
   <data name="Global.Aircraft" xml:space="preserve">
-    <value>Самолет</value>
+    <value>Aircraft</value>
     <comment>Aircraft</comment>
   </data>
   <data name="Global.Date" xml:space="preserve">
-    <value>Дата</value>
+    <value>Date</value>
     <comment>Date</comment>
   </data>
   <data name="Global.Day" xml:space="preserve">
-    <value>Ден</value>
+    <value>Day</value>
     <comment>Day</comment>
   </data>
   <data name="Global.Description" xml:space="preserve">
-    <value>Описание</value>
+    <value>Description</value>
     <comment>Description</comment>
   </data>
   <data name="Global.Night" xml:space="preserve">
-    <value>Нощ</value>
+    <value>Night</value>
     <comment>Night</comment>
   </data>
   <data name="Global.Type" xml:space="preserve">
-    <value>Вид</value>
+    <value>Type</value>
     <comment>Type</comment>
   </data>
   <data name="Logbook.From" xml:space="preserve">
-    <value>От</value>
+    <value>From</value>
     <comment>From</comment>
   </data>
   <data name="Logbook.LiveFlights" xml:space="preserve">
-    <value>Полети Наживо</value>
+    <value>Live Flights</value>
     <comment>Live Flights</comment>
   </data>
   <data name="Logbook.Notes" xml:space="preserve">
-    <value>Забележки</value>
+    <value>Notes</value>
     <comment>Notes</comment>
   </data>
   <data name="Logbook.ShowingFlightsOnDevice" xml:space="preserve">
-    <value>Показани са само полетите на това устройство</value>
+    <value>Showing flights stored on this device</value>
     <comment>Showing flights stored on this device</comment>
   </data>
   <data name="Logbook.SoloFlights" xml:space="preserve">
-    <value>Соло Полети</value>
+    <value>Solo Flights</value>
     <comment>Solo Flights</comment>
   </data>
   <data name="Logbook.To" xml:space="preserve">
-    <value>До</value>
+    <value>To</value>
     <comment>To</comment>
   </data>
   <data name="Logbook.TotalFlightTime" xml:space="preserve">
-    <value>Общо Полетно Време</value>
+    <value>Total Flight Time</value>
     <comment>Total Flight Time</comment>
   </data>
   <data name="Logbook.TotalTime" xml:space="preserve">
-    <value>Общо Време</value>
+    <value>Total Time</value>
     <comment>Total Time</comment>
   </data>
   <data name="Global.Details" xml:space="preserve">
-    <value>Детайли</value>
+    <value>Details</value>
     <comment>Details</comment>
   </data>
   <data name="Global.Name" xml:space="preserve">
-    <value>Име</value>
+    <value>Name</value>
     <comment>Name</comment>
   </data>
   <data name="Global.Report" xml:space="preserve">
-    <value>Оплакване</value>
+    <value>Report</value>
     <comment>Report</comment>
   </data>
   <data name="Global.Reports" xml:space="preserve">
-    <value>Докладвания</value>
+    <value>Reports</value>
     <comment>Reports</comment>
   </data>
   <data name="Global.Violation" xml:space="preserve">
-    <value>Нарушение</value>
+    <value>Violation</value>
     <comment>Violation</comment>
   </data>
   <data name="Global.Violations" xml:space="preserve">
-    <value>Нарушения</value>
+    <value>Violations</value>
     <comment>Violations</comment>
   </data>
   <data name="Logbook.ATCReport" xml:space="preserve">
-    <value>РВД Оплакване</value>
+    <value>ATC Report</value>
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>РВД Оплакване от [{0}]\n{1}</value>
+    <value>ATC Report by [{0}]\n{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
-    <value>Покажи Полетните Детайли</value>
+    <value>View Flight Details</value>
     <comment>View Flight Details</comment>
   </data>
   <data name="Replay.Comments" xml:space="preserve">
-    <value>Коментари</value>
+    <value>Comments</value>
     <comment>Comments</comment>
   </data>
   <data name="Replay.Delete" xml:space="preserve">
-    <value>ИЗТРИВАНЕ</value>
+    <value>DELETE</value>
     <comment>DELETE</comment>
   </data>
   <data name="Replay.Duration" xml:space="preserve">
-    <value>Времетраене</value>
+    <value>Duration</value>
     <comment>Duration</comment>
   </data>
   <data name="Replay.Edit" xml:space="preserve">
-    <value>РЕДАКТИРАНЕ</value>
+    <value>EDIT</value>
     <comment>EDIT</comment>
   </data>
   <data name="Replay.FileSize" xml:space="preserve">
-    <value>Размер на Файла</value>
+    <value>File Size</value>
     <comment>File Size</comment>
   </data>
   <data name="Replay.Import" xml:space="preserve">
-    <value>ИМПОРТИРАНЕ</value>
+    <value>IMPORT</value>
     <comment>IMPORT</comment>
   </data>
   <data name="Replay.Share" xml:space="preserve">
-    <value>СПОДЕЛЯНЕ</value>
+    <value>SHARE</value>
     <comment>SHARE</comment>
   </data>
   <data name="Logbook.Details" xml:space="preserve">
-    <value>ДЕТАЙЛИ</value>
-    <comment/>
+    <value>Details</value>
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
-    <value>Натиснете бутон наКлавиатурата, за да зададете</value>
+    <value>Press button on
+Keyboard to assign</value>
     <comment>Press button on \nKeyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
-    <value>Изтриване</value>
+    <value>Delete</value>
     <comment>Delete</comment>
   </data>
   <data name="Settings.Controls.MoveAxisPrompt" xml:space="preserve">
-    <value>Раздвижете ос на контролера, за да зададете</value>
+    <value>Move axis on controller to assign</value>
     <comment>Move axis on controller to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
-    <value>Натиснете бутон на контролера/клавиатурата, за да зададете</value>
+    <value>Press button on 
+Controller/Keyboard to assign</value>
     <comment>Press button on \nController/Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
-    <value>Натиснете бутон или раздвижете ос, за да зададете</value>
+    <value>Press button or move axis to assign</value>
     <comment>Press button or move axis to assign</comment>
   </data>
   <data name="Settings.Controls.Reset" xml:space="preserve">
-    <value>Нулиране</value>
+    <value>Reset</value>
     <comment>Reset</comment>
   </data>
   <data name="SystemMessaging.Approach.CannotActivate" xml:space="preserve">
-    <value>Режимът на Подход Не Може да Бъде Включен</value>
+    <value>Approach Mode Cannot Be Enabled</value>
     <comment>Approach Mode Cannot Be Enabled</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.AirspeedOutOfRange" xml:space="preserve">
-    <value>Режимът на Подход е Изключен - Въздушната скорост е извън лимита (250 възела макс.)</value>
+    <value>Approach Mode Disabled - Airspeed out of range (250kts max)</value>
     <comment>Approach Mode Disabled - Airspeed out of range (250kts max)</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.BankOutOfRange" xml:space="preserve">
-    <value>Режимът на Подход е Изключен - Хоризонталният наклон е извън лимита</value>
+    <value>Approach Mode Disabled - Bank out of range</value>
     <comment>Approach Mode Disabled - Bank out of range</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.LandingWeightOutOfRange" xml:space="preserve">
-    <value>Режимът на Подход е Изключен - Самолетът е над максималното тегло</value>
+    <value>Approach Mode Disabled - Aircraft is overweight</value>
     <comment>Approach Mode Disabled - Aircraft is overweight</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSNotEnabled" xml:space="preserve">
-    <value>Режимът на Подход е ИзключенРежимът на вертикална скорост трябва да е включен докато Режимът на Подход е активен</value>
-    <comment>Approach Mode DisabledVertical Speed Mode must be enabled when Approach Mode is active</comment>
+    <value>Approach Mode Disabled
+Vertical Speed Mode must be enabled when Approach Mode is active</value>
+    <comment>Approach Mode Disabled
+Vertical Speed Mode must be enabled when Approach Mode is active</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSOutOfRange" xml:space="preserve">
-    <value>Режимът на Подход е Изключен - ВС извън лимита</value>
+    <value>Approach Mode Disabled - VS out of range</value>
     <comment>Approach Mode Disabled - VS out of range</comment>
   </data>
   <data name="SystemMessaging.ATC.TuningTo" xml:space="preserve">
-    <value>Присъединяане към {0} {1}</value>
+    <value>Tuning to {0} {1}</value>
     <comment>Tuning to {0} {1}</comment>
   </data>
   <data name="SystemMessaging.Autopilot.Disengaged" xml:space="preserve">
-    <value>АВТОПИЛОТЪТ Е ИЗКЛЮЧЕН</value>
+    <value>AUTOPILOT DISENGAGED</value>
     <comment>AUTOPILOT DISENGAGED</comment>
   </data>
   <data name="SystemMessaging.Autopilot.DisengagedCheckParams" xml:space="preserve">
-    <value>АВТОПИЛОТЪТ Е ИЗКЛЮЧЕН - ПРОВЕРЕТЕ ПАРАМЕТРИТЕ НА ПОЛЕТА</value>
+    <value>AUTOPILOT DISENGAGED - CHECK FLIGHT PARAMETERS</value>
     <comment>AUTOPILOT DISENGAGED - CHECK FLIGHT PARAMETERS</comment>
   </data>
   <data name="SystemMessaging.Autopilot.EngagedWithClimbRate" xml:space="preserve">
-    <value>АВТОПИЛОТ ВКЛ - ВС: {0:#0} фт/мин</value>
+    <value>AUTOPILOT ON - VS: {0:#0} ft/min</value>
     <comment>AUTOPILOT ON - VS: {0:#0} ft/min</comment>
   </data>
   <data name="SystemMessaging.Engine.MasterSwitchPrompt" xml:space="preserve">
-    <value>Включете главния суич в електронния панел преди да стартирате двигателя/-ите</value>
+    <value>Turn on the master switch in the electrical panel before starting engine</value>
     <comment>Turn on the master switch in the electrical panel before starting engine</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.Off" xml:space="preserve">
-    <value>ВЕКТОРЪТ НА ТРАЕКТОРИЯТА НА ПОЛЕТА ИЗКЛ</value>
+    <value>FLIGHT PATH VECTOR OFF</value>
     <comment>FLIGHT PATH VECTOR OFF</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.On" xml:space="preserve">
-    <value>ВЕКТОРЪТ НА ТРАЕКТОРИЯТА НА ПОЛЕТА ВКЛ</value>
+    <value>FLIGHT PATH VECTOR ON</value>
     <comment>FLIGHT PATH VECTOR ON</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.Alt" xml:space="preserve">
-    <value>ВИС</value>
+    <value>ALT</value>
     <comment>ALT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.ArrivingAtDestination" xml:space="preserve">
-    <value>ПРИСТИГАНЕ НА ДЕСТИНАЦИЯТА след &lt; 1мин</value>
+    <value>ARRIVING AT DESTINATION in &lt; 1min</value>
     <comment>ARRIVING AT DESTINATION in &lt; 1min</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.FlyHdg" xml:space="preserve">
-    <value>ЛЕТЕТЕ ПО КУРС</value>
+    <value>FLY HDG</value>
     <comment>FLY HDG</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.FT" xml:space="preserve">
-    <value>ФТ</value>
+    <value>FT</value>
     <comment>FT (feet)</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWpt" xml:space="preserve">
-    <value>СЛЕДВ. ТОЧКА:</value>
+    <value>NEXT WPT:</value>
     <comment>NEXT WPT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
-    <value>СЛЕДВ. ТОЧКА след &lt; 1 мин - Завийте по курс</value>
+    <value>NEXT WPT in &lt; 1 Min - Turn to HDG</value>
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
-    <value>Изхвърлянето на гориво не може да започне. Минималната височина е 7000фт НМР</value>
+    <value>Cannot start fuel dump. Min altitude 7000ft AGL</value>
     <comment>Cannot start fuel dump. Min altitude 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelowMLW" xml:space="preserve">
-    <value>Изхвърлянето на горивно не може да започне. Самолетът е под Максималното Тегло за Кацане</value>
+    <value>Cannot start fuel dump. Aircraft is below Maximum Landing Weight</value>
     <comment>Cannot start fuel dump. Aircraft is below Maximum Landing Weight</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.FuelTooLow" xml:space="preserve">
-    <value>Изхвърлянето на гориво не може да започне. Нивото на гориво е прекалено ниско!</value>
+    <value>Cannot start fuel dump. Fuel level too low!</value>
     <comment>Cannot start fuel dump. Fuel level too low!</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Starting" xml:space="preserve">
-    <value>Изхвърлянето на гориво започва - Наблюдавайте нивото на гориво</value>
+    <value>Starting Fuel Dump - Monitor Fuel Level</value>
     <comment>Starting Fuel Dump - Monitor Fuel Level</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelow7000" xml:space="preserve">
-    <value>Изхвърлянето на гориво спря. Самолетът е под 7000фт НМР</value>
+    <value>Fuel dump stopped. Aircraft is below 7000ft AGL</value>
     <comment>Fuel dump stopped. Aircraft is below 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelowMLW" xml:space="preserve">
-    <value>Изхвърлянето на гориво спря. Самолетът е под Максималното Тегло за Кацане</value>
+    <value>Fuel dump stopped. Aircraft is below maximum landing weight</value>
     <comment>Fuel dump stopped. Aircraft is below maximum landing weight</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.FuelTooLow" xml:space="preserve">
-    <value>Изхвърлянето на гориво спря. Нивото на гориво е прекалено ниско</value>
+    <value>Fuel dump stopped. Fuel level too low</value>
     <comment>Fuel dump stopped. Fuel level too low</comment>
   </data>
   <data name="SystemMessaging.Gear.UpWarning" xml:space="preserve">
-    <value>Внимание, колесникът е прибран</value>
+    <value>Warning, Landing Gear is Up</value>
     <comment>Warning, Landing Gear is Up</comment>
   </data>
   <data name="SystemMessaging.LowPowerMode.Disabled" xml:space="preserve">
-    <value>Режим на Ниска Мощност Изключен</value>
+    <value>Low Power Mode Disabled</value>
     <comment>Low Power Mode Disabled</comment>
   </data>
   <data name="SystemMessaging.LowPowerMode.Enabled" xml:space="preserve">
-    <value>Режим на Ниска Мощност Включен</value>
+    <value>Low Power Mode Enabled</value>
     <comment>Low Power Mode Enabled</comment>
   </data>
   <data name="SystemMessaging.OutOfRegion" xml:space="preserve">
-    <value>Нужен е Infinite Flight Pro, за да летите извън стандартните регионо.Натиснете тук за повече информация</value>
-    <comment>Infinite Flight Pro is required to fly outside of the default regions.Tap here for more information</comment>
+    <value>Infinite Flight Pro is required to fly outside of the default regions.
+Tap here for more information</value>
+    <comment>Infinite Flight Pro is required to fly outside of the default regions.
+Tap here for more information</comment>
   </data>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
-    <value>Превишаване на скоростта! Намалете мощността, за да намалите скоростта под максималната скорост на самолета</value>
+    <value>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
-    <value>ЗАПОЧВАНЕ НА БУКСИРАНЕТО</value>
+    <value>STARTING PUSHBACK</value>
     <comment>STARTING PUSHBACK</comment>
   </data>
   <data name="SystemMessaging.PushbackStopped" xml:space="preserve">
-    <value>БУКСИРАНЕТО СПРЯ</value>
+    <value>PUSHBACK STOPPED</value>
     <comment>PUSHBACK STOPPED</comment>
   </data>
   <data name="SystemMessaging.Refueling.Aerial" xml:space="preserve">
-    <value>Въздушното Презареждане Започва...</value>
+    <value>Aerial Refueling Started...</value>
     <comment>Aerial Refueling Started...</comment>
   </data>
   <data name="SystemMessaging.Refueling.Complete" xml:space="preserve">
-    <value>Презареждането е Завършено</value>
+    <value>Refueling Complete</value>
     <comment>Refueling Complete</comment>
   </data>
   <data name="SystemMessaging.Refueling.Standard" xml:space="preserve">
-    <value>Презареждането Започва...</value>
+    <value>Refueling Started...</value>
     <comment>Refueling Started...</comment>
   </data>
   <data name="SystemMessaging.SpeedMode.CannotActivate" xml:space="preserve">
-    <value>Режимът за скорост не може да бъде активиран. Самолетът е на земята.</value>
+    <value>Cannot activate speed mode. Airplane is on the ground.</value>
     <comment>Cannot activate speed mode. Airplane is on the ground.</comment>
   </data>
   <data name="SystemMessaging.Stall.Approaching" xml:space="preserve">
-    <value>Губите подемна сила! Наклонете носа надолу, за да я възстановите</value>
+    <value>Approaching stall! Push yoke/stick forward to recover</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
   <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>ГУБИТЕ ПОДЕМНА СИЛА! Наклонете носа надолу, за да я възстановите</value>
+    <value>STALL! Push yoke/stick forward to recover</value>
     <comment>STALL! Push yoke/stick forward to recover</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
-    <value>Автопилотът трябва да е включен, за да променяте времевата скала на симулацията</value>
+    <value>Autopilot must be activated to change simulation time scale</value>
     <comment>Autopilot must be activated to change simulation time scale</comment>
   </data>
   <data name="SystemMessaging.TimeScale.FighterJetsWarning" xml:space="preserve">
-    <value>Времевата скала на симулацията не може да бъде променена за изтребители.</value>
+    <value>Simulation time scale cannot be changed for fighter jets.</value>
     <comment>Simulation time scale cannot be changed for fighter jets.</comment>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
-    <value>ПРЕДУПРЕЖДЕНИЕ ЗА АЕРОБАТИКАНе са позволени аеробатични маневри около летища.</value>
+    <value>AEROBATICS WARNING
+Aerobatic Maneuvers prohibited near airports.</value>
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>ПРЕДУПРЕЖДЕНИЕ ЗА БЕЗДЕЙСТВИЕ НА ПИСТАТАСтоенето на активни писти за дълги периоди от време е забраненно.Излезте от пистата, или излетете, за да избегнете нарушение</value>
+    <value>RUNWAY IDLE WARNING
+Staying on active runways for extended periods of time is prohibited.
+Exit the runway or take off to avoid receiving a violation</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>ПРЕДУПРЕЖДЕНИЕ ЗА СКОРОСТТА НА РУЛИРАНЕМаксималната скорост по време на рулиране е 35 възела.Намалете скоростта, за да избегнете нарушение.</value>
+    <value>TAXI SPEED WARNING
+Max ground speed while taxiing: 35kts.
+Slow down to avoid violations.</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
-    <value>VNAV не е наличен по време на изкачване.Функцията е налична само за снижения.</value>
+    <value>VNAV unavailable during climb.
+This functionality is only available for descent.</value>
     <comment>VNAV unavailable during climb.\nThis functionality is only available for descent.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
-    <value>VNAV снижава към {0} до {1:n0}фт</value>
+    <value>VNAV Descending to {0} at {1:n0}ft</value>
     <comment>VNAV Descending to {0} at {1:n0}ft</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
-    <value>VNAV не е наличенНяма зададена височина за точките в полетния план</value>
+    <value>VNAV Unavailable
+No altitude set for any waypoint in Flight Plan</value>
     <comment>VNAV Unavailable\nNo altitude set for any waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
-    <value>VNAV не е наличнеНяма точки в полетния план</value>
-    <comment>VNAV UnavailableNo waypoint in Flight Plan</comment>
+    <value>VNAV Unavailable
+No waypoint in Flight Plan</value>
+    <comment>VNAV Unavailable
+No waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.TargetUpdated" xml:space="preserve">
-    <value>Целта на VNAV е обновена до {0} ({2:#0.0}NM) @ {1:n0}фт</value>
+    <value>VNAV Target updated to {0} ({2:#0.0}NM) @ {1:n0}ft</value>
     <comment>VNAV Target updated to {0} ({2:#0.0}NM) @ {1:n0}ft</comment>
   </data>
   <data name="Violations.ExceededDisconnection" xml:space="preserve">
-    <value>Вие сте изключени от сървъра поради надвишаване на нарушенията за тази сесия.</value>
+    <value>You have been disconnected due to excess violations for this current session.</value>
     <comment>You have been disconnected due to excess violations for this current session.</comment>
   </data>
   <data name="Violations.LimitExceeded" xml:space="preserve">
-    <value>Лимитът на Нарушения е Надвишен</value>
+    <value>Violation Limit Exceeded</value>
     <comment>Violation Limit Exceeded</comment>
   </data>
   <data name="WeightAndBalance.Cargo" xml:space="preserve">
-    <value>Товар</value>
+    <value>Cargo</value>
     <comment>Cargo</comment>
   </data>
   <data name="WeightAndBalance.FlightTime" xml:space="preserve">
-    <value>Очаквано Полетно Време</value>
+    <value>Est. Flight Time</value>
     <comment>Est. Flight Time</comment>
   </data>
   <data name="WeightAndBalance.FuelBurn" xml:space="preserve">
-    <value>Горене на Гориво</value>
+    <value>Fuel Burn</value>
     <comment>Fuel Burn</comment>
   </data>
   <data name="WeightAndBalance.FuelTanks" xml:space="preserve">
-    <value>Горивни Резервоари</value>
+    <value>Fuel Tanks</value>
     <comment>Fuel Tanks</comment>
   </data>
   <data name="WeightAndBalance.Heavy" xml:space="preserve">
-    <value>Тежко</value>
+    <value>Heavy</value>
     <comment>Heavy</comment>
   </data>
   <data name="WeightAndBalance.Light" xml:space="preserve">
-    <value>Леко</value>
+    <value>Light</value>
     <comment>Light</comment>
   </data>
   <data name="WeightAndBalance.Normal" xml:space="preserve">
-    <value>Нормално</value>
+    <value>Normal</value>
     <comment>Normal</comment>
   </data>
   <data name="WeightAndBalance.Others" xml:space="preserve">
-    <value>Други</value>
+    <value>Others</value>
     <comment>Others</comment>
   </data>
   <data name="WeightAndBalance.Passengers" xml:space="preserve">
-    <value>Пътници</value>
+    <value>Passengers</value>
     <comment>Passengers</comment>
   </data>
   <data name="WeightAndBalance.Synchronize" xml:space="preserve">
-    <value>Синхронизиране</value>
+    <value>Synchronize</value>
     <comment>Synchronize</comment>
   </data>
   <data name="WarningMessageControl.Reported" xml:space="preserve">
-    <value>Докладван</value>
+    <value>Reported</value>
     <comment>Reported</comment>
   </data>
   <data name="WarningMessageControl.TapToDismiss" xml:space="preserve">
-    <value>Натиснете, за да затворите</value>
+    <value>Tap to dismiss</value>
     <comment>Tap to dismiss</comment>
   </data>
   <data name="WarningMessageControl.ViolationsCount" xml:space="preserve">
-    <value>Нарушения: {0}/{1}</value>
+    <value>Violations: {0}/{1}</value>
     <comment>Violations: {0}/{1}</comment>
   </data>
   <data name="Multiplayer.GotIt" xml:space="preserve">
-    <value>Разбрано!</value>
+    <value>Got it!</value>
     <comment>Got it!</comment>
   </data>
   <data name="Multiplayer.Welcome" xml:space="preserve">
-    <value>Добре Дошли</value>
+    <value>Welcome</value>
     <comment>Welcome</comment>
   </data>
   <data name="Tips.Default" xml:space="preserve">
-    <value>Когато пръстът ви е на контрола на руля, теглете надолу за да активирате спирачките на земята.</value>
+    <value>With your finger on the rudder control, slide down to activate the brakes on the ground.</value>
     <comment>With your finger on the rudder control, slide down to activate the brakes on the ground.</comment>
   </data>
   <data name="FlightRatingPage.CurrentGrade" xml:space="preserve">
-    <value>Ранг</value>
+    <value>Grade</value>
     <comment>Grade</comment>
   </data>
   <data name="FlightRatingPage.FlightRating" xml:space="preserve">
-    <value>РЕЙТИНГ НА ПОЛЕТА</value>
+    <value>FLIGHT RATING</value>
     <comment>FLIGHT RATING</comment>
   </data>
   <data name="FlightRatingPage.FlightTime" xml:space="preserve">
-    <value>Полетно Време</value>
+    <value>Flight Time</value>
     <comment>Flight Time</comment>
   </data>
   <data name="FlightRatingPage.Penalty" xml:space="preserve">
-    <value>Наказание</value>
+    <value>Penalty</value>
     <comment>Penalty</comment>
   </data>
   <data name="FlightRatingPage.Reputation" xml:space="preserve">
-    <value>Опит</value>
+    <value>XP</value>
     <comment>XP</comment>
   </data>
   <data name="FlightRatingPage.ReputationEarned" xml:space="preserve">
-    <value>Получен опит</value>
+    <value>XP Earned</value>
     <comment>XP Earned</comment>
   </data>
   <data name="FlightRatingPage.ViolationCount" xml:space="preserve">
-    <value>Нарушения</value>
+    <value>Violations</value>
     <comment>Violations</comment>
   </data>
   <data name="Multiplayer.Disconnected" xml:space="preserve">
-    <value>ИЗКЛЮЧЕН</value>
+    <value>DISCONNECTED</value>
     <comment>DISCONNECTED</comment>
   </data>
   <data name="ReportControl.ContinueOffline" xml:space="preserve">
-    <value>Продължаване Офлайн</value>
+    <value>Continue Offline</value>
     <comment>Continue Offline</comment>
   </data>
   <data name="ReportControl.Reason" xml:space="preserve">
-    <value>Причина: </value>
+    <value>Reason: </value>
     <comment>Reason:</comment>
   </data>
   <data name="ReportControl.ReportedBy" xml:space="preserve">
-    <value>Докладван от: </value>
+    <value>Reported By: </value>
     <comment>Reported By:</comment>
   </data>
   <data name="SplashScreen.LoadingAirport" xml:space="preserve">
-    <value>Зареждане на вашето летище</value>
+    <value>Loading your Airport</value>
     <comment>Loading your Airport</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingAutopilot" xml:space="preserve">
-    <value>Задаване на скоростта на автопилота до {0}</value>
+    <value>Setting autopilot speed to {0}</value>
     <comment>Setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilers" xml:space="preserve">
-    <value>Активиране на спойлери</value>
+    <value>Enabling spoilers</value>
     <comment>Enabling spoilers</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilersAndAutopilot" xml:space="preserve">
-    <value>Активиране на спойлери и задаване на скоростта на автопилота до {0}</value>
+    <value>Enabling spoilers and setting autopilot speed to {0}</value>
     <comment>Enabling spoilers and setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.Issued" xml:space="preserve">
-    <value>Издадено Нарушение за Скорост</value>
+    <value>Speed Violation Issued</value>
     <comment>Speed Violation Issued</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnots" xml:space="preserve">
-    <value>Намалете скоростта под {0} възела, за да избегнета нарушения</value>
+    <value>Reduce speed below {0}kts to avoid violations</value>
     <comment>Reduce speed below {0}kts to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnotsBelow10k" xml:space="preserve">
-    <value>Намалете скоростта под {0} възела под 10000фт, за да избегнете нарушения</value>
+    <value>Reduce speed below {0}kts below 10000ft to avoid violations</value>
     <comment>Reduce speed below {0}kts below 10000ft to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowMach" xml:space="preserve">
-    <value>Намалете скоростта под Мах {0:0.00}, за да избегнете нарушения</value>
+    <value>Reduce speed below Mach {0:0.00} to avoid violations</value>
     <comment>Reduce speed below Mach {speed} to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.WarningTitle" xml:space="preserve">
-    <value>ПРЕДУПРЕЖДЕНИЕ ЗА СКОРОСТ</value>
+    <value>SPEED WARNING</value>
     <comment>SPEED WARNING</comment>
   </data>
   <data name="Violation.Level0Received.Message" xml:space="preserve">
-    <value>Вие бяхте изключени от ръководител или член на персонала. Това не е нарушение и не е нужно обжалване.</value>
+    <value>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</value>
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
-    <value>Вие получихте нарушение Ниво 2 и бяхте изключени от сесията си. Можете да започнете друг полет веднага и не е нужно обжалване, ако общият ви брой на нарушенията го позволява. Съветваме ви да прегледате приложимите уроци на youtube.com/infiniteflight</value>
+    <value>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</value>
     <comment>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.Level3Received.Message" xml:space="preserve">
-    <value>Вие получихте нарушение Ниво 3 и бяхте изключени от сесията си. Съветваме ви да прегледате приложимите уроци на youtube.com/infiniteflight</value>
+    <value>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review any applicable tutorials at youtube.com/infiniteflight</value>
     <comment>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review and applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.UnspecifiedReason" xml:space="preserve">
-    <value>Неопределена Причина</value>
+    <value>Unspecified Reason</value>
     <comment>Unspecified Reason</comment>
   </data>
   <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
-    <value>Не са позволени аеробатични маневри около летища.Издадено е нарушение Ниво 1.</value>
-    <comment>Aerobatic Maneuvers prohibited near airports.A level 1 violation has been issued.</comment>
+    <value>Aerobatic Maneuvers prohibited near airports.
+A level 1 violation has been issued.</value>
+    <comment>Aerobatic Maneuvers prohibited near airports.
+A level 1 violation has been issued.</comment>
   </data>
   <data name="Violations.AircraftIdle.Message" xml:space="preserve">
-    <value>Самолетът бездейства на пистата за прекалено много времеИздадено е нарушение Ниво 1.</value>
-    <comment>Aircraft idle on active runway for too longA level 1 violation has been issued</comment>
+    <value>Aircraft idle on active runway for too long
+A level 1 violation has been issued.</value>
+    <comment>Aircraft idle on active runway for too long
+A level 1 violation has been issued</comment>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
-    <value>Превишихте максималната наземна скорост от 35 възела. Издадено ви е нарушение Ниво 1.Намалете скоростта, за да избегнете допълнителни нарушения.</value>
-    <comment>Exceeded max ground speed of 35kts.A level 1 violation has been issued.Slow down to avoid further violations.</comment>
+    <value>Exceeded max ground speed of 35kts.
+A level 1 violation has been issued.
+Slow down to avoid further violations.</value>
+    <comment>Exceeded max ground speed of 35kts.
+A level 1 violation has been issued.
+Slow down to avoid further violations.</comment>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
-    <value>Контролирани Честоти</value>
+    <value>Frequencies Staffed</value>
     <comment>Frequencies Staffed</comment>
   </data>
   <data name="ATCRatingPage.Operations" xml:space="preserve">
-    <value>Действия за сесията</value>
+    <value>Session Operations</value>
     <comment>Session Operations</comment>
   </data>
   <data name="ATCRatingPage.Reports" xml:space="preserve">
-    <value>Докладвания за сесията</value>
+    <value>Session Reports</value>
     <comment>Session Reports</comment>
   </data>
   <data name="ATCRatingPage.Title" xml:space="preserve">
-    <value>ОБОБЩЕНИЕ НА СЕСИЯТА</value>
+    <value>SESSION SUMMARY</value>
     <comment>SESSION SUMMARY</comment>
   </data>
   <data name="ATCRatingPage.TotalOperations" xml:space="preserve">
-    <value>Общ брой действия</value>
+    <value>Total Operations</value>
     <comment>Total Operations</comment>
   </data>
   <data name="ATCRatingPage.TotalTime" xml:space="preserve">
-    <value>Време на контролиране</value>
+    <value>Time on Frequency</value>
     <comment>Time on Frequency</comment>
   </data>
   <data name="SystemMessaging.ATCActive" xml:space="preserve">
-    <value>{0} {1} е активна. Присъединени сте към честотата автоматично.</value>
+    <value>{0} {1} is active. You have been tuned to this frequency.</value>
     <comment>{airport} {position} is active. You have been tuned to this frequency.</comment>
   </data>
   <data name="SystemMessaging.ATCOffline" xml:space="preserve">
-    <value>{0} {1} е офлайн</value>
+    <value>{0} {1} is now offline</value>
     <comment>{airport} {position} is now offline</comment>
   </data>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
-    <value>{0} {1} е офлайн. Присъединени сте към {2} {3}.</value>
+    <value>{0} {1} is now offline. You have been tuned to {2} {3}.</value>
     <comment>{airport} {position} is now offline. You have been tuned to {2} {3}.</comment>
   </data>
   <data name="Settings.General.ClearCache" xml:space="preserve">
-    <value>Изчистване на кеша</value>
+    <value>Clear Cache</value>
     <comment>Clear Cache</comment>
   </data>
   <data name="Settings.General.NoVoicesFound" xml:space="preserve">
-    <value>Няма намерени гласове</value>
+    <value>No voices found</value>
     <comment>No voices found</comment>
   </data>
   <data name="Settings.Option.FiveSeconds" xml:space="preserve">
-    <value>5 секунди</value>
+    <value>5 Seconds</value>
     <comment>5 Seconds</comment>
   </data>
   <data name="Settings.Option.Never" xml:space="preserve">
-    <value>Никога</value>
+    <value>Never</value>
     <comment>Never</comment>
   </data>
   <data name="Settings.Option.TenSeconds" xml:space="preserve">
-    <value>10 секунди</value>
+    <value>10 Seconds</value>
     <comment>10 Seconds</comment>
   </data>
   <data name="Settings.Option.TwoSeconds" xml:space="preserve">
-    <value>2 секунди</value>
+    <value>2 Seconds</value>
     <comment>2 Seconds</comment>
   </data>
   <data name="Commands.ElevatorTrimDown" xml:space="preserve">
-    <value>Намаляване на Баланса на Елеватора</value>
+    <value>Elevator Trim Down</value>
     <comment>Elevator Trim Down</comment>
   </data>
   <data name="Commands.ElevatorTrimUp" xml:space="preserve">
-    <value>Увеличаване на Баланса на Елеватора</value>
+    <value>Elevator Trim Up</value>
     <comment>Elevator Trim Up</comment>
   </data>
   <data name="Commands.ThrottleDown" xml:space="preserve">
-    <value>Намаляване на тягата</value>
+    <value>Throttle Down</value>
     <comment>Throttle Down</comment>
   </data>
   <data name="Commands.ThrottleUp" xml:space="preserve">
-    <value>Увеличаване на тягата</value>
+    <value>Throttle Up</value>
     <comment>Throttle Up</comment>
   </data>
   <data name="Error.NetworkErrorShort" xml:space="preserve">
-    <value>Мрежова грешка</value>
+    <value>Network Error</value>
     <comment>Network Error</comment>
   </data>
   <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
-    <value>Няма Допълнителна Информация</value>
+    <value>No Additional Information</value>
     <comment>No Additional Information</comment>
   </data>
   <data name="SystemsStatus.NoInfo" xml:space="preserve">
-    <value>Няма Инфо</value>
+    <value>No Info</value>
     <comment>No Info</comment>
   </data>
   <data name="SystemStatus.Name" xml:space="preserve">
-    <value>Статус на Системите</value>
+    <value>Systems Status</value>
     <comment>Systems Status</comment>
   </data>
   <data name="Global.RestorePurchases" xml:space="preserve">
-    <value>Възстановяване на Покупките</value>
+    <value>Restore Purchases</value>
     <comment>Restore Purchases</comment>
   </data>
   <data name="Replay.DeleteAll" xml:space="preserve">
-    <value>Изтриване на Всички</value>
+    <value>Delete All</value>
     <comment>Delete All</comment>
   </data>
   <data name="Replay.DeleteAll.Message" xml:space="preserve">
-    <value>Изтриване на всички записи?</value>
+    <value>Delete all replay files?</value>
     <comment>Delete all replay files?</comment>
   </data>
   <data name="Replay.DeleteSelected" xml:space="preserve">
-    <value>Изтриване на Избраните</value>
+    <value>Delete Selected</value>
     <comment>Delete Selected</comment>
   </data>
   <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
-    <value>Изтриване на {0} избрани записа?</value>
+    <value>Delete {0} selected replay files?</value>
     <comment>Delete {0} selected replay files?</comment>
   </data>
   <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
-    <value>Изтриване на избрания запис?</value>
+    <value>Delete selected replay file?</value>
     <comment>Delete selected replay file?</comment>
   </data>
   <data name="Replay.DeleteUnstarred" xml:space="preserve">
-    <value>Изтриване на всички без звезда</value>
+    <value>Delete Unstarred</value>
     <comment>Delete Unstarred</comment>
   </data>
   <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
-    <value>Изтриване на всички записи без звезда?</value>
+    <value>Delete unstarred replay files?</value>
     <comment>Delete unstarred replay files?</comment>
   </data>
   <data name="MapItemInfoControl.Class" xml:space="preserve">
-    <value>Клас {0}</value>
+    <value>Class {0}</value>
     <comment>Class {0}</comment>
   </data>
   <data name="MapItemInfoControl.Information" xml:space="preserve">
-    <value>ИНФОРМАЦИЯ</value>
+    <value>INFORMATION</value>
     <comment>Information</comment>
   </data>
   <data name="WeightAndBalance.Unavailable" xml:space="preserve">
-    <value>Недостъпно</value>
+    <value>Unavailable</value>
     <comment>Unavailable</comment>
   </data>
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
-    <value>Активирайте Ръчната Спирачка на земята, за да променяте Теглото и Баланса в Онлайн Режим.</value>
+    <value>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode.</value>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
-    <value>Няма налични ръкави на това летище</value>
+    <value>No jet bridges available at this airport</value>
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>Не е подписано споразумение; трябва да подпишете споразумението преди да извършите това действие (код на грешката {0})</value>
+    <value>An agreement has not been signed; you must sign the agreement to perform this action (error code {0})</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>Избраното летище не е налично (код на грешката {0})</value>
+    <value>The selected airport is not available (error code {0})</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>Вие сте отписани и трябва да се впишете ръчно отново (код на грешката {0})</value>
+    <value>You have been logged out and need to log in again manually (error code {0})</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>Тази функция не се поддържа (код на грешката {0})</value>
+    <value>This feature is not supported (error code {0})</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>Избраният сървър не е наличен (код на грешката {0})</value>
+    <value>The selected server is not available (error code {0})</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Не сте назначени към това летище. Моля, свържете се с рецензент или модератор (код на грешката {0})</value>
+    <value>You are not assigned to this airport. Please contact a reviewer or moderator (error code {0})</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
-    <value>Нямате право да правите промени по това летище.
+    <value>You do not have permission to upload changes to this airport.
 
-Моля, поискайте да бъдете назначени през форума за Редактор на Топографията</value>
+Please ask to be assigned via the Scenery Editing forum first</value>
     <comment>You do not have permission to upload changes to this airport.
 
 Please ask to be assigned via the Scenery Editing forum first</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
-    <value>Активирайте ръчната спирачка и изключете всички двигатели, за да придвижите ръкавите</value>
+    <value>Set parking brake and turn off all engines to dock jet bridges</value>
     <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
-    <value>Няма налични ръкави наоколо</value>
+    <value>No jet bridges available nearby</value>
     <comment>No jet bridges available nearby</comment>
   </data>
   <data name="MapItemInfoControl.Contributor" xml:space="preserve">
-    <value>Сътрудник</value>
+    <value>Contributor</value>
     <comment>Contributor</comment>
   </data>
   <data name="MapItemInfoControl.Contributors" xml:space="preserve">
-    <value>Сътрудници</value>
+    <value>Contributors</value>
     <comment>Contributors</comment>
   </data>
   <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
-    <value>Навлезли сте в активен ВМП в или близо до {0}
+    <value>Entered an Active TFR at or near {0}
 {1}
-Проверете картата за повече информация</value>
+Check map for more information</value>
     <comment>Entered an Active TFR at or near {ICAO}
 {Title}
 Check map for more information</comment>
