@@ -690,7 +690,7 @@
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
-    <value>Has enlazdo to cuenta del Infinite Flight Community. Inicia sesión en otros dispositivos para mantener la cuenta conectada</value>
+    <value>Has enlazdo tu cuenta del Infinite Flight Community. Inicia sesión en otros dispositivos para mantener la cuenta conectada</value>
     <comment>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</comment>
   </data>
   <data name="Settings.Account.Forum.Title" xml:space="preserve">
@@ -2291,7 +2291,7 @@ Por favor, pide que te asignen en el foro de Scenery Editing antes de continuar.
     <value>Más tarde</value>
   </data>
   <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
-    <value>Tu cuenta de Discord ha sido enlazada y tienes acceso a nuestro servidor de Discord exclusivo para usuarios de Pro</value>
+    <value>Has enlazado tu cuenta de Discord y tienes acceso a nuestro servidor de Discord exclusivo para usuarios de Pro</value>
   </data>
   <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
     <value>Enlaza una cuenta de Discord para obtener acceso a nuestro servidor de Discord exclusivo para usuarios Pro</value>
