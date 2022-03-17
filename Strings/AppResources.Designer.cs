@@ -5171,6 +5171,60 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Discord Account.
+        /// </summary>
+        internal static string UserAccountControl_Discord {
+            get {
+                return ResourceManager.GetString("UserAccountControl.Discord", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your Discord account has been linked and you have access to our Pro-only Discord server.
+        /// </summary>
+        internal static string UserAccountControl_Discord_Linked {
+            get {
+                return ResourceManager.GetString("UserAccountControl.Discord.Linked", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Link a Discord account to gain exclusive access to our Pro-only server.
+        /// </summary>
+        internal static string UserAccountControl_Discord_Unlinked {
+            get {
+                return ResourceManager.GetString("UserAccountControl.Discord.Unlinked", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?.
+        /// </summary>
+        internal static string UserAccountControl_DiscordLinked_Message {
+            get {
+                return ResourceManager.GetString("UserAccountControl.DiscordLinked.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not Now.
+        /// </summary>
+        internal static string UserAccountControl_DiscordLinked_NotNow {
+            get {
+                return ResourceManager.GetString("UserAccountControl.DiscordLinked.NotNow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Account Linked.
+        /// </summary>
+        internal static string UserAccountControl_DiscordLinked_Title {
+            get {
+                return ResourceManager.GetString("UserAccountControl.DiscordLinked.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Your Account.
         /// </summary>
         internal static string UserAccountControl_YourAccount {
