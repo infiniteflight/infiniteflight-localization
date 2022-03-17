@@ -2525,4 +2525,64 @@
     <value>Активирайте Ръчната Спирачка на земята, за да променяте Теглото и Баланса в Онлайн Режим.</value>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
   </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
+    <value>Няма налични ръкави на това летище</value>
+    <comment>No jet bridges available at this airport</comment>
+  </data>
+  <data name="Error.AgreementNotSigned" xml:space="preserve">
+    <value>Не е подписано споразумение; трябва да подпишете споразумението преди да извършите това действие (код на грешката {0})</value>
+    <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
+  </data>
+  <data name="Error.AirportNotFound" xml:space="preserve">
+    <value>Избраното летище не е налично (код на грешката {0})</value>
+    <comment>The selected airport is not available</comment>
+  </data>
+  <data name="Error.ExpiredToken" xml:space="preserve">
+    <value>Вие сте отписани и трябва да се впишете ръчно отново (код на грешката {0})</value>
+    <comment>You have been logged out and need to log in again manually</comment>
+  </data>
+  <data name="Error.NotSupported" xml:space="preserve">
+    <value>Тази функция не се поддържа (код на грешката {0})</value>
+    <comment>This feature is not supported</comment>
+  </data>
+  <data name="Error.ServerNotFound" xml:space="preserve">
+    <value>Избраният сървър не е наличен (код на грешката {0})</value>
+    <comment>The selected server is not available</comment>
+  </data>
+  <data name="Error.UserNotAssigned" xml:space="preserve">
+    <value>Не сте назначени към това летище. Моля, свържете се с рецензент или модератор (код на грешката {0})</value>
+    <comment>You are not assigned to this airport</comment>
+  </data>
+  <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
+    <value>Нямате право да правите промени по това летище.
+
+Моля, поискайте да бъдете назначени през форума за Редактор на Топографията</value>
+    <comment>You do not have permission to upload changes to this airport.
+
+Please ask to be assigned via the Scenery Editing forum first</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
+    <value>Активирайте ръчната спирачка и изключете всички двигатели, за да придвижите ръкавите</value>
+    <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
+    <value>Няма налични ръкави наоколо</value>
+    <comment>No jet bridges available nearby</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributor" xml:space="preserve">
+    <value>Сътрудник</value>
+    <comment>Contributor</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributors" xml:space="preserve">
+    <value>Сътрудници</value>
+    <comment>Contributors</comment>
+  </data>
+  <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
+    <value>Навлезли сте в активен ВМП в или близо до {0}
+{1}
+Проверете картата за повече информация</value>
+    <comment>Entered an Active TFR at or near {ICAO}
+{Title}
+Check map for more information</comment>
+  </data>
 </root>
