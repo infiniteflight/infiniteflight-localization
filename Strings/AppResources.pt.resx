@@ -1937,4 +1937,65 @@ Reduza para evitar mais violações.</value>
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
     <value>Ativar Freio de Estacionamento no pátio para realizar mudanças no peso e balanceamento no modo online.</value>
   </data>
+  <data name="Error.AgreementNotSigned" xml:space="preserve">
+    <value>Um contrato não foi assinado; você deve assinar o contrato para realizar esta ação (error code {0})</value>
+  </data>
+  <data name="Error.AirportNotFound" xml:space="preserve">
+    <value>O aeroporto selecionado não está disponível (error code {0})</value>
+  </data>
+  <data name="Error.ExpiredToken" xml:space="preserve">
+    <value>Você foi deslogado e será necessário realizar o login novamente (error code {0})</value>
+  </data>
+  <data name="Error.NotSupported" xml:space="preserve">
+    <value>Esse recurso não é suportado (error code{0})</value>
+  </data>
+  <data name="Error.ServerNotFound" xml:space="preserve">
+    <value>O servidor selecionado não está disponível (error code {0})</value>
+  </data>
+  <data name="Error.UserNotAssigned" xml:space="preserve">
+    <value>Você não foi atribuído a este aeroporto. Por favor contate um revisor ou moderador (error code {0})</value>
+  </data>
+  <data name="MapItemInfoControl.Contributor" xml:space="preserve">
+    <value>Contribuidor</value>
+  </data>
+  <data name="MapItemInfoControl.Contributors" xml:space="preserve">
+    <value>Contribuidores</value>
+  </data>
+  <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
+    <value>Você não tem permissão para enviar mudanças para este aeroporto.
+
+Por favor avise para ser atribuído pelo fórum de edição primeiro</value>
+  </data>
+  <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
+    <value>Engate o freio de estacionamento e desligue todos os motores para conectar os portões de embarque</value>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
+    <value>Nenhum portão de embarque disponível neste aeroporto</value>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
+    <value>Nenhum portão de embarque disponível por perto</value>
+  </data>
+  <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
+    <value>Entrou numa TFR Ativa em ou perto {0}
+{1}
+Verifique o mapa para mais informações</value>
+  </data>
+  <data name="UserAccountControl.Discord" xml:space="preserve">
+    <value>Conta Discord</value>
+  </data>
+  <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
+    <value>Sua conta do Discord foi conectado e você tem acesso ao nosso servidor no Discord apenas para Membros Pro</value>
+  </data>
+  <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
+    <value>Conecte uma conta do Discord para ganhar acesso exclusivo ao servidor apenas para Membros Pro</value>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
+    <value>Sua conta do Discord foi conectada. Você quer entrar no Servidor do Infinite Flight no Discord agora?</value>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
+    <value>Não por agora</value>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
+    <value>Conta Conectada</value>
+  </data>
 </root>
