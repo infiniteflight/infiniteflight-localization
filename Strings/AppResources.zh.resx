@@ -870,7 +870,7 @@
     <comment>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</comment>
   </data>
   <data name="Settings.Account.DiscourseConnect" xml:space="preserve">
-    <value>通过Discourse绑定</value>
+    <value>绑定账户</value>
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
@@ -2536,5 +2536,81 @@
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
     <value>连线飞行时，在机位上开启停机刹车后才能改变重量与配载设置</value>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
+  </data>
+    <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
+    <value>该机场暂无可动廊桥</value>
+    <comment>No jet bridges available at this airport</comment>
+  </data>
+  <data name="Error.AgreementNotSigned" xml:space="preserve">
+    <value>你尚未签署许可协议。要进行操作你必须首先签署贡献者许可协议 (error code {0})</value>
+    <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
+  </data>
+  <data name="Error.AirportNotFound" xml:space="preserve">
+    <value>选中的机场暂不可用 (error code {0})</value>
+    <comment>The selected airport is not available</comment>
+  </data>
+  <data name="Error.ExpiredToken" xml:space="preserve">
+    <value>你已退出登录，需要重新手动登录 (error code {0})</value>
+    <comment>You have been logged out and need to log in again manually</comment>
+  </data>
+  <data name="Error.NotSupported" xml:space="preserve">
+    <value>尚不支持该功能 (error code {0})</value>
+    <comment>This feature is not supported</comment>
+  </data>
+  <data name="Error.ServerNotFound" xml:space="preserve">
+    <value>你选中的服务器不可用 (error code {0})</value>
+    <comment>The selected server is not available</comment>
+  </data>
+  <data name="Error.UserNotAssigned" xml:space="preserve">
+    <value>该机场并未分配给你。请联系Reviewer或Moderator (error code {0})</value>
+    <comment>You are not assigned to this airport</comment>
+  </data>
+  <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
+    <value>你没有编辑该机场的权限。
+
+请前往论坛请求分配至该机场</value>
+    <comment>You do not have permission to upload changes to this airport.
+
+Please ask to be assigned via the Scenery Editing forum first</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
+    <value>对接廊桥前请先设置停机刹车并关闭所有引擎</value>
+    <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
+    <value>附近无可用廊桥</value>
+    <comment>No jet bridges available nearby</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributor" xml:space="preserve">
+    <value>制作人</value>
+    <comment>Contributor</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributors" xml:space="preserve">
+    <value>制作人</value>
+    <comment>Contributors</comment>
+   </data>
+   <data name="UserAccountControl.Discord" xml:space="preserve">
+    <value>Discord账户</value>
+    <comment>Discord Account</comment>
+  </data>
+  <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
+    <value>Discord账户绑定成功，你现在可以加入Pro用户专属的Discord服务器！</value>
+    <comment>Your Discord account has been linked and you have access to our Pro-only Discord server</comment>
+  </data>
+  <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
+    <value>绑定你的Discord账户以加入Pro专属Discord服务器</value>
+    <comment>Link a Discord account to gain exclusive access to our Pro-only server</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
+    <value>你的Discord账户已经成功绑定。你想要现在加入Infinite Flight Discord服务器吗？</value>
+    <comment>Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
+    <value>再想想</value>
+    <comment>Not Now</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
+    <value>账号已绑定</value>
+    <comment>Account Linked</comment>
   </data>
 </root>
