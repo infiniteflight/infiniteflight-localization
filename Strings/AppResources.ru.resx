@@ -158,15 +158,15 @@
     <comment>OK button text</comment>
   </data>
   <data name="IntroPage.ATC" xml:space="preserve">
-    <value>ДИСПЕТЧЕР УВД</value>
+    <value>РЕЖИМ ДИСПЕТЧЕРА</value>
     <comment>Air Traffic Control</comment>
   </data>
   <data name="IntroPage.FlyOnline" xml:space="preserve">
-    <value>МНОГОПОЛЬЗОВАТЕЛЬСКИЙ</value>
+    <value>МНОГОПОЛЬЗОВАТЕЛЬСКИЙ РЕЖИМ</value>
     <comment>Fly Online</comment>
   </data>
   <data name="IntroPage.FlySolo" xml:space="preserve">
-    <value>СОЛО</value>
+    <value>ОДИНОЧНЫЙ РЕЖИМ</value>
     <comment>Fly Solo</comment>
   </data>
   <data name="IntroPage.Logbook" xml:space="preserve">
@@ -1394,11 +1394,11 @@
     <comment>Released or updated in {0}</comment>
   </data>
   <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
-    <value>Показать Устаревшие Самолеты</value>
+    <value>Непроработанные</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
-    <value>Показать Pro Самолеты</value>
+    <value>Только с Pro</value>
     <comment>Show Pro Aircraft</comment>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
@@ -1890,7 +1890,7 @@
     <comment>Showing flights stored on this device</comment>
   </data>
   <data name="Logbook.SoloFlights" xml:space="preserve">
-    <value>Полеты в Соло</value>
+    <value>Оффлайн Полеты</value>
     <comment>Solo Flights</comment>
   </data>
   <data name="Logbook.To" xml:space="preserve">
@@ -2577,11 +2577,11 @@ Check map for more information</comment>
     <comment>Discord Account</comment>
   </data>
   <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
-    <value>Ваш Discord аккаунт был связан и теперь у вас есть доступ к нашему Discord серверу только для Pro подписчиков</value>
+    <value>Ваш аккаунт Discord был связан и теперь у вас есть доступ к нашему Discord серверу только для подписчиков Infinite Flight Pro</value>
     <comment>Your Discord account has been linked and you have access to our Pro-only Discord server</comment>
   </data>
   <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
-    <value>Связите Discord аккаунт чтобы получить доступ к нашему Discord серверу только для Pro подписчиков</value>
+    <value>Свяжите ваш аккаунт Discord, чтобы получить доступ к нашему Discord серверу только для подписчиков Infinite Flight Pro</value>
     <comment>Link a Discord account to gain exclusive access to our Pro-only server</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
@@ -2589,7 +2589,7 @@ Check map for more information</comment>
     <comment>Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
-    <value>Не сейчас</value>
+    <value>Не Сейчас</value>
     <comment>Not Now</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
