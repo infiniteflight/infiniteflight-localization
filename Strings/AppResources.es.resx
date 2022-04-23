@@ -2307,4 +2307,10 @@ Por favor, pide que te asignen en el foro de Scenery Editing antes de continuar.
 {1}
 Consulte el mapa para más información</value>
   </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
+    <value>Aplicación No Instalada</value>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
+    <value>La aplicación de Discord tiene que estar instalada antes de unirte al servidor. ¿Quieres instalarla ahora?</value>
+  </data>
 </root>

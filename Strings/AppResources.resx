@@ -2578,7 +2578,7 @@ Slow down to avoid further violations.</comment>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
     <value>You do not have permission to upload changes to this airport.
 
-Please ask to be assigned via the Scenery Editing forum first</value>
+Please ask to be assigned via the Scenery Editing forum first.</value>
     <comment>You do not have permission to upload changes to this airport.
 
 Please ask to be assigned via the Scenery Editing forum first</comment>
@@ -2630,5 +2630,13 @@ Check map for more information</comment>
   <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
     <value>Account Linked</value>
     <comment>Account Linked</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
+    <value>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</value>
+    <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
+    <value>Discord Not Installed</value>
+    <comment>Discord Not Installed</comment>
   </data>
 </root>

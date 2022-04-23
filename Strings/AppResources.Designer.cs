@@ -5189,6 +5189,24 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?.
+        /// </summary>
+        internal static string UserAccountControl_Discord_NotInstalled_Message {
+            get {
+                return ResourceManager.GetString("UserAccountControl.Discord.NotInstalled.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Discord Not Installed.
+        /// </summary>
+        internal static string UserAccountControl_Discord_NotInstalled_Title {
+            get {
+                return ResourceManager.GetString("UserAccountControl.Discord.NotInstalled.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Link a Discord account to gain exclusive access to our Pro-only server.
         /// </summary>
         internal static string UserAccountControl_Discord_Unlinked {
