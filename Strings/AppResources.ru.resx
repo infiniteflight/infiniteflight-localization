@@ -1914,11 +1914,11 @@
     <comment>Name</comment>
   </data>
   <data name="Global.Report" xml:space="preserve">
-    <value>Нарушение</value>
+    <value>Репорт</value>
     <comment>Report</comment>
   </data>
   <data name="Global.Reports" xml:space="preserve">
-    <value>Нарушения</value>
+    <value>Репорты</value>
     <comment>Reports</comment>
   </data>
   <data name="Global.Violation" xml:space="preserve">
@@ -1930,11 +1930,11 @@
     <comment>Violations</comment>
   </data>
   <data name="Logbook.ATCReport" xml:space="preserve">
-    <value>Нарушение, Выписанное Диспетчером</value>
+    <value>Репорт</value>
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>Нарушение, Выписанное [{0}]\n{1}</value>
+    <value>Репорт от [{0}]\n{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
@@ -2069,7 +2069,7 @@
     <comment>NEXT WPT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
-    <value>СЛЕДУЮЩАЯ ПУТЕВАЯ ТОЧКА через &lt; 1 Мин - Turn to HDG</value>
+    <value>СЛЕДУЮЩАЯ ПУТЕВАЯ ТОЧКА через &lt; 1 Мин - Начинайте поворот к HDG</value>
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
@@ -2241,7 +2241,7 @@
     <comment>Synchronize</comment>
   </data>
   <data name="WarningMessageControl.Reported" xml:space="preserve">
-    <value>Вы нарушили</value>
+    <value>Репорт</value>
     <comment>Reported</comment>
   </data>
   <data name="WarningMessageControl.TapToDismiss" xml:space="preserve">
@@ -2281,11 +2281,11 @@
     <comment>Penalty</comment>
   </data>
   <data name="FlightRatingPage.Reputation" xml:space="preserve">
-    <value>XP</value>
+    <value>Опыт</value>
     <comment>XP</comment>
   </data>
   <data name="FlightRatingPage.ReputationEarned" xml:space="preserve">
-    <value>Получено XP</value>
+    <value>Получено Опыта</value>
     <comment>XP Earned</comment>
   </data>
   <data name="FlightRatingPage.ViolationCount" xml:space="preserve">
@@ -2305,7 +2305,7 @@
     <comment>Reason:</comment>
   </data>
   <data name="ReportControl.ReportedBy" xml:space="preserve">
-    <value>Нарушение Выписал: </value>
+    <value>Репорт от: </value>
     <comment>Reported By:</comment>
   </data>
   <data name="SplashScreen.LoadingAirport" xml:space="preserve">
@@ -2381,7 +2381,7 @@
     <comment>Session Operations</comment>
   </data>
   <data name="ATCRatingPage.Reports" xml:space="preserve">
-    <value>Выписано Нарушений за Сессию</value>
+    <value>Репортов за Сессию</value>
     <comment>Session Reports</comment>
   </data>
   <data name="ATCRatingPage.Title" xml:space="preserve">
