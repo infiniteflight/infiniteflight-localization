@@ -2613,4 +2613,12 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <value>账号已绑定</value>
     <comment>Account Linked</comment>
   </data>
+    <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
+    <value>想加入IF官方Discord服务器需要先安装Discord.你要现在安装吗？（注意：中国大陆应用商店不提供下载）</value>
+    <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
+    <value>尚未安装Discord</value>
+    <comment>Discord Not Installed</comment>
+  </data>
 </root>
