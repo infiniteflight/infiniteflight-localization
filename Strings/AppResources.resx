@@ -2275,6 +2275,10 @@ No waypoint in Flight Plan</comment>
     <value>Tap to dismiss</value>
     <comment>Tap to dismiss</comment>
   </data>
+  <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
+    <value>Tap to continue</value>
+    <comment>Tap to continue</comment>
+  </data>
   <data name="WarningMessageControl.ViolationsCount" xml:space="preserve">
     <value>Violations: {0}/{1}</value>
     <comment>Violations: {0}/{1}</comment>
