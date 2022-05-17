@@ -5418,6 +5418,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Tap to continue.
+        /// </summary>
+        internal static string WarningMessageControl_TapToContinue {
+            get {
+                return ResourceManager.GetString("WarningMessageControl.TapToContinue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Violations: {0}/{1}.
         /// </summary>
         internal static string WarningMessageControl_ViolationsCount {
