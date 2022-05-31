@@ -254,8 +254,8 @@
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>该账户尚未关联一个Infinite Flight Pro 订阅 (错误代码 {0})</value>
-    <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
+    <value>该IF社区账号尚未绑定过IF (error code {0})</value>
+    <comment>This Infinite Flight Community account has not been used with the app before (error code {0})</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>飞向你的梦想</value>
@@ -502,7 +502,7 @@
     <comment>Clear Scenery Cache</comment>
   </data>
   <data name="Settings.General.Connect.Subtitle" xml:space="preserve">
-    <value>启用Infinite Flight Connect API (实验性)</value>
+    <value>启用Infinite Flight Connect API (实验性功能)</value>
     <comment>Enable Infinite Flight Connect API System (Experimental)</comment>
   </data>
   <data name="Settings.General.Connect.Title" xml:space="preserve">
@@ -674,7 +674,7 @@
     <comment>Airplane Count</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensityNoneWarning" xml:space="preserve">
-    <value>将飞机数量设置为”无“将不会在连线飞行时显示其他飞机。你仍需负责与其他飞机保持间隔。</value>
+    <value>将飞机数量设置为“无”将不会在连线飞行时显示其他飞机。你仍需负责与其他飞机保持间隔。</value>
     <comment>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Subtitle" xml:space="preserve">
@@ -2186,15 +2186,20 @@
     <comment>Simulation time scale cannot be changed for fighter jets.</comment>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
-    <value>特技飞行警告 机场附近禁止特技飞行</value>
+    <value>特技飞行警告
+机场附近禁止特技飞行</value>
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>跑道逗留警告\n在开放跑道上停留时间过长属于违规。尽快脱离跑道或起飞以避免违规。</value>
+    <value>跑道逗留警告
+在开放跑道上停留时间过长属于违规。
+尽快脱离跑道或起飞以避免违规。</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>滑行速度警告\n滑行时最大地速：35节。减速以避免违规。</value>
+    <value>滑行速度警告
+滑行时最大地速：35节。
+减速以避免违规。</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
@@ -2273,6 +2278,10 @@
     <value>点击关闭</value>
     <comment>Tap to dismiss</comment>
   </data>
+   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
+    <value>点击继续</value>
+    <comment>Tap to continue</comment>
+  </data>
   <data name="WarningMessageControl.ViolationsCount" xml:space="preserve">
     <value>违规: {0}/{1}</value>
     <comment>Violations: {0}/{1}</comment>
@@ -2282,7 +2291,7 @@
     <comment>Got it!</comment>
   </data>
   <data name="Multiplayer.Welcome" xml:space="preserve">
-    <value>欢迎</value>
+    <value>欢迎！</value>
     <comment>Welcome</comment>
   </data>
   <data name="Tips.Default" xml:space="preserve">
@@ -2370,15 +2379,19 @@
     <comment>SPEED WARNING</comment>
   </data>
   <data name="Violation.Level0Received.Message" xml:space="preserve">
-    <value>你已被一名管制员或官方人员强制断线。这不是违规，因此无需申诉。</value>
+    <value>你已被一名管制员或官方人员强制断线。
+这不是违规，因此无需申诉。</value>
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
-    <value>你收到了一个2级违规，并且已经被强制断线。如果你的总违规次数未超过限制，那么你无需申诉就可以立即开始新飞行。我们鼓励你在youtube.com/infiniteflight查看所有可用的教程。</value>
+    <value>你收到了一个2级违规，并且已经被强制断线。
+如果你的总违规次数未超过限制，那么你无需申诉就可以立即开始新飞行。
+我们鼓励你在youtube.com/infiniteflight查看所有可用的教程。</value>
     <comment>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.Level3Received.Message" xml:space="preserve">
-    <value>你收到了一个2级违规，并且已经被强制断线。我们鼓励你在youtube.com/infiniteflight查看所有可用的教程。</value>
+    <value>你收到了一个3级违规，并且已经被强制断线。
+我们鼓励你在youtube.com/infiniteflight查看所有可用的教程。</value>
     <comment>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review and applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.UnspecifiedReason" xml:space="preserve">
@@ -2422,7 +2435,7 @@
     <comment>Time on Frequency</comment>
   </data>
   <data name="SystemMessaging.ATCActive" xml:space="preserve">
-    <value>{0} {1} 当前在线。你已被调至此频率。</value>
+    <value>{0} {1} 当前在线。已为你调至此频率。</value>
     <comment>{airport} {position} is active. You have been tuned to this frequency.</comment>
   </data>
   <data name="SystemMessaging.ATCOffline" xml:space="preserve">
@@ -2430,7 +2443,7 @@
     <comment>{airport} {position} is now offline</comment>
   </data>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
-    <value>{0} {1} 已下线。你已被调至 {2} {3}。</value>
+    <value>{0} {1} 已下线。已为你调至 {2} {3}。</value>
     <comment>{airport} {position} is now offline. You have been tuned to {2} {3}.</comment>
   </data>
   <data name="Settings.General.ClearCache" xml:space="preserve">
@@ -2589,6 +2602,14 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <value>制作人</value>
     <comment>Contributors</comment>
    </data>
+  <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
+    <value>即将进入 {0} 附近的临时飞行限制区：
+{1}
+请前往地图了解详情</value>
+    <comment>Entered an Active TFR at or near {ICAO}
+{Title}
+Check map for more information</comment>
+  </data>
    <data name="UserAccountControl.Discord" xml:space="preserve">
     <value>Discord账户</value>
     <comment>Discord Account</comment>
