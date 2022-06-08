@@ -1913,7 +1913,18 @@ namespace Fds.InfiniteRunway.Resources {
                 return ResourceManager.GetString("Grade.ViolationsShortPeriod", resourceCulture);
             }
         }
-        
+
+        /// <summary>
+        ///   Looks up a localized string similar to Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF..
+        /// </summary>
+        internal static string GroundServices_ConditionsNotMet
+        {
+            get
+            {
+                return ResourceManager.GetString("GroundServices.ConditionsNotMet", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to AIR TRAFFIC CONTROL.
         /// </summary>

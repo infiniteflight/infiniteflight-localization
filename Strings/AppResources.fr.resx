@@ -1439,7 +1439,7 @@
   </data>
   <data name="FlightPlan.ReplaceFlightPlan" xml:space="preserve">
     <value>Remplacer le plan de vol</value>
-  </data>  
+  </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
     <value>Voulez vous remplacer ou ajouter au plan de vol?</value>
   </data>
@@ -2166,5 +2166,8 @@ Ralentissez pour éviter d'autres violations.</value>
   </data>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
     <value>{0} {1} est désormais hors ligne. Vous avez été réglé sur {2} {3}.</value>
+  </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+    <value>Les services au sol nécessitent les freins de stationnement activés, les lumières anti-collision et les moteurs éteints.</value>
   </data>
 </root>
