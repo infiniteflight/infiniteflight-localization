@@ -2643,4 +2643,8 @@ Check map for more information</comment>
     <value>Discord Not Installed</value>
     <comment>Discord Not Installed</comment>
   </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+    <value>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</value>
+    <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
+  </data>
 </root>
