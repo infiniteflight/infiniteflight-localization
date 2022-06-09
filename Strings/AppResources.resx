@@ -2658,7 +2658,7 @@ Check map for more information</comment>
     <comment>Legacy</comment>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
-    <value>arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</value>
-    <comment>arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
+    <value>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</value>
+    <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
 </root>
