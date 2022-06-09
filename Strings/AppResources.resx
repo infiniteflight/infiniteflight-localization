@@ -1393,8 +1393,8 @@
     <value>Released or updated in {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
-    <value>Show Legacy Aircraft</value>
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
+    <value>Show aircraft from older versions</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
@@ -2646,5 +2646,19 @@ Check map for more information</comment>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
     <value>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</value>
     <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
+    <value>Show legacy airplanes that don't reflect the latest evolutions (high quality virtual cockpits, instruments, etc...)</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
+    <value>Legacy aircraft are extras from older versions of Infinite Flight and are not of the same quality. Show them anyway?</value>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+    <value>LEGACY</value>
+    <comment>Legacy</comment>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+    <value>arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</value>
+    <comment>arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
 </root>

@@ -132,7 +132,7 @@
   <data name="AircraftPage.ReleaseInfo" xml:space="preserve">
     <value>Lançado ou atualizado em {0}</value>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
     <value>Mostrar Aeronaves legados</value>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">

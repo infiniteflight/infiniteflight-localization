@@ -1383,8 +1383,8 @@
   <data name="AircraftPage.ReleaseInfo" xml:space="preserve">
     <value>Publié ou mis à jour en {0}</value>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
-    <value>Afficher les anciens avions</value>
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
+    <value>Afficher les avions des anciennes versions.</value>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
     <value>Afficher les avions PRO</value>
@@ -2169,5 +2169,11 @@ Ralentissez pour éviter d'autres violations.</value>
   </data>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
     <value>Les services au sol nécessitent les freins de stationnement activés, les lumières anti-collision et les moteurs éteints.</value>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+    <value>ANCIEN AVION</value>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+    <value>Attention : cet avion est un extra inclus à partir d'une ancienne version et n'est pas de la même qualité que nos avions plus récent</value>
   </data>
 </root>
