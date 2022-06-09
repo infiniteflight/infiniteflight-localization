@@ -1393,7 +1393,7 @@
     <value>Released or updated in {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
     <value>הצג מטוסי מדור קודם</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
@@ -2595,7 +2595,7 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
      <value>תוֹרֵם</value>
      <comment>Contributor</comment>
    </data>
-   <data name="MapItemInfoControl.Contributors" xml:space="preserve">
+  <data name="MapItemInfoControl.Contributors" xml:space="preserve">
      <value>תורמים</value>
      <comment>Contributors</comment>
    </data>
