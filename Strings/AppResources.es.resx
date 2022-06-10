@@ -2314,7 +2314,7 @@ Consulte el mapa para más información</value>
     <value>La aplicación de Discord tiene que estar instalada antes de unirte al servidor. ¿Quieres instalarla ahora?</value>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
-    <value>Aviso: Este avión es de una versión antigua\ny no es de la misma calidad que nuestros aviones más nuevos</value>
+    <value>Aviso: Este avión es de una versión antigua y no es de la misma calidad que nuestros aviones más nuevos</value>
   </data>
   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
     <value>Pulse para continuar</value>
