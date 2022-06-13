@@ -1405,7 +1405,7 @@
     <value>发布/更新时间： {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
     <value>显示早期飞机</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
@@ -2610,7 +2610,7 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
 {Title}
 Check map for more information</comment>
   </data>
-   <data name="UserAccountControl.Discord" xml:space="preserve">
+  <data name="UserAccountControl.Discord" xml:space="preserve">
     <value>Discord账户</value>
     <comment>Discord Account</comment>
   </data>
@@ -2641,5 +2641,26 @@ Check map for more information</comment>
   <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
     <value>尚未安装Discord</value>
     <comment>Discord Not Installed</comment>
+  </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+    <value>呼叫地勤服务需要刹住停机刹车并关闭引擎和信标灯（BEACON）</value>
+    <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
+    <value>显示早期机型（这些机型不具有高精度驾驶舱和可动仪表等特性）</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
+    <value>早期机型从早期无限飞行版本
+继承而来，其质量低于新发布
+的机型。仍要显示吗？</value>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+    <value>早期机型</value>
+    <comment>Legacy</comment>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+    <value>提示：该机型从早期版本继承而来
+其质量低于最新发布的机型</value>
+    <comment>arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
 </root>
