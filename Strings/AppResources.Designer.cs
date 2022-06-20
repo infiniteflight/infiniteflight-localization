@@ -79,6 +79,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft.
+        /// </summary>
+        internal static string AircraftPage_LegacyAircraftWarning {
+            get {
+                return ResourceManager.GetString("AircraftPage.LegacyAircraftWarning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Livery will be downloaded when flight starts..
         /// </summary>
         internal static string AircraftPage_LiveryWillBeDownloaded {
@@ -102,15 +111,6 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string AircraftPage_ReleaseInfo {
             get {
                 return ResourceManager.GetString("AircraftPage.ReleaseInfo", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Show Legacy Aircraft.
-        /// </summary>
-        internal static string AircraftPage_ShowLegacyAircraft {
-            get {
-                return ResourceManager.GetString("AircraftPage.ShowLegacyAircraft", resourceCulture);
             }
         }
         
@@ -1141,7 +1141,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This account isn&apos;t linked to an Infinite Flight Pro subscription (error code {0}).
+        ///   Looks up a localized string similar to This Infinite Flight Community account has not been used with the app before (error code {0}).
         /// </summary>
         internal static string Error_UserNotFound {
             get {
@@ -1911,6 +1911,15 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string Grade_ViolationsShortPeriod {
             get {
                 return ResourceManager.GetString("Grade.ViolationsShortPeriod", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF..
+        /// </summary>
+        internal static string GroundServices_ConditionsNotMet {
+            get {
+                return ResourceManager.GetString("GroundServices.ConditionsNotMet", resourceCulture);
             }
         }
         
@@ -2772,7 +2781,7 @@ namespace Fds.InfiniteRunway.Resources {
         /// <summary>
         ///   Looks up a localized string similar to You do not have permission to upload changes to this airport.
         ///
-        ///Please ask to be assigned via the Scenery Editing forum first.
+        ///Please ask to be assigned via the Scenery Editing forum first..
         /// </summary>
         internal static string SceneryEditor_NoUploadPermissions {
             get {
@@ -3593,6 +3602,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to LEGACY.
+        /// </summary>
+        internal static string Settings_General_Legacy {
+            get {
+                return ResourceManager.GetString("Settings.General.Legacy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to No voices found.
         /// </summary>
         internal static string Settings_General_NoVoicesFound {
@@ -3634,6 +3652,33 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string Settings_General_ShowAirportNames_Title {
             get {
                 return ResourceManager.GetString("Settings.General.ShowAirportNames.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Show legacy airplanes that don&apos;t reflect the latest evolutions (high quality virtual cockpits, instruments, etc...).
+        /// </summary>
+        internal static string Settings_General_ShowLegacyAircraft_Subtitle {
+            get {
+                return ResourceManager.GetString("Settings.General.ShowLegacyAircraft.Subtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Show aircraft from older versions.
+        /// </summary>
+        internal static string Settings_General_ShowLegacyAircraft_Title {
+            get {
+                return ResourceManager.GetString("Settings.General.ShowLegacyAircraft.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Legacy aircraft are extras from older versions of Infinite Flight and are not of the same quality. Show them anyway?.
+        /// </summary>
+        internal static string Settings_General_ShowLegacyAircraft_Warning {
+            get {
+                return ResourceManager.GetString("Settings.General.ShowLegacyAircraft.Warning", resourceCulture);
             }
         }
         
@@ -5409,20 +5454,20 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tap to dismiss.
-        /// </summary>
-        internal static string WarningMessageControl_TapToDismiss {
-            get {
-                return ResourceManager.GetString("WarningMessageControl.TapToDismiss", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Tap to continue.
         /// </summary>
         internal static string WarningMessageControl_TapToContinue {
             get {
                 return ResourceManager.GetString("WarningMessageControl.TapToContinue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tap to dismiss.
+        /// </summary>
+        internal static string WarningMessageControl_TapToDismiss {
+            get {
+                return ResourceManager.GetString("WarningMessageControl.TapToDismiss", resourceCulture);
             }
         }
         
