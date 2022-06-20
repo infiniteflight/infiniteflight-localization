@@ -1383,8 +1383,8 @@
   <data name="AircraftPage.ReleaseInfo" xml:space="preserve">
     <value>Publié ou mis à jour en {0}</value>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
-    <value>Afficher les anciens avions</value>
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
+    <value>Afficher les avions des anciennes versions.</value>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
     <value>Afficher les avions PRO</value>
@@ -1439,6 +1439,15 @@
   </data>
   <data name="FlightPlan.ReplaceFlightPlan" xml:space="preserve">
     <value>Remplacer le plan de vol</value>
+  </data>
+  <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
+    <value>Voulez vous remplacer ou ajouter au plan de vol?</value>
+  </data>
+  <data name="FlightPlan.Replace" xml:space="preserve">
+    <value>Remplacer</value>
+  </data>
+  <data name="FlightPlan.Add" xml:space="preserve">
+    <value>Ajouter</value>
   </data>
   <data name="Global.Airport" xml:space="preserve">
     <value>Aéroport</value>
@@ -1714,7 +1723,7 @@
     <value>À : Jusqu'à nouvel ordre</value>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>Un NOTAM (Notice to Airmen) est actif pour l'aéroport de départ sélectionné. Veuillez lire attentivement le NOTAM suivant avant de continuer</value>
+    <value>Un NOTAM (Notice to Air Missions) est actif pour l'aéroport de départ sélectionné. Veuillez lire attentivement le NOTAM suivant avant de continuer</value>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
     <value>ATTENTION : NOTAM ACTIF</value>
@@ -2157,5 +2166,14 @@ Ralentissez pour éviter d'autres violations.</value>
   </data>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
     <value>{0} {1} est désormais hors ligne. Vous avez été réglé sur {2} {3}.</value>
+  </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+    <value>Les services au sol nécessitent les freins de stationnement activés, les lumières anti-collision et les moteurs éteints.</value>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+    <value>ANCIEN AVION</value>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+    <value>Attention : cet avion est un extra inclus à partir d'une ancienne version et n'est pas de la même qualité que nos avions plus récent</value>
   </data>
 </root>

@@ -1394,7 +1394,7 @@ Mengawal aileron kapal terbang</value>
     <value>Dikeluarkan atau dikemas kini dalam {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
     <value>Tunjukkan Pesawat Legasi</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
@@ -1835,8 +1835,8 @@ Mengawal aileron kapal terbang</value>
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>NOTAM (Notis kepada Airmen) aktif untuk lapangan terbang berlepas yang dipilih. Sila baca NOTAM berikut dengan teliti sebelum meneruskan</value>
-    <comment>A NOTAM (Notice to Airmen) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
+    <value>NOTAM (Notis kepada Air Missions) aktif untuk lapangan terbang berlepas yang dipilih. Sila baca NOTAM berikut dengan teliti sebelum meneruskan</value>
+    <comment>A NOTAM (Notice to Air Missions) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
     <value>AMARAN: NOTAM AKTIF</value>
@@ -1952,7 +1952,7 @@ Mengawal aileron kapal terbang</value>
   </data>
   <data name="Replay.Duration" xml:space="preserve">
     <value>Tempoh</value>
-    <comment>Duration</comment>Gerakkan paksi pada pengawal untuk ditetapkan
+    <comment>Duration</comment>
   </data>
   <data name="Replay.Edit" xml:space="preserve">
     <value>MENYUNTING</value>
