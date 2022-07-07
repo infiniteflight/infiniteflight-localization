@@ -79,6 +79,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft.
+        /// </summary>
+        internal static string AircraftPage_LegacyAircraftWarning {
+            get {
+                return ResourceManager.GetString("AircraftPage.LegacyAircraftWarning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Livery will be downloaded when flight starts..
         /// </summary>
         internal static string AircraftPage_LiveryWillBeDownloaded {
@@ -102,15 +111,6 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string AircraftPage_ReleaseInfo {
             get {
                 return ResourceManager.GetString("AircraftPage.ReleaseInfo", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Show Legacy Aircraft.
-        /// </summary>
-        internal static string AircraftPage_ShowLegacyAircraft {
-            get {
-                return ResourceManager.GetString("AircraftPage.ShowLegacyAircraft", resourceCulture);
             }
         }
         
@@ -1141,7 +1141,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This account isn&apos;t linked to an Infinite Flight Pro subscription (error code {0}).
+        ///   Looks up a localized string similar to This Infinite Flight Community account has not been used with the app before (error code {0}).
         /// </summary>
         internal static string Error_UserNotFound {
             get {
@@ -1911,6 +1911,15 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string Grade_ViolationsShortPeriod {
             get {
                 return ResourceManager.GetString("Grade.ViolationsShortPeriod", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF..
+        /// </summary>
+        internal static string GroundServices_ConditionsNotMet {
+            get {
+                return ResourceManager.GetString("GroundServices.ConditionsNotMet", resourceCulture);
             }
         }
         
@@ -2772,7 +2781,7 @@ namespace Fds.InfiniteRunway.Resources {
         /// <summary>
         ///   Looks up a localized string similar to You do not have permission to upload changes to this airport.
         ///
-        ///Please ask to be assigned via the Scenery Editing forum first.
+        ///Please ask to be assigned via the Scenery Editing forum first..
         /// </summary>
         internal static string SceneryEditor_NoUploadPermissions {
             get {
@@ -3593,6 +3602,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to LEGACY.
+        /// </summary>
+        internal static string Settings_General_Legacy {
+            get {
+                return ResourceManager.GetString("Settings.General.Legacy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to No voices found.
         /// </summary>
         internal static string Settings_General_NoVoicesFound {
@@ -3634,6 +3652,33 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string Settings_General_ShowAirportNames_Title {
             get {
                 return ResourceManager.GetString("Settings.General.ShowAirportNames.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Show legacy airplanes that don&apos;t reflect the latest evolutions (high quality virtual cockpits, instruments, etc...).
+        /// </summary>
+        internal static string Settings_General_ShowLegacyAircraft_Subtitle {
+            get {
+                return ResourceManager.GetString("Settings.General.ShowLegacyAircraft.Subtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Show aircraft from older versions.
+        /// </summary>
+        internal static string Settings_General_ShowLegacyAircraft_Title {
+            get {
+                return ResourceManager.GetString("Settings.General.ShowLegacyAircraft.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Legacy aircraft are extras from older versions of Infinite Flight and are not of the same quality. Show them anyway?.
+        /// </summary>
+        internal static string Settings_General_ShowLegacyAircraft_Warning {
+            get {
+                return ResourceManager.GetString("Settings.General.ShowLegacyAircraft.Warning", resourceCulture);
             }
         }
         
@@ -5171,6 +5216,78 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Discord Account.
+        /// </summary>
+        internal static string UserAccountControl_Discord {
+            get {
+                return ResourceManager.GetString("UserAccountControl.Discord", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your Discord account has been linked and you have access to our Pro-only Discord server.
+        /// </summary>
+        internal static string UserAccountControl_Discord_Linked {
+            get {
+                return ResourceManager.GetString("UserAccountControl.Discord.Linked", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?.
+        /// </summary>
+        internal static string UserAccountControl_Discord_NotInstalled_Message {
+            get {
+                return ResourceManager.GetString("UserAccountControl.Discord.NotInstalled.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Discord Not Installed.
+        /// </summary>
+        internal static string UserAccountControl_Discord_NotInstalled_Title {
+            get {
+                return ResourceManager.GetString("UserAccountControl.Discord.NotInstalled.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Link a Discord account to gain exclusive access to our Pro-only server.
+        /// </summary>
+        internal static string UserAccountControl_Discord_Unlinked {
+            get {
+                return ResourceManager.GetString("UserAccountControl.Discord.Unlinked", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?.
+        /// </summary>
+        internal static string UserAccountControl_DiscordLinked_Message {
+            get {
+                return ResourceManager.GetString("UserAccountControl.DiscordLinked.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not Now.
+        /// </summary>
+        internal static string UserAccountControl_DiscordLinked_NotNow {
+            get {
+                return ResourceManager.GetString("UserAccountControl.DiscordLinked.NotNow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Account Linked.
+        /// </summary>
+        internal static string UserAccountControl_DiscordLinked_Title {
+            get {
+                return ResourceManager.GetString("UserAccountControl.DiscordLinked.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Your Account.
         /// </summary>
         internal static string UserAccountControl_YourAccount {
@@ -5333,6 +5450,15 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string WarningMessageControl_Reported {
             get {
                 return ResourceManager.GetString("WarningMessageControl.Reported", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tap to continue.
+        /// </summary>
+        internal static string WarningMessageControl_TapToContinue {
+            get {
+                return ResourceManager.GetString("WarningMessageControl.TapToContinue", resourceCulture);
             }
         }
         

@@ -246,8 +246,8 @@
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</value>
-    <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
+    <value>This Infinite Flight Community account has not been used with the app before (error code {0})</value>
+    <comment>This Infinite Flight Community account has not been used with the app before (error code {0})</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Carry your passion</value>
@@ -1393,8 +1393,8 @@
     <value>Released or updated in {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
-    <value>Show Legacy Aircraft</value>
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
+    <value>Show aircraft from older versions</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
@@ -2275,6 +2275,10 @@ No waypoint in Flight Plan</comment>
     <value>Tap to dismiss</value>
     <comment>Tap to dismiss</comment>
   </data>
+  <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
+    <value>Tap to continue</value>
+    <comment>Tap to continue</comment>
+  </data>
   <data name="WarningMessageControl.ViolationsCount" xml:space="preserve">
     <value>Violations: {0}/{1}</value>
     <comment>Violations: {0}/{1}</comment>
@@ -2578,7 +2582,7 @@ Slow down to avoid further violations.</comment>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
     <value>You do not have permission to upload changes to this airport.
 
-Please ask to be assigned via the Scenery Editing forum first</value>
+Please ask to be assigned via the Scenery Editing forum first.</value>
     <comment>You do not have permission to upload changes to this airport.
 
 Please ask to be assigned via the Scenery Editing forum first</comment>
@@ -2606,5 +2610,55 @@ Check map for more information</value>
     <comment>Entered an Active TFR at or near {ICAO}
 {Title}
 Check map for more information</comment>
+  </data>
+  <data name="UserAccountControl.Discord" xml:space="preserve">
+    <value>Discord Account</value>
+    <comment>Discord Account</comment>
+  </data>
+  <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
+    <value>Your Discord account has been linked and you have access to our Pro-only Discord server</value>
+    <comment>Your Discord account has been linked and you have access to our Pro-only Discord server</comment>
+  </data>
+  <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
+    <value>Link a Discord account to gain exclusive access to our Pro-only server</value>
+    <comment>Link a Discord account to gain exclusive access to our Pro-only server</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
+    <value>Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?</value>
+    <comment>Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
+    <value>Not Now</value>
+    <comment>Not Now</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
+    <value>Account Linked</value>
+    <comment>Account Linked</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
+    <value>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</value>
+    <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
+    <value>Discord Not Installed</value>
+    <comment>Discord Not Installed</comment>
+  </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+    <value>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</value>
+    <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
+    <value>Show legacy airplanes that don't reflect the latest evolutions (high quality virtual cockpits, instruments, etc...)</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
+    <value>Legacy aircraft are extras from older versions of Infinite Flight and are not of the same quality. Show them anyway?</value>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+    <value>LEGACY</value>
+    <comment>Legacy</comment>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+    <value>Warning: This aircraft is an extra included from an old version and is not of the same quality as our newer aircraft</value>
+    <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
 </root>

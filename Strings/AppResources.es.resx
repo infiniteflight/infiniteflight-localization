@@ -690,7 +690,7 @@
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
-    <value>Has enlazdo to cuenta del Infinite Flight Community. Inicia sesión en otros dispositivos para mantener la cuenta conectada</value>
+    <value>Has enlazdo tu cuenta del Infinite Flight Community. Inicia sesión en otros dispositivos para mantener la cuenta conectada</value>
     <comment>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</comment>
   </data>
   <data name="Settings.Account.Forum.Title" xml:space="preserve">
@@ -1383,7 +1383,7 @@
   <data name="AircraftPage.ReleaseInfo" xml:space="preserve">
     <value>Actualizado en {0}</value>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
     <value>Mostrar Aviones Legacy</value>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
@@ -2245,5 +2245,90 @@ Reduce velocidad para evitar más infracciones.</value>
   </data>
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
     <value>Activa los frenos en la rampa para cambiar el peso y balance en modo multijugador.</value>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
+    <value>Cuenta Enlazada</value>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
+    <value>No hay pasarelas en este aeropuerto</value>
+  </data>
+  <data name="Error.AgreementNotSigned" xml:space="preserve">
+    <value>No se ha firmado un acuerdo; se tiene que firmar antes de realizar esta acción (error {0})</value>
+  </data>
+  <data name="Error.AirportNotFound" xml:space="preserve">
+    <value>Este aeropuerto no está disponible (error {0})</value>
+  </data>
+  <data name="Error.ExpiredToken" xml:space="preserve">
+    <value>Ha caducado tu sesión y tienes que iniciar sesión de nuevo (error {0})</value>
+  </data>
+  <data name="Error.NotSupported" xml:space="preserve">
+    <value>Este feature no está disponible (error {0})</value>
+  </data>
+  <data name="Error.ServerNotFound" xml:space="preserve">
+    <value>Este servidor no está disponible (error {0})</value>
+  </data>
+  <data name="Error.UserNotAssigned" xml:space="preserve">
+    <value>No estás asignado a este aeropuerto. Por favor, contacte con un moderador o reviewer (error {0})</value>
+  </data>
+  <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
+    <value>No tienes permiso para subir cambios para este aeropuerto.
+
+Por favor, pide que te asignen en el foro de Scenery Editing antes de continuar.</value>
+  </data>
+  <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
+    <value>Active el freno de aparcamiento y apague los motores para extender las pasarelas</value>
+  </data>
+  <data name="MapItemInfoControl.Contributor" xml:space="preserve">
+    <value>Contributor</value>
+  </data>
+  <data name="MapItemInfoControl.Contributors" xml:space="preserve">
+    <value>Contributores</value>
+  </data>
+  <data name="UserAccountControl.Discord" xml:space="preserve">
+    <value>Cuenta de Discord</value>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
+    <value>Más tarde</value>
+  </data>
+  <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
+    <value>Has enlazado tu cuenta de Discord y tienes acceso a nuestro servidor de Discord exclusivo para usuarios de Pro</value>
+  </data>
+  <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
+    <value>Enlaza una cuenta de Discord para obtener acceso a nuestro servidor de Discord exclusivo para usuarios Pro</value>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
+    <value>Tu cuenta de Discord ha sido enlazada. ¿Quieres unirte al servidor ahora?</value>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
+    <value>No hay pasarelas alrededor de este parking</value>
+  </data>
+  <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
+    <value>Ha entrado en un TFR Activo cerca de {0}
+{1}
+Consulte el mapa para más información</value>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
+    <value>Aplicación No Instalada</value>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
+    <value>La aplicación de Discord tiene que estar instalada antes de unirte al servidor. ¿Quieres instalarla ahora?</value>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+    <value>Aviso: Este avión es de una versión antigua y no es de la misma calidad que nuestros aviones más nuevos</value>
+  </data>
+  <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
+    <value>Pulse para continuar</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
+    <value>Mostrar aviones antiguos (sin cabinas detalladas, instrumentos, etc...)</value>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+    <value>AVIÓN LEGACY</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
+    <value>Los aviones legacy son extras de una versión antigua de Infinite Flight y no són de la misma calidad. ¿Quieres mostrarlos igualmente?</value>
+  </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+    <value>Los servicios de rampa necesitan los Frenos de Parking ACTIVADOS, Luces Anticolisión ACTIVADAS, y motores APAGADOS.</value>
   </data>
 </root>

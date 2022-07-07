@@ -1394,7 +1394,7 @@ Mengawal aileron kapal terbang</value>
     <value>Dikeluarkan atau dikemas kini dalam {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
     <value>Tunjukkan Pesawat Legasi</value>
     <comment>Show Legacy Aircraft</comment>
   </data>

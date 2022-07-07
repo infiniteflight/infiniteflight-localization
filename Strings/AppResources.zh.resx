@@ -254,8 +254,8 @@
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>该账户尚未关联一个Infinite Flight Pro 订阅 (错误代码 {0})</value>
-    <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
+    <value>该IF社区账号尚未绑定过IF (error code {0})</value>
+    <comment>This Infinite Flight Community account has not been used with the app before (error code {0})</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>飞向你的梦想</value>
@@ -502,7 +502,7 @@
     <comment>Clear Scenery Cache</comment>
   </data>
   <data name="Settings.General.Connect.Subtitle" xml:space="preserve">
-    <value>启用Infinite Flight Connect API (实验性)</value>
+    <value>启用Infinite Flight Connect API (实验性功能)</value>
     <comment>Enable Infinite Flight Connect API System (Experimental)</comment>
   </data>
   <data name="Settings.General.Connect.Title" xml:space="preserve">
@@ -674,7 +674,7 @@
     <comment>Airplane Count</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensityNoneWarning" xml:space="preserve">
-    <value>将飞机数量设置为”无“将不会在连线飞行时显示其他飞机。你仍需负责与其他飞机保持间隔。</value>
+    <value>将飞机数量设置为“无”将不会在连线飞行时显示其他飞机。你仍需负责与其他飞机保持间隔。</value>
     <comment>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Subtitle" xml:space="preserve">
@@ -870,7 +870,7 @@
     <comment>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</comment>
   </data>
   <data name="Settings.Account.DiscourseConnect" xml:space="preserve">
-    <value>通过Discourse绑定</value>
+    <value>绑定账户</value>
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
@@ -1405,7 +1405,7 @@
     <value>发布/更新时间： {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
     <value>显示早期飞机</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
@@ -2186,15 +2186,20 @@
     <comment>Simulation time scale cannot be changed for fighter jets.</comment>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
-    <value>特技飞行警告 机场附近禁止特技飞行</value>
+    <value>特技飞行警告
+机场附近禁止特技飞行</value>
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>跑道逗留警告\n在开放跑道上停留时间过长属于违规。尽快脱离跑道或起飞以避免违规。</value>
+    <value>跑道逗留警告
+在开放跑道上停留时间过长属于违规。
+尽快脱离跑道或起飞以避免违规。</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>滑行速度警告\n滑行时最大地速：35节。减速以避免违规。</value>
+    <value>滑行速度警告
+滑行时最大地速：35节。
+减速以避免违规。</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
@@ -2273,6 +2278,10 @@
     <value>点击关闭</value>
     <comment>Tap to dismiss</comment>
   </data>
+   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
+    <value>点击继续</value>
+    <comment>Tap to continue</comment>
+  </data>
   <data name="WarningMessageControl.ViolationsCount" xml:space="preserve">
     <value>违规: {0}/{1}</value>
     <comment>Violations: {0}/{1}</comment>
@@ -2282,7 +2291,7 @@
     <comment>Got it!</comment>
   </data>
   <data name="Multiplayer.Welcome" xml:space="preserve">
-    <value>欢迎</value>
+    <value>欢迎！</value>
     <comment>Welcome</comment>
   </data>
   <data name="Tips.Default" xml:space="preserve">
@@ -2370,15 +2379,19 @@
     <comment>SPEED WARNING</comment>
   </data>
   <data name="Violation.Level0Received.Message" xml:space="preserve">
-    <value>你已被一名管制员或官方人员强制断线。这不是违规，因此无需申诉。</value>
+    <value>你已被一名管制员或官方人员强制断线。
+这不是违规，因此无需申诉。</value>
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
-    <value>你收到了一个2级违规，并且已经被强制断线。如果你的总违规次数未超过限制，那么你无需申诉就可以立即开始新飞行。我们鼓励你在youtube.com/infiniteflight查看所有可用的教程。</value>
+    <value>你收到了一个2级违规，并且已经被强制断线。
+如果你的总违规次数未超过限制，那么你无需申诉就可以立即开始新飞行。
+我们鼓励你在youtube.com/infiniteflight查看所有可用的教程。</value>
     <comment>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.Level3Received.Message" xml:space="preserve">
-    <value>你收到了一个2级违规，并且已经被强制断线。我们鼓励你在youtube.com/infiniteflight查看所有可用的教程。</value>
+    <value>你收到了一个3级违规，并且已经被强制断线。
+我们鼓励你在youtube.com/infiniteflight查看所有可用的教程。</value>
     <comment>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review and applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.UnspecifiedReason" xml:space="preserve">
@@ -2422,7 +2435,7 @@
     <comment>Time on Frequency</comment>
   </data>
   <data name="SystemMessaging.ATCActive" xml:space="preserve">
-    <value>{0} {1} 当前在线。你已被调至此频率。</value>
+    <value>{0} {1} 当前在线。已为你调至此频率。</value>
     <comment>{airport} {position} is active. You have been tuned to this frequency.</comment>
   </data>
   <data name="SystemMessaging.ATCOffline" xml:space="preserve">
@@ -2430,7 +2443,7 @@
     <comment>{airport} {position} is now offline</comment>
   </data>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
-    <value>{0} {1} 已下线。你已被调至 {2} {3}。</value>
+    <value>{0} {1} 已下线。已为你调至 {2} {3}。</value>
     <comment>{airport} {position} is now offline. You have been tuned to {2} {3}.</comment>
   </data>
   <data name="Settings.General.ClearCache" xml:space="preserve">
@@ -2536,5 +2549,118 @@
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
     <value>连线飞行时，在机位上开启停机刹车后才能改变重量与配载设置</value>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
+    <value>该机场暂无可动廊桥</value>
+    <comment>No jet bridges available at this airport</comment>
+  </data>
+  <data name="Error.AgreementNotSigned" xml:space="preserve">
+    <value>你尚未签署许可协议。要进行操作你必须首先签署贡献者许可协议 (error code {0})</value>
+    <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
+  </data>
+  <data name="Error.AirportNotFound" xml:space="preserve">
+    <value>选中的机场暂不可用 (error code {0})</value>
+    <comment>The selected airport is not available</comment>
+  </data>
+  <data name="Error.ExpiredToken" xml:space="preserve">
+    <value>你已退出登录，需要重新手动登录 (error code {0})</value>
+    <comment>You have been logged out and need to log in again manually</comment>
+  </data>
+  <data name="Error.NotSupported" xml:space="preserve">
+    <value>尚不支持该功能 (error code {0})</value>
+    <comment>This feature is not supported</comment>
+  </data>
+  <data name="Error.ServerNotFound" xml:space="preserve">
+    <value>你选中的服务器不可用 (error code {0})</value>
+    <comment>The selected server is not available</comment>
+  </data>
+  <data name="Error.UserNotAssigned" xml:space="preserve">
+    <value>该机场并未分配给你。请联系Reviewer或Moderator (error code {0})</value>
+    <comment>You are not assigned to this airport</comment>
+  </data>
+  <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
+    <value>你没有编辑该机场的权限。
+
+请前往论坛请求分配至该机场</value>
+    <comment>You do not have permission to upload changes to this airport.
+
+Please ask to be assigned via the Scenery Editing forum first</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
+    <value>对接廊桥前请先设置停机刹车并关闭所有引擎</value>
+    <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
+    <value>附近无可用廊桥</value>
+    <comment>No jet bridges available nearby</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributor" xml:space="preserve">
+    <value>制作人</value>
+    <comment>Contributor</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributors" xml:space="preserve">
+    <value>制作人</value>
+    <comment>Contributors</comment>
+   </data>
+  <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
+    <value>即将进入 {0} 附近的临时飞行限制区：
+{1}
+请前往地图了解详情</value>
+    <comment>Entered an Active TFR at or near {ICAO}
+{Title}
+Check map for more information</comment>
+  </data>
+  <data name="UserAccountControl.Discord" xml:space="preserve">
+    <value>Discord账户</value>
+    <comment>Discord Account</comment>
+  </data>
+  <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
+    <value>Discord账户绑定成功，你现在可以加入Pro用户专属的Discord服务器！</value>
+    <comment>Your Discord account has been linked and you have access to our Pro-only Discord server</comment>
+  </data>
+  <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
+    <value>绑定你的Discord账户以加入Pro专属Discord服务器</value>
+    <comment>Link a Discord account to gain exclusive access to our Pro-only server</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
+    <value>你的Discord账户已经成功绑定。你想要现在加入Infinite Flight Discord服务器吗？</value>
+    <comment>Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
+    <value>再想想</value>
+    <comment>Not Now</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
+    <value>账号已绑定</value>
+    <comment>Account Linked</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
+    <value>想加入IF官方Discord服务器需要先安装Discord.你要现在安装吗？（注意：中国大陆应用商店不提供下载）</value>
+    <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
+    <value>尚未安装Discord</value>
+    <comment>Discord Not Installed</comment>
+  </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+    <value>呼叫地勤服务需要刹住停机刹车并关闭引擎和信标灯（BEACON）</value>
+    <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
+    <value>显示早期机型（这些机型不具有高精度驾驶舱和可动仪表等特性）</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
+    <value>早期机型从早期无限飞行版本
+继承而来，其质量低于新发布
+的机型。仍要显示吗？</value>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+    <value>早期机型</value>
+    <comment>Legacy</comment>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+    <value>提示：该机型从早期版本继承而来
+其质量低于最新发布的机型</value>
+    <comment>arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
 </root>
