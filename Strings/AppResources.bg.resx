@@ -150,7 +150,7 @@
     <comment>HUMAN ATC</comment>
   </data>
   <data name="Global.Back" xml:space="preserve">
-    <value>ОБРАТНО</value>
+    <value>НАЗАД</value>
     <comment>Back button text</comment>
   </data>
   <data name="Global.Ok" xml:space="preserve">
@@ -158,7 +158,7 @@
     <comment>OK button text</comment>
   </data>
   <data name="IntroPage.ATC" xml:space="preserve">
-    <value>РЪКОВОДСТВО НА ВЪЗДУШНИЯ ТРАФИК (РВД)</value>
+    <value>РЪКОВОДСТВО НА ВЪЗД. ТРАФИК</value>
     <comment>Air Traffic Control</comment>
   </data>
   <data name="IntroPage.FlyOnline" xml:space="preserve">
@@ -170,7 +170,7 @@
     <comment>Fly Solo</comment>
   </data>
   <data name="IntroPage.Logbook" xml:space="preserve">
-    <value>ДНЕВНИК</value>
+    <value>Полетен Дневник</value>
     <comment>Logbook</comment>
   </data>
   <data name="IntroPage.Replays" xml:space="preserve">
@@ -278,7 +278,7 @@
     <comment>Not Available</comment>
   </data>
   <data name="LoginSubscriptionPage.NotAvailableMessage" xml:space="preserve">
-    <value>Абонаментът не може да бъде купен поради грешка. Прочетете Упътването ни за Употреба за повече информация и опитайте отново</value>
+    <value>Абонаментът не може да бъде закупен поради грешка. Прочетете Упътването ни за Употреба за повече информация и опитайте отново</value>
     <comment>This subscription can't be purchased due to an error. Check our User Guide for more information and try again</comment>
   </data>
   <data name="LoginSubscriptionPage.Pricing" xml:space="preserve">
@@ -370,7 +370,7 @@
     <comment>Invert External Cameras Vertical Motion</comment>
   </data>
   <data name="Settings.General.LandingAid.Subtitle" xml:space="preserve">
-    <value>Показва правоъгълници около глисадата. Помага за стабилизирани кацания.</value>
+    <value>Показва правоъгълници около глисадата. Помага за стабилизирани кацания</value>
     <comment>Shows a set of rectangles around the landing path. Helps make stabilized landings.</comment>
   </data>
   <data name="Settings.General.LandingAid.Title" xml:space="preserve">
@@ -398,7 +398,7 @@
     <comment>Graphics (tab title)</comment>
   </data>
   <data name="Settings.Multiplayer" xml:space="preserve">
-    <value>Мултиплейър</value>
+    <value>Онлайн</value>
     <comment>Multiplayer (tab title)</comment>
   </data>
   <data name="Settings.Option.High" xml:space="preserve">
@@ -510,7 +510,7 @@
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
-    <value>Скриване на статуса при таймаут на интерфейса </value>
+    <value>Скриване на статус лентата при таймаут на интерфейса </value>
     <comment>Hide the status when interface timeout occurs</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Title" xml:space="preserve">
@@ -562,7 +562,7 @@
     <comment>Anti-Aliasing</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Subtitle" xml:space="preserve">
-    <value>Лимитира кадрите в секунда.</value>
+    <value>Лимитира кадрите в секунда</value>
     <comment>Sets the highest allowed frame rate.</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Title" xml:space="preserve">
@@ -574,7 +574,7 @@
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
-    <value>Използване на целия екран по време на игра.</value>
+    <value>Използване на целия екран по време на игра</value>
     <comment>Use the entire screen when playing.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Title" xml:space="preserve">
@@ -630,7 +630,7 @@
     <comment>Default Voice</comment>
   </data>
   <data name="Settings.Multiplayer.EnableAirplaneDownloadsOverCellular.Subtitle" xml:space="preserve">
-    <value>Автоматично сваляне на самолети, дори и при използването на мобилни данни.</value>
+    <value>Автоматично сваляне на самолети, дори и при използване на мобилни данни.</value>
     <comment>Download airplanes automatically even when on a Cellular Network</comment>
   </data>
   <data name="Settings.Multiplayer.EnableAirplaneDownloadsOverCellular.Title" xml:space="preserve">
@@ -706,7 +706,7 @@
     <comment>Controls the Elevator Trim</comment>
   </data>
   <data name="Commands.FlapsDownFull" xml:space="preserve">
-    <value>Задкрилки надолу (Напълно)</value>
+    <value>Задкрилки надолу (Докрай)</value>
     <comment>Flaps Down (Full)</comment>
   </data>
   <data name="Commands.FlapsDownStep" xml:space="preserve">
@@ -714,7 +714,7 @@
     <comment>Flaps Down (1 Step)</comment>
   </data>
   <data name="Commands.FlapsUpFull" xml:space="preserve">
-    <value>Задкрилки нагоре (Напълно)</value>
+    <value>Задкрилки нагоре (Докрай)</value>
     <comment>Flaps Up (Full)</comment>
   </data>
   <data name="Commands.FlapsUpStep" xml:space="preserve">
@@ -1006,7 +1006,7 @@
     <comment>Unassigned</comment>
   </data>
   <data name="Settings.Controls.UseNetworkJoystick" xml:space="preserve">
-    <value>Използване на Интернет Джойстик</value>
+    <value>Използване на Мрежови Джойстик</value>
     <comment>Use Network Joystick</comment>
   </data>
   <data name="Settings.Sounds.ATC" xml:space="preserve">
@@ -1250,7 +1250,7 @@
     <comment>Updating navigation database</comment>
   </data>
   <data name="TimePage.CurrentTime" xml:space="preserve">
-    <value>Местен Час</value>
+    <value>Местно Време</value>
     <comment>Current Time</comment>
   </data>
   <data name="TimePage.Night" xml:space="preserve">
@@ -1366,7 +1366,7 @@
     <comment>Fly (Fly)</comment>
   </data>
   <data name="MenuPageBase.Open" xml:space="preserve">
-    <value>Отворете</value>
+    <value>Отвори</value>
     <comment>Open (Scenery Editor)</comment>
   </data>
   <data name="Global.Loading" xml:space="preserve">
@@ -1374,7 +1374,7 @@
     <comment>Loading...</comment>
   </data>
   <data name="Settings.Option.Normal" xml:space="preserve">
-    <value>Нормално</value>
+    <value>Нормална</value>
     <comment>Normal</comment>
   </data>
   <data name="SplashScreen.LoadingSession" xml:space="preserve">
@@ -1394,7 +1394,7 @@
     <comment>Released or updated in {0}</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
-    <value>Показване на Наследени Самолети</value>
+    <value>Показване на Наследствените Самолети</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
@@ -1422,7 +1422,7 @@
     <comment>Station (as in, selected frequencies)</comment>
   </data>
   <data name="ATC.Stations" xml:space="preserve">
-    <value>Станции</value>
+    <value>Честоти</value>
     <comment>Stations</comment>
   </data>
   <data name="ATC.Tower" xml:space="preserve">
@@ -1470,7 +1470,7 @@
     <comment>Replace Flight Plan</comment>
   </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
-    <value>Искате да замените или добавите към текушия полетен план?</value>
+    <value>Искате да замените или добавите към текущия полетен план?</value>
     <comment>Shown when importing a flight plan FPL file</comment>
   </data>
   <data name="FlightPlan.Replace" xml:space="preserve">
@@ -1558,7 +1558,7 @@
     <comment>XP</comment>
   </data>
   <data name="Grade.ViolationsByLandingShortPeriod" xml:space="preserve">
-    <value>Нарушения Ниво 1/Кацане (12 Месеца)</value>
+    <value>Нарушения Ниво 1/кацания (12 Месеца)</value>
     <comment>Level 1 Violations/Landing (12 Months)</comment>
   </data>
   <data name="Grade.ViolationsMediumPeriod" xml:space="preserve">
@@ -1890,7 +1890,7 @@
     <comment>From</comment>
   </data>
   <data name="Logbook.LiveFlights" xml:space="preserve">
-    <value>Полети Наживо</value>
+    <value>Полети на живо</value>
     <comment>Live Flights</comment>
   </data>
   <data name="Logbook.Notes" xml:space="preserve">
@@ -2090,7 +2090,7 @@
     <comment>Cannot start fuel dump. Min altitude 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelowMLW" xml:space="preserve">
-    <value>Изхвърлянето на горивно не може да започне. Самолетът е под Максималното Тегло за Кацане</value>
+    <value>Изхвърлянето на гориво не може да започне. Самолетът е под Максималното Тегло за Кацане</value>
     <comment>Cannot start fuel dump. Aircraft is below Maximum Landing Weight</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.FuelTooLow" xml:space="preserve">
@@ -2126,7 +2126,7 @@
     <comment>Low Power Mode Enabled</comment>
   </data>
   <data name="SystemMessaging.OutOfRegion" xml:space="preserve">
-    <value>Нужен е Infinite Flight Pro, за да летите извън стандартните регионо.Натиснете тук за повече информация</value>
+    <value>Нужен е Infinite Flight Pro, за да летите извън стандартните региони.Натиснете тук за повече информация</value>
     <comment>Infinite Flight Pro is required to fly outside of the default regions.Tap here for more information</comment>
   </data>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
@@ -2186,7 +2186,7 @@
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
-    <value>VNAV не е наличен по време на изкачване.Функцията е налична само за снижения.</value>
+    <value>VNAV не е наличен по време на изкачване. Функцията е налична само за снижения.</value>
     <comment>VNAV unavailable during climb.\nThis functionality is only available for descent.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
@@ -2198,7 +2198,7 @@
     <comment>VNAV Unavailable\nNo altitude set for any waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
-    <value>VNAV не е наличнеНяма точки в полетния план</value>
+    <value>VNAV не е наличнен. Няма точки в полетния план</value>
     <comment>VNAV UnavailableNo waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.TargetUpdated" xml:space="preserve">
@@ -2570,19 +2570,69 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <comment>No jet bridges available nearby</comment>
   </data>
   <data name="MapItemInfoControl.Contributor" xml:space="preserve">
-    <value>Сътрудник</value>
+    <value>Редактор</value>
     <comment>Contributor</comment>
   </data>
   <data name="MapItemInfoControl.Contributors" xml:space="preserve">
-    <value>Сътрудници</value>
+    <value>Редактори</value>
     <comment>Contributors</comment>
   </data>
   <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
-    <value>Навлезли сте в активен ВМП в или близо до {0}
+    <value>Навлезли сте в активно ВОП в или близо до {0}
 {1}
 Проверете картата за повече информация</value>
     <comment>Entered an Active TFR at or near {ICAO}
 {Title}
 Check map for more information</comment>
+  </data>
+    <data name="UserAccountControl.Discord" xml:space="preserve">
+    <value>Discord Акаунт</value>
+    <comment>Discord Account</comment>
+  </data>
+  <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
+    <value>Вашият Discord акаунт е свързан и имате достъп до Discord сървъра за потребители с Pro абонамент</value>
+    <comment>Your Discord account has been linked and you have access to our Pro-only Discord server</comment>
+  </data>
+  <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
+    <value>Свържете Discord акаунт, за да получите достъп до ексклузивния ни сървър за потребители с Pro абонамент</value>
+    <comment>Link a Discord account to gain exclusive access to our Pro-only server</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
+    <value>Вашият Discord акаунт е свързан. Желаете ли да се присъедините към Infinite Flight Discord сървъра сега?</value>
+    <comment>Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
+    <value>По-късно</value>
+    <comment>Not Now</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
+    <value>Акаунтът е свързан</value>
+    <comment>Account Linked</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
+    <value>Discord трябва да бъде инсталиран от вашия App Store, за да се присъедините към Infinite Flight сървъра. Желаете ли да инсталирате сега?</value>
+    <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
+    <value>Discord не е инсталиран</value>
+    <comment>Discord Not Installed</comment>
+  </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+    <value>Наземните услуги изискват Ръчната спирачка да е включена, противоколизионните светлини и двигателите да са изключени.</value>
+    <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
+    <value>Показване на наследствени самолети, които не отразява съвременните еволюции (Висококачествени кабини, инструменти и т.н.)</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
+    <value>Наследствените самолети са екстри от стари версии на Infinite Flight и са с по-ниско качество. Показване въпреки това?</value>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+    <value>НАСЛЕДСТВЕН</value>
+    <comment>Legacy</comment>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+    <value>Предупреждение: Този самолет е екстра, включена от стара версия и е с по-ниско качество, в сравнение с по-новите ни самолети.</value>
+    <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
 </root>
