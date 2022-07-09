@@ -1964,7 +1964,7 @@ Reduza para evitar mais violações.</value>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
     <value>Você não tem permissão para enviar mudanças para este aeroporto.
 
-Por favor avise para ser atribuído pelo fórum de edição primeiro</value>
+Por favor avise para ser atribuído pelo fórum de edição primeiro.</value>
   </data>
   <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
     <value>Engate o freio de estacionamento e desligue todos os motores para conectar os portões de embarque</value>
@@ -1997,5 +1997,32 @@ Verifique o mapa para mais informações</value>
   </data>
   <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
     <value>Conta Conectada</value>
+  </data>
+  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+    <value>Mostrar Aeronaves Antigos</value>
+  </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+    <value>Serviços de Solo necessita do Parking Brakes LIGADOS, Beacon Light LIGADOS e Motores DESLIGADOS.</value>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+    <value>AERONAVE ANTIGO</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
+    <value>Mostrar aeronaves antigas não reflete as evoluções atuais (cockpit de alta qualidade, instrumentos, etc.)</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
+    <value>Aeronaves antigas são extras de versões antigos do Infinite Flight e não tem a mesma qualidade. Mostrar mesmo assim?</value>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
+    <value>Discord precisa ser instalado da loja de aplicativos para entrar no Servidor do Infinite Flight. Você quer instalar agora?</value>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
+    <value>Discord não instalado</value>
+  </data>
+  <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
+    <value>Toque para continuar</value>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+    <value>Atenção: Essa aeronave é um extra incluído de uma versão antiga e não tem a mesma qualidade do que as aeronaves mais novas</value>
   </data>
 </root>
