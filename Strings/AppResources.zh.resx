@@ -133,7 +133,7 @@
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
     <value>全球超过20,000个机场、
-90 多个 3D 机场并且数量在持续增加、
+400 多个 3D 机场并且数量在持续增加、
 15m级分辨率卫星地形图像等。</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
@@ -2278,7 +2278,7 @@
     <value>点击关闭</value>
     <comment>Tap to dismiss</comment>
   </data>
-   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
+  <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
     <value>点击继续</value>
     <comment>Tap to continue</comment>
   </data>

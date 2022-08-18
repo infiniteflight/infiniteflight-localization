@@ -130,7 +130,7 @@
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>Над 20000 летища по целия свят, 90+ 3D летища, 15m/px сателитни снимки на света, и още.</value>
+    <value>Над 20000 летища по целия свят, 400+ 3D летища, 15m/px сателитни снимки на света, и още.</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
@@ -2585,7 +2585,7 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
 {Title}
 Check map for more information</comment>
   </data>
-    <data name="UserAccountControl.Discord" xml:space="preserve">
+  <data name="UserAccountControl.Discord" xml:space="preserve">
     <value>Discord Акаунт</value>
     <comment>Discord Account</comment>
   </data>
