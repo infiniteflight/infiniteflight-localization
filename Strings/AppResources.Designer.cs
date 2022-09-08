@@ -79,7 +79,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft.
+        ///   Looks up a localized string similar to Warning: This aircraft is an extra included from an old version and is not of the same quality as our newer aircraft.
         /// </summary>
         internal static string AircraftPage_LegacyAircraftWarning {
             get {
@@ -2203,7 +2203,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more..
+        ///   Looks up a localized string similar to Over 20,000 airports worldwide, 400+ 3D airports and counting, 15m/px satellite terrain imagery, and more..
         /// </summary>
         internal static string LoginSubscriptionPage_ProCarouselText2 {
             get {
@@ -4718,6 +4718,15 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string SystemMessaging_OverspeedViolation_WarningTitle {
             get {
                 return ResourceManager.GetString("SystemMessaging.OverspeedViolation.WarningTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please maintain a safe distance with the aircraft ahead.
+        /// </summary>
+        internal static string SystemMessaging_ProximityWarning {
+            get {
+                return ResourceManager.GetString("SystemMessaging.ProximityWarning", resourceCulture);
             }
         }
         

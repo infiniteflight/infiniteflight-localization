@@ -2176,4 +2176,7 @@ Ralentissez pour éviter d'autres violations.</value>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
     <value>Attention : cet avion est un extra inclus à partir d'une ancienne version et n'est pas de la même qualité que nos avions plus récent</value>
   </data>
+  <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
+    <value>Veuillez maintenir une distance de sécurité avec l'avion devant vous</value>
+  </data>
 </root>
