@@ -2661,4 +2661,8 @@ Check map for more information</comment>
     <value>Warning: This aircraft is an extra included from an old version and is not of the same quality as our newer aircraft</value>
     <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
+  <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
+    <value>Please maintain a safe distance with the aircraft ahead</value>
+    <comment>Please maintain a safe distance with the aircraft ahead</comment>
+  </data>
 </root>
