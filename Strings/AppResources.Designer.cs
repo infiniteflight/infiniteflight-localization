@@ -2167,6 +2167,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to We found your account but there is no active subscription..
+        /// </summary>
+        internal static string LoginSubscriptionPage_NoSubscriptionFound {
+            get {
+                return ResourceManager.GetString("LoginSubscriptionPage.NoSubscriptionFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Not Available.
         /// </summary>
         internal static string LoginSubscriptionPage_NotAvailable {
