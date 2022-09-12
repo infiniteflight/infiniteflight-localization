@@ -2179,4 +2179,7 @@ Ralentissez pour éviter d'autres violations.</value>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
     <value>Veuillez maintenir une distance de sécurité avec l'avion devant vous</value>
   </data>
+  <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
+    <value>Nous avons trouvé votre compte mais vous n'avez pas d'abonnement actif.</value>
+  </data>
 </root>

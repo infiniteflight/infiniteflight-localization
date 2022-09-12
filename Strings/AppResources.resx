@@ -2665,4 +2665,8 @@ Check map for more information</comment>
     <value>Please maintain a safe distance with the aircraft ahead</value>
     <comment>Please maintain a safe distance with the aircraft ahead</comment>
   </data>
+  <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
+    <value>We found your account but there is no active subscription associated to it.</value>
+    <comment>We found your account but there is no active subscription associated to it.</comment>
+  </data>
 </root>
