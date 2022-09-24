@@ -130,7 +130,7 @@
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>Über 20 000 Flughäfen weltweit, mehr als 90 3D Flughäfen, Satellitenbilder mit einer Auflösung von 15m/px und mehr.</value>
+    <value>Über 20 000 Flughäfen weltweit, mehr als 400 3D Flughäfen, Satellitenbilder mit einer Auflösung von 15m/px und mehr.</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
@@ -1393,7 +1393,7 @@
     <value>Veröffentlicht oder aktualisiert im {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
     <value>Ältere Flugzeuge anzeigen</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
@@ -1402,7 +1402,7 @@
     <comment>Show Pro Aircraft</comment>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
-    <value>Anflugkontrolle</value>
+    <value>Anflug</value>
     <comment>Approach</comment>
   </data>
   <data name="ATC.ATIS" xml:space="preserve">
@@ -1410,7 +1410,7 @@
     <comment>ATIS</comment>
   </data>
   <data name="ATC.Departure" xml:space="preserve">
-    <value>Abflugkontolle</value>
+    <value>Abflug</value>
     <comment>Departure</comment>
   </data>
   <data name="ATC.Ground" xml:space="preserve">
@@ -1834,19 +1834,21 @@
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>Ein NOTAM (Notice to Airmen) ist am gewählten Abflughafen aktiv. Bitte lies das folgende NOTAM aufmerksam, bevor du deinen Flug startest</value>
-    <comment>A NOTAM (Notice to Airmen) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
+    <value>Ein NOTAM (Notice to Air Missions) ist am gewählten Abflughafen aktiv. Bitte lies das folgende NOTAM aufmerksam, bevor du deinen Flug startest</value>
+    <comment>A NOTAM (Notice to Air Missions) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
     <value>WARNUNG: AKTIVES NOTAM</value>
     <comment>WARNING: ACTIVE NOTAM</comment>
   </data>
   <data name="About.PrivacyPolicy" xml:space="preserve">
-    <value>DATENSCHUTZBEDINGUNGEN</value>
+    <value>DATENSCHUTZ
+BEDINGUNGEN</value>
     <comment>PRIVACY POLICY</comment>
   </data>
   <data name="About.TermsOfUse" xml:space="preserve">
-    <value>NUTZUNGSBEDINGUNGEN</value>
+    <value>NUTZUNGS
+BEDINGUNGEN</value>
     <comment>TERMS OF USE</comment>
   </data>
   <data name="Global.Aircraft" xml:space="preserve">
@@ -2428,5 +2430,92 @@ Slow down to avoid further violations.</comment>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
     <value>{0} {1} ist jetzt offline. Du wurdest mit {2} {3} verbunden.</value>
     <comment>{airport} {position} is now offline. You have been tuned to {2} {3}.</comment>
+  </data>
+  <data name="Commands.ElevatorTrimDown" xml:space="preserve">
+    <value>Höhenruder-Trimmung runter</value>
+  </data>
+  <data name="Commands.ElevatorTrimUp" xml:space="preserve">
+    <value>Höhenruder-Trimmung hoch</value>
+  </data>
+  <data name="Commands.ThrottleDown" xml:space="preserve">
+    <value>Schubhebel zurück</value>
+  </data>
+  <data name="Commands.ThrottleUp" xml:space="preserve">
+    <value>Schubhebel vor</value>
+  </data>
+  <data name="Error.NetworkErrorShort" xml:space="preserve">
+    <value>Netzwerk-Fehler</value>
+  </data>
+  <data name="FlightPlan.Add" xml:space="preserve">
+    <value>Hinzufügen</value>
+  </data>
+  <data name="FlightPlan.Replace" xml:space="preserve">
+    <value>Ersetzen</value>
+  </data>
+  <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
+    <value>Möchtest du deinen bestehenden Flugplan erweitern oder ersetzen?</value>
+  </data>
+  <data name="Global.RestorePurchases" xml:space="preserve">
+    <value>Käufe wiederherstellen</value>
+  </data>
+  <data name="Replay.DeleteAll" xml:space="preserve">
+    <value>Alle löschen</value>
+  </data>
+  <data name="Replay.DeleteAll.Message" xml:space="preserve">
+    <value>Alle Replay-Dateien löschen?</value>
+  </data>
+  <data name="Replay.DeleteSelected" xml:space="preserve">
+    <value>Ausgewählte löschen</value>
+  </data>
+  <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
+    <value>{0} gewählte Replay-Dateien löschen?</value>
+  </data>
+  <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
+    <value>Gewählte Replay-Datei löschen?</value>
+  </data>
+  <data name="Replay.DeleteUnstarred" xml:space="preserve">
+    <value>Nicht markierte löschen</value>
+  </data>
+  <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
+    <value>Alle nicht markierten Replay-Dateien löschen?</value>
+  </data>
+  <data name="Settings.General.ClearCache" xml:space="preserve">
+    <value>Cache leeren</value>
+  </data>
+  <data name="Settings.General.NoVoicesFound" xml:space="preserve">
+    <value>Keine Stimmen gefunden</value>
+  </data>
+  <data name="Settings.Option.FiveSeconds" xml:space="preserve">
+    <value>5 Sekunden</value>
+  </data>
+  <data name="Settings.Option.Never" xml:space="preserve">
+    <value>Nie</value>
+  </data>
+  <data name="Settings.Option.TenSeconds" xml:space="preserve">
+    <value>10 Sekunden</value>
+  </data>
+  <data name="Settings.Option.TwoSeconds" xml:space="preserve">
+    <value>2 Sekunden</value>
+  </data>
+  <data name="SystemStatus.Name" xml:space="preserve">
+    <value>System-Status</value>
+  </data>
+  <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
+    <value>Keine weiteren Informationen</value>
+  </data>
+  <data name="SystemsStatus.NoInfo" xml:space="preserve">
+    <value>Keine Information</value>
+  </data>
+  <data name="MapItemInfoControl.Information" xml:space="preserve">
+    <value>INFORMATION</value>
+  </data>
+  <data name="MapItemInfoControl.Class" xml:space="preserve">
+    <value>Klasse {0}</value>
+  </data>
+  <data name="WeightAndBalance.Unavailable" xml:space="preserve">
+    <value>Nicht verfügbar</value>
+  </data>
+  <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
+    <value>Aktiviere die Parkbremse auf dem Vorfeld um im Mehrspielermodus die Gewichtseinstellungen zu ändern.</value>
   </data>
 </root>
