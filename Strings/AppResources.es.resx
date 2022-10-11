@@ -2331,4 +2331,13 @@ Consulte el mapa para más información</value>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
     <value>Los servicios de rampa necesitan los Frenos de Parking ACTIVADOS, Luces Anticolisión ACTIVADAS, y motores APAGADOS.</value>
   </data>
+  <data name="IntroPage.Home" xml:space="preserve">
+    <value>Inicio</value>
+  </data>
+  <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
+    <value>Encontramos tu cuenta pero no hay una suscripción activa asociada con ella.</value>
+  </data>
+  <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
+    <value>Debes mantener una distancia segura con el avión delante</value>
+  </data>
 </root>
