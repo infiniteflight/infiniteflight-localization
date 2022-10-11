@@ -2669,4 +2669,8 @@ Check map for more information</comment>
     <value>We found your account but there is no active subscription associated to it.</value>
     <comment>We found your account but there is no active subscription associated to it.</comment>
   </data>
+  <data name="IntroPage.Home" xml:space="preserve">
+    <value>HOME</value>
+    <comment>Home</comment>
+  </data>
 </root>

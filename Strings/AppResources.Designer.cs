@@ -1951,6 +1951,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to HOME.
+        /// </summary>
+        internal static string IntroPage_Home {
+            get {
+                return ResourceManager.GetString("IntroPage.Home", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to LOGBOOK.
         /// </summary>
         internal static string IntroPage_Logbook {
@@ -2167,7 +2176,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We found your account but there is no active subscription..
+        ///   Looks up a localized string similar to We found your account but there is no active subscription associated to it..
         /// </summary>
         internal static string LoginSubscriptionPage_NoSubscriptionFound {
             get {
