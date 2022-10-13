@@ -2663,4 +2663,17 @@ Check map for more information</comment>
 其质量低于最新发布的机型</value>
     <comment>arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
+   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
+    <value>请与前机保持安全距离</value>
+    <comment>Please maintain a safe distance with the aircraft ahead</comment>
+  </data>
+  <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
+    <value>已找到你的账户，但该账户尚未绑定Pro订阅</value>
+    <comment>We found your account but there is no active subscription associated to it.</comment>
+  </data>
+  <data name="IntroPage.Home" xml:space="preserve">
+    <value>主页</value>
+    <comment>Home</comment>
+  </data>
+</root>
 </root>
