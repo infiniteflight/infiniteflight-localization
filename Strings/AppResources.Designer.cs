@@ -997,6 +997,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists (error code {0}).
+        /// </summary>
+        internal static string Error_CannotOpenBrowser {
+            get {
+                return ResourceManager.GetString("Error.CannotOpenBrowser", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server (error code {0}).
         /// </summary>
         internal static string Error_DataNotLoaded {

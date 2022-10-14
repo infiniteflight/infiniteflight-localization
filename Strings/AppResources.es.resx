@@ -854,7 +854,7 @@
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
-    <value>Reinicia tu dispositivo y reproduce el error. Vuelve a esta página y pule en "Mandar Log", gracias!</value>
+    <value>Reinicia tu dispositivo y reproduce el error. Vuelve a esta página y pulse en "Mandar Log", gracias!</value>
     <comment>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeWarning" xml:space="preserve">
@@ -2339,5 +2339,8 @@ Consulte el mapa para más información</value>
   </data>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
     <value>Debes mantener una distancia segura con el avión delante</value>
+  </data>
+  <data name="Error.CannotOpenBrowser" xml:space="preserve">
+    <value>No hay un navegador para abrir este enlace. Compruebe que haya un navegador instalado. (error {0})</value>
   </data>
 </root>
