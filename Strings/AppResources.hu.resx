@@ -378,23 +378,23 @@
     <comment>Landing Aid</comment>
   </data>
   <data name="Settings.General.Language.Subtitle" xml:space="preserve">
-    <value>Sets the language of the app's interface</value>
+    <value>Beállítja az alkalmazás felületének nyelvét</value>
     <comment>Sets the language of the app's interface</comment>
   </data>
   <data name="Settings.General.Language.Title" xml:space="preserve">
-    <value>Language</value>
+    <value>Nyelv</value>
     <comment>Language</comment>
   </data>
   <data name="Settings.General.ShowAirportNames.Subtitle" xml:space="preserve">
-    <value>Show names and distance of the airports while flying</value>
+    <value>Repülés közben a repülőterek nevének és távolságának megjelenítése</value>
     <comment>Show names and distance of the airports while flying</comment>
   </data>
   <data name="Settings.General.ShowAirportNames.Title" xml:space="preserve">
-    <value>Airport Names</value>
+    <value>Repülőterek Nevei</value>
     <comment>Airport Names</comment>
   </data>
   <data name="Settings.Graphics" xml:space="preserve">
-    <value>Graphics</value>
+    <value>Grafika</value>
     <comment>Graphics (tab title)</comment>
   </data>
   <data name="Settings.Multiplayer" xml:space="preserve">
@@ -402,159 +402,159 @@
     <comment>Multiplayer (tab title)</comment>
   </data>
   <data name="Settings.Option.High" xml:space="preserve">
-    <value>High</value>
+    <value>Magas</value>
     <comment>High (option)</comment>
   </data>
   <data name="Settings.Option.Kilograms" xml:space="preserve">
-    <value>Kilograms (Kg)</value>
+    <value>Kilogramm (Kg)</value>
     <comment>Kilograms (option)</comment>
   </data>
   <data name="Settings.Option.Low" xml:space="preserve">
-    <value>Low</value>
+    <value>Alacsony</value>
     <comment>Low (option)</comment>
   </data>
   <data name="Settings.Option.Medium" xml:space="preserve">
-    <value>Medium</value>
+    <value>Közepes</value>
     <comment>Medium (option)</comment>
   </data>
   <data name="Settings.Option.None" xml:space="preserve">
-    <value>None</value>
+    <value>Egy se</value>
     <comment>None (option)</comment>
   </data>
   <data name="Settings.Option.Off" xml:space="preserve">
-    <value>Off</value>
+    <value>Ki</value>
     <comment>Off (option)</comment>
   </data>
   <data name="Settings.Option.On" xml:space="preserve">
-    <value>On</value>
+    <value>Be</value>
     <comment>On (option)</comment>
   </data>
   <data name="Settings.Option.Pounds" xml:space="preserve">
-    <value>Pounds (lbs)</value>
+    <value>Font (lbs)</value>
     <comment>Pounds (option)</comment>
   </data>
   <data name="Settings.Option.Unlimited" xml:space="preserve">
-    <value>Unlimited</value>
+    <value>Korlátlan</value>
     <comment>Unlimited (option)</comment>
   </data>
   <data name="Settings.Option.VeryHigh" xml:space="preserve">
-    <value>Very High</value>
+    <value>Nagyon Magas</value>
     <comment>Very High (option)</comment>
   </data>
   <data name="Settings.SendCurrentLog" xml:space="preserve">
-    <value>Send Current Log</value>
+    <value>Aktuális Napló Küldése</value>
     <comment>Send Current Log (button text)</comment>
   </data>
   <data name="Settings.SendPreviousLog" xml:space="preserve">
-    <value>Send Previous Log</value>
+    <value>Előző napló küldése</value>
     <comment>Send Previous Log (button text)</comment>
   </data>
   <data name="Settings.Sounds" xml:space="preserve">
-    <value>Audio</value>
+    <value>Hang</value>
     <comment>Sounds (tab title)</comment>
   </data>
   <data name="Global.Confirm" xml:space="preserve">
-    <value>Confirm</value>
+    <value>Megerősít</value>
     <comment>Confirm</comment>
   </data>
   <data name="Global.Warning" xml:space="preserve">
-    <value>Warning</value>
+    <value>Figyelem</value>
     <comment>Warning</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Subtitle" xml:space="preserve">
-    <value>Automatically couple the ailerons and rudder (on the ground only)</value>
+    <value>A csűrők és a kormánylapát automatikus összekapcsolása (csak a földön)</value>
     <comment>Automatically couple the ailerons and rudder (on the ground only)</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Title" xml:space="preserve">
-    <value>Auto-Coordination</value>
+    <value>Automatikus Koordináció</value>
     <comment>Auto-Coordination</comment>
   </data>
   <data name="Settings.General.AutomaticEngineStart.Subtitle" xml:space="preserve">
-    <value>Always start with engine running</value>
+    <value>Mindig járó hajtóművel induljon</value>
     <comment>Always start with engine running</comment>
   </data>
   <data name="Settings.General.AutomaticEngineStart.Title" xml:space="preserve">
-    <value>Automatic Engine Start</value>
+    <value>Automatikus Hajtómű Indítás</value>
     <comment>Automatic Engine Start</comment>
   </data>
   <data name="Settings.General.AutomaticLowPower.Subtitle" xml:space="preserve">
-    <value>Enter low power during long flights to save battery</value>
+    <value>Az akkumulátor kímélése érdekében hosszú repülés közben bekapcsolja az alacsony fogyasztást</value>
     <comment>Enter low power during long flights to save battery</comment>
   </data>
   <data name="Settings.General.AutomaticLowPower.Title" xml:space="preserve">
-    <value>Enable Automatic Low Power</value>
+    <value>Automatikus Alacsony Fogyasztás Engedélyezése</value>
     <comment>Enable Automatic Low Power</comment>
   </data>
   <data name="Settings.General.ClearSceneryCache.Subtitle" xml:space="preserve">
-    <value>Clear scenery data cached on local storage</value>
+    <value>Törölje a helyi tárhelyen tárolt térképadatokat</value>
     <comment>Clear scenery data cached on local storage</comment>
   </data>
   <data name="Settings.General.ClearSceneryCache.Title" xml:space="preserve">
-    <value>Clear Scenery Cache</value>
+    <value>Térkép Gyorsítótár Törlése</value>
     <comment>Clear Scenery Cache</comment>
   </data>
   <data name="Settings.General.Connect.Subtitle" xml:space="preserve">
-    <value>Enable Infinite Flight Connect API System (Experimental)</value>
+    <value>Infinite Flight Connect API rendszer engedélyezése (Kísérleti)</value>
     <comment>Enable Infinite Flight Connect API System (Experimental)</comment>
   </data>
   <data name="Settings.General.Connect.Title" xml:space="preserve">
-    <value>Enable Infinite Flight Connect</value>
+    <value>Az Infinite Flight Connect engedélyezése</value>
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Sends Position/Attitude/Traffic data to local devices running ForeFlight</value>
+    <value>Helyzetet/Magasságot/Forgalmi Adatokat küld a ForeFlight-ot futtató helyi eszközöknek</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>Enable ForeFlight Link</value>
+    <value>ForeFlight Összekapcsolás Engedélyezése</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
-    <value>Hide the status when interface timeout occurs</value>
+    <value>Az alsó állapotsáv elrejtése, amikor interfész időtúllépés lép fel</value>
     <comment>Hide the status when interface timeout occurs</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Title" xml:space="preserve">
-    <value>Hide Status Bar</value>
+    <value>Állapotsáv Elrejtése</value>
     <comment>Hide Status Bar</comment>
   </data>
   <data name="Settings.General.LanguageChangeWarning" xml:space="preserve">
-    <value>Are you sure you want to change the app language?</value>
+    <value>Biztosan módosítani szeretnéd az alkalmazás nyelvét?</value>
     <comment>Are you sure you want to change the app language?</comment>
   </data>
   <data name="Settings.General.ScreenshotResolutionScale.Subtitle" xml:space="preserve">
-    <value>Resolution scale factor for screenshots</value>
+    <value>Képernyőképek felbontási tényezője</value>
     <comment>Resolution scale factor for screenshots</comment>
   </data>
   <data name="Settings.General.ScreenshotResolutionScale.Title" xml:space="preserve">
-    <value>Screenshot Resolution scale</value>
+    <value>Képernyőkép Felbontása</value>
     <comment>Screenshot Resolution scale</comment>
   </data>
   <data name="Settings.General.ShowPerformanceMetrics.Subtitle" xml:space="preserve">
-    <value>Shows metrics including the current frame rate</value>
+    <value>Mutatókat jelenít meg, beleértve az aktuális képkockasebességet</value>
     <comment>Shows metrics including the current frame rate</comment>
   </data>
   <data name="Settings.General.ShowPerformanceMetrics.Title" xml:space="preserve">
-    <value>Show Performance Metrics</value>
+    <value>Teljesítménymutatók megjelenítése</value>
     <comment>Show Performance Metrics</comment>
   </data>
   <data name="Settings.General.ShowTouches.Subtitle" xml:space="preserve">
-    <value>Useful when recording videos/tutorials</value>
+    <value>Hasznos videók/oktatóanyagok rögzítésekor</value>
     <comment>Useful when recording videos/tutorials</comment>
   </data>
   <data name="Settings.General.ShowTouches.Title" xml:space="preserve">
-    <value>Show Touches</value>
+    <value>Érintések Megjelenítése</value>
     <comment>Show Touches</comment>
   </data>
   <data name="Settings.General.WeightUnits.Subtitle" xml:space="preserve">
-    <value>Select weight units (Kg or Lbs)</value>
+    <value>Súlyegységek kiválasztása (kg vagy font)</value>
     <comment>Select weight units (Kg or Lbs)</comment>
   </data>
   <data name="Settings.General.WeightUnits.Title" xml:space="preserve">
-    <value>Weight Units</value>
+    <value>Súlyegységek</value>
     <comment>Weight Units</comment>
   </data>
   <data name="Settings.Graphics.AntiAliasing.Subtitle" xml:space="preserve">
-    <value>Not supported on all devices and can run very slow</value>
+    <value>Nem minden eszköz támogatja, és nagyon lassan futhat</value>
     <comment>Not supported on all devices and can run very slow</comment>
   </data>
   <data name="Settings.Graphics.AntiAliasing.Title" xml:space="preserve">
@@ -562,131 +562,131 @@
     <comment>Anti-Aliasing</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Subtitle" xml:space="preserve">
-    <value>Sets the highest allowed frame rate.</value>
+    <value>Beállítja a legnagyobb megengedett képkockasebességet.</value>
     <comment>Sets the highest allowed frame rate.</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Title" xml:space="preserve">
-    <value>Frame rate limit</value>
+    <value>Képkockasebesség-korlát</value>
     <comment>Frame rate limit</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
-    <value>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly. We recommend keeping this setting to 30fps.</value>
+    <value>Ha 60 képkocka/mp-re állítja a képkockasebességet, az eszköz túlmelegedését okozhatja. A sérülések elkerülése érdekében az eszköz lelassulhat, ami miatt az Infinite Flight lassan futhat. Javasoljuk, hogy ezt a beállítást tartsa 30 képkocka/mp-en.</value>
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
-    <value>Use the entire screen when playing.</value>
+    <value>Használd a teljes képernyőt játék közben.</value>
     <comment>Use the entire screen when playing.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Title" xml:space="preserve">
-    <value>Full Screen</value>
+    <value>Teljes Képernyő</value>
     <comment>Full Screen</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Subtitle" xml:space="preserve">
-    <value>Controls the density of objects at airports</value>
+    <value>Szabályozza az objektumok sűrűségét a repülőtereken</value>
     <comment>Controls the density of objects at airports</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Title" xml:space="preserve">
-    <value>3D Object Density</value>
+    <value>3D Bbjektum Sűrűsége</value>
     <comment>3D Object Density</comment>
   </data>
   <data name="Settings.Graphics.RenderingQuality.Subtitle" xml:space="preserve">
-    <value>Controls the quality of the rendering</value>
+    <value>Szabályozza a renderelés minőségét</value>
     <comment>Controls the quality of the rendering</comment>
   </data>
   <data name="Settings.Graphics.RenderingQuality.Title" xml:space="preserve">
-    <value>Rendering Quality</value>
+    <value>Renderelés Minősége</value>
     <comment>Rendering Quality</comment>
   </data>
   <data name="Settings.Graphics.RenderingResolution.Subtitle" xml:space="preserve">
-    <value>Controls the rendering resolution of aircraft and scenery</value>
+    <value>Szabályozza a repülőgépek és a tájak renderelési felbontását</value>
     <comment>Controls the rendering resolution of aircraft and scenery</comment>
   </data>
   <data name="Settings.Graphics.RenderingResolution.Title" xml:space="preserve">
-    <value>Rendering Resolution</value>
+    <value>Renderelési Felbontás</value>
     <comment>Rendering Resolution</comment>
   </data>
   <data name="Settings.Graphics.TextureQuality.Subtitle" xml:space="preserve">
-    <value>Controls the quality of textures</value>
+    <value>Szabályozza a textúrák minőségét</value>
     <comment>Controls the quality of textures</comment>
   </data>
   <data name="Settings.Graphics.TextureQuality.Title" xml:space="preserve">
-    <value>Texture Quality</value>
+    <value>Textúra Minősége</value>
     <comment>Texture Quality</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Subtitle" xml:space="preserve">
-    <value>Select voice for your ATC communications</value>
+    <value>Válassz hangot az ATC kommunikációhoz</value>
     <comment>Select voice for your ATC communications</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Title" xml:space="preserve">
-    <value>Pilot Voice</value>
+    <value>Pilóta Hang</value>
     <comment>Pilot Voice</comment>
   </data>
   <data name="Settings.Multiplayer.DefaultVoice.Subtitle" xml:space="preserve">
-    <value>Select the default voice for other pilots/ATC</value>
+    <value>Válaszd ki a többi pilóta/ATC alapértelmezett hangját</value>
     <comment>Select the default voice for other pilots/ATC</comment>
   </data>
   <data name="Settings.Multiplayer.DefaultVoice.Title" xml:space="preserve">
-    <value>Default Voice</value>
+    <value>Alapértelmezett Hang</value>
     <comment>Default Voice</comment>
   </data>
   <data name="Settings.Multiplayer.EnableAirplaneDownloadsOverCellular.Subtitle" xml:space="preserve">
-    <value>Download airplanes automatically even when on a Cellular Network.</value>
+    <value>Repülőgépek automatikus letöltése még akkor is, ha mobilhálózaton van.</value>
     <comment>Download airplanes automatically even when on a Cellular Network</comment>
   </data>
   <data name="Settings.Multiplayer.EnableAirplaneDownloadsOverCellular.Title" xml:space="preserve">
-    <value>Automatic Airplane Downloads Over Cellular Data</value>
+    <value>Automatikus Repülőgép Letöltés Mobilhálózaton Keresztül</value>
     <comment>Automatic Airplane Downloads Over Cellular Data</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneDots.Subtitle" xml:space="preserve">
-    <value>Hides the dots of other players in multiplayer</value>
+    <value>Többjátékos módban elrejti a többi játékos pontjait</value>
     <comment>Hides the dots of other players in multiplayer</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneDots.Title" xml:space="preserve">
-    <value>Hide Airplane Dots</value>
+    <value>Repülőgépek Pontjainak Elrejtése</value>
     <comment>Hide Airplane Dots</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneNames.Subtitle" xml:space="preserve">
-    <value>Hides the name of other players in multiplayer</value>
+    <value>Elrejti a többi játékos nevét a többjátékos módban</value>
     <comment>Hides the name of other players in multiplayer</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneNames.Title" xml:space="preserve">
-    <value>Hide Airplane Names</value>
+    <value>Repülőgépnevek Elrejtése</value>
     <comment>Hide Airplane Names</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Subtitle" xml:space="preserve">
-    <value>Controls how many airplanes are shown in multiplayer.</value>
+    <value>Azt szabályozza, hogy hány repülőgép jelenjen meg többjátékos módban.</value>
     <comment>Controls how many airplanes are shown in multiplayer.</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Title" xml:space="preserve">
-    <value>Airplane Count</value>
+    <value>Repülőgépek Száma</value>
     <comment>Airplane Count</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensityNoneWarning" xml:space="preserve">
-    <value>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</value>
+    <value>Ha a Repülőgépek Számát Egy se értékre állítja, a többi repülőgép nem jelenik meg online repülés közben, és a Te felelősséged a többi repülőgéptől való távolság fenntartása.</value>
     <comment>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Subtitle" xml:space="preserve">
-    <value>Display your username in-flight. Uncheck to remain anonymous</value>
+    <value>Jelenítse meg felhasználónevét repülés közben. Töröld a jelölést, hogy névtelen maradj</value>
     <comment>Display your username in-flight. Uncheck to remain anonymous</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Title" xml:space="preserve">
-    <value>Show Username In-Flight</value>
+    <value>Felhasználónév Megjelenítése Repülés Közben</value>
     <comment>Show Username In-Flight</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Subtitle" xml:space="preserve">
-    <value>Changes the pitch of your selected voice</value>
+    <value>Módosítja a kiválasztott hang magasságát</value>
     <comment>Changes the pitch of your selected voice</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Title" xml:space="preserve">
-    <value>Voice Pitch</value>
+    <value>Hang Magassága</value>
     <comment>Voice Pitch</comment>
   </data>
   <data name="Commands.AileronTrim" xml:space="preserve">
-    <value>Aileron Trim</value>
+    <value>Csűrőkormány</value>
     <comment>Aileron Trim</comment>
   </data>
   <data name="Commands.AileronTrim.Description" xml:space="preserve">
-    <value>Controls the Aileron Trim</value>
+    <value>Vezérli a Csűrőkormányt</value>
     <comment>Controls the Aileron Trim</comment>
   </data>
   <data name="Commands.BeaconLights" xml:space="preserve">
