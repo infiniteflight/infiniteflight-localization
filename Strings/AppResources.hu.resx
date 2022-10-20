@@ -690,15 +690,15 @@
     <comment>Controls the Aileron Trim</comment>
   </data>
   <data name="Commands.BeaconLights" xml:space="preserve">
-    <value>Beacon Lights</value>
+    <value>Beacon Fények</value>
     <comment>Beacon Lights</comment>
   </data>
   <data name="Commands.Brakes" xml:space="preserve">
-    <value>Brakes</value>
+    <value>Fékek</value>
     <comment>Brakes</comment>
   </data>
   <data name="Commands.ElevatorTrim" xml:space="preserve">
-    <value>Elevator Trim</value>
+    <value>Elevator Trim?</value>
     <comment>Elevator Trim</comment>
   </data>
   <data name="Commands.ElevatorTrim.Description" xml:space="preserve">
@@ -706,115 +706,115 @@
     <comment>Controls the Elevator Trim</comment>
   </data>
   <data name="Commands.FlapsDownFull" xml:space="preserve">
-    <value>Flaps Down (Full)</value>
+    <value>Fékszárnyak Le (Teljesen)</value>
     <comment>Flaps Down (Full)</comment>
   </data>
   <data name="Commands.FlapsDownStep" xml:space="preserve">
-    <value>Flaps Down (1 Step)</value>
+    <value>Fékszárnyak Le (1 Lépés)</value>
     <comment>Flaps Down (1 Step)</comment>
   </data>
   <data name="Commands.FlapsUpFull" xml:space="preserve">
-    <value>Flaps Up (Full)</value>
+    <value>Fékszárny Fel (Teljesen)</value>
     <comment>Flaps Up (Full)</comment>
   </data>
   <data name="Commands.FlapsUpStep" xml:space="preserve">
-    <value>Flaps Up (1 Step)</value>
+    <value>Fékszárny Fel (1 Lépés)</value>
     <comment>Flaps Up (1 Step)</comment>
   </data>
   <data name="Commands.FuelDump" xml:space="preserve">
-    <value>Fuel Dump</value>
+    <value>Üzemanyag Kiborítás</value>
     <comment>Fuel Dump</comment>
   </data>
   <data name="Commands.Group.Airplane" xml:space="preserve">
-    <value>Airplane</value>
+    <value>Repülőgép</value>
     <comment>Airplane</comment>
   </data>
   <data name="Commands.Group.Cameras" xml:space="preserve">
-    <value>Cameras</value>
+    <value>Kamerák</value>
     <comment>Cameras</comment>
   </data>
   <data name="Commands.LandingGear" xml:space="preserve">
-    <value>Landing Gear</value>
+    <value>Futómű</value>
     <comment>Landing Gear</comment>
   </data>
   <data name="Commands.LandingLights" xml:space="preserve">
-    <value>Landing Lights</value>
+    <value>Leszálló Fényszórók</value>
     <comment>Landing Lights</comment>
   </data>
   <data name="Commands.Mixture" xml:space="preserve">
-    <value>Mixture</value>
+    <value>Keverék</value>
     <comment>Mixture</comment>
   </data>
   <data name="Commands.Mixture.Description" xml:space="preserve">
-    <value>Controls the Mixture</value>
+    <value>Keverék szabályzása</value>
     <comment>Controls the Mixture</comment>
   </data>
   <data name="Commands.NavLights" xml:space="preserve">
-    <value>NavLights</value>
+    <value>Navigációs Lámpák ?</value>
     <comment>NavLights</comment>
   </data>
   <data name="Commands.ParkingBrakes" xml:space="preserve">
-    <value>Parking Brakes</value>
+    <value>Rögzítőfékek</value>
     <comment>Parking Brakes</comment>
   </data>
   <data name="Commands.PitchAxis" xml:space="preserve">
-    <value>Pitch</value>
+    <value>Meredekség</value>
     <comment>Pitch</comment>
   </data>
   <data name="Commands.PitchAxis.Description" xml:space="preserve">
-    <value>Controls the horizontal stabilizer</value>
+    <value>A vízszintes stabilizátort irányítja</value>
     <comment>Controls the horizontal stabilizer</comment>
   </data>
   <data name="Commands.Propeller" xml:space="preserve">
-    <value>Propeller</value>
+    <value>Légcsavar</value>
     <comment>Propeller</comment>
   </data>
   <data name="Commands.Propeller.Description" xml:space="preserve">
-    <value>Controls the Propeller</value>
+    <value>Légcsavar szabályzása</value>
     <comment>Controls the Propeller</comment>
   </data>
   <data name="Commands.Pushback" xml:space="preserve">
-    <value>Pushback</value>
+    <value>Pushback ?</value>
     <comment>Pushback</comment>
   </data>
   <data name="Commands.ReverseThrust" xml:space="preserve">
-    <value>Reverse Thurst</value>
+    <value>Fordított tolóerő ?</value>
     <comment>Reverse Thrust</comment>
   </data>
   <data name="Commands.RollAxis" xml:space="preserve">
-    <value>Roll</value>
+    <value>Gurulás</value>
     <comment>Roll</comment>
   </data>
   <data name="Commands.RollAxis.Description" xml:space="preserve">
-    <value>Controls the ailerons of the airplane</value>
+    <value>A repülőgép csűrőinek szabalyzása</value>
     <comment>Controls the ailerons of the airplane</comment>
   </data>
   <data name="Commands.RudderTrim" xml:space="preserve">
-    <value>Rudder Trim</value>
+    <value>Rudder Trim ?</value>
     <comment>Rudder Trim</comment>
   </data>
   <data name="Commands.RudderTrim.Description" xml:space="preserve">
-    <value>Controls the Rudder Trim</value>
+    <value>Controls the Rudder Trim ?</value>
     <comment>Controls the Rudder Trim</comment>
   </data>
   <data name="Commands.StrobeLights" xml:space="preserve">
-    <value>Strobe Lights</value>
+    <value>Villogó Fények ?</value>
     <comment>Strobe Lights</comment>
   </data>
   <data name="Commands.TaxiLights" xml:space="preserve">
-    <value>Taxi Lights</value>
+    <value>Guruló Fények</value>
     <comment>Taxi Lights</comment>
   </data>
   <data name="Commands.Throttle" xml:space="preserve">
-    <value>Throttle</value>
+    <value>Gázkar</value>
     <comment>Throttle</comment>
   </data>
   <data name="Commands.Throttle.Description" xml:space="preserve">
-    <value>Controls the airplane Throttle(s)</value>
+    <value>Gázkar(ok) irányítása</value>
     <comment>Controls the airplane Throttle(s)</comment>
   </data>
   <data name="Commands.ToggleSpoilers" xml:space="preserve">
-    <value>Toggle Spoilers</value>
+    <value>Spoilerek Állítása ?</value>
     <comment>Toggle Spoilers</comment>
   </data>
   <data name="Commands.YawAxis.Description" xml:space="preserve">
@@ -822,7 +822,7 @@
     <comment>Controls the vertical stabilizer/rudder</comment>
   </data>
   <data name="Commands.YaxAxis" xml:space="preserve">
-    <value>Yaw</value>
+    <value>Yaw ?</value>
     <comment>Yaw</comment>
   </data>
   <data name="Global.InfiniteFlightPro" xml:space="preserve">
@@ -830,87 +830,87 @@
     <comment>Infinite Flight Pro</comment>
   </data>
   <data name="Global.InfiniteFlightPro.1Month" xml:space="preserve">
-    <value>Infinite Flight Pro (1 month)</value>
+    <value>Infinite Flight Pro (1 hónap)</value>
     <comment>Infinite Flight Pro (1 month)</comment>
   </data>
   <data name="Global.InfiniteFlightPro.1Year" xml:space="preserve">
-    <value>Infinite Flight Pro (1 year)</value>
+    <value>Infinite Flight Pro (1 év)</value>
     <comment>Infinite Flight Pro (1 year)</comment>
   </data>
   <data name="Global.InfiniteFlightPro.6Months" xml:space="preserve">
-    <value>Infinite Flight Pro (6 months)</value>
+    <value>Infinite Flight Pro (6 hónap)</value>
     <comment>Infinite Flight Pro (6 months)</comment>
   </data>
   <data name="Global.Message" xml:space="preserve">
-    <value>MESSAGE</value>
+    <value>ÜZENET</value>
     <comment>MESSAGE</comment>
   </data>
   <data name="Settings.Account.Callsign.Subtitle" xml:space="preserve">
-    <value>Used for communication with controllers and other pilots</value>
+    <value>Az irányítókkal és más pilótákkal való kommunikációra használják</value>
     <comment>Used for communication with controllers and other pilots</comment>
   </data>
   <data name="Settings.Account.Callsign.Title" xml:space="preserve">
-    <value>Callsign</value>
+    <value>Hívójel ?</value>
     <comment>Callsign</comment>
   </data>
   <data name="Settings.Account.ConnectedMessage" xml:space="preserve">
-    <value>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</value>
+    <value>Csatlakoztatva vagy {0} az Infinite Flight-tal. Szét szeretnéd kapcsolni ezt a profilt?</value>
     <comment>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</comment>
   </data>
   <data name="Settings.Account.DiscourseConnect" xml:space="preserve">
-    <value>Connect</value>
+    <value>Csatlakozás</value>
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
-    <value>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</value>
+    <value>Összekapcsoltad az Infinite Flight Community profilod. Jelentkezz be többi eszközödön, hogy fiókod kapcsolatban maradjon</value>
     <comment>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</comment>
   </data>
   <data name="Settings.Account.Forum.Title" xml:space="preserve">
-    <value>Community Forum Account</value>
+    <value>Közösségi Fórum Fiók</value>
     <comment>Community Forum Account</comment>
   </data>
   <data name="Settings.Account.Forum.UnlinkedAccount" xml:space="preserve">
-    <value>Connect an Infinite Flight Community profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms.</value>
+    <value>Csatlakoztass egy Infinite Flight Community profilt, hogy repülés közben is megjelenjen a felhasználóneved. Ez a kapcsolat lehetővé teszi a bejelentkezést is, ha eszközplatformot vált.</value>
     <comment>Connect an Infinite Flight Community profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription" xml:space="preserve">
-    <value>Manage Subscription</value>
+    <value>Előfizetés Kezelése</value>
     <comment>Manage Subscription</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Android" xml:space="preserve">
-    <value>Your subscription was purchased on a different platform and can't be managed from this device.</value>
+    <value>Előfizetésed egy másik platformon vásároltad, és nem kezelhető erről az eszközről.</value>
     <comment>Your subscription was purchased on a different platform and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Error" xml:space="preserve">
-    <value>Can't connect to the store. You can manage your subscription by going to the store's subscriptions page.</value>
+    <value>Nem lehet csatlakozni az áruházhoz. Az előfizetést az áruház előfizetések oldalán kezelheted.</value>
     <comment>Can't connect to the store. You can manage your subscription by going to the store's subscriptions page.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.iOS" xml:space="preserve">
-    <value>Your subscription was purchased on iOS and can't be managed from this device.</value>
+    <value>Előfizetésed iOS rendszeren vásároltad, és nem kezelhető erről az eszközről.</value>
     <comment>Your subscription was purchased on iOS and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.NotSubscribed" xml:space="preserve">
-    <value>You are not subscribed to Infinite Flight Pro</value>
+    <value>Nem fizettél elő az Infinite Flight Pro szolgáltatásra</value>
     <comment>You are not subscribed to Infinite Flight Pro</comment>
   </data>
   <data name="Settings.Account.Stats.Subtitle" xml:space="preserve">
-    <value>See your grade level and violation history. These stats determine multiplayer server level eligibility</value>
+    <value>Tekintsd meg szintjét és szabálysértési előzményeid. Ezek a statisztikák határozzák meg a többjátékos szerver szintű jogosultságod</value>
     <comment>See your grade level and violation history. These stats determine multiplayer server level eligibility</comment>
   </data>
   <data name="Settings.Account.Stats.Title" xml:space="preserve">
-    <value>Account Statistics</value>
+    <value>Fiók Statisztika</value>
     <comment>Account Statistics</comment>
   </data>
   <data name="Settings.Account.StatsError" xml:space="preserve">
-    <value>There was a problem getting your stats. Try again or contact support.</value>
+    <value>Hiba történt a statisztikák lekérésével. Próbáld újra, vagy lépj kapcsolatba az ügyfélszolgálattal.</value>
     <comment>There was a problem getting your stats. Try again or contact support.</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithAutoRenew" xml:space="preserve">
-    <value>You are subscribed to {0} which renews on {1}</value>
+    <value>Előfizettél a(z) {0} szolgáltatásra, amely ekkor újul meg: {1}</value>
     <comment>You are subscribed to {0} which renews on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithoutAutoRenew" xml:space="preserve">
-    <value>You are subscribed to {0} which expires on {1}</value>
+    <value>Előfizettél a(z) {0} szolgáltatásra, amely ekkor jár le: {1}</value>
     <comment>You are subscribed to {0} which expires on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
@@ -954,99 +954,99 @@
     <comment>Null Zone / Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Axes.Reverse" xml:space="preserve">
-    <value>Rev.</value>
+    <value>Fordított</value>
     <comment>Rev.</comment>
   </data>
   <data name="Settings.Controls.Axes.Sensitivity" xml:space="preserve">
-    <value>Sensitivity</value>
+    <value>Érzékenység</value>
     <comment>Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Buttons" xml:space="preserve">
-    <value>Buttons</value>
+    <value>Gombok</value>
     <comment>Buttons</comment>
   </data>
   <data name="Settings.Controls.Commands" xml:space="preserve">
-    <value>Commands</value>
+    <value>Parancsok</value>
     <comment>Commands</comment>
   </data>
   <data name="Settings.Controls.Commands.Alternate" xml:space="preserve">
-    <value>Alternate</value>
+    <value>Alternatív</value>
     <comment>Alternate</comment>
   </data>
   <data name="Settings.Controls.MoveAxisToAssign" xml:space="preserve">
-    <value>Move Axis on Device to Assign</value>
+    <value>Move Axis on Device to Assign?</value>
     <comment>Move Axis on Device to Assign</comment>
   </data>
   <data name="Settings.Controls.RestoreDefaults" xml:space="preserve">
-    <value>Restore Defaults</value>
+    <value>Visszaállítás alapértelmezettre</value>
     <comment>Restore Defaults</comment>
   </data>
   <data name="Settings.Controls.SetupGuide" xml:space="preserve">
-    <value>Setup Guide</value>
+    <value>Beállítási útmutató</value>
     <comment>Setup Guide</comment>
   </data>
   <data name="Settings.Controls.ShowDevices" xml:space="preserve">
-    <value>Show Devices</value>
+    <value>Eszközök megjelenítése</value>
     <comment>Show Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.DeviceSingular" xml:space="preserve">
-    <value>Device</value>
+    <value>Eszköz</value>
     <comment>Device</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.DevicesPlural" xml:space="preserve">
-    <value>Devices</value>
+    <value>Eszközök</value>
     <comment>Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.NoDevices" xml:space="preserve">
-    <value>No devices are available. Check the Setup Guide for help</value>
+    <value>Nincs elérhető eszköz. Segítségért tekintse meg a beállítási útmutatót</value>
     <comment>No devices are available. Check the Setup Guide for help</comment>
   </data>
   <data name="Settings.Controls.Unassigned" xml:space="preserve">
-    <value>Unassigned</value>
+    <value>Nincs hozzárendelt</value>
     <comment>Unassigned</comment>
   </data>
   <data name="Settings.Controls.UseNetworkJoystick" xml:space="preserve">
-    <value>Use Network Joystick</value>
+    <value>Use Network Joystick?</value>
     <comment>Use Network Joystick</comment>
   </data>
   <data name="Settings.Sounds.ATC" xml:space="preserve">
-    <value>ATC Volume</value>
+    <value>ATC hangereje</value>
     <comment>ATC Volume</comment>
   </data>
   <data name="Settings.Sounds.SFX" xml:space="preserve">
-    <value>SFX Volume</value>
+    <value>Hangeffektusok hangereje</value>
     <comment>SFX Volume</comment>
   </data>
   <data name="Commands.AutoStartEngines" xml:space="preserve">
-    <value>Auto Start Engine(s)</value>
+    <value>Auto Start Engine(s)?</value>
     <comment>Auto Start Engine(s)</comment>
   </data>
   <data name="Commands.CockpitCamera" xml:space="preserve">
-    <value>Cockpit Camera</value>
+    <value>Pilótafülke Kamera</value>
     <comment>Cockpit Camera</comment>
   </data>
   <data name="Commands.FlyByCamera" xml:space="preserve">
-    <value>Fly By Camera</value>
+    <value>Fly By Camera?</value>
     <comment>Fly By Camera</comment>
   </data>
   <data name="Commands.FollowCamera" xml:space="preserve">
-    <value>Follow Camera</value>
+    <value>Követő Kamera</value>
     <comment>Follow Camera</comment>
   </data>
   <data name="Commands.Group.Autopilot" xml:space="preserve">
-    <value>Autopilot</value>
+    <value>Robotpilóta</value>
     <comment>Autopilot</comment>
   </data>
   <data name="Commands.Group.ControlSurfaces" xml:space="preserve">
-    <value>Control Surfaces</value>
+    <value>Kormányfelületek</value>
     <comment>Control Surfaces</comment>
   </data>
   <data name="Commands.Group.Engines" xml:space="preserve">
-    <value>Engines</value>
+    <value>Motorok</value>
     <comment>Engines</comment>
   </data>
   <data name="Commands.Group.General" xml:space="preserve">
-    <value>General</value>
+    <value>Általános</value>
     <comment>General</comment>
   </data>
   <data name="Commands.Group.HUD" xml:space="preserve">
@@ -1054,59 +1054,59 @@
     <comment>HUD</comment>
   </data>
   <data name="Commands.Live" xml:space="preserve">
-    <value>Multiplayer</value>
+    <value>Többjátékos</value>
     <comment>Multiplayer</comment>
   </data>
   <data name="Commands.MoveCameraDown" xml:space="preserve">
-    <value>Move Camera Down</value>
+    <value>Kamera lefelé mozgatása</value>
     <comment>Move Camera Down</comment>
   </data>
   <data name="Commands.MoveCameraHorizontal" xml:space="preserve">
-    <value>Move Camera Left/Right</value>
+    <value>Kamera vízszintes mozgatása</value>
     <comment>Move Camera Left/Right</comment>
   </data>
   <data name="Commands.MoveCameraLeft" xml:space="preserve">
-    <value>Move Camera Left</value>
+    <value>Kamera balra mozgatása</value>
     <comment>Move Camera Left</comment>
   </data>
   <data name="Commands.MoveCameraRight" xml:space="preserve">
-    <value>Move Camera Right</value>
+    <value>Kamera jobbra mozgatása</value>
     <comment>Move Camera Right</comment>
   </data>
   <data name="Commands.MoveCameraUp" xml:space="preserve">
-    <value>Move Camera Up</value>
+    <value>Kamera felfelé mozgatása</value>
     <comment>Move Camera Up</comment>
   </data>
   <data name="Commands.MoveCameraVertical" xml:space="preserve">
-    <value>Move Camera Up/Down</value>
+    <value>Kamera függőleges mozgatása</value>
     <comment>Move Camera Up/Down</comment>
   </data>
   <data name="Commands.NextCamera" xml:space="preserve">
-    <value>Next Camera</value>
+    <value>Következő kamera</value>
     <comment>Next Camera</comment>
   </data>
   <data name="Commands.OnboardCamera" xml:space="preserve">
-    <value>Onboard Camera</value>
+    <value>Fedélzeti kamera</value>
     <comment>Onboard Camera</comment>
   </data>
   <data name="Commands.PreviousCamera" xml:space="preserve">
-    <value>Previous Camera</value>
+    <value>Előző kamera</value>
     <comment>Previous Camera</comment>
   </data>
   <data name="Commands.ResetCamera" xml:space="preserve">
-    <value>Reset Camera</value>
+    <value>Kamera Visszaállítása</value>
     <comment>Reset Camera</comment>
   </data>
   <data name="Commands.SelectATCEntry" xml:space="preserve">
-    <value>Select ATC Entry {0}</value>
+    <value>Select ATC Entry {0}?</value>
     <comment>Select ATC Entry {number}</comment>
   </data>
   <data name="Commands.StartEngine" xml:space="preserve">
-    <value>Start Specified Engine</value>
+    <value>Megadott motor elindítása</value>
     <comment>Start Specified Engine</comment>
   </data>
   <data name="Commands.StopEngine" xml:space="preserve">
-    <value>Stop Specified Engine</value>
+    <value>Megadott motor leállítása</value>
     <comment>Stop Specified Engine</comment>
   </data>
   <data name="Commands.ToggleATCWindow" xml:space="preserve">
@@ -2560,51 +2560,51 @@ Slow down to avoid further violations.</comment>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>The selected airport is not available (error code {0})</value>
+    <value>A kiválasztott repülőtér nem elérhető (hibakód: {0})</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>You have been logged out and need to log in again manually (error code {0})</value>
+    <value>Kijelentkeztél, és manuálisan újra be kell jelentkezned (hibakód: {0})</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>This feature is not supported (error code {0})</value>
+    <value>Ez a funkció nem támogatott (hibakód: {0})</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>The selected server is not available (error code {0})</value>
+    <value>A kiválasztott szerver nem elérhető (hibakód: {0})</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>You are not assigned to this airport. Please contact a reviewer or moderator (error code {0})</value>
+    <value>Nem vagy kijelölve erre a repülőtérre. Kérjük, fordulj egy ért ékelőhöz vagy moderátorhoz (hibakód: {0})</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
-    <value>You do not have permission to upload changes to this airport.
+    <value>Nincs engedélyed változtatások feltöltésére erre a repülőtérre.
 
-Please ask to be assigned via the Scenery Editing forum first.</value>
+Kérjük, először a Reptér Szerkesztési fórumon keresztül kérd hozzárendelésed.</value>
     <comment>You do not have permission to upload changes to this airport.
 
 Please ask to be assigned via the Scenery Editing forum first</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
-    <value>Set parking brake and turn off all engines to dock jet bridges</value>
+    <value>Húzd be a kéziféked, és kapcsold ki a motorokat hogy a beszálló hídhoz parkolj</value>
     <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
-    <value>No jet bridges available nearby</value>
+    <value>Nincs elérhető beszálló híd a közelben</value>
     <comment>No jet bridges available nearby</comment>
   </data>
   <data name="MapItemInfoControl.Contributor" xml:space="preserve">
-    <value>Contributor</value>
+    <value>Közreműködő</value>
     <comment>Contributor</comment>
   </data>
   <data name="MapItemInfoControl.Contributors" xml:space="preserve">
-    <value>Contributors</value>
+    <value>Közreműködők</value>
     <comment>Contributors</comment>
   </data>
   <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
-    <value>Entered an Active TFR at or near {0}
+    <value>Aktív TFR zónába léptél itt vagy a közelében: {0}
 {1}
 Check map for more information</value>
     <comment>Entered an Active TFR at or near {ICAO}
@@ -2612,69 +2612,71 @@ Check map for more information</value>
 Check map for more information</comment>
   </data>
   <data name="UserAccountControl.Discord" xml:space="preserve">
-    <value>Discord Account</value>
+    <value>Discord Fiók</value>
     <comment>Discord Account</comment>
   </data>
   <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
-    <value>Your Discord account has been linked and you have access to our Pro-only Discord server</value>
+    <value>A Discord fiókod csatlakoztatva, ezért hozzáférésed a Pro-only Discord szerverhez</value>
     <comment>Your Discord account has been linked and you have access to our Pro-only Discord server</comment>
   </data>
   <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
-    <value>Link a Discord account to gain exclusive access to our Pro-only server</value>
+    <value>Csatlakoztass egy Discord fiókot, hogy elérd a Pro-only szervert</value>
     <comment>Link a Discord account to gain exclusive access to our Pro-only server</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
-    <value>Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?</value>
+    <value>A Discord fiókod csatlakoztatva. Csatlakozol az Infinite Flight Discord szerverhez?</value>
     <comment>Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
-    <value>Not Now</value>
+    <value>Ne most</value>
     <comment>Not Now</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
-    <value>Account Linked</value>
+    <value>Fiók összekötve</value>
     <comment>Account Linked</comment>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
-    <value>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</value>
+    <value>Discord-nak telepítve kell lennie az App Store-ból hogy csatlakozzon az Infinite Flight szerverhez. Telepíted?</value>
     <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
-    <value>Discord Not Installed</value>
+    <value>Discord nincs telepítve</value>
     <comment>Discord Not Installed</comment>
   </data>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
-    <value>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</value>
+    <value>Földi szolgáltatásoknál Rögzítőfékek BE, Jeladó fények KI, és Motorok KI.</value>
     <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
-    <value>Show legacy airplanes that don't reflect the latest evolutions (high quality virtual cockpits, instruments, etc...)</value>
+    <value>Olyan régebbi repülőgépek megjelenítése, amelyek nem tükrözik a legújabb fejlesztéseket (jó minőségű virtuális pilótafülke, műszerek stb.)</value>
+  <comment>Show legacy airplanes that don't reflect the latest evolutions (high quality virtual cockpits, instruments, etc...)</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
-    <value>Legacy aircraft are extras from older versions of Infinite Flight and are not of the same quality. Show them anyway?</value>
+    <value>A régebbi repülőgépek az Infinite Flight régebbi verzióinak extrái, és nem ugyanolyan minőségűek. Mindenképpen megnézed?</value>
+    <comment>Legacy aircraft are extras from older versions of Infinite Flight and are not of the same quality. Show them anyway?</comment>
   </data>
   <data name="Settings.General.Legacy" xml:space="preserve">
-    <value>LEGACY</value>
+    <value>Régi</value>
     <comment>Legacy</comment>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
-    <value>Warning: This aircraft is an extra included from an old version and is not of the same quality as our newer aircraft</value>
+    <value>Figyelem: Ez a repülőgép egy extra a régi verzióból és nem olyan minőségű mint az új repülőgépek</value>
     <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
-    <value>Please maintain a safe distance with the aircraft ahead</value>
+    <value>Tarts biztonságos távolságot az előtted lévő repülőtől</value>
     <comment>Please maintain a safe distance with the aircraft ahead</comment>
   </data>
   <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
-    <value>We found your account but there is no active subscription associated to it.</value>
+    <value>A fiókod létezik, de nincs aktív előfizetésed.</value>
     <comment>We found your account but there is no active subscription associated to it.</comment>
   </data>
   <data name="IntroPage.Home" xml:space="preserve">
-    <value>HOME</value>
+    <value>Főoldal</value>
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists (error code {0})</value>
+    <value>Nem érhető el böngésző a hivatkozás megnyitásához – győződj meg róla, hogy telepítetted a böngészőt. Ha a probléma továbbra is fennáll, fordulj az ügyfélszolgálathoz (hibakód: {0})</value>
     <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
   </data>
 </root>
