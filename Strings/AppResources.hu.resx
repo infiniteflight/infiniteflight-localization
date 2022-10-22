@@ -914,43 +914,43 @@
     <comment>You are subscribed to {0} which expires on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
-    <value>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</value>
+    <value>Az előfizetés megújítása nem sikerült. Koppints az Előfizetés Kezelése elemre a fizetési adatok ellenőrzéséhez {0} előtt </value>
     <comment>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</comment>
   </data>
   <data name="Settings.Account.Subscription.Title" xml:space="preserve">
-    <value>Your Infinite Flight Pro Subscription</value>
+    <value>A Te Infinite Flight Pro Előfizetésed</value>
     <comment>Your Infinite Flight Pro Subscription</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Subtitle" xml:space="preserve">
-    <value>Use a different Infinite Flight account to access a subscription bought on another device</value>
+    <value>Használj másik Infinite Flight fiókot egy másik eszközön vásárolt előfizetés eléréséhez</value>
     <comment>Use a different Infinite Flight account to access a subscription bought on another device</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Title" xml:space="preserve">
-    <value>Switch Account</value>
+    <value>Fiók váltás</value>
     <comment>Switch Account</comment>
   </data>
   <data name="Settings.Account.Unlink" xml:space="preserve">
-    <value>Unlink</value>
+    <value>Szétkapcsolás</value>
     <comment>Unlink</comment>
   </data>
   <data name="Settings.Account.ViewStats" xml:space="preserve">
-    <value>View Stats</value>
+    <value>Statisztikák</value>
     <comment>View Stats</comment>
   </data>
   <data name="Settings.Controls.Axes" xml:space="preserve">
-    <value>Axes</value>
+    <value>Tengelyek ?</value>
     <comment>Axes</comment>
   </data>
   <data name="Settings.Controls.Axes.AxesKey" xml:space="preserve">
-    <value>Key/Axis</value>
+    <value>Kulcs/Tengely ?</value>
     <comment>Key/Axis</comment>
   </data>
   <data name="Settings.Controls.Axes.CommandName" xml:space="preserve">
-    <value>Command Name</value>
+    <value>Parancsnév</value>
     <comment>Command Name</comment>
   </data>
   <data name="Settings.Controls.Axes.NullZone" xml:space="preserve">
-    <value>Null Zone / Sensitivity</value>
+    <value>Null Zóna / Érzékenység</value>
     <comment>Null Zone / Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Axes.Reverse" xml:space="preserve">
@@ -974,7 +974,7 @@
     <comment>Alternate</comment>
   </data>
   <data name="Settings.Controls.MoveAxisToAssign" xml:space="preserve">
-    <value>Move Axis on Device to Assign?</value>
+    <value>Mozgasd a tengelyt az eszközön a hozzárendeléshez ?</value>
     <comment>Move Axis on Device to Assign</comment>
   </data>
   <data name="Settings.Controls.RestoreDefaults" xml:space="preserve">
@@ -982,7 +982,7 @@
     <comment>Restore Defaults</comment>
   </data>
   <data name="Settings.Controls.SetupGuide" xml:space="preserve">
-    <value>Beállítási útmutató</value>
+    <value>Beállítási Útmutató</value>
     <comment>Setup Guide</comment>
   </data>
   <data name="Settings.Controls.ShowDevices" xml:space="preserve">
@@ -998,7 +998,7 @@
     <comment>Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.NoDevices" xml:space="preserve">
-    <value>Nincs elérhető eszköz. Segítségért tekintse meg a beállítási útmutatót</value>
+    <value>Nincs elérhető eszköz. Segítségért tekints meg a Beállítási Útmutatót</value>
     <comment>No devices are available. Check the Setup Guide for help</comment>
   </data>
   <data name="Settings.Controls.Unassigned" xml:space="preserve">
@@ -1006,7 +1006,7 @@
     <comment>Unassigned</comment>
   </data>
   <data name="Settings.Controls.UseNetworkJoystick" xml:space="preserve">
-    <value>Use Network Joystick?</value>
+    <value>Network Joystick használata ?</value>
     <comment>Use Network Joystick</comment>
   </data>
   <data name="Settings.Sounds.ATC" xml:space="preserve">
@@ -1018,7 +1018,7 @@
     <comment>SFX Volume</comment>
   </data>
   <data name="Commands.AutoStartEngines" xml:space="preserve">
-    <value>Auto Start Engine(s)?</value>
+    <value>Automatikus Hajtóműv(ek) Indítása</value>
     <comment>Auto Start Engine(s)</comment>
   </data>
   <data name="Commands.CockpitCamera" xml:space="preserve">
@@ -1042,7 +1042,7 @@
     <comment>Control Surfaces</comment>
   </data>
   <data name="Commands.Group.Engines" xml:space="preserve">
-    <value>Motorok</value>
+    <value>Hajtóművek</value>
     <comment>Engines</comment>
   </data>
   <data name="Commands.Group.General" xml:space="preserve">
@@ -1102,303 +1102,303 @@
     <comment>Select ATC Entry {number}</comment>
   </data>
   <data name="Commands.StartEngine" xml:space="preserve">
-    <value>Megadott motor elindítása</value>
+    <value>Megadott hajtómű elindítása</value>
     <comment>Start Specified Engine</comment>
   </data>
   <data name="Commands.StopEngine" xml:space="preserve">
-    <value>Megadott motor leállítása</value>
+    <value>Megadott hajtómű leállítása</value>
     <comment>Stop Specified Engine</comment>
   </data>
   <data name="Commands.ToggleATCWindow" xml:space="preserve">
-    <value>Toggle ATC Window</value>
+    <value>ATC Ablak Bekapcsolása ?</value>
     <comment>Toggle ATC Window</comment>
   </data>
   <data name="Commands.ToggleAutopilot" xml:space="preserve">
-    <value>Engage/Disengage Autopilot</value>
+    <value>Robotpilóta Be/Kikapcsolása</value>
     <comment>Engage/Disengage Autopilot</comment>
   </data>
   <data name="Commands.ToggleFlightPathVector" xml:space="preserve">
-    <value>Toggle Flight Path Vector</value>
+    <value>Repülési Útvonal Bekapcsolása</value>
     <comment>Toggle Flight Path Vector</comment>
   </data>
   <data name="Commands.ToggleHUD" xml:space="preserve">
-    <value>Toggle HUD</value>
+    <value>LHUD Bekapcsolása</value>
     <comment>Toggle HUD</comment>
   </data>
   <data name="Commands.TogglePause" xml:space="preserve">
-    <value>Pause</value>
+    <value>Szünet</value>
     <comment>Pause</comment>
   </data>
   <data name="Commands.TowerCamera" xml:space="preserve">
-    <value>Tower Camera</value>
+    <value>Torony Kamera</value>
     <comment>Tower Camera</comment>
   </data>
   <data name="Commands.VirtualCockpitCamera" xml:space="preserve">
-    <value>Virtual Cockpit</value>
+    <value>Virtuális Pilótafülke</value>
     <comment>Virtual Cockpit</comment>
   </data>
   <data name="Commands.ZoomIn" xml:space="preserve">
-    <value>Zoom In</value>
+    <value>Raközelítés</value>
     <comment>Zoom In</comment>
   </data>
   <data name="Commands.ZoomOut" xml:space="preserve">
-    <value>Zoom Out</value>
+    <value>Kicsinyítés</value>
     <comment>Zoom Out</comment>
   </data>
   <data name="GameMenu.20sAgo" xml:space="preserve">
-    <value>20s Ago</value>
+    <value>20mp Ezelőtt</value>
     <comment>20s Ago</comment>
   </data>
   <data name="GameMenu.Calibrate" xml:space="preserve">
-    <value>Calibrate</value>
+    <value>Kalibrálás</value>
     <comment>Calibrate</comment>
   </data>
   <data name="GameMenu.CalibrationComplete" xml:space="preserve">
-    <value>Calibration Complete</value>
+    <value>Kalibrálás Befejezve</value>
     <comment>Calibration Complete</comment>
   </data>
   <data name="GameMenu.Crash" xml:space="preserve">
-    <value>CRASH</value>
+    <value>ÜTKÖZÉS</value>
     <comment>CRASH</comment>
   </data>
   <data name="GameMenu.EndFlight" xml:space="preserve">
-    <value>End Flight</value>
+    <value>Repülés Vége</value>
     <comment>End Flight</comment>
   </data>
   <data name="GameMenu.EndSession" xml:space="preserve">
-    <value>End Session</value>
+    <value>Munkamenet Vége</value>
     <comment>End Session (ATC)</comment>
   </data>
   <data name="GameMenu.Paused" xml:space="preserve">
-    <value>PAUSED</value>
+    <value>SZÜNETELVE</value>
     <comment>PAUSED</comment>
   </data>
   <data name="GameMenu.Resume" xml:space="preserve">
-    <value>Resume</value>
+    <value>Folytatás</value>
     <comment>Resume</comment>
   </data>
   <data name="GameMenu.ShortFinal" xml:space="preserve">
-    <value>Short Final</value>
+    <value>Rövid Egyenes ?</value>
     <comment>Short Final</comment>
   </data>
   <data name="GameMenu.TakeOff" xml:space="preserve">
-    <value>Take Off</value>
+    <value>Felszállás</value>
     <comment>Take Off</comment>
   </data>
   <data name="GameMenu.TapToCalibrate" xml:space="preserve">
-    <value>Tap screen to calibrate and start</value>
+    <value>Nyomj a kalibráláshoz és az induláshoz</value>
     <comment>Tap screen to calibrate and start</comment>
   </data>
   <data name="GameMenu.Time" xml:space="preserve">
-    <value>Time</value>
+    <value>Idő</value>
     <comment>Time</comment>
   </data>
   <data name="GameMenu.Weather" xml:space="preserve">
-    <value>Weather</value>
+    <value>Időjárás</value>
     <comment>Weather</comment>
   </data>
   <data name="GameMenu.WeightBalance" xml:space="preserve">
-    <value>Weight &amp; Balance</value>
+    <value>Súly és Egyensúly</value>
     <comment>Weight &amp; Balance</comment>
   </data>
   <data name="GamePage.EndFlight.Message" xml:space="preserve">
-    <value>Are you sure you want to end this flight?</value>
+    <value>Biztosan befejezed ezt a repülést?</value>
     <comment>Are you sure you want to end this flight?</comment>
   </data>
   <data name="GamePage.EndFlight.Title" xml:space="preserve">
-    <value>End Flight</value>
+    <value>Repülés Vége</value>
     <comment>End Flight</comment>
   </data>
   <data name="GamePage.EndSession.Message" xml:space="preserve">
-    <value>Are you sure you want to end this session?</value>
+    <value>Biztosan befejezed ezt a munkamenetet?</value>
     <comment>Are you sure you want to end this session?</comment>
   </data>
   <data name="GamePage.EndSession.Title" xml:space="preserve">
-    <value>End Session</value>
+    <value>Munkamenet Vége</value>
     <comment>End Session</comment>
   </data>
   <data name="Global.Grade" xml:space="preserve">
-    <value>Grade</value>
+    <value>Fokozat</value>
     <comment>Grade</comment>
   </data>
   <data name="Global.Operations" xml:space="preserve">
-    <value>Operations</value>
+    <value>Műveletek</value>
     <comment>Operations (ATC Operations)</comment>
   </data>
   <data name="SplashScreen.DownloadingAircraft" xml:space="preserve">
-    <value>Downloading Aircraft {0}%</value>
+    <value>Repülőgép Letöltése {0}%</value>
     <comment>Downloading Aircraft {0}%</comment>
   </data>
   <data name="SplashScreen.DownloadingAirportData" xml:space="preserve">
-    <value>Downloading airport data</value>
+    <value>Repülőtéri adatok letöltése</value>
     <comment>Downloading airport data</comment>
   </data>
   <data name="SplashScreen.LoadingFlight" xml:space="preserve">
-    <value>Loading your flight</value>
+    <value>Repülés betöltése</value>
     <comment>Loading your flight</comment>
   </data>
   <data name="SplashScreen.LoadingReplay" xml:space="preserve">
-    <value>Loading replay</value>
+    <value>Visszajátszás betöltése</value>
     <comment>Loading replay</comment>
   </data>
   <data name="SplashScreen.UnloadingFlight" xml:space="preserve">
-    <value>Ending flight</value>
+    <value>Repülés befejezése</value>
     <comment>Ending flight</comment>
   </data>
   <data name="SplashScreen.UpdatingNavigationDatabase" xml:space="preserve">
-    <value>Updating navigation database</value>
+    <value>Navigációs adatbázis frissítése</value>
     <comment>Updating navigation database</comment>
   </data>
   <data name="TimePage.CurrentTime" xml:space="preserve">
-    <value>Current Time</value>
+    <value>Aktuális Idő</value>
     <comment>Current Time</comment>
   </data>
   <data name="TimePage.Night" xml:space="preserve">
-    <value>Night</value>
+    <value>Éjszaka</value>
     <comment>Night</comment>
   </data>
   <data name="TimePage.Noon" xml:space="preserve">
-    <value>Noon</value>
+    <value>Dél</value>
     <comment>Noon</comment>
   </data>
   <data name="TimePage.Sunrise" xml:space="preserve">
-    <value>Sunrise</value>
+    <value>Napkelte</value>
     <comment>Sunrise</comment>
   </data>
   <data name="TimePage.Sunset" xml:space="preserve">
-    <value>Sunset</value>
+    <value>Napnyugta</value>
     <comment>Sunset</comment>
   </data>
   <data name="UserAccountControl.YourAccount" xml:space="preserve">
-    <value>Your Account</value>
+    <value>Fiókod</value>
     <comment>Your Account</comment>
   </data>
   <data name="WeatherPage.CirrusCloudLayer" xml:space="preserve">
-    <value>Cirrus Cloud Layer</value>
+    <value>Cirrus ? Felhőréteg</value>
     <comment>Cirrus Cloud Layer</comment>
   </data>
   <data name="WeatherPage.CloudsAltitude" xml:space="preserve">
-    <value>Clouds Altitude</value>
+    <value>Felhők Magassága</value>
     <comment>Clouds Altitude</comment>
   </data>
   <data name="WeatherPage.Temperature" xml:space="preserve">
-    <value>Temperature</value>
+    <value>Hőmérséklet</value>
     <comment>Temperature</comment>
   </data>
   <data name="WeatherPage.Turbulence" xml:space="preserve">
-    <value>Turbulence</value>
+    <value>Turbulencia</value>
     <comment>Turbulence</comment>
   </data>
   <data name="WeatherPage.Visibility" xml:space="preserve">
-    <value>Visibility</value>
+    <value>Láthatóság</value>
     <comment>Visibility</comment>
   </data>
   <data name="WeatherPage.WindDirection" xml:space="preserve">
-    <value>Wind Direction</value>
+    <value>Szélirány</value>
     <comment>Wind Direction</comment>
   </data>
   <data name="WeatherPage.WindGusts" xml:space="preserve">
-    <value>Wind Gusts</value>
+    <value>Széllökések</value>
     <comment>Wind Gusts</comment>
   </data>
   <data name="WeatherPage.WindVelocity" xml:space="preserve">
-    <value>Wind Velocity</value>
+    <value>Szélsebesség</value>
     <comment>Wind Velocity</comment>
   </data>
   <data name="WeatherState.Clouds.Broken" xml:space="preserve">
-    <value>Broken</value>
+    <value>Elromlott ?</value>
     <comment>Broken</comment>
   </data>
   <data name="WeatherState.Clouds.Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Tiszta</value>
     <comment>Clear</comment>
   </data>
   <data name="WeatherState.Clouds.Few" xml:space="preserve">
-    <value>Few</value>
+    <value>Kevés</value>
     <comment>Few</comment>
   </data>
   <data name="WeatherState.Clouds.Scattered" xml:space="preserve">
-    <value>Scattered</value>
+    <value>Elszórt</value>
     <comment>Scattered</comment>
   </data>
   <data name="WeatherState.Turbulence.Extreme" xml:space="preserve">
-    <value>Extreme</value>
+    <value>Szélsőséges</value>
     <comment>Extreme</comment>
   </data>
   <data name="WeatherState.Turbulence.Light" xml:space="preserve">
-    <value>Light</value>
+    <value>Könnyű</value>
     <comment>Light</comment>
   </data>
   <data name="WeatherState.Turbulence.Moderate" xml:space="preserve">
-    <value>Moderate</value>
+    <value>Mérsékelt</value>
     <comment>Moderate</comment>
   </data>
   <data name="WeatherState.Turbulence.None" xml:space="preserve">
-    <value>None</value>
+    <value>Semmilyen</value>
     <comment>None</comment>
   </data>
   <data name="WeatherState.Turbulence.Severe" xml:space="preserve">
-    <value>Severe</value>
+    <value>Erős</value>
     <comment>Severe</comment>
   </data>
   <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
-    <value>Are you sure you want to clear the scenery cache?</value>
+    <value>Biztosan törlöd a helyi tárhelyen tárolt térképadatokat?</value>
     <comment>Are you sure you want to clear the scenery cache?</comment>
   </data>
   <data name="Settings.DisabledInFlight" xml:space="preserve">
-    <value>can't be changed while in-flight</value>
+    <value>repülés közben nem módosítható</value>
     <comment>can't be changed while in-flight</comment>
   </data>
   <data name="Settings.DisabledUnlinkedAccount" xml:space="preserve">
-    <value>account must be linked with IFC</value>
+    <value>fiókot össze kell kapcsolni az IFC-vel</value>
     <comment>account must be linked with IFC</comment>
   </data>
   <data name="Settings.NoVoicesAlert.Message" xml:space="preserve">
-    <value>No voices were found on the device, would you like to visit the Android Text to Speech Settings? (Still having issues? Make sure Google Speech Engine is selected)</value>
+    <value>Nem találhatók hangok az eszközön. Szeretnéd felkeresni az Android Szövegfelolvasó beállításait? (Továbbra is vannak problémáid? Győződj meg arról, hogy a Google Speech Engine van kiválasztva)</value>
     <comment>No voices were found on the device, would you like to visit the Android Text to Speech Settings? (Still having issues? Make sure Google Speech Engine is selected)</comment>
   </data>
   <data name="MenuPageBase.Control" xml:space="preserve">
-    <value>Control</value>
+    <value>Irányítás</value>
     <comment>Control (ATC)</comment>
   </data>
   <data name="MenuPageBase.Fly" xml:space="preserve">
-    <value>Fly</value>
+    <value>Repülés</value>
     <comment>Fly (Fly)</comment>
   </data>
   <data name="MenuPageBase.Open" xml:space="preserve">
-    <value>Open</value>
+    <value>Megnyitás</value>
     <comment>Open (Scenery Editor)</comment>
   </data>
   <data name="Global.Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Betöltés...</value>
     <comment>Loading...</comment>
   </data>
   <data name="Settings.Option.Normal" xml:space="preserve">
-    <value>Normal</value>
+    <value>Normális</value>
     <comment>Normal</comment>
   </data>
   <data name="SplashScreen.LoadingSession" xml:space="preserve">
-    <value>Loading your session</value>
+    <value>Munkamenet betöltése</value>
     <comment>(ATC)</comment>
   </data>
   <data name="AircraftPage.LiveryWillBeDownloaded" xml:space="preserve">
-    <value>Livery will be downloaded when flight starts.</value>
+    <value>A festés a repülés indulásakor lesz letöltve.</value>
     <comment>Livery will be downloaded when flight starts.</comment>
   </data>
   <data name="AircraftPage.RecentlyReleased" xml:space="preserve">
-    <value>Recently released</value>
+    <value>Mostanában megjelent</value>
     <comment>Recently released</comment>
   </data>
   <data name="AircraftPage.ReleaseInfo" xml:space="preserve">
-    <value>Released or updated in {0}</value>
+    <value>Megjelent vagy frissítve {0}</value>
     <comment>Released or updated in {0}</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
-    <value>Show aircraft from older versions</value>
+    <value>Régebbi Repülőgépek Megjelenítése</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
-    <value>Show Pro Aircraft</value>
+    <value>Pro Repülőgépek Megjelenítése</value>
     <comment>Show Pro Aircraft</comment>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
@@ -1414,143 +1414,143 @@
     <comment>Departure</comment>
   </data>
   <data name="ATC.Ground" xml:space="preserve">
-    <value>Ground</value>
+    <value>Talaj ? Guruló</value>
     <comment>Ground</comment>
   </data>
   <data name="ATC.Station" xml:space="preserve">
-    <value>Station</value>
+    <value>Állomás</value>
     <comment>Station (as in, selected frequencies)</comment>
   </data>
   <data name="ATC.Stations" xml:space="preserve">
-    <value>Stations</value>
+    <value>Állomások</value>
     <comment>Stations</comment>
   </data>
   <data name="ATC.Tower" xml:space="preserve">
-    <value>Tower</value>
+    <value>Torony</value>
     <comment>Tower</comment>
   </data>
   <data name="ATCJobBoard.Header.Arrivals" xml:space="preserve">
-    <value>Arrivals</value>
+    <value>Érkezők</value>
     <comment>Arrivals</comment>
   </data>
   <data name="ATCJobBoardControl.ActiveFIRs" xml:space="preserve">
-    <value>{0} Active Flight Information Regions</value>
+    <value>{0} Aktív Repülési Információs Régiók</value>
     <comment>{0} Active Flight Information Regions</comment>
   </data>
   <data name="ATCJobBoardControl.AirspaceActivity" xml:space="preserve">
-    <value>Airspace Activity</value>
+    <value>Légtér Tevékenység</value>
     <comment>Airspace Activity</comment>
   </data>
   <data name="ATCJobBoardControl.FIRs" xml:space="preserve">
-    <value>Flight Information Regions</value>
+    <value>Repülési Információs Régiók</value>
     <comment>Flight Information Regions</comment>
   </data>
   <data name="ATCJobBoardControl.GoTo" xml:space="preserve">
-    <value>Go to {0}</value>
+    <value>Ugrás ide {0}</value>
     <comment>Go to {0}</comment>
   </data>
   <data name="ATCJobBoardControl.NoFlightsFound" xml:space="preserve">
-    <value>No Flights Found</value>
+    <value>Nem Található Járat</value>
     <comment>No Flights Found</comment>
   </data>
   <data name="FlightPlan.AddToCurrentFlightPlanPrompt" xml:space="preserve">
-    <value>Add to current flight plan?</value>
+    <value>Hozzáadja az aktuális repülési tervhez?</value>
     <comment>Add to current flight plan?</comment>
   </data>
   <data name="FlightPlan.AddToFlightPlan" xml:space="preserve">
-    <value>Add to Flight Plan</value>
+    <value>Hozzáadás a Repülési Tervhez</value>
     <comment>Add to Flight Plan</comment>
   </data>
   <data name="FlightPlan.ReplaceCurrentFlightPlanPrompt" xml:space="preserve">
-    <value>Replace current flight plan?</value>
+    <value>Lecseréli a jelenlegi repülési tervet?</value>
     <comment>Replace current flight plan?</comment>
   </data>
   <data name="FlightPlan.ReplaceFlightPlan" xml:space="preserve">
-    <value>Replace Flight Plan</value>
+    <value>Repülési Terv Lecserélése</value>
     <comment>Replace Flight Plan</comment>
   </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
-    <value>Do you want to replace or add to the existing flight plan?</value>
+    <value>Ki szeretné cserélni vagy kiegészíteni a meglévő repülési tervet?</value>
     <comment>Shown when importing a flight plan FPL file</comment>
   </data>
   <data name="FlightPlan.Replace" xml:space="preserve">
-    <value>Replace</value>
+    <value>Kicserélés</value>
     <comment>Replace</comment>
   </data>
   <data name="FlightPlan.Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Hozzáadás</value>
     <comment>Add</comment>
   </data>
   <data name="Global.Airport" xml:space="preserve">
-    <value>Airport</value>
+    <value>Repülőtér</value>
     <comment>Airport</comment>
   </data>
   <data name="Global.NotQualified" xml:space="preserve">
-    <value>Not Qualified</value>
+    <value>Nem Minősített</value>
     <comment>Not Qualified</comment>
   </data>
   <data name="Global.PleaseWait" xml:space="preserve">
-    <value>Please wait...</value>
+    <value>Kérlek várj...</value>
     <comment>Please wait...</comment>
   </data>
   <data name="Global_FinalApproach" xml:space="preserve">
-    <value>Final Approach</value>
+    <value>Vegső Egyenes</value>
     <comment>Final Approach</comment>
   </data>
   <data name="Global_Runway" xml:space="preserve">
-    <value>Runway</value>
+    <value>Kifutópálya</value>
     <comment>Runway</comment>
   </data>
   <data name="Global_Takeoff" xml:space="preserve">
-    <value>Takeoff</value>
+    <value>Felszállás</value>
     <comment>Takeoff</comment>
   </data>
   <data name="Global_Unknown" xml:space="preserve">
-    <value>Unknown</value>
+    <value>Ismeretlen</value>
     <comment>Unknown</comment>
   </data>
   <data name="Grade.FlightTimeLongPeriod" xml:space="preserve">
-    <value>Flight Time (90 days)</value>
+    <value>Repülési Idő (90 nap)</value>
     <comment>Flight Time (90 days)</comment>
   </data>
   <data name="Grade.LandingCountLongPeriod" xml:space="preserve">
-    <value>Landings (90 days)</value>
+    <value>Leszállások (90 nap)</value>
     <comment>Landings (90 days)</comment>
   </data>
   <data name="Grade.ReportCountMediumPeriod" xml:space="preserve">
-    <value>Level 3 Violations (7 days)</value>
+    <value>3. Szintű Szabálysértések (7 nap)</value>
     <comment>Level 3 Violations (7 days)</comment>
   </data>
   <data name="Grade.Requirements" xml:space="preserve">
-    <value>Requirements</value>
+    <value>Követelmények</value>
     <comment>Requirements</comment>
   </data>
   <data name="Grade.ShowGradeTable" xml:space="preserve">
-    <value>Show Grade Table</value>
+    <value>Fokozattábla Megjelenítése</value>
     <comment>Show Grade Table</comment>
   </data>
   <data name="Grade.ShowViolationHistory" xml:space="preserve">
-    <value>Show Violation History</value>
+    <value>Szabálysértési Előzmények Megjelenítése</value>
     <comment>Show Violation History</comment>
   </data>
   <data name="Grade.Total12MonthsATCAllReports" xml:space="preserve">
-    <value>All Level 2/3 Violations (1 year)</value>
+    <value>Minden 2./3. szintű szabálysértés (1 év)</value>
     <comment>All Level 2/3 Violations (1 year)</comment>
   </data>
   <data name="Grade.Total12MonthsATCMajorReports" xml:space="preserve">
-    <value>Level 3 Violations (1 year)</value>
+    <value>3. szintű szabálysértések (1 év)</value>
     <comment>Level 3 Violations (1 year)</comment>
   </data>
   <data name="Grade.Total12MonthsATCMinorReports" xml:space="preserve">
-    <value>Level 2 Violations (1 year)</value>
+    <value>2. szintű szabálysértések (1 év)</value>
     <comment>Level 2 Violations (1 year)</comment>
   </data>
   <data name="Grade.TotalFlightTime" xml:space="preserve">
-    <value>Total Flight Time</value>
+    <value>Teljes Repülési Idő</value>
     <comment>Total Flight Time</comment>
   </data>
   <data name="Grade.TotalLandings" xml:space="preserve">
-    <value>Total Landings</value>
+    <value>Összes Leszállás</value>
     <comment>Total Landings</comment>
   </data>
   <data name="Grade.TotalXP" xml:space="preserve">
@@ -1558,119 +1558,119 @@
     <comment>XP</comment>
   </data>
   <data name="Grade.ViolationsByLandingShortPeriod" xml:space="preserve">
-    <value>Level 1 Violations/Landing (12 Months)</value>
+    <value>1. szintű szabálysértések/leszállás (12 hónap)</value>
     <comment>Level 1 Violations/Landing (12 Months)</comment>
   </data>
   <data name="Grade.ViolationsMediumPeriod" xml:space="preserve">
-    <value>Level 1 Violations (7 days)</value>
+    <value>1. szintű szabálysértések (7 nap)</value>
     <comment>Level 1 Violations (7 days)</comment>
   </data>
   <data name="Grade.ViolationsShortPeriod" xml:space="preserve">
-    <value>Level 1 Violations (24 hours)</value>
+    <value>1. szintű szabálysértések (24 óra)</value>
     <comment>Level 1 Violations (24 hours)</comment>
   </data>
   <data name="ItemSearchControl.NoResultsFor" xml:space="preserve">
-    <value>No results for "{0}"</value>
+    <value>Nincs találat a következőre "{0}"</value>
     <comment>No results for "{0}"</comment>
   </data>
   <data name="ItemSearchControl.SearchAirports" xml:space="preserve">
-    <value>Search airports</value>
+    <value>Repülőterek keresése</value>
     <comment>Search airports</comment>
   </data>
   <data name="ItemSearchControl.SearchAirportsAndWaypoints" xml:space="preserve">
-    <value>Search airports/waypoints</value>
+    <value>Repülőterek/pontok keresése ?</value>
     <comment>Search airports/waypoints</comment>
   </data>
   <data name="LocationPage.NoAvailableStartLocations" xml:space="preserve">
-    <value>No available start locations for the {0}</value>
+    <value>Nincs elérhető kiindulási hely a következőhöz: {0}</value>
     <comment>No Available start locations for the {0}</comment>
   </data>
   <data name="LocationPage.ResetZoom" xml:space="preserve">
-    <value>Reset Zoom</value>
+    <value>Nagyítás Visszaállítása</value>
     <comment>Reset Zoom</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.Select" xml:space="preserve">
-    <value>Select</value>
+    <value>Kiválaszt</value>
     <comment>Select</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectApproach" xml:space="preserve">
-    <value>Select Approach</value>
+    <value>Megközelítése Kiválasztása</value>
     <comment>Select Approach</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectArrival" xml:space="preserve">
-    <value>Select Arrival</value>
+    <value>Érkezés Kiválasztása</value>
     <comment>Select Arrival</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectDeparture" xml:space="preserve">
-    <value>Select Departure</value>
+    <value>Indulás Kiválasztása</value>
     <comment>Select Departure</comment>
   </data>
   <data name="MenuPageBase.Grade.GradeRequired" xml:space="preserve">
-    <value>Grade Required: {0}</value>
+    <value>Szükséges Fokozat: {0}</value>
     <comment>Grade Required: {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.InsufficientGradePrompt" xml:space="preserve">
-    <value>You do not have the required grade to fly on {0}</value>
+    <value>Nem rendelkezel a szükséges fokozattal, hogy repülj a(z) {0}</value>
     <comment>You do not have the required grade to fly on {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.YourGrade" xml:space="preserve">
-    <value>Your Grade: {0}</value>
+    <value>Fokozatod: {0}</value>
     <comment>Your Grade: {0}</comment>
   </data>
   <data name="MenuPageBase.NoATCAccess" xml:space="preserve">
-    <value>No ATC Access</value>
+    <value>Nincs ATC Hozzáférés</value>
     <comment>No ATC Access</comment>
   </data>
   <data name="MenuPageBase.NoATCAccessOn" xml:space="preserve">
-    <value>No ATC Access on {0}</value>
+    <value>Nincs ATC Hozzáférésed a(z) {0}</value>
     <comment>No ATC Access on {0}</comment>
   </data>
   <data name="MenuPageBase.NoProFound" xml:space="preserve">
-    <value>No valid Infinite Flight Pro subscription found</value>
+    <value>Nem található érvényes Infinite Flight Pro előfizetés</value>
     <comment>No valid Infinite Flight Pro subscription found</comment>
   </data>
   <data name="MenuPageBase.ProRequired" xml:space="preserve">
-    <value>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</value>
+    <value>Infinite Flight Pro szükséges a repülés indításához ezen a helyen. Kérjük, változtasd meg a kiindulási repülőteret.</value>
     <comment>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="Time.1Hour" xml:space="preserve">
-    <value>1 hour</value>
+    <value>1 óra</value>
     <comment>1 hour</comment>
   </data>
   <data name="Time.1HourAgo" xml:space="preserve">
-    <value>1 hour ago</value>
+    <value>1 órája</value>
     <comment>1 hour ago</comment>
   </data>
   <data name="Time.1Minute" xml:space="preserve">
-    <value>1 minute</value>
+    <value>1 perc</value>
     <comment>1 minute</comment>
   </data>
   <data name="Time.1MinuteAgo" xml:space="preserve">
-    <value>1 minute ago</value>
+    <value>1 perce</value>
     <comment>1 minute ago</comment>
   </data>
   <data name="Time.1YearAgo" xml:space="preserve">
-    <value>1 year ago</value>
+    <value>1 éve</value>
     <comment>1 year ago</comment>
   </data>
   <data name="Time.Days" xml:space="preserve">
-    <value>{0} days</value>
+    <value>{0} nap</value>
     <comment>{0} days</comment>
   </data>
   <data name="Time.DaysAgo" xml:space="preserve">
-    <value>{0} days ago</value>
+    <value>{0} napja</value>
     <comment>{0} days ago</comment>
   </data>
   <data name="Time.Hour" xml:space="preserve">
-    <value>hour</value>
+    <value>óra</value>
     <comment>hour</comment>
   </data>
   <data name="Time.Hours" xml:space="preserve">
-    <value>{0} hours</value>
+    <value>{0} óra</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HoursAgo" xml:space="preserve">
-    <value>{0} hours ago</value>
+    <value>{0} órája</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HourShortForm" xml:space="preserve">
@@ -1678,7 +1678,7 @@
     <comment>hr</comment>
   </data>
   <data name="Time.HoursShortForm" xml:space="preserve">
-    <value>hrs</value>
+    <value>hr</value>
     <comment>hrs</comment>
   </data>
   <data name="Time.In1Hour" xml:space="preserve">
