@@ -1674,111 +1674,111 @@
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HourShortForm" xml:space="preserve">
-    <value>hr</value>
+    <value>ó</value>
     <comment>hr</comment>
   </data>
   <data name="Time.HoursShortForm" xml:space="preserve">
-    <value>hr</value>
+    <value>ó</value>
     <comment>hrs</comment>
   </data>
   <data name="Time.In1Hour" xml:space="preserve">
-    <value>In 1 hour</value>
+    <value>1 óra múlva</value>
     <comment>In 1 hour</comment>
   </data>
   <data name="Time.In1Minute" xml:space="preserve">
-    <value>In a minute</value>
+    <value>1 perc múlva</value>
     <comment>In a minute</comment>
   </data>
   <data name="Time.InDays" xml:space="preserve">
-    <value>In {0} days</value>
+    <value>{0} nap múlva</value>
     <comment>In {0} days</comment>
   </data>
   <data name="Time.InHours" xml:space="preserve">
-    <value>In {0} hours</value>
+    <value>{0} óra múlva</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.InLessThanAMinute" xml:space="preserve">
-    <value>In less than a minute</value>
+    <value>Kevesebb, mint egy perc múlva</value>
     <comment>In less than a minute</comment>
   </data>
   <data name="Time.InMinutes" xml:space="preserve">
-    <value>In {0} minutes</value>
+    <value>{0} perc múlva</value>
     <comment>In {0} minutes</comment>
   </data>
   <data name="Time.LessThanAMinute" xml:space="preserve">
-    <value>Less than a minute</value>
+    <value>Kevesebb, mint egy perc</value>
     <comment>less than a minute</comment>
   </data>
   <data name="Time.LessThanAMinuteAgo" xml:space="preserve">
-    <value>Less than a minute ago</value>
+    <value>Kevesebb, mint egy perce</value>
     <comment>Less than a minute ago</comment>
   </data>
   <data name="Time.Minute" xml:space="preserve">
-    <value>minute</value>
+    <value>perc</value>
     <comment>minute</comment>
   </data>
   <data name="Time.Minutes" xml:space="preserve">
-    <value>{0} minutes</value>
+    <value>{0} perc</value>
     <comment>{0} minutes</comment>
   </data>
   <data name="Time.MinutesAgo" xml:space="preserve">
-    <value>{0} minutes ago</value>
+    <value>{0} perce</value>
     <comment>{0} minutes ago</comment>
   </data>
   <data name="Time.MinuteShortForm" xml:space="preserve">
-    <value>mn</value>
+    <value>p</value>
     <comment>mn</comment>
   </data>
   <data name="Time.Tomorrow" xml:space="preserve">
-    <value>Tomorrow</value>
+    <value>Holnap</value>
     <comment>Tomorrow</comment>
   </data>
   <data name="Time.YearsAgo" xml:space="preserve">
-    <value>{0} years ago</value>
+    <value>{0} éve</value>
     <comment>{0} years ago</comment>
   </data>
   <data name="Time.Yesterday" xml:space="preserve">
-    <value>Yesterday</value>
+    <value>Tegnap</value>
     <comment>Yesterday</comment>
   </data>
   <data name="Violation.AerobaticsViolation" xml:space="preserve">
-    <value>Aerobatics Violation</value>
+    <value>Műrepülési Szabalyszegés</value>
     <comment>Aerobatics Violation</comment>
   </data>
   <data name="Violation.AirportClass" xml:space="preserve">
-    <value>Airport Class Violation</value>
+    <value>Reptéri Osztály Szabályszegés</value>
     <comment>Airport Class Violation</comment>
   </data>
   <data name="Violation.AirspaceViolation" xml:space="preserve">
-    <value>Airspace Violation</value>
+    <value>Légtér Szabályszegés</value>
     <comment>Airspace Violation</comment>
   </data>
   <data name="Violation.FlightOverspeed" xml:space="preserve">
-    <value>Overspeed in Flight</value>
+    <value>Túlsebesség Repülés közben</value>
     <comment>Overspeed in Flight</comment>
   </data>
   <data name="Violation.GroundOverspeed" xml:space="preserve">
-    <value>Ground Overspeed</value>
+    <value>Túlsebesség Gurulás közben</value>
     <comment>Ground Overspeed</comment>
   </data>
   <data name="Violation.LevelledViolation" xml:space="preserve">
-    <value>Level {0} Violation</value>
+    <value>{0}. Szintű Szabalysértés</value>
     <comment>Level {violationLevel} Violation</comment>
   </data>
   <data name="Violation.RunwayIdle" xml:space="preserve">
-    <value>Runway Idle</value>
+    <value>Kifutópálya Elfoglalás</value>
     <comment>Runway Idle</comment>
   </data>
   <data name="Global.Continue" xml:space="preserve">
-    <value>Continue</value>
+    <value>Tovább</value>
     <comment>Continue</comment>
   </data>
   <data name="Global.Settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>Beállítások</value>
     <comment>Settings</comment>
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
-    <value>The {0} is too large for current starting point {1} at {2}. Please change the start location</value>
+    <value>A(z) {0} túl nagy a(z) {2} jelenlegi kiindulási pontjához ({1}).\n\nKérjük, módosítsd a kiindulási helyet.</value>
     <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
@@ -1786,159 +1786,159 @@
     <comment>ATC</comment>
   </data>
   <data name="MenuPageBase.CannotConnect" xml:space="preserve">
-    <value>CAN'T CONNECT</value>
+    <value>NEM CSATLAKOZIK</value>
     <comment>CAN'T CONNECT</comment>
   </data>
   <data name="MenuPageBase.CannotConnect.Message" xml:space="preserve">
-    <value>Infinite Flight is experiencing internet connectivity issues. Please check your internet connection and restart the app or try again later.</value>
+    <value>Az Infinite Flight internetkapcsolati problémákat tapasztal. Kérjük, ellenőrizd internetkapcsolatod, és indítsd újra az alkalmazást, vagy próbálkozz újra később.</value>
     <comment>Infinite Flight is experiencing internet connectivity issues. Please check your internet connection and restart the app or try again later.</comment>
   </data>
   <data name="MenuPageBase.ForumNotConnected" xml:space="preserve">
-    <value>Your Infinite Flight Community profile needs to be connected before starting a session</value>
+    <value>Az Infinite Flight Community profilod össze kell kapcsolni a munkamenet megkezdése előtt</value>
     <comment>Your Infinite Flight Community profile needs to be connected before starting a session</comment>
   </data>
   <data name="MenuPageBase.NoLocationSelected" xml:space="preserve">
-    <value>No location has been selected, please select a frequency to open</value>
+    <value>Nincs kiválasztott hely, kérjük, válassz frekvenciát az indításhoz.</value>
     <comment>No location has been selected, please select a frequency to open.</comment>
   </data>
   <data name="MenuPageBase.ProRequiredAircraft" xml:space="preserve">
-    <value>Infinite Flight Pro is required to use this aircraft</value>
+    <value>A repülőgép használatához Infinite Flight Pro szükséges</value>
     <comment>Infinite Flight Pro is required to use this aircraft</comment>
   </data>
   <data name="MenuPageBase.ProRequiredStartAirport" xml:space="preserve">
-    <value>Infinite Flight Pro is required to start a flight at this location. Please change the start airport</value>
+    <value>Az Infinite Flight Pro szükséges a repülés indításához ezen a helyen. Kérjük, változtasd meg a kiindulási repülőteret</value>
     <comment>Infinite Flight PRO is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="MenuPageBase.ShowUsernameDisabled" xml:space="preserve">
-    <value>Your username needs to be visible before starting a session. Enable "{0}" in settings</value>
+    <value>A munkamenet megkezdése előtt a felhasználónevednek láthatónak kell lennie. Engedélyezd a(z) "{0}" beállítást a beállításokban</value>
     <comment>Your username needs to be visible before starting a session. Enable \"Show Username In-Flight\" in settings</comment>
   </data>
   <data name="Notam.Airport" xml:space="preserve">
-    <value>Airport : {0}</value>
+    <value>Repülőtér : {0}</value>
     <comment>Airport</comment>
   </data>
   <data name="Notam.Ceiling" xml:space="preserve">
-    <value>Ceiling : {0}ft</value>
+    <value>Felhőalap : {0}ft</value>
     <comment>Ceiling</comment>
   </data>
   <data name="Notam.Floor" xml:space="preserve">
-    <value>Floor   : {0}ft</value>
+    <value>Felhőtető   : {0}ft</value>
     <comment>Floor</comment>
   </data>
   <data name="Notam.From" xml:space="preserve">
-    <value>From    : {0} {1}Z</value>
+    <value>? -Tól    : {0} {1}Z</value>
     <comment>From (Date)</comment>
   </data>
   <data name="Notam.Message" xml:space="preserve">
-    <value>Message : {0}</value>
+    <value>Üzenet : {0}</value>
     <comment>Message</comment>
   </data>
   <data name="Notam.Title" xml:space="preserve">
-    <value>Title   : {0}</value>
+    <value>Cím   : {0}</value>
     <comment>Title</comment>
   </data>
   <data name="Notam.To" xml:space="preserve">
-    <value>To      : {0} {1}Z</value>
+    <value>? -Ig      : {0} {1}Z</value>
     <comment>To (Date)</comment>
   </data>
   <data name="Notam.UntilFurtherNotice" xml:space="preserve">
-    <value>To      : Until Further Notice</value>
+    <value>? -Ig      : További értesítésig</value>
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>A NOTAM (Notice to Air Missions) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</value>
+    <value>A NOTAM (Notice to Air Missions) aktív a kiválasztott indulási repülőtéren. Kérjük, figyelmesen olvasd el az alábbi NOTAM-ot, mielőtt továbblépsz</value>
     <comment>A NOTAM (Notice to Air Missions) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
-    <value>WARNING: ACTIVE NOTAM</value>
+    <value>FIGYELEM: AKTÍV NOTAM</value>
     <comment>WARNING: ACTIVE NOTAM</comment>
   </data>
   <data name="About.PrivacyPolicy" xml:space="preserve">
-    <value>PRIVACY POLICY</value>
+    <value>ADATVÉDELMI IRÁNYELVEK</value>
     <comment>PRIVACY POLICY</comment>
   </data>
   <data name="About.TermsOfUse" xml:space="preserve">
-    <value>TERMS OF USE</value>
+    <value>HASZNÁLATI FELTÉTELEK</value>
     <comment>TERMS OF USE</comment>
   </data>
   <data name="Global.Aircraft" xml:space="preserve">
-    <value>Aircraft</value>
+    <value>Repülőgép</value>
     <comment>Aircraft</comment>
   </data>
   <data name="Global.Date" xml:space="preserve">
-    <value>Date</value>
+    <value>Dátum</value>
     <comment>Date</comment>
   </data>
   <data name="Global.Day" xml:space="preserve">
-    <value>Day</value>
+    <value>Nap</value>
     <comment>Day</comment>
   </data>
   <data name="Global.Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Leírás</value>
     <comment>Description</comment>
   </data>
   <data name="Global.Night" xml:space="preserve">
-    <value>Night</value>
+    <value>Éjszaka</value>
     <comment>Night</comment>
   </data>
   <data name="Global.Type" xml:space="preserve">
-    <value>Type</value>
+    <value>Típus</value>
     <comment>Type</comment>
   </data>
   <data name="Logbook.From" xml:space="preserve">
-    <value>From</value>
+    <value>-Ig</value>
     <comment>From</comment>
   </data>
   <data name="Logbook.LiveFlights" xml:space="preserve">
-    <value>Live Flights</value>
+    <value>Élő Járatok</value>
     <comment>Live Flights</comment>
   </data>
   <data name="Logbook.Notes" xml:space="preserve">
-    <value>Notes</value>
+    <value>Megjegyzések</value>
     <comment>Notes</comment>
   </data>
   <data name="Logbook.ShowingFlightsOnDevice" xml:space="preserve">
-    <value>Showing flights stored on this device</value>
+    <value>Az eszközön tárolt járatok megjelenítése</value>
     <comment>Showing flights stored on this device</comment>
   </data>
   <data name="Logbook.SoloFlights" xml:space="preserve">
-    <value>Solo Flights</value>
+    <value>Egyéni Repülések</value>
     <comment>Solo Flights</comment>
   </data>
   <data name="Logbook.To" xml:space="preserve">
-    <value>To</value>
+    <value>? To</value>
     <comment>To</comment>
   </data>
   <data name="Logbook.TotalFlightTime" xml:space="preserve">
-    <value>Total Flight Time</value>
+    <value>Teljes Repülési Idő</value>
     <comment>Total Flight Time</comment>
   </data>
   <data name="Logbook.TotalTime" xml:space="preserve">
-    <value>Total Time</value>
+    <value>Teljes Idő</value>
     <comment>Total Time</comment>
   </data>
   <data name="Global.Details" xml:space="preserve">
-    <value>Details</value>
+    <value>Részletek</value>
     <comment>Details</comment>
   </data>
   <data name="Global.Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Név</value>
     <comment>Name</comment>
   </data>
   <data name="Global.Report" xml:space="preserve">
-    <value>Report</value>
+    <value>Jelentés</value>
     <comment>Report</comment>
   </data>
   <data name="Global.Reports" xml:space="preserve">
-    <value>Reports</value>
+    <value>Jelentések</value>
     <comment>Reports</comment>
   </data>
   <data name="Global.Violation" xml:space="preserve">
-    <value>Violation</value>
+    <value>Szabálysértés</value>
     <comment>Violation</comment>
   </data>
   <data name="Global.Violations" xml:space="preserve">
-    <value>Violations</value>
+    <value>Szabálysértések</value>
     <comment>Violations</comment>
   </data>
   <data name="Logbook.ATCReport" xml:space="preserve">
