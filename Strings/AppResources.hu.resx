@@ -1942,126 +1942,126 @@
     <comment>Violations</comment>
   </data>
   <data name="Logbook.ATCReport" xml:space="preserve">
-    <value>ATC Report</value>
+    <value>ATC Jelentés</value>
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>ATC Report by [{0}]\n{1}</value>
+    <value>ATC Jelentés [{0}] által\n{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
-    <value>View Flight Details</value>
+    <value>Repülés Részletek Megtekintése</value>
     <comment>View Flight Details</comment>
   </data>
   <data name="Replay.Comments" xml:space="preserve">
-    <value>Comments</value>
+    <value>Hozzászólások</value>
     <comment>Comments</comment>
   </data>
   <data name="Replay.Delete" xml:space="preserve">
-    <value>DELETE</value>
+    <value>TÖRLÉS</value>
     <comment>DELETE</comment>
   </data>
   <data name="Replay.Duration" xml:space="preserve">
-    <value>Duration</value>
+    <value>Időtartam</value>
     <comment>Duration</comment>
   </data>
   <data name="Replay.Edit" xml:space="preserve">
-    <value>EDIT</value>
+    <value>SZERKESZT</value>
     <comment>EDIT</comment>
   </data>
   <data name="Replay.FileSize" xml:space="preserve">
-    <value>File Size</value>
+    <value>Fájl Méret</value>
     <comment>File Size</comment>
   </data>
   <data name="Replay.Import" xml:space="preserve">
-    <value>IMPORT</value>
+    <value>IMPORTÁLÁS</value>
     <comment>IMPORT</comment>
   </data>
   <data name="Replay.Share" xml:space="preserve">
-    <value>SHARE</value>
+    <value>MEGOSZTÁS</value>
     <comment>SHARE</comment>
   </data>
   <data name="Logbook.Details" xml:space="preserve">
-    <value>Details</value>
+    <value>Részletek</value>
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
-    <value>Press button on
-Keyboard to assign</value>
+    <value>A hozzárendeléshez nyomd meg
+a gombot a billentyűzeten</value>
     <comment>Press button on \nKeyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Törlés</value>
     <comment>Delete</comment>
   </data>
   <data name="Settings.Controls.MoveAxisPrompt" xml:space="preserve">
-    <value>Move axis on controller to assign</value>
+    <value>Mozgasd a tengelyt a kontrolleren a hozzárendeléshez</value>
     <comment>Move axis on controller to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
-    <value>Press button on 
-Controller/Keyboard to assign</value>
+    <value>A hozzárendeléshez nyomd meg
+a kontroller/billentyűzet gombját</value>
     <comment>Press button on \nController/Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
-    <value>Press button or move axis to assign</value>
+    <value>Nyomd meg a gombot vagy mozgasd a tengelyt a hozzárendeléshez</value>
     <comment>Press button or move axis to assign</comment>
   </data>
   <data name="Settings.Controls.Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Visszaállítás</value>
     <comment>Reset</comment>
   </data>
   <data name="SystemMessaging.Approach.CannotActivate" xml:space="preserve">
-    <value>Approach Mode Cannot Be Enabled</value>
+    <value>Approach Mód Nem Engedélyezhető</value>
     <comment>Approach Mode Cannot Be Enabled</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.AirspeedOutOfRange" xml:space="preserve">
-    <value>Approach Mode Disabled - Airspeed out of range (250kts max)</value>
+    <value>Approach Mód Kikapcsolva - Túl magas sebesség (250 csomó max)</value>
     <comment>Approach Mode Disabled - Airspeed out of range (250kts max)</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.BankOutOfRange" xml:space="preserve">
-    <value>Approach Mode Disabled - Bank out of range</value>
+    <value>Approach Mód Kikapcsolva - Bank out of range ?</value>
     <comment>Approach Mode Disabled - Bank out of range</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.LandingWeightOutOfRange" xml:space="preserve">
-    <value>Approach Mode Disabled - Aircraft is overweight</value>
+    <value>Approach Mód Kikapcsolva - A repülőgép túlsúlyos</value>
     <comment>Approach Mode Disabled - Aircraft is overweight</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSNotEnabled" xml:space="preserve">
-    <value>Approach Mode Disabled
-Vertical Speed Mode must be enabled when Approach Mode is active</value>
+    <value>Approach Mód Kikapcsolva
+Vertical Speed Mode-pt engedélyezni kell, ha a megközelítési mód aktív</value>
     <comment>Approach Mode Disabled
 Vertical Speed Mode must be enabled when Approach Mode is active</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSOutOfRange" xml:space="preserve">
-    <value>Approach Mode Disabled - VS out of range</value>
+    <value>Approach Mód Kikapcsolva - VS túl magas</value>
     <comment>Approach Mode Disabled - VS out of range</comment>
   </data>
   <data name="SystemMessaging.ATC.TuningTo" xml:space="preserve">
-    <value>Tuning to {0} {1}</value>
+    <value>Kapcsolás ide {0} {1}</value>
     <comment>Tuning to {0} {1}</comment>
   </data>
   <data name="SystemMessaging.Autopilot.Disengaged" xml:space="preserve">
-    <value>AUTOPILOT DISENGAGED</value>
+    <value>ROBOTPILÓTA KIKAPCSOLVA</value>
     <comment>AUTOPILOT DISENGAGED</comment>
   </data>
   <data name="SystemMessaging.Autopilot.DisengagedCheckParams" xml:space="preserve">
-    <value>AUTOPILOT DISENGAGED - CHECK FLIGHT PARAMETERS</value>
+    <value>ROBOTPILÓTA KIKAPCSOLVA - ELLENŐRIZD A REPÜLÉSI PARAMÉTEREKET</value>
     <comment>AUTOPILOT DISENGAGED - CHECK FLIGHT PARAMETERS</comment>
   </data>
   <data name="SystemMessaging.Autopilot.EngagedWithClimbRate" xml:space="preserve">
-    <value>AUTOPILOT ON - VS: {0:#0} ft/min</value>
+    <value>ROBOTPILÓTA BE - VS: {0:#0} láb/perc</value>
     <comment>AUTOPILOT ON - VS: {0:#0} ft/min</comment>
   </data>
   <data name="SystemMessaging.Engine.MasterSwitchPrompt" xml:space="preserve">
-    <value>Turn on the master switch in the electrical panel before starting engine</value>
+    <value>A hajtómű beindítása előtt kapcsold be a főkapcsolót az elektromos panelen</value>
     <comment>Turn on the master switch in the electrical panel before starting engine</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.Off" xml:space="preserve">
-    <value>FLIGHT PATH VECTOR OFF</value>
+    <value>REPÜLÉSI ÚT VEKTOR KI</value>
     <comment>FLIGHT PATH VECTOR OFF</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.On" xml:space="preserve">
-    <value>FLIGHT PATH VECTOR ON</value>
+    <value>REPÜLÉSI ÚT VEKTOR BE</value>
     <comment>FLIGHT PATH VECTOR ON</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.Alt" xml:space="preserve">
@@ -2069,7 +2069,7 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>ALT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.ArrivingAtDestination" xml:space="preserve">
-    <value>ARRIVING AT DESTINATION in &lt; 1min</value>
+    <value>ÉRKEZÉS A CÉLHEZ &lt; 1 perc</value>
     <comment>ARRIVING AT DESTINATION in &lt; 1min</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.FlyHdg" xml:space="preserve">
@@ -2081,27 +2081,27 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>FT (feet)</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWpt" xml:space="preserve">
-    <value>NEXT WPT:</value>
+    <value>KÖVETKEZŐ WPT:</value>
     <comment>NEXT WPT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
-    <value>NEXT WPT in &lt; 1 Min - Turn to HDG</value>
+    <value>KÖVETKEZŐ WPT ekkor &lt; 1 Perc - Fordulás a HDG-re</value>
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
-    <value>Cannot start fuel dump. Min altitude 7000ft AGL</value>
+    <value>Nem indul az üzemanyag-kiborítás. Min magasság 7000 láb AGL</value>
     <comment>Cannot start fuel dump. Min altitude 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelowMLW" xml:space="preserve">
-    <value>Cannot start fuel dump. Aircraft is below Maximum Landing Weight</value>
+    <value>Nem indul az üzemanyag-kiborítás. A repülőgép a maximális leszállási tömeg alatt van</value>
     <comment>Cannot start fuel dump. Aircraft is below Maximum Landing Weight</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.FuelTooLow" xml:space="preserve">
-    <value>Cannot start fuel dump. Fuel level too low!</value>
+    <value>Nem indul az üzemanyag-kiborítás. Az üzemanyagszint túl alacsony!</value>
     <comment>Cannot start fuel dump. Fuel level too low!</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Starting" xml:space="preserve">
-    <value>Starting Fuel Dump - Monitor Fuel Level</value>
+    <value>Üzemanyag-kiborítás indítása – Figyelj az üzemanyagszintre</value>
     <comment>Starting Fuel Dump - Monitor Fuel Level</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelow7000" xml:space="preserve">
