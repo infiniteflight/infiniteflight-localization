@@ -698,11 +698,11 @@
     <comment>Brakes</comment>
   </data>
   <data name="Commands.ElevatorTrim" xml:space="preserve">
-    <value>Elevator Trim?</value>
+    <value>Elevator Trim ?</value>
     <comment>Elevator Trim</comment>
   </data>
   <data name="Commands.ElevatorTrim.Description" xml:space="preserve">
-    <value>Controls the Elevator Trim</value>
+    <value>Controls the Elevator Trim ?</value>
     <comment>Controls the Elevator Trim</comment>
   </data>
   <data name="Commands.FlapsDownFull" xml:space="preserve">
@@ -774,7 +774,7 @@
     <comment>Controls the Propeller</comment>
   </data>
   <data name="Commands.Pushback" xml:space="preserve">
-    <value>Pushback ?</value>
+    <value>Pushback</value>
     <comment>Pushback</comment>
   </data>
   <data name="Commands.ReverseThrust" xml:space="preserve">
@@ -814,11 +814,11 @@
     <comment>Controls the airplane Throttle(s)</comment>
   </data>
   <data name="Commands.ToggleSpoilers" xml:space="preserve">
-    <value>Spoilerek Állítása ?</value>
+    <value>Szárnyfékek Állítása</value>
     <comment>Toggle Spoilers</comment>
   </data>
   <data name="Commands.YawAxis.Description" xml:space="preserve">
-    <value>Controls the vertical stabilizer/rudder</value>
+    <value>Controls the vertical stabilizer/rudder ?</value>
     <comment>Controls the vertical stabilizer/rudder</comment>
   </data>
   <data name="Commands.YaxAxis" xml:space="preserve">
@@ -1026,7 +1026,7 @@
     <comment>Cockpit Camera</comment>
   </data>
   <data name="Commands.FlyByCamera" xml:space="preserve">
-    <value>Fly By Camera?</value>
+    <value>Fly By Camera ?</value>
     <comment>Fly By Camera</comment>
   </data>
   <data name="Commands.FollowCamera" xml:space="preserve">
@@ -2089,7 +2089,7 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
-    <value>Nem indul az üzemanyag-kiborítás. Min magasság 7000 láb AGL</value>
+    <value>Nem indul az üzemanyag-kiborítás. Min magasság 7000ft AGL</value>
     <comment>Cannot start fuel dump. Min altitude 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelowMLW" xml:space="preserve">
@@ -2105,210 +2105,210 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>Starting Fuel Dump - Monitor Fuel Level</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelow7000" xml:space="preserve">
-    <value>Fuel dump stopped. Aircraft is below 7000ft AGL</value>
+    <value>Üzemanyag-kiborítás leállítva. A repülőgép 7000ft AGL alatt</value>
     <comment>Fuel dump stopped. Aircraft is below 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelowMLW" xml:space="preserve">
-    <value>Fuel dump stopped. Aircraft is below maximum landing weight</value>
+    <value>Üzemanyag-kiborítás leállítva. A repülőgép a maximális leszállási tömeg alatt van</value>
     <comment>Fuel dump stopped. Aircraft is below maximum landing weight</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.FuelTooLow" xml:space="preserve">
-    <value>Fuel dump stopped. Fuel level too low</value>
+    <value>Üzemanyag-kiborítás leállítva. Az üzemanyagszint túl alacsony</value>
     <comment>Fuel dump stopped. Fuel level too low</comment>
   </data>
   <data name="SystemMessaging.Gear.UpWarning" xml:space="preserve">
-    <value>Warning, Landing Gear is Up</value>
+    <value>Figyelem, Futómű nincs kiengedve</value>
     <comment>Warning, Landing Gear is Up</comment>
   </data>
   <data name="SystemMessaging.LowPowerMode.Disabled" xml:space="preserve">
-    <value>Low Power Mode Disabled</value>
+    <value>Alacsony Fogyasztású Mód Kikapcsolva</value>
     <comment>Low Power Mode Disabled</comment>
   </data>
   <data name="SystemMessaging.LowPowerMode.Enabled" xml:space="preserve">
-    <value>Low Power Mode Enabled</value>
+    <value>Alacsony Fogyasztású Mód Bekapcsolva</value>
     <comment>Low Power Mode Enabled</comment>
   </data>
   <data name="SystemMessaging.OutOfRegion" xml:space="preserve">
-    <value>Infinite Flight Pro is required to fly outside of the default regions.
-Tap here for more information</value>
+    <value>Az Infinite Flight Pro szükséges ahhoz, hogy az alap régiókon kívül repülhess.
+További információért koppints ide</value>
     <comment>Infinite Flight Pro is required to fly outside of the default regions.
 Tap here for more information</comment>
   </data>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
-    <value>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</value>
+    <value>Túlsebesség! Csökkentse a gázt/teljesítményt, hogy a repülőgép maximális sebessége alá lassítson</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
-    <value>STARTING PUSHBACK</value>
+    <value>PUSHBACK INDÍTÁSA</value>
     <comment>STARTING PUSHBACK</comment>
   </data>
   <data name="SystemMessaging.PushbackStopped" xml:space="preserve">
-    <value>PUSHBACK STOPPED</value>
+    <value>PUSHBACK LEÁLLÍTVA</value>
     <comment>PUSHBACK STOPPED</comment>
   </data>
   <data name="SystemMessaging.Refueling.Aerial" xml:space="preserve">
-    <value>Aerial Refueling Started...</value>
+    <value>Légi Utántöltés Megkezdve...</value>
     <comment>Aerial Refueling Started...</comment>
   </data>
   <data name="SystemMessaging.Refueling.Complete" xml:space="preserve">
-    <value>Refueling Complete</value>
+    <value>Utántöltés Teljesítve</value>
     <comment>Refueling Complete</comment>
   </data>
   <data name="SystemMessaging.Refueling.Standard" xml:space="preserve">
-    <value>Refueling Started...</value>
+    <value>Utántöltés Megkezdve...</value>
     <comment>Refueling Started...</comment>
   </data>
   <data name="SystemMessaging.SpeedMode.CannotActivate" xml:space="preserve">
-    <value>Cannot activate speed mode. Airplane is on the ground.</value>
+    <value>A sebesség mód nem aktiválható. A repülőgép a talajon van.</value>
     <comment>Cannot activate speed mode. Airplane is on the ground.</comment>
   </data>
   <data name="SystemMessaging.Stall.Approaching" xml:space="preserve">
-    <value>Approaching stall! Push yoke/stick forward to recover</value>
+    <value>Átesés Közeledik! Told előre a kormányt</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
   <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>STALL! Push yoke/stick forward to recover</value>
+    <value>ÁTESÉS! Told előre a kormányt</value>
     <comment>STALL! Push yoke/stick forward to recover</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
-    <value>Autopilot must be activated to change simulation time scale</value>
+    <value>A szimulációs idő megváltoztatásához aktiválni kell a robotpilótát</value>
     <comment>Autopilot must be activated to change simulation time scale</comment>
   </data>
   <data name="SystemMessaging.TimeScale.FighterJetsWarning" xml:space="preserve">
-    <value>Simulation time scale cannot be changed for fighter jets.</value>
+    <value>A szimuláció idő vadászgépeknél nem módosítható.</value>
     <comment>Simulation time scale cannot be changed for fighter jets.</comment>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
-    <value>AEROBATICS WARNING
-Aerobatic Maneuvers prohibited near airports.</value>
+    <value>MÚREPÜLÉSI FIGYELMEZTETÉS
+Repülőterek közelében tilos műrepülő manővereket végezni.</value>
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>RUNWAY IDLE WARNING
-Staying on active runways for extended periods of time is prohibited.
-Exit the runway or take off to avoid receiving a violation</value>
+    <value>KIFUTÓPÁLYA ELFOGLALÁSI FIGYELMEZTETÉS
+Az aktív kifutópályákon huzamosabb ideig tartózkodni tilos.
+Hagyd el a kifutópályát vagy szállj fel, hogy elkerüld a szabálysértést</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>TAXI SPEED WARNING
-Max ground speed while taxiing: 35kts.
-Slow down to avoid violations.</value>
+    <value>GURULÁSI SEBESSÉG FIGYELMEZTETÉS
+Maximális sebesség gurulás közben: 35kts.
+A szabálysértések elkerülése érdekében lassíts.</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
-    <value>VNAV unavailable during climb.
+    <value>A VNAV nem érhető el emelkedés közben.
 This functionality is only available for descent.</value>
     <comment>VNAV unavailable during climb.\nThis functionality is only available for descent.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
-    <value>VNAV Descending to {0} at {1:n0}ft</value>
+    <value>VNAV Ereszkedés {0}-ra {1:n0}ft</value>
     <comment>VNAV Descending to {0} at {1:n0}ft</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
-    <value>VNAV Unavailable
-No altitude set for any waypoint in Flight Plan</value>
+    <value>VNAV Nem Működik
+A Repülési Tervben egyetlen ponthoz sem állított be magasságot</value>
     <comment>VNAV Unavailable\nNo altitude set for any waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
-    <value>VNAV Unavailable
-No waypoint in Flight Plan</value>
+    <value>VNAV Nem Működik
+Nincs navigációs pont a repülési tervben</value>
     <comment>VNAV Unavailable
 No waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.TargetUpdated" xml:space="preserve">
-    <value>VNAV Target updated to {0} ({2:#0.0}NM) @ {1:n0}ft</value>
+    <value>VNAV Target frissítve erre: {0} ({2:#0.0}NM) @ {1:n0}ft</value>
     <comment>VNAV Target updated to {0} ({2:#0.0}NM) @ {1:n0}ft</comment>
   </data>
   <data name="Violations.ExceededDisconnection" xml:space="preserve">
-    <value>You have been disconnected due to excess violations for this current session.</value>
+    <value>A szabályok túlzott megsértése miatt megszakadt a kapcsolat.</value>
     <comment>You have been disconnected due to excess violations for this current session.</comment>
   </data>
   <data name="Violations.LimitExceeded" xml:space="preserve">
-    <value>Violation Limit Exceeded</value>
+    <value>Megsértési Korlát Túllépve</value>
     <comment>Violation Limit Exceeded</comment>
   </data>
   <data name="WeightAndBalance.Cargo" xml:space="preserve">
-    <value>Cargo</value>
+    <value>Szállítmány</value>
     <comment>Cargo</comment>
   </data>
   <data name="WeightAndBalance.FlightTime" xml:space="preserve">
-    <value>Est. Flight Time</value>
+    <value>Vár. Repülési Idő</value>
     <comment>Est. Flight Time</comment>
   </data>
   <data name="WeightAndBalance.FuelBurn" xml:space="preserve">
-    <value>Fuel Burn</value>
+    <value>Üzemanyag Elhasználás</value>
     <comment>Fuel Burn</comment>
   </data>
   <data name="WeightAndBalance.FuelTanks" xml:space="preserve">
-    <value>Fuel Tanks</value>
+    <value>Üzemanyag Tartályok</value>
     <comment>Fuel Tanks</comment>
   </data>
   <data name="WeightAndBalance.Heavy" xml:space="preserve">
-    <value>Heavy</value>
+    <value>Nehéz</value>
     <comment>Heavy</comment>
   </data>
   <data name="WeightAndBalance.Light" xml:space="preserve">
-    <value>Light</value>
+    <value>Könnyű</value>
     <comment>Light</comment>
   </data>
   <data name="WeightAndBalance.Normal" xml:space="preserve">
-    <value>Normal</value>
+    <value>Normál</value>
     <comment>Normal</comment>
   </data>
   <data name="WeightAndBalance.Others" xml:space="preserve">
-    <value>Others</value>
+    <value>Egyéb</value>
     <comment>Others</comment>
   </data>
   <data name="WeightAndBalance.Passengers" xml:space="preserve">
-    <value>Passengers</value>
+    <value>Utasok</value>
     <comment>Passengers</comment>
   </data>
   <data name="WeightAndBalance.Synchronize" xml:space="preserve">
-    <value>Synchronize</value>
+    <value>Szinkronizálás</value>
     <comment>Synchronize</comment>
   </data>
   <data name="WarningMessageControl.Reported" xml:space="preserve">
-    <value>Reported</value>
+    <value>Jelentve</value>
     <comment>Reported</comment>
   </data>
   <data name="WarningMessageControl.TapToDismiss" xml:space="preserve">
-    <value>Tap to dismiss</value>
+    <value>Nyomj az elvetéshez</value>
     <comment>Tap to dismiss</comment>
   </data>
   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
-    <value>Tap to continue</value>
+    <value>Nyomj a folytatáshoz</value>
     <comment>Tap to continue</comment>
   </data>
   <data name="WarningMessageControl.ViolationsCount" xml:space="preserve">
-    <value>Violations: {0}/{1}</value>
+    <value>Szabálysértések: {0}/{1}</value>
     <comment>Violations: {0}/{1}</comment>
   </data>
   <data name="Multiplayer.GotIt" xml:space="preserve">
-    <value>Got it!</value>
+    <value>Értem!</value>
     <comment>Got it!</comment>
   </data>
   <data name="Multiplayer.Welcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Üdvözlünk</value>
     <comment>Welcome</comment>
   </data>
   <data name="Tips.Default" xml:space="preserve">
-    <value>With your finger on the rudder control, slide down to activate the brakes on the ground.</value>
+    <value>Ujját a kormányvezérlőn csúsztassa lefelé a fékek aktiválásához a talajon.</value>
     <comment>With your finger on the rudder control, slide down to activate the brakes on the ground.</comment>
   </data>
   <data name="FlightRatingPage.CurrentGrade" xml:space="preserve">
-    <value>Grade</value>
+    <value>Fokozat</value>
     <comment>Grade</comment>
   </data>
   <data name="FlightRatingPage.FlightRating" xml:space="preserve">
-    <value>FLIGHT RATING</value>
+    <value>REPÜLÉSI ÉRTÉKELÉS</value>
     <comment>FLIGHT RATING</comment>
   </data>
   <data name="FlightRatingPage.FlightTime" xml:space="preserve">
-    <value>Flight Time</value>
+    <value>Repülési Idő</value>
     <comment>Flight Time</comment>
   </data>
   <data name="FlightRatingPage.Penalty" xml:space="preserve">
-    <value>Penalty</value>
+    <value>Büntetés</value>
     <comment>Penalty</comment>
   </data>
   <data name="FlightRatingPage.Reputation" xml:space="preserve">
@@ -2316,247 +2316,247 @@ No waypoint in Flight Plan</comment>
     <comment>XP</comment>
   </data>
   <data name="FlightRatingPage.ReputationEarned" xml:space="preserve">
-    <value>XP Earned</value>
+    <value>Szerzett XP</value>
     <comment>XP Earned</comment>
   </data>
   <data name="FlightRatingPage.ViolationCount" xml:space="preserve">
-    <value>Violations</value>
+    <value>Szabálysértések</value>
     <comment>Violations</comment>
   </data>
   <data name="Multiplayer.Disconnected" xml:space="preserve">
-    <value>DISCONNECTED</value>
+    <value>SZÉTKAPCSOLVA</value>
     <comment>DISCONNECTED</comment>
   </data>
   <data name="ReportControl.ContinueOffline" xml:space="preserve">
-    <value>Continue Offline</value>
+    <value>Folytatás Offline</value>
     <comment>Continue Offline</comment>
   </data>
   <data name="ReportControl.Reason" xml:space="preserve">
-    <value>Reason: </value>
+    <value>Oka: </value>
     <comment>Reason:</comment>
   </data>
   <data name="ReportControl.ReportedBy" xml:space="preserve">
-    <value>Reported By: </value>
+    <value>Jelentve által: </value>
     <comment>Reported By:</comment>
   </data>
   <data name="SplashScreen.LoadingAirport" xml:space="preserve">
-    <value>Loading your Airport</value>
+    <value>Repülőtér betöltése</value>
     <comment>Loading your Airport</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingAutopilot" xml:space="preserve">
-    <value>Setting autopilot speed to {0}</value>
+    <value>Az robotpilóta sebességének beállítása a következőre: {0}</value>
     <comment>Setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilers" xml:space="preserve">
-    <value>Enabling spoilers</value>
+    <value>Szárnyfékek engedélyezése</value>
     <comment>Enabling spoilers</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilersAndAutopilot" xml:space="preserve">
-    <value>Enabling spoilers and setting autopilot speed to {0}</value>
+    <value>Szárnyfékek engedélyezése és a robotpilóta sebességének beállítása {0}-ra</value>
     <comment>Enabling spoilers and setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.Issued" xml:space="preserve">
-    <value>Speed Violation Issued</value>
+    <value>Sebességkorlát Megsértve</value>
     <comment>Speed Violation Issued</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnots" xml:space="preserve">
-    <value>Reduce speed below {0}kts to avoid violations</value>
+    <value>A szabálysértések elkerülése érdekében csökkentsd a sebességet {0}kts alá</value>
     <comment>Reduce speed below {0}kts to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnotsBelow10k" xml:space="preserve">
-    <value>Reduce speed below {0}kts below 10000ft to avoid violations</value>
+    <value>Csökkentsd a sebességet {0}kts alá 10000ft alatt, hogy elkerüld a szabálysértését</value>
     <comment>Reduce speed below {0}kts below 10000ft to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowMach" xml:space="preserve">
-    <value>Reduce speed below Mach {0:0.00} to avoid violations</value>
+    <value>A szabálysértések elkerülése érdekében csökkentsd a sebességet Mach {0:0.00} alá</value>
     <comment>Reduce speed below Mach {speed} to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.WarningTitle" xml:space="preserve">
-    <value>SPEED WARNING</value>
+    <value>SEBESSÉG FIGYELMEZTETÉS</value>
     <comment>SPEED WARNING</comment>
   </data>
   <data name="Violation.Level0Received.Message" xml:space="preserve">
-    <value>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</value>
+    <value>Egy irányító vagy egy munkatárs megszakította a kapcsolatod. Ez nem szabálysértés, és nincs szükség fellebbezésre.</value>
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
-    <value>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</value>
+    <value>2. szintű szabálysértést kaptál, és leválasztották a jelenlegi repülésedről. Indíthatsz új repülést, és nincs szükség fellebbezésre, ha a szabálysértések teljes száma ezt lehetővé teszi. Javasoljuk, hogy tekintsd át a vonatkozó oktatóanyagokat a youtube.com/infiniteflight oldalon</value>
     <comment>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.Level3Received.Message" xml:space="preserve">
-    <value>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review any applicable tutorials at youtube.com/infiniteflight</value>
+    <value>3. szintű szabálysértést kaptál, és leválasztották a jelenlegi repülésedről. Javasoljuk, hogy tekintsd át a vonatkozó oktatóanyagokat a youtube.com/infiniteflight oldalon</value>
     <comment>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review and applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.UnspecifiedReason" xml:space="preserve">
-    <value>Unspecified Reason</value>
+    <value>Meghatározatlan Ok</value>
     <comment>Unspecified Reason</comment>
   </data>
   <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
-    <value>Aerobatic Maneuvers prohibited near airports.
-A level 1 violation has been issued.</value>
+    <value>Repülőterek közelében tilos műrepülő manővereket végezni..
+1. szintű szabálysértést kaptál.</value>
     <comment>Aerobatic Maneuvers prohibited near airports.
 A level 1 violation has been issued.</comment>
   </data>
   <data name="Violations.AircraftIdle.Message" xml:space="preserve">
-    <value>Aircraft idle on active runway for too long
-A level 1 violation has been issued.</value>
+    <value>Az aktív kifutópályákon huzamosabb ideig tartózkodtál.
+1. szintű szabálysértést kaptál.</value>
     <comment>Aircraft idle on active runway for too long
 A level 1 violation has been issued</comment>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
-    <value>Exceeded max ground speed of 35kts.
-A level 1 violation has been issued.
-Slow down to avoid further violations.</value>
+    <value>Túllépted a 35kts maximális gurulási sebességet.
+1. szintű szabálysértést kaptál.
+Lassíts a további szabálysértések elkerülése érdekében.</value>
     <comment>Exceeded max ground speed of 35kts.
 A level 1 violation has been issued.
 Slow down to avoid further violations.</comment>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
-    <value>Frequencies Staffed</value>
+    <value>Frekvenciák Irányítva</value>
     <comment>Frequencies Staffed</comment>
   </data>
   <data name="ATCRatingPage.Operations" xml:space="preserve">
-    <value>Session Operations</value>
+    <value>Irányítási Műveletek</value>
     <comment>Session Operations</comment>
   </data>
   <data name="ATCRatingPage.Reports" xml:space="preserve">
-    <value>Session Reports</value>
+    <value>Irányítási Jelentések</value>
     <comment>Session Reports</comment>
   </data>
   <data name="ATCRatingPage.Title" xml:space="preserve">
-    <value>SESSION SUMMARY</value>
+    <value>IRÁNYITÁS ÖSSZEFOGLALÓ</value>
     <comment>SESSION SUMMARY</comment>
   </data>
   <data name="ATCRatingPage.TotalOperations" xml:space="preserve">
-    <value>Total Operations</value>
+    <value>Összes Művelet</value>
     <comment>Total Operations</comment>
   </data>
   <data name="ATCRatingPage.TotalTime" xml:space="preserve">
-    <value>Time on Frequency</value>
+    <value>Frekvencián Töltött Idő</value>
     <comment>Time on Frequency</comment>
   </data>
   <data name="SystemMessaging.ATCActive" xml:space="preserve">
-    <value>{0} {1} is active. You have been tuned to this frequency.</value>
+    <value>{0} {1} aktív. Rrre a frekvenciára lettél kapcsolva.</value>
     <comment>{airport} {position} is active. You have been tuned to this frequency.</comment>
   </data>
   <data name="SystemMessaging.ATCOffline" xml:space="preserve">
-    <value>{0} {1} is now offline</value>
+    <value>{0} {1} offline állapotban van</value>
     <comment>{airport} {position} is now offline</comment>
   </data>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
-    <value>{0} {1} is now offline. You have been tuned to {2} {3}.</value>
+    <value>{0} {1} offline állapotban van. Át lettél kapcsolva: {2} {3}.</value>
     <comment>{airport} {position} is now offline. You have been tuned to {2} {3}.</comment>
   </data>
   <data name="Settings.General.ClearCache" xml:space="preserve">
-    <value>Clear Cache</value>
+    <value>Gyorsítótár Törlés</value>
     <comment>Clear Cache</comment>
   </data>
   <data name="Settings.General.NoVoicesFound" xml:space="preserve">
-    <value>No voices found</value>
+    <value>Nem található hang</value>
     <comment>No voices found</comment>
   </data>
   <data name="Settings.Option.FiveSeconds" xml:space="preserve">
-    <value>5 Seconds</value>
+    <value>5 Másodperc</value>
     <comment>5 Seconds</comment>
   </data>
   <data name="Settings.Option.Never" xml:space="preserve">
-    <value>Never</value>
+    <value>Soha</value>
     <comment>Never</comment>
   </data>
   <data name="Settings.Option.TenSeconds" xml:space="preserve">
-    <value>10 Seconds</value>
+    <value>10 Másodperc</value>
     <comment>10 Seconds</comment>
   </data>
   <data name="Settings.Option.TwoSeconds" xml:space="preserve">
-    <value>2 Seconds</value>
+    <value>2 Másodperc</value>
     <comment>2 Seconds</comment>
   </data>
   <data name="Commands.ElevatorTrimDown" xml:space="preserve">
-    <value>Elevator Trim Down</value>
+    <value>Elevator Trim Down ?</value>
     <comment>Elevator Trim Down</comment>
   </data>
   <data name="Commands.ElevatorTrimUp" xml:space="preserve">
-    <value>Elevator Trim Up</value>
+    <value>Elevator Trim Up ?</value>
     <comment>Elevator Trim Up</comment>
   </data>
   <data name="Commands.ThrottleDown" xml:space="preserve">
-    <value>Throttle Down</value>
+    <value>Gázkar Le</value>
     <comment>Throttle Down</comment>
   </data>
   <data name="Commands.ThrottleUp" xml:space="preserve">
-    <value>Throttle Up</value>
+    <value>Gázkar Fel</value>
     <comment>Throttle Up</comment>
   </data>
   <data name="Error.NetworkErrorShort" xml:space="preserve">
-    <value>Network Error</value>
+    <value>Hálózati Hiba</value>
     <comment>Network Error</comment>
   </data>
   <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
-    <value>No Additional Information</value>
+    <value>Nincs További Információ</value>
     <comment>No Additional Information</comment>
   </data>
   <data name="SystemsStatus.NoInfo" xml:space="preserve">
-    <value>No Info</value>
+    <value>Nincs Info</value>
     <comment>No Info</comment>
   </data>
   <data name="SystemStatus.Name" xml:space="preserve">
-    <value>Systems Status</value>
+    <value>Rendszer Állapot</value>
     <comment>Systems Status</comment>
   </data>
   <data name="Global.RestorePurchases" xml:space="preserve">
-    <value>Restore Purchases</value>
+    <value>Vásárlás Visszaállítása</value>
     <comment>Restore Purchases</comment>
   </data>
   <data name="Replay.DeleteAll" xml:space="preserve">
-    <value>Delete All</value>
+    <value>Összes Törlése</value>
     <comment>Delete All</comment>
   </data>
   <data name="Replay.DeleteAll.Message" xml:space="preserve">
-    <value>Delete all replay files?</value>
+    <value>Törlöd az összes visszajátszási fájlt?</value>
     <comment>Delete all replay files?</comment>
   </data>
   <data name="Replay.DeleteSelected" xml:space="preserve">
-    <value>Delete Selected</value>
+    <value>Kiválasztottak Törlése</value>
     <comment>Delete Selected</comment>
   </data>
   <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
-    <value>Delete {0} selected replay files?</value>
+    <value>Törölsz {0} kiválasztott visszajátszási fájlt?</value>
     <comment>Delete {0} selected replay files?</comment>
   </data>
   <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
-    <value>Delete selected replay file?</value>
+    <value>Törlöd a kiválasztott visszajátszási fájlt?</value>
     <comment>Delete selected replay file?</comment>
   </data>
   <data name="Replay.DeleteUnstarred" xml:space="preserve">
-    <value>Delete Unstarred</value>
+    <value>Nem Csillagozottak Törlése</value>
     <comment>Delete Unstarred</comment>
   </data>
   <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
-    <value>Delete unstarred replay files?</value>
+    <value>Törlöd a nem csillagozott visszajátszási fájlokat?</value>
     <comment>Delete unstarred replay files?</comment>
   </data>
   <data name="MapItemInfoControl.Class" xml:space="preserve">
-    <value>Class {0}</value>
+    <value>Osztály {0}</value>
     <comment>Class {0}</comment>
   </data>
   <data name="MapItemInfoControl.Information" xml:space="preserve">
-    <value>INFORMATION</value>
+    <value>INFORMÁCIÓ</value>
     <comment>Information</comment>
   </data>
   <data name="WeightAndBalance.Unavailable" xml:space="preserve">
-    <value>Unavailable</value>
+    <value>Nem Érhető El</value>
     <comment>Unavailable</comment>
   </data>
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
-    <value>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode.</value>
+    <value>Aktiváld a rögzítőfékeket a rámpán, hogy módosítani tudd a súlyt és az egyensúlyt Online Módban.</value>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
-    <value>No jet bridges available at this airport</value>
+    <value>Ezen a repülőtéren nem állnak rendelkezésre beszállóhídak</value>
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>An agreement has not been signed; you must sign the agreement to perform this action (error code {0})</value>
+    <value>Nem írtad alá megállapodást; a művelet végrehajtásához alá kell írnod a szerződést (hibakód: {0})</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
@@ -2588,11 +2588,11 @@ Kérjük, először a Reptér Szerkesztési fórumon keresztül kérd hozzárend
 Please ask to be assigned via the Scenery Editing forum first</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
-    <value>Húzd be a kéziféked, és kapcsold ki a motorokat hogy a beszálló hídhoz parkolj</value>
+    <value>Húzd be a kéziféket, és kapcsold ki a hajtóműveket hogy a beszállóhídhoz csatlakozz</value>
     <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
-    <value>Nincs elérhető beszálló híd a közelben</value>
+    <value>Nincs elérhető beszállóhíd a közelben</value>
     <comment>No jet bridges available nearby</comment>
   </data>
   <data name="MapItemInfoControl.Contributor" xml:space="preserve">
