@@ -298,7 +298,7 @@
     <comment>Account (tab title)</comment>
   </data>
   <data name="Settings.Controls" xml:space="preserve">
-    <value>Iránytás</value>
+    <value>Irányítás</value>
     <comment>Controls (tab title)</comment>
   </data>
   <data name="Settings.DiagnosticsMode" xml:space="preserve">
@@ -330,7 +330,7 @@
     <comment>General (tab title)</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Subtitle" xml:space="preserve">
-    <value>Automatikusan onnan kezdjek ahol legutoljára leszálltam</value>
+    <value>Automatikusan onnan kezdj ahol legutoljára leszálltál</value>
     <comment>Automatically set the start airport to where the last flight ended.</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Title" xml:space="preserve">
@@ -462,7 +462,7 @@
     <comment>Warning</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Subtitle" xml:space="preserve">
-    <value>A csűrők és a kormánylapát automatikus összekapcsolása (csak a földön)</value>
+    <value>A csűrők és a oldalkormánylap automatikus összekapcsolása (csak a földön)</value>
     <comment>Automatically couple the ailerons and rudder (on the ground only)</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Title" xml:space="preserve">
@@ -570,7 +570,7 @@
     <comment>Frame rate limit</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
-    <value>Ha 60 képkocka/mp-re állítja a képkockasebességet, az eszköz túlmelegedését okozhatja. A sérülések elkerülése érdekében az eszköz lelassulhat, ami miatt az Infinite Flight lassan futhat. Javasoljuk, hogy ezt a beállítást tartsa 30 képkocka/mp-en.</value>
+    <value>Ha 60 fps-re állítja a képkockasebességet, az eszköz túlmelegedését okozhatja. A sérülések elkerülése érdekében az eszköz lelassulhat, ami miatt az Infinite Flight lassan futhat. Javasoljuk, hogy ezt a beállítást tartsa 30 képkocka/mp-en.</value>
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
@@ -586,7 +586,7 @@
     <comment>Controls the density of objects at airports</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Title" xml:space="preserve">
-    <value>3D Bbjektum Sűrűsége</value>
+    <value>3D Objektum Sűrűség</value>
     <comment>3D Object Density</comment>
   </data>
   <data name="Settings.Graphics.RenderingQuality.Subtitle" xml:space="preserve">
@@ -698,11 +698,11 @@
     <comment>Brakes</comment>
   </data>
   <data name="Commands.ElevatorTrim" xml:space="preserve">
-    <value>Elevator Trim ?</value>
+    <value>Magassági Kormánylap</value>
     <comment>Elevator Trim</comment>
   </data>
   <data name="Commands.ElevatorTrim.Description" xml:space="preserve">
-    <value>Controls the Elevator Trim ?</value>
+    <value>Magassági Kormánylapot Irányítja</value>
     <comment>Controls the Elevator Trim</comment>
   </data>
   <data name="Commands.FlapsDownFull" xml:space="preserve">
@@ -750,7 +750,7 @@
     <comment>Controls the Mixture</comment>
   </data>
   <data name="Commands.NavLights" xml:space="preserve">
-    <value>Navigációs Lámpák ?</value>
+    <value>Navigációs Fények</value>
     <comment>NavLights</comment>
   </data>
   <data name="Commands.ParkingBrakes" xml:space="preserve">
@@ -782,7 +782,7 @@
     <comment>Reverse Thrust</comment>
   </data>
   <data name="Commands.RollAxis" xml:space="preserve">
-    <value>Gurulás</value>
+    <value>Dőlés</value>
     <comment>Roll</comment>
   </data>
   <data name="Commands.RollAxis.Description" xml:space="preserve">
@@ -790,15 +790,15 @@
     <comment>Controls the ailerons of the airplane</comment>
   </data>
   <data name="Commands.RudderTrim" xml:space="preserve">
-    <value>Rudder Trim ?</value>
+    <value>Oldalkormánylap</value>
     <comment>Rudder Trim</comment>
   </data>
   <data name="Commands.RudderTrim.Description" xml:space="preserve">
-    <value>Controls the Rudder Trim ?</value>
+    <value>Oldalkormánylapot Irányítja</value>
     <comment>Controls the Rudder Trim</comment>
   </data>
   <data name="Commands.StrobeLights" xml:space="preserve">
-    <value>Villogó Fények ?</value>
+    <value>Villogó Lámpa</value>
     <comment>Strobe Lights</comment>
   </data>
   <data name="Commands.TaxiLights" xml:space="preserve">
@@ -818,11 +818,11 @@
     <comment>Toggle Spoilers</comment>
   </data>
   <data name="Commands.YawAxis.Description" xml:space="preserve">
-    <value>Controls the vertical stabilizer/rudder ?</value>
+    <value>Vezérsíkot/Oldalkormánylapot Irányítja</value>
     <comment>Controls the vertical stabilizer/rudder</comment>
   </data>
   <data name="Commands.YaxAxis" xml:space="preserve">
-    <value>Yaw ?</value>
+    <value>Függőleges Elfordulás</value>
     <comment>Yaw</comment>
   </data>
   <data name="Global.InfiniteFlightPro" xml:space="preserve">
@@ -850,7 +850,7 @@
     <comment>Used for communication with controllers and other pilots</comment>
   </data>
   <data name="Settings.Account.Callsign.Title" xml:space="preserve">
-    <value>Hívójel ?</value>
+    <value>Járatszám</value>
     <comment>Callsign</comment>
   </data>
   <data name="Settings.Account.ConnectedMessage" xml:space="preserve">
@@ -894,7 +894,7 @@
     <comment>You are not subscribed to Infinite Flight Pro</comment>
   </data>
   <data name="Settings.Account.Stats.Subtitle" xml:space="preserve">
-    <value>Tekintsd meg szintjét és szabálysértési előzményeid. Ezek a statisztikák határozzák meg a többjátékos szerver szintű jogosultságod</value>
+    <value>Tekintsd meg szinted és szabálysértési előzményeid. Ezek a statisztikák határozzák meg a többjátékos szerver szintű jogosultságod</value>
     <comment>See your grade level and violation history. These stats determine multiplayer server level eligibility</comment>
   </data>
   <data name="Settings.Account.Stats.Title" xml:space="preserve">
@@ -926,7 +926,7 @@
     <comment>Use a different Infinite Flight account to access a subscription bought on another device</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Title" xml:space="preserve">
-    <value>Fiók váltás</value>
+    <value>Fiókváltás</value>
     <comment>Switch Account</comment>
   </data>
   <data name="Settings.Account.Unlink" xml:space="preserve">
@@ -938,11 +938,11 @@
     <comment>View Stats</comment>
   </data>
   <data name="Settings.Controls.Axes" xml:space="preserve">
-    <value>Tengelyek ?</value>
+    <value>Tengelyek</value>
     <comment>Axes</comment>
   </data>
   <data name="Settings.Controls.Axes.AxesKey" xml:space="preserve">
-    <value>Kulcs/Tengely ?</value>
+    <value>Kulcs/Tengely</value>
     <comment>Key/Axis</comment>
   </data>
   <data name="Settings.Controls.Axes.CommandName" xml:space="preserve">
@@ -974,7 +974,7 @@
     <comment>Alternate</comment>
   </data>
   <data name="Settings.Controls.MoveAxisToAssign" xml:space="preserve">
-    <value>Mozgasd a tengelyt az eszközön a hozzárendeléshez ?</value>
+    <value>Mozgasd a tengelyt az eszközön a hozzárendeléshez</value>
     <comment>Move Axis on Device to Assign</comment>
   </data>
   <data name="Settings.Controls.RestoreDefaults" xml:space="preserve">
@@ -1006,7 +1006,7 @@
     <comment>Unassigned</comment>
   </data>
   <data name="Settings.Controls.UseNetworkJoystick" xml:space="preserve">
-    <value>Network Joystick használata ?</value>
+    <value>Network Joystick használata</value>
     <comment>Use Network Joystick</comment>
   </data>
   <data name="Settings.Sounds.ATC" xml:space="preserve">
@@ -1026,7 +1026,7 @@
     <comment>Cockpit Camera</comment>
   </data>
   <data name="Commands.FlyByCamera" xml:space="preserve">
-    <value>Fly By Camera ?</value>
+    <value>Oldal Kamera</value>
     <comment>Fly By Camera</comment>
   </data>
   <data name="Commands.FollowCamera" xml:space="preserve">
@@ -1098,7 +1098,7 @@
     <comment>Reset Camera</comment>
   </data>
   <data name="Commands.SelectATCEntry" xml:space="preserve">
-    <value>Select ATC Entry {0}?</value>
+    <value>ATC Kifejezés Kiválasztása {0}</value>
     <comment>Select ATC Entry {number}</comment>
   </data>
   <data name="Commands.StartEngine" xml:space="preserve">
@@ -1110,7 +1110,7 @@
     <comment>Stop Specified Engine</comment>
   </data>
   <data name="Commands.ToggleATCWindow" xml:space="preserve">
-    <value>ATC Ablak Bekapcsolása ?</value>
+    <value>ATC Ablak Bekapcsolása</value>
     <comment>Toggle ATC Window</comment>
   </data>
   <data name="Commands.ToggleAutopilot" xml:space="preserve">
@@ -1178,7 +1178,7 @@
     <comment>Resume</comment>
   </data>
   <data name="GameMenu.ShortFinal" xml:space="preserve">
-    <value>Rövid Egyenes ?</value>
+    <value>Végső Megközelítés</value>
     <comment>Short Final</comment>
   </data>
   <data name="GameMenu.TakeOff" xml:space="preserve">
@@ -1210,11 +1210,11 @@
     <comment>End Flight</comment>
   </data>
   <data name="GamePage.EndSession.Message" xml:space="preserve">
-    <value>Biztosan befejezed ezt a munkamenetet?</value>
+    <value>Biztosan befejezed ezt a légiforgalmi irányítást?</value>
     <comment>Are you sure you want to end this session?</comment>
   </data>
   <data name="GamePage.EndSession.Title" xml:space="preserve">
-    <value>Munkamenet Vége</value>
+    <value>Irányítás Vége</value>
     <comment>End Session</comment>
   </data>
   <data name="Global.Grade" xml:space="preserve">
@@ -1274,7 +1274,7 @@
     <comment>Your Account</comment>
   </data>
   <data name="WeatherPage.CirrusCloudLayer" xml:space="preserve">
-    <value>Cirrus ? Felhőréteg</value>
+    <value>Cirrus Felhőréteg</value>
     <comment>Cirrus Cloud Layer</comment>
   </data>
   <data name="WeatherPage.CloudsAltitude" xml:space="preserve">
@@ -1306,7 +1306,7 @@
     <comment>Wind Velocity</comment>
   </data>
   <data name="WeatherState.Clouds.Broken" xml:space="preserve">
-    <value>Elromlott ?</value>
+    <value>Borús</value>
     <comment>Broken</comment>
   </data>
   <data name="WeatherState.Clouds.Clear" xml:space="preserve">
@@ -1326,7 +1326,7 @@
     <comment>Extreme</comment>
   </data>
   <data name="WeatherState.Turbulence.Light" xml:space="preserve">
-    <value>Könnyű</value>
+    <value>Gyenge</value>
     <comment>Light</comment>
   </data>
   <data name="WeatherState.Turbulence.Moderate" xml:space="preserve">
@@ -1414,7 +1414,7 @@
     <comment>Departure</comment>
   </data>
   <data name="ATC.Ground" xml:space="preserve">
-    <value>Talaj ? Guruló</value>
+    <value>Gurulóirányító</value>
     <comment>Ground</comment>
   </data>
   <data name="ATC.Station" xml:space="preserve">
@@ -1490,7 +1490,7 @@
     <comment>Not Qualified</comment>
   </data>
   <data name="Global.PleaseWait" xml:space="preserve">
-    <value>Kérlek várj...</value>
+    <value>Kérjük várj...</value>
     <comment>Please wait...</comment>
   </data>
   <data name="Global_FinalApproach" xml:space="preserve">
@@ -1826,7 +1826,7 @@
     <comment>Floor</comment>
   </data>
   <data name="Notam.From" xml:space="preserve">
-    <value>? -Tól    : {0} {1}Z</value>
+    <value>Kezdete ekkor    : {0} {1}Z</value>
     <comment>From (Date)</comment>
   </data>
   <data name="Notam.Message" xml:space="preserve">
@@ -1838,11 +1838,11 @@
     <comment>Title</comment>
   </data>
   <data name="Notam.To" xml:space="preserve">
-    <value>? -Ig      : {0} {1}Z</value>
+    <value>Vége ekkor      : {0} {1}Z</value>
     <comment>To (Date)</comment>
   </data>
   <data name="Notam.UntilFurtherNotice" xml:space="preserve">
-    <value>? -Ig      : További értesítésig</value>
+    <value>Vége      : További értesítésig</value>
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
@@ -1886,7 +1886,7 @@
     <comment>Type</comment>
   </data>
   <data name="Logbook.From" xml:space="preserve">
-    <value>-Ig</value>
+    <value>Honnan</value>
     <comment>From</comment>
   </data>
   <data name="Logbook.LiveFlights" xml:space="preserve">
@@ -1906,7 +1906,7 @@
     <comment>Solo Flights</comment>
   </data>
   <data name="Logbook.To" xml:space="preserve">
-    <value>? To</value>
+    <value>Hova</value>
     <comment>To</comment>
   </data>
   <data name="Logbook.TotalFlightTime" xml:space="preserve">
@@ -2019,7 +2019,7 @@ a kontroller/billentyűzet gombját</value>
     <comment>Approach Mode Disabled - Airspeed out of range (250kts max)</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.BankOutOfRange" xml:space="preserve">
-    <value>Approach Mód Kikapcsolva - Bank out of range ?</value>
+    <value>Approach Mód Kikapcsolva - Túl nagy dőlésszög</value>
     <comment>Approach Mode Disabled - Bank out of range</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.LandingWeightOutOfRange" xml:space="preserve">
@@ -2472,11 +2472,11 @@ Slow down to avoid further violations.</comment>
     <comment>2 Seconds</comment>
   </data>
   <data name="Commands.ElevatorTrimDown" xml:space="preserve">
-    <value>Elevator Trim Down ?</value>
+    <value>Magassági Kormánylap Le</value>
     <comment>Elevator Trim Down</comment>
   </data>
   <data name="Commands.ElevatorTrimUp" xml:space="preserve">
-    <value>Elevator Trim Up ?</value>
+    <value>Magassági Kormánylap Fel</value>
     <comment>Elevator Trim Up</comment>
   </data>
   <data name="Commands.ThrottleDown" xml:space="preserve">
