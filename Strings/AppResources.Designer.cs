@@ -1006,6 +1006,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Could not connect to the server, check your internet connection (error code {0}).
+        /// </summary>
+        internal static string Error_CouldNotGetFileSize {
+            get {
+                return ResourceManager.GetString("Error.CouldNotGetFileSize", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server (error code {0}).
         /// </summary>
         internal static string Error_DataNotLoaded {

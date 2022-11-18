@@ -2677,4 +2677,8 @@ Check map for more information</comment>
     <value>No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists (error code {0})</value>
     <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
   </data>
+  <data name="Error.CouldNotGetFileSize" xml:space="preserve">
+    <value>Could not connect to the server, check your internet connection (error code {0})</value>
+    <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
+  </data>
 </root>
