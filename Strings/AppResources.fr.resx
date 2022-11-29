@@ -2185,4 +2185,8 @@ Ralentissez pour éviter d'autres violations.</value>
   <data name="IntroPage.Home" xml:space="preserve">
     <value>ACCUEIL</value>
   </data>
+  <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
+    <value>Aucun Serveur Disponible</value>
+    <comment>No Available Server</comment>
+  </data>
 </root>
