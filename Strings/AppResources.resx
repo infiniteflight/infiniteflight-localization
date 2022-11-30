@@ -2681,4 +2681,8 @@ Check map for more information</comment>
     <value>Could not connect to the server, check your internet connection (error code {0})</value>
     <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
   </data>
+  <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
+    <value>No Available Server</value>
+    <comment>No Available Server</comment>
+  </data>
 </root>

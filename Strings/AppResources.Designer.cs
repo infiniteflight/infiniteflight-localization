@@ -1420,6 +1420,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No Available Server.
+        /// </summary>
+        internal static string GameModeSelection_NoAvailableServer {
+            get {
+                return ResourceManager.GetString("GameModeSelection.NoAvailableServer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Are you sure you want to end this flight?.
         /// </summary>
         internal static string GamePage_EndFlight_Message {
