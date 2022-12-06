@@ -162,7 +162,7 @@
     <comment>Air Traffic Control</comment>
   </data>
   <data name="IntroPage.FlyOnline" xml:space="preserve">
-    <value>REPÜLJ ONLINE</value>
+    <value>REPÜLJ MÁSOKKAL</value>
     <comment>Fly Online</comment>
   </data>
   <data name="IntroPage.FlySolo" xml:space="preserve">
@@ -2236,7 +2236,7 @@ No waypoint in Flight Plan</comment>
     <comment>Est. Flight Time</comment>
   </data>
   <data name="WeightAndBalance.FuelBurn" xml:space="preserve">
-    <value>Üzemanyag Elhasználás</value>
+    <value>Üzemanyag Felhasználás</value>
     <comment>Fuel Burn</comment>
   </data>
   <data name="WeightAndBalance.FuelTanks" xml:space="preserve">
@@ -2672,7 +2672,7 @@ Check map for more information</comment>
     <comment>We found your account but there is no active subscription associated to it.</comment>
   </data>
   <data name="IntroPage.Home" xml:space="preserve">
-    <value>Főoldal</value>
+    <value>FŐOLDAL</value>
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
