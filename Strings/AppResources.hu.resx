@@ -162,7 +162,7 @@
     <comment>Air Traffic Control</comment>
   </data>
   <data name="IntroPage.FlyOnline" xml:space="preserve">
-    <value>REPÜLJ ONLINE</value>
+    <value>REPÜLJ MÁSOKKAL</value>
     <comment>Fly Online</comment>
   </data>
   <data name="IntroPage.FlySolo" xml:space="preserve">
