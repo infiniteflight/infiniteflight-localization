@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Fds.InfiniteRunway.Resources {
+namespace Fds.Framework.EmbeddedResources {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Fds.InfiniteRunway.Resources {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Fds.InfiniteRunway.Resources.AppResources", typeof(AppResources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Fds.Framework.EmbeddedResources.AppResources", typeof(AppResources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -2235,6 +2235,24 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string LoginSubscriptionPage_Pricing {
             get {
                 return ResourceManager.GetString("LoginSubscriptionPage.Pricing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} / 12 months.
+        /// </summary>
+        internal static string LoginSubscriptionPage_Pricing12Months {
+            get {
+                return ResourceManager.GetString("LoginSubscriptionPage.Pricing12Months", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} / 6 months.
+        /// </summary>
+        internal static string LoginSubscriptionPage_Pricing6Months {
+            get {
+                return ResourceManager.GetString("LoginSubscriptionPage.Pricing6Months", resourceCulture);
             }
         }
         

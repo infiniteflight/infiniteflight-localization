@@ -2685,4 +2685,12 @@ Check map for more information</comment>
     <value>No Available Server</value>
     <comment>No Available Server</comment>
   </data>
+  <data name="LoginSubscriptionPage.Pricing12Months" xml:space="preserve">
+    <value>{0} / 12 months</value>
+    <comment>{0} / 12 months</comment>
+  </data>
+  <data name="LoginSubscriptionPage.Pricing6Months" xml:space="preserve">
+    <value>{0} / 6 months</value>
+    <comment>{0} / 6 months</comment>
+  </data>
 </root>
