@@ -130,7 +130,7 @@
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</value>
+    <value>Over 20,000 airports worldwide, 400+ 3D airports and counting, 15m/px satellite terrain imagery, and more.</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
@@ -2660,5 +2660,37 @@ Check map for more information</comment>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
     <value>Warning: This aircraft is an extra included from an old version and is not of the same quality as our newer aircraft</value>
     <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
+  </data>
+  <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
+    <value>Please maintain a safe distance with the aircraft ahead</value>
+    <comment>Please maintain a safe distance with the aircraft ahead</comment>
+  </data>
+  <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
+    <value>We found your account but there is no active subscription associated to it.</value>
+    <comment>We found your account but there is no active subscription associated to it.</comment>
+  </data>
+  <data name="IntroPage.Home" xml:space="preserve">
+    <value>HOME</value>
+    <comment>Home</comment>
+  </data>
+  <data name="Error.CannotOpenBrowser" xml:space="preserve">
+    <value>No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists (error code {0})</value>
+    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
+  </data>
+  <data name="Error.CouldNotGetFileSize" xml:space="preserve">
+    <value>Could not connect to the server, check your internet connection (error code {0})</value>
+    <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
+  </data>
+  <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
+    <value>No Available Server</value>
+    <comment>No Available Server</comment>
+  </data>
+  <data name="LoginSubscriptionPage.Pricing12Months" xml:space="preserve">
+    <value>{0} / 12 months</value>
+    <comment>{0} / 12 months</comment>
+  </data>
+  <data name="LoginSubscriptionPage.Pricing6Months" xml:space="preserve">
+    <value>{0} / 6 months</value>
+    <comment>{0} / 6 months</comment>
   </data>
 </root>

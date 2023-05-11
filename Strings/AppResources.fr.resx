@@ -130,7 +130,7 @@
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>Plus de 20,000 aéroports, 90+ aeroports en 3D, imagerie satellite à 15m/px et plus encore.</value>
+    <value>Plus de 20,000 aéroports, 400+ aeroports en 3D, imagerie satellite à 15m/px et plus encore.</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
@@ -2175,5 +2175,18 @@ Ralentissez pour éviter d'autres violations.</value>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
     <value>Attention : cet avion est un extra inclus à partir d'une ancienne version et n'est pas de la même qualité que nos avions plus récent</value>
+  </data>
+  <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
+    <value>Veuillez maintenir une distance de sécurité avec l'avion devant vous</value>
+  </data>
+  <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
+    <value>Nous avons trouvé votre compte mais vous n'avez pas d'abonnement actif.</value>
+  </data>
+  <data name="IntroPage.Home" xml:space="preserve">
+    <value>ACCUEIL</value>
+  </data>
+  <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
+    <value>Aucun Serveur Disponible</value>
+    <comment>No Available Server</comment>
   </data>
 </root>

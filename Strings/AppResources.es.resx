@@ -638,7 +638,7 @@
     <comment>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>Más de 20.000 aeropuertos mundiales (90+en 3D), imágenes satelite de 15m/px, y mucho más.</value>
+    <value>Más de 20.000 aeropuertos mundiales (40+en 3D), imágenes satelite de 15m/px, y mucho más.</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
@@ -854,7 +854,7 @@
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
-    <value>Reinicia tu dispositivo y reproduce el error. Vuelve a esta página y pule en "Mandar Log", gracias!</value>
+    <value>Reinicia tu dispositivo y reproduce el error. Vuelve a esta página y pulse en "Mandar Log", gracias!</value>
     <comment>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeWarning" xml:space="preserve">
@@ -2330,5 +2330,17 @@ Consulte el mapa para más información</value>
   </data>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
     <value>Los servicios de rampa necesitan los Frenos de Parking ACTIVADOS, Luces Anticolisión ACTIVADAS, y motores APAGADOS.</value>
+  </data>
+  <data name="IntroPage.Home" xml:space="preserve">
+    <value>Inicio</value>
+  </data>
+  <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
+    <value>Encontramos tu cuenta pero no hay una suscripción activa asociada con ella.</value>
+  </data>
+  <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
+    <value>Debes mantener una distancia segura con el avión delante</value>
+  </data>
+  <data name="Error.CannotOpenBrowser" xml:space="preserve">
+    <value>No hay un navegador para abrir este enlace. Compruebe que haya un navegador instalado. (error {0})</value>
   </data>
 </root>

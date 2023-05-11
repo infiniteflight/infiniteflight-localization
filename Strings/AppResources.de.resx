@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,79 +26,79 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -130,7 +130,7 @@
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>Über 20 000 Flughäfen weltweit, mehr als 90 3D Flughäfen, Satellitenbilder mit einer Auflösung von 15m/px und mehr.</value>
+    <value>Über 20 000 Flughäfen weltweit, mehr als 400 3D Flughäfen, Satellitenbilder mit einer Auflösung von 15m/px und mehr.</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
@@ -1842,13 +1842,11 @@
     <comment>WARNING: ACTIVE NOTAM</comment>
   </data>
   <data name="About.PrivacyPolicy" xml:space="preserve">
-    <value>DATENSCHUTZ
-BEDINGUNGEN</value>
+    <value>DATENSCHUTZBEDINGUNGEN</value>
     <comment>PRIVACY POLICY</comment>
   </data>
   <data name="About.TermsOfUse" xml:space="preserve">
-    <value>NUTZUNGS
-BEDINGUNGEN</value>
+    <value>NUTZUNGSBEDINGUNGEN</value>
     <comment>TERMS OF USE</comment>
   </data>
   <data name="Global.Aircraft" xml:space="preserve">
@@ -1973,6 +1971,7 @@ BEDINGUNGEN</value>
   </data>
   <data name="Logbook.Details" xml:space="preserve">
     <value>Details</value>
+    <comment/>
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
     <value>Zur Zuweisung Taste\nauf Tastatur drücken</value>
@@ -2015,10 +2014,8 @@ BEDINGUNGEN</value>
     <comment>Approach Mode Disabled - Aircraft is overweight</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSNotEnabled" xml:space="preserve">
-    <value>Approach-Modus deaktiviert
-V/S-Modus des Autopiloten muss für den Approach-Modus aktiviert sein</value>
-    <comment>Approach Mode Disabled
-Vertical Speed Mode must be enabled when Approach Mode is active</comment>
+    <value>Approach-Modus deaktiviertV/S-Modus des Autopiloten muss für den Approach-Modus aktiviert sein</value>
+    <comment>Approach Mode DisabledVertical Speed Mode must be enabled when Approach Mode is active</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSOutOfRange" xml:space="preserve">
     <value>Approach-Modus deaktiviert - Sink-/Steigrate überschritten</value>
@@ -2117,10 +2114,8 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>Low Power Mode Enabled</comment>
   </data>
   <data name="SystemMessaging.OutOfRegion" xml:space="preserve">
-    <value>Infinite Flight Pro wird zum Fliegen außerhalb der Standard-Regionen benötigt.
-Klicke hier für mehr Informationen</value>
-    <comment>Infinite Flight Pro is required to fly outside of the default regions.
-Tap here for more information</comment>
+    <value>Infinite Flight Pro wird zum Fliegen außerhalb der Standard-Regionen benötigt.Klicke hier für mehr Informationen</value>
+    <comment>Infinite Flight Pro is required to fly outside of the default regions.Tap here for more information</comment>
   </data>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
     <value>Geschwindigkeitsüberschreitung! Reduziere den Schub, um unter die Maximalgeschwindigkeit zu kommen</value>
@@ -2167,25 +2162,19 @@ Tap here for more information</comment>
     <comment>Simulation time scale cannot be changed for fighter jets.</comment>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
-    <value>WARNUNG - KUNSTFLUG
-Kunstflugmanöver in Flughafennähe verboten.</value>
+    <value>WARNUNG - KUNSTFLUGKunstflugmanöver in Flughafennähe verboten.</value>
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>WARNUNG - INAKTIV AUF STARTBAHN
-Es ist verboten, sich zu lange auf einer aktiven Startbahn aufzuhalten.
-Verlasse die Startbahn, um Verstöße zu vermeiden</value>
+    <value>WARNUNG - INAKTIV AUF STARTBAHNEs ist verboten, sich zu lange auf einer aktiven Startbahn aufzuhalten.Verlasse die Startbahn, um Verstöße zu vermeiden</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>WARNUNG - ROLLGESCHWINDIGKEIT ÜBERSCHRITTEN
-Maximale Rollgeschwindigkeit (GS): 35kts.
-Bremse ab, um Verstöße zu vermeiden.</value>
+    <value>WARNUNG - ROLLGESCHWINDIGKEIT ÜBERSCHRITTENMaximale Rollgeschwindigkeit (GS): 35kts.Bremse ab, um Verstöße zu vermeiden.</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
-    <value>VNAV im Steigflug nicht verfügbar.
-Diese Funktion steht nur im Sinkflug zur Verfügung.</value>
+    <value>VNAV im Steigflug nicht verfügbar.Diese Funktion steht nur im Sinkflug zur Verfügung.</value>
     <comment>VNAV unavailable during climb.\nThis functionality is only available for descent.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
@@ -2193,15 +2182,12 @@ Diese Funktion steht nur im Sinkflug zur Verfügung.</value>
     <comment>VNAV Descending to {0} at {1:n0}ft</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
-    <value>VNAV nicht verfügbar
-Im Flugplan wurden für keinen Wegpunkt Flughöhen eingestellt</value>
+    <value>VNAV nicht verfügbarIm Flugplan wurden für keinen Wegpunkt Flughöhen eingestellt</value>
     <comment>VNAV Unavailable\nNo altitude set for any waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
-    <value>VNAV nicht verfügbar
-Keine Wegpunkte im Flugplan</value>
-    <comment>VNAV Unavailable
-No waypoint in Flight Plan</comment>
+    <value>VNAV nicht verfügbarKeine Wegpunkte im Flugplan</value>
+    <comment>VNAV UnavailableNo waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.TargetUpdated" xml:space="preserve">
     <value>VNAV Ziel aktualisiert auf {0} ({2:#0.0}NM) @ {1:n0}ft</value>
@@ -2376,24 +2362,16 @@ No waypoint in Flight Plan</comment>
     <comment>Unspecified Reason</comment>
   </data>
   <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
-    <value>Kunstflugmanöver in Flughafennähe verboten.
-Ein Level 1 Verstoß wurde erteilt.</value>
-    <comment>Aerobatic Maneuvers prohibited near airports.
-A level 1 violation has been issued.</comment>
+    <value>Kunstflugmanöver in Flughafennähe verboten.Ein Level 1 Verstoß wurde erteilt.</value>
+    <comment>Aerobatic Maneuvers prohibited near airports.A level 1 violation has been issued.</comment>
   </data>
   <data name="Violations.AircraftIdle.Message" xml:space="preserve">
-    <value>Es ist verboten, sich zu lange auf einer aktiven Startbahn aufzuhalten.
-Ein Level 1 Verstoß wurde erteilt.</value>
-    <comment>Aircraft idle on active runway for too long
-A level 1 violation has been issued</comment>
+    <value>Es ist verboten, sich zu lange auf einer aktiven Startbahn aufzuhalten.Ein Level 1 Verstoß wurde erteilt.</value>
+    <comment>Aircraft idle on active runway for too longA level 1 violation has been issued</comment>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
-    <value>Maximale Rollgeschwindigkeit (GS) von 35kts überschritten.
-Ein Level 1 Verstoß wurde erteilt.
-Bremse ab, um weitere Verstöße zu vermeiden.</value>
-    <comment>Exceeded max ground speed of 35kts.
-A level 1 violation has been issued.
-Slow down to avoid further violations.</comment>
+    <value>Maximale Rollgeschwindigkeit (GS) von 35kts überschritten.Ein Level 1 Verstoß wurde erteilt.Bremse ab, um weitere Verstöße zu vermeiden.</value>
+    <comment>Exceeded max ground speed of 35kts.A level 1 violation has been issued.Slow down to avoid further violations.</comment>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
     <value>Besetzte Frequenzen</value>
@@ -2433,89 +2411,246 @@ Slow down to avoid further violations.</comment>
   </data>
   <data name="Commands.ElevatorTrimDown" xml:space="preserve">
     <value>Höhenruder-Trimmung runter</value>
+    <comment/>
   </data>
   <data name="Commands.ElevatorTrimUp" xml:space="preserve">
     <value>Höhenruder-Trimmung hoch</value>
+    <comment/>
   </data>
   <data name="Commands.ThrottleDown" xml:space="preserve">
     <value>Schubhebel zurück</value>
+    <comment/>
   </data>
   <data name="Commands.ThrottleUp" xml:space="preserve">
     <value>Schubhebel vor</value>
+    <comment/>
   </data>
   <data name="Error.NetworkErrorShort" xml:space="preserve">
     <value>Netzwerk-Fehler</value>
+    <comment/>
   </data>
   <data name="FlightPlan.Add" xml:space="preserve">
     <value>Hinzufügen</value>
+    <comment/>
   </data>
   <data name="FlightPlan.Replace" xml:space="preserve">
     <value>Ersetzen</value>
+    <comment/>
   </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
     <value>Möchtest du deinen bestehenden Flugplan erweitern oder ersetzen?</value>
+    <comment/>
   </data>
   <data name="Global.RestorePurchases" xml:space="preserve">
     <value>Käufe wiederherstellen</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteAll" xml:space="preserve">
     <value>Alle löschen</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteAll.Message" xml:space="preserve">
     <value>Alle Replay-Dateien löschen?</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteSelected" xml:space="preserve">
     <value>Ausgewählte löschen</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
     <value>{0} gewählte Replay-Dateien löschen?</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
     <value>Gewählte Replay-Datei löschen?</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteUnstarred" xml:space="preserve">
     <value>Nicht markierte löschen</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
     <value>Alle nicht markierten Replay-Dateien löschen?</value>
+    <comment/>
   </data>
   <data name="Settings.General.ClearCache" xml:space="preserve">
     <value>Cache leeren</value>
+    <comment/>
   </data>
   <data name="Settings.General.NoVoicesFound" xml:space="preserve">
     <value>Keine Stimmen gefunden</value>
+    <comment/>
   </data>
   <data name="Settings.Option.FiveSeconds" xml:space="preserve">
     <value>5 Sekunden</value>
+    <comment/>
   </data>
   <data name="Settings.Option.Never" xml:space="preserve">
     <value>Nie</value>
+    <comment/>
   </data>
   <data name="Settings.Option.TenSeconds" xml:space="preserve">
     <value>10 Sekunden</value>
+    <comment/>
   </data>
   <data name="Settings.Option.TwoSeconds" xml:space="preserve">
     <value>2 Sekunden</value>
+    <comment/>
   </data>
   <data name="SystemStatus.Name" xml:space="preserve">
     <value>System-Status</value>
+    <comment/>
   </data>
   <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
     <value>Keine weiteren Informationen</value>
+    <comment/>
   </data>
   <data name="SystemsStatus.NoInfo" xml:space="preserve">
     <value>Keine Information</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.Information" xml:space="preserve">
     <value>INFORMATION</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.Class" xml:space="preserve">
     <value>Klasse {0}</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Unavailable" xml:space="preserve">
     <value>Nicht verfügbar</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
     <value>Aktiviere die Parkbremse auf dem Vorfeld um im Mehrspielermodus die Gewichtseinstellungen zu ändern.</value>
+    <comment/>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
+    <value>Keine Fluggastbrücken an diesem Flughafen verfügbar</value>
+    <comment>No jet bridges available at this airport</comment>
+  </data>
+  <data name="Error.AgreementNotSigned" xml:space="preserve">
+    <value>Eine Vereinbarung wurde nicht unterzeichnet; Du musst die Vereinbarung unterzeichnen, um diese Aktion durchzuführen (Fehlercode {0})</value>
+    <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
+  </data>
+  <data name="Error.AirportNotFound" xml:space="preserve">
+    <value>Der ausgewählte Flughafen ist nicht verfügbar (Fehlercode {0})</value>
+    <comment>The selected airport is not available</comment>
+  </data>
+  <data name="Error.ExpiredToken" xml:space="preserve">
+    <value>Du wurdest abgemeldet und musst dich manuell neu anmelden (Fehlercode {0})</value>
+    <comment>You have been logged out and need to log in again manually</comment>
+  </data>
+  <data name="Error.NotSupported" xml:space="preserve">
+    <value>Diese Funktion wird nicht unterstützt (Fehlercode {0})</value>
+    <comment>This feature is not supported</comment>
+  </data>
+  <data name="Error.ServerNotFound" xml:space="preserve">
+    <value>Der ausgewählte Server ist nicht verfügbar (Fehlercode {0})</value>
+    <comment>The selected server is not available</comment>
+  </data>
+  <data name="Error.UserNotAssigned" xml:space="preserve">
+    <value>Du bist diesem Flughafen nicht zugewiesen. Bitte kontaktiere einen Reviewer oder Moderator (Fehlercode {0})</value>
+    <comment>You are not assigned to this airport</comment>
+  </data>
+  <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
+    <value>Du hast nicht die Berechtigung, Änderungen an diesem Flughafen hochzuladen.Bitte zuerst über das Scenery Editing Forum nach fragen, ob du zugewiesen werden kannst.</value>
+    <comment>You do not have permission to upload changes to this airport.Please ask to be assigned via the Scenery Editing forum first</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
+    <value>Feststellbremse anziehen und alle Triebwerke abstellen, um Jetbrücken anzudocken</value>
+    <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
+  </data>
+  <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
+    <value>Keine Fluggastbrücken in der Nähe verfügbar</value>
+    <comment>No jet bridges available nearby</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributor" xml:space="preserve">
+    <value>Beitragende</value>
+    <comment>Contributor</comment>
+  </data>
+  <data name="MapItemInfoControl.Contributors" xml:space="preserve">
+    <value>Beitragende</value>
+    <comment>Contributors</comment>
+  </data>
+  <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
+    <value>Eingetreten in einen aktiven TFR bei oder in der Nähe von {0}{1}Für weitere Informationen Karte anschauen</value>
+    <comment>Entered an Active TFR at or near {ICAO}{Title}Check map for more information</comment>
+  </data>
+  <data name="UserAccountControl.Discord" xml:space="preserve">
+    <value>Discord Konto</value>
+    <comment>Discord Account</comment>
+  </data>
+  <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
+    <value>Dein Discord-Konto wurde verknüpft und du hast Zugang zu unserem Discord-Server, der nur für Pro-Mitglieder zugänglich ist.</value>
+    <comment>Your Discord account has been linked and you have access to our Pro-only Discord server</comment>
+  </data>
+  <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
+    <value>Verknüpfe dein Discord-Konto, um exklusiven Zugang zu unserem Pro-Only-Server zu erhalten.</value>
+    <comment>Link a Discord account to gain exclusive access to our Pro-only server</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
+    <value>Dein Discord-Konto wurde verlinkt. Willst du jetzt dem Infinite Flight Discord-Server beitreten?</value>
+    <comment>Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
+    <value>Nicht jetzt</value>
+    <comment>Not Now</comment>
+  </data>
+  <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
+    <value>Konto verknüpft</value>
+    <comment>Account Linked</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
+    <value>Discord muss aus dem App Store installiert werden, um dem Infinite Flight Server beizutreten. Möchtest du es jetzt installieren?</value>
+    <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
+    <value>Discord ist nicht installiert</value>
+    <comment>Discord Not Installed</comment>
+  </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+    <value>Für Bodendienste müssen die Feststellbremsen eingeschaltet, die Beacon Licht ausgeschaltet und die Triebwerke ausgeschaltet sein.</value>
+    <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
+    <value>Alte Flugzeuge zeigen, die nicht den neuesten Entwicklungen entsprechen (hochwertige virtuelle Cockpits, Instrumente usw.)</value>
+    <comment/>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
+    <value>Legacy-Flugzeuge sind zusätzliche Flugzeuge aus älteren Versionen von Infinite Flight und haben nicht dieselbe Qualität. Trotzdem zeigen ?</value>
+    <comment/>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+    <value>LEGACY</value>
+    <comment>Legacy</comment>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+    <value>Achtung! Dieses Flugzeug ist aus einer alten Version und ist nicht von der gleichen Qualität wie unsere neueren Flugzeuge</value>
+    <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
+  </data>
+  <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
+    <value>Bitte einen sicheren Abstand zum vorausfliegenden Flugzeug halten</value>
+    <comment>Please maintain a safe distance with the aircraft ahead</comment>
+  </data>
+  <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
+    <value>Wir haben dein Konto gefunden, aber es ist kein aktives Abonnement damit verbunden.</value>
+    <comment>We found your account but there is no active subscription associated to it.</comment>
+  </data>
+  <data name="IntroPage.Home" xml:space="preserve">
+    <value>HOME</value>
+    <comment>Home</comment>
+  </data>
+  <data name="Error.CannotOpenBrowser" xml:space="preserve">
+    <value>Es ist kein Browser verfügbar, um diesen Link zu öffnen. Überprüfe, ob du einen Browser installiert hast, und kontaktiere den Support, falls das Problem weiterhin besteht (Fehlercode {0})</value>
+    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
+  </data>
+  <data name="Error.CouldNotGetFileSize" xml:space="preserve">
+    <value>Die Verbindung zum Server konnte nicht hergestellt werden, überprüfe deine Internetverbindung (Fehlercode {0})</value>
+    <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
+  </data>
+  <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
+    <value>Kein Server verfügbar</value>
+    <comment>No Available Server</comment>
   </data>
 </root>

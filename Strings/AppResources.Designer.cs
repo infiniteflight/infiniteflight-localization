@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Fds.InfiniteRunway.Resources {
+namespace Fds.Framework.EmbeddedResources {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Fds.InfiniteRunway.Resources {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Fds.InfiniteRunway.Resources.AppResources", typeof(AppResources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Fds.Framework.EmbeddedResources.AppResources", typeof(AppResources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -79,7 +79,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft.
+        ///   Looks up a localized string similar to Warning: This aircraft is an extra included from an old version and is not of the same quality as our newer aircraft.
         /// </summary>
         internal static string AircraftPage_LegacyAircraftWarning {
             get {
@@ -997,6 +997,24 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists (error code {0}).
+        /// </summary>
+        internal static string Error_CannotOpenBrowser {
+            get {
+                return ResourceManager.GetString("Error.CannotOpenBrowser", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Could not connect to the server, check your internet connection (error code {0}).
+        /// </summary>
+        internal static string Error_CouldNotGetFileSize {
+            get {
+                return ResourceManager.GetString("Error.CouldNotGetFileSize", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server (error code {0}).
         /// </summary>
         internal static string Error_DataNotLoaded {
@@ -1398,6 +1416,15 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string GameMenu_WeightBalance {
             get {
                 return ResourceManager.GetString("GameMenu.WeightBalance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No Available Server.
+        /// </summary>
+        internal static string GameModeSelection_NoAvailableServer {
+            get {
+                return ResourceManager.GetString("GameModeSelection.NoAvailableServer", resourceCulture);
             }
         }
         
@@ -1951,6 +1978,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to HOME.
+        /// </summary>
+        internal static string IntroPage_Home {
+            get {
+                return ResourceManager.GetString("IntroPage.Home", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to LOGBOOK.
         /// </summary>
         internal static string IntroPage_Logbook {
@@ -2167,6 +2203,15 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to We found your account but there is no active subscription associated to it..
+        /// </summary>
+        internal static string LoginSubscriptionPage_NoSubscriptionFound {
+            get {
+                return ResourceManager.GetString("LoginSubscriptionPage.NoSubscriptionFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Not Available.
         /// </summary>
         internal static string LoginSubscriptionPage_NotAvailable {
@@ -2194,6 +2239,24 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} / 12 months.
+        /// </summary>
+        internal static string LoginSubscriptionPage_Pricing12Months {
+            get {
+                return ResourceManager.GetString("LoginSubscriptionPage.Pricing12Months", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} / 6 months.
+        /// </summary>
+        internal static string LoginSubscriptionPage_Pricing6Months {
+            get {
+                return ResourceManager.GetString("LoginSubscriptionPage.Pricing6Months", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits.
         /// </summary>
         internal static string LoginSubscriptionPage_ProCarouselText1 {
@@ -2203,7 +2266,7 @@ namespace Fds.InfiniteRunway.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more..
+        ///   Looks up a localized string similar to Over 20,000 airports worldwide, 400+ 3D airports and counting, 15m/px satellite terrain imagery, and more..
         /// </summary>
         internal static string LoginSubscriptionPage_ProCarouselText2 {
             get {
@@ -4718,6 +4781,15 @@ namespace Fds.InfiniteRunway.Resources {
         internal static string SystemMessaging_OverspeedViolation_WarningTitle {
             get {
                 return ResourceManager.GetString("SystemMessaging.OverspeedViolation.WarningTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please maintain a safe distance with the aircraft ahead.
+        /// </summary>
+        internal static string SystemMessaging_ProximityWarning {
+            get {
+                return ResourceManager.GetString("SystemMessaging.ProximityWarning", resourceCulture);
             }
         }
         
