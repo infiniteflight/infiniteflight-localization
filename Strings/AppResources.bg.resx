@@ -2648,10 +2648,10 @@ Check map for more information</comment>
       <value>НЕДОСТЪПНО</value>
   </data>
   <data name="FlightFreeControl.WeatherUpper" xml:space="preserve">
-      <value>ВРЕМЕТО</value>
+      <value>ВРЕМЕ</value>
   </data>
   <data name="FlightMenu.AltimeterUpper" xml:space="preserve">
-      <value>АЛТИМЕТЪР</value>
+      <value>БАРОМЕТЪР</value>
   </data>
   <data name="FlightMenu.ApproxDurationUpper" xml:space="preserve">
       <value>ПРИБЛ. ПРОДЪЛЖИТЕЛНОСТ</value>
@@ -2663,13 +2663,13 @@ Check map for more information</comment>
       <value>РАЗСТОЯНИЕ</value>
   </data>
   <data name="FlightMenu.FlightSchoolDescription" xml:space="preserve">
-      <value>Освои уменията си за пилотиране с интерактивни уроци</value>
+      <value>Подобрете своите пилотски умения с интерактивни уроци и предизвикателства</value>
   </data>
   <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
-      <value>УЧЕБНИК ЗА ПОЛЕТИ</value>
+      <value>ПИЛОТСКО УЧИЛИЩЕ</value>
   </data>
   <data name="FlightMenu.FreeFlightDescription" xml:space="preserve">
-      <value>Избери си самолет и летище, персонализирай плана си за полет и се наслаждавай на поглъщащо летене в своя темпо</value>
+      <value>Изберете самолет и летище, персонализирайте плана си за полет и се наслаждавайте на поглъщащо летене в свое темпо</value>
   </data>
   <data name="FlightMenu.FreeFlightUpper" xml:space="preserve">
       <value>СВОБОДЕН ПОЛЕТ</value>
@@ -2702,47 +2702,47 @@ Check map for more information</comment>
       <value>ВИДИМОСТ</value>
   </data>
   <data name="FlightMenu.Wind" xml:space="preserve">
-      <value>{0:#000}° с {1} възлове</value>
-      <comment>{0:#000}° с {1} възлове</comment>
+      <value>{0:#000}° с {1} възела</value>
+      <comment>{0:#000}° с {1} възела</comment>
   </data>
   <data name="FlightMenu.WindCalm" xml:space="preserve">
-      <value>Безветрие</value>
+      <value>Спокойни</value>
   </data>
   <data name="FlightMenu.WindUpper" xml:space="preserve">
       <value>ВЯТЪР</value>
   </data>
   <data name="FlightMenu.WindWithGust" xml:space="preserve">
-      <value>{0:#000}° с {1} - {2} възлове</value>
+      <value>{0:#000}° с {1} - {2} възела</value>
   </data>
   <data name="FlightMenu.WorldUpper" xml:space="preserve">
       <value>СВЯТ</value>
   </data>
   <data name="FlightMissionControl.LongHaulUpper" xml:space="preserve">
-      <value>ДЪЛГОПЪТЕН</value>
+      <value>ДЪЛГО РАЗСТОЯНИЕ</value>
   </data>
   <data name="FlightMissionControl.MediumHaulUpper" xml:space="preserve">
-      <value>СРЕДНОПЪТЕН</value>
+      <value>СРЕДНО РАЗСТОЯНИЕ</value>
   </data>
   <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
       <value>НЯМА НАМЕРЕНИ ЗАДАЧИ</value>
   </data>
   <data name="FlightMissionControl.ShortHaulUpper" xml:space="preserve">
-      <value>КРАТКОПЪТЕН</value>
+      <value>КЪСО РАЗСТОЯНИЕ</value>
   </data>
   <data name="FlightMissionControl.UltraLongHaulUpper" xml:space="preserve">
-      <value>УЛТРА ДЪЛГОПЪТЕН</value>
+      <value>МНОГО ДЪЛГО РАЗСТОЯНИЕ</value>
   </data>
   <data name="FlightSchoolControl.AircraftUpper" xml:space="preserve">
       <value>САМОЛЕТ</value>
   </data>
   <data name="FlightSchoolControl.NoEntrySelected" xml:space="preserve">
-      <value>НЯМА ИЗБРАНА ЗАПИС</value>
+      <value>НЯМА ИЗБРАН ЗАПИС</value>
   </data>
   <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
       <value>НЯМА НАМЕРЕНИ УРОЦИ</value>
   </data>
   <data name="Global.NotApplicable" xml:space="preserve">
-      <value>Н/А</value>
+      <value>НЕНАЛИЧНО</value>
   </data>
   <data name="LogbookControl.AircraftUpper" xml:space="preserve">
       <value>САМОЛЕТ</value>
@@ -2751,7 +2751,7 @@ Check map for more information</comment>
       <value>ВСИЧКИ</value>
   </data>
   <data name="LogbookControl.AtcUpper" xml:space="preserve">
-      <value>ATC</value>
+      <value>РВД</value>
   </data>
   <data name="LogbookControl.DistanceUpper" xml:space="preserve">
       <value>РАЗСТОЯНИЕ</value>
@@ -2760,16 +2760,16 @@ Check map for more information</comment>
       <value>ПРОДЪЛЖИТЕЛНОСТ</value>
   </data>
   <data name="LogbookControl.ExportErrorMessage" xml:space="preserve">
-      <value>Грешка при изнасянето на файловия запис. Проверете наличието на достатъчно свободно пространство за съхранение.</value>
+      <value>Грешка при експортирането на файловия запис. Проверете наличието на достатъчно свободно пространство за съхранение.</value>
   </data>
   <data name="LogbookControl.ExportingUpper" xml:space="preserve">
-      <value>ИЗНАСЯНЕ</value>
+      <value>ЕКСПОРТИРАНЕ</value>
   </data>
   <data name="LogbookControl.FileSizeUpper" xml:space="preserve">
       <value>РАЗМЕР НА ФАЙЛА</value>
   </data>
   <data name="LogbookControl.MultiplayerUpper" xml:space="preserve">
-      <value>МУЛТИПЛЕЪР</value>
+      <value>МУЛТИПЛЕЙЪР</value>
   </data>
   <data name="LogbookControl.NoEntrySelected" xml:space="preserve">
       <value>НЯМА ИЗБРАН ЗАПИС</value>
@@ -2778,7 +2778,7 @@ Check map for more information</comment>
       <value>НЯМА НАМЕРЕНИ ЕЛЕМЕНТИ</value>
   </data>
   <data name="LogbookControl.OnlyReplaysUpper" xml:space="preserve">
-      <value>САМО ПОВТОРЕНИЯ</value>
+      <value>САМО ЗАПИСИ</value>
   </data>
   <data name="LogbookControl.ServerUpper" xml:space="preserve">
       <value>СЪРВЪР</value>
@@ -2787,10 +2787,10 @@ Check map for more information</comment>
       <value>САМОСТОЯТЕЛЕН</value>
   </data>
   <data name="LogbookControl.XpEarnedUpper" xml:space="preserve">
-      <value>ЗАРАБОТЕНО XP</value>
+      <value>ЗАРАБОТЕН ОПИТ</value>
   </data>
   <data name="LogbookControl.YourLogbook" xml:space="preserve">
-      <value>ТВОЯТА ДНЕВНИКА</value>
+      <value>ВАШИЯТ ДНЕВНИК</value>
   </data>
   <data name="LoginSubscriptionPage.Pricing12Months" xml:space="preserve">
       <value>{0} / 12 месеца</value>
@@ -2799,28 +2799,28 @@ Check map for more information</comment>
       <value>{0} / 6 месеца</value>
   </data>
   <data name="MainMenuPage.AirTrafficControlUpper" xml:space="preserve">
-      <value>УПРАВЛЕНИЕ НА ВЪЗДУШНОТО ПРОСТРАНСТВО</value>
+      <value>УПРАВЛЕНИЕ НА ВЪЗД. ПРОСТРАНСТВО</value>
   </data>
   <data name="MainMenuPage.ControlButtonUpper" xml:space="preserve">
-      <value>УПРАВЛЕНИЕ</value>
+      <value>СТАРТ</value>
   </data>
   <data name="MainMenuPage.FlightUpper" xml:space="preserve">
       <value>ПОЛЕТ</value>
   </data>
   <data name="MainMenuPage.FlyButtonUpper" xml:space="preserve">
-      <value>ЛЕТИ</value>
+      <value>СТАРТ</value>
       </data>
   <data name="MainMenuPage.OpenButtonUpper" xml:space="preserve">
       <value>ОТВОРИ</value>
   </data>
   <data name="MainMenuPage.ReplayButtonUpper" xml:space="preserve">
-      <value>ПОВТОРЕНИЕ</value>
+      <value>ЗАПИС</value>
   </data>
   <data name="MainMenuPage.UnableToPlayReplay" xml:space="preserve">
-      <value>Неуспешно възпроизвеждане на файл за повторение</value>
+      <value>Неуспешно възпроизвеждане на файл за запис</value>
   </data>
   <data name="MenuAtcControl.ChangeAirportUpper" xml:space="preserve">
-      <value>СМЕНИ ЛЕТИЩЕТО</value>
+      <value>СМЯНА НА ЛЕТИЩЕТО</value>
   </data>
   <data name="MenuAtcControl.Duration" xml:space="preserve">
       <value>Продължителност</value>
@@ -2832,13 +2832,13 @@ Check map for more information</comment>
       <value>Няколко честоти</value>
   </data>
   <data name="MenuAtcControl.NewAtcSessionUpper" xml:space="preserve">
-      <value>НОВА СЕСИЯ ATC</value>
+      <value>НОВА РВД СЕСИЯ</value>
   </data>
   <data name="MenuAtcControl.NoSessionsFoundUpper" xml:space="preserve">
       <value>НЯМА НАМЕРЕНИ СЕСИИ</value>
   </data>
   <data name="MenuAtcControl.ResumeAtcSessionQuestion" xml:space="preserve">
-      <value>Продължи ATC сесията?</value>
+      <value>Желаете ли да продължите РВД сесията?</value>
   </data>
   <data name="MenuAtcControl.UnableToRestartUserNotSame" xml:space="preserve">
       <value>Не е възможно рестартиране, тъй като тази сесия не е свързана с вашия акаунт</value>
@@ -2847,16 +2847,16 @@ Check map for more information</comment>
       <value>Покажи самолети от по-стари версии</value>
   </data>
   <data name="World.SoloDescription" xml:space="preserve">
-      <value>Изберете своя собствен самолет и маршрут, тествайте своите пилотски умения и изследвайте красивите пейзажи без правила и други пилоти.</value>
+      <value>Изберете свой собствен самолет и маршрут, тествайте своите пилотски умения и изследвайте красивите пейзажи без правила и други пилоти.</value>
   </data>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
-    <value>Запазете безопасно разстояние с предния самолет</value>
+      <value>Запазете безопасно разстояние с предния самолет</value>
   </data>
   <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
       <value>Намерихме вашия акаунт, но няма активна абонаментна услуга, свързана с него.</value>
   </data>
   <data name="IntroPage.Home" xml:space="preserve">
-      <value>Начало</value>
+      <value>НАЧАЛО</value>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
       <value>Времевият интервал за тази сесия не е валиден (код на грешка {0})</value>
