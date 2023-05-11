@@ -2965,4 +2965,11 @@ Check map for more information</comment>
     <value>Unable to restart as this session is not tied to your account</value>
     <comment>Unable to restart as this session is not tied to your account</comment>
   </data>
+  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+    <value>Show aircraft from older versions</value>
+  </data>
+  <data name="World.SoloDescription" xml:space="preserve">
+    <value>Choose your own aircraft and route, test your piloting skills and explore beautiful scenery without rules or other pilots.</value>
+    <comment>Choose your own aircraft and route, test your piloting skills and explore beautiful scenery without rules or other pilots.</comment>
+  </data>
 </root>

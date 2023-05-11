@@ -115,6 +115,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Show aircraft from older versions.
+        /// </summary>
+        internal static string AircraftPage_ShowLegacyAircraft {
+            get {
+                return ResourceManager.GetString("AircraftPage.ShowLegacyAircraft", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Show Pro Aircraft.
         /// </summary>
         internal static string AircraftPage_ShowProAircraft {
@@ -6422,6 +6431,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string WeightAndBalance_Unavailable_Message {
             get {
                 return ResourceManager.GetString("WeightAndBalance.Unavailable.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose your own aircraft and route, test your piloting skills and explore beautiful scenery without rules or other pilots..
+        /// </summary>
+        internal static string World_SoloDescription {
+            get {
+                return ResourceManager.GetString("World.SoloDescription", resourceCulture);
             }
         }
     }
