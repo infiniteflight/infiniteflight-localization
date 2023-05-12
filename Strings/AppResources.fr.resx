@@ -60,10 +60,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root"
-    xmlns=""
-    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -2593,5 +2590,59 @@ Consultez la carte pour plus d’informations</value>
   </data>
   <data name="World.SoloDescription" xml:space="preserve">
     <value>Choisissez votre propre avion et itinéraire, testez vos compétences de pilotage et explorez de beaux paysages sans règles ni autres pilotes.</value>
+  </data>
+  <data name="DefaultMission.AfterLanding" xml:space="preserve">
+    <value>Bienvenue à {0}. Dirigez-vous vers le parking et éteignez l'avion pour terminer cette mission</value>
+  </data>
+  <data name="DefaultMission.Congratulation" xml:space="preserve">
+    <value>Félicitations pour avoir réussi ce vol jusqu'à {0} !
+  Vous pouvez quitter cette session ou vous lancer dans un autre voyage vers une nouvelle destination. À très bientôt dans le ciel d'Infinite Flight !</value>
+  </data>
+  <data name="DefaultMission.Congratulation2" xml:space="preserve">
+    <value>Félicitations pour avoir accompli ce vol jusqu'à {0} !
+  Vous pouvez quitter cette session ou embarquer pour une autre destination.</value>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlight" xml:space="preserve">
+    <value>Bon vol vers {0}</value>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlightTaxi" xml:space="preserve">
+    <value>Vous êtes maintenant prêt à rouler, bon vol vers {0}</value>
+  </data>
+  <data name="DefaultMission.MissionBriefWindow" xml:space="preserve">
+    <value>Ceci est votre fenêtre de résumé de mission. Vous pouvez revenir ici à tout moment pour voir ce que vous devez faire. Cette fenêtre peut être masquée en appuyant sur le bouton "MISSION BRIEF" à droite</value>
+  </data>
+  <data name="DefaultMission.PushbackEnd" xml:space="preserve">
+    <value>Le repoussage est terminé. Appuyez sur "DETACH TUG" dans le menu "GROUND SERVICES" pour déconnecter le tracteur de l'avion</value>
+  </data>
+  <data name="DefaultMission.PushbackEndPrompt" xml:space="preserve">
+    <value>Lorsque vous avez terminé, appuyez à nouveau sur le bouton "PUSH" pour arrêter.</value>
+  </data>
+  <data name="DefaultMission.PushbackStart" xml:space="preserve">
+    <value>Maintenant que les freins de stationnement sont relâchés, pour commencer le repoussage, appuyez simplement sur le bouton "PUSH" dans le menu "GROUND SERVICES".</value>
+  </data>
+  <data name="DefaultMission.PushbackSteering" xml:space="preserve">
+    <value>Le repoussage a commencé, utilisez le curseur "RUD BRAKES" en bas à droite pour diriger l'avion dans la direction que vous souhaitez.</value>
+  </data>
+  <data name="DefaultMission.ReadyForPushback" xml:space="preserve">
+    <value>Nous sommes prêts pour le repoussage, ouvrez le menu "GROUND SERVICES" à droite, descendez jusqu'à la section "PUSHBACK" et appuyez sur "ATTACH TUG"</value>
+  </data>
+  <data name="DefaultMission.ReleaseBrakes" xml:space="preserve">
+    <value>Si vous êtes prêt à commencer le repoussage, les freins de stationnement doivent être relâchés en appuyant sur le bouton "PARK BRAKES" en bas à gauche</value>
+  </data>
+  <data name="DefaultMission.StartEngine" xml:space="preserve">
+    <value>Nous pouvons maintenant démarrer les moteurs s'ils ne sont pas déjà allumés. Ouvrez le menu "SYSTEMS" à droite et appuyez sur "AUTO START" pour démarrer les moteurs et préparer l'avion pour le roulage</value>
+  </data>
+  <data name="DefaultMission.TapToContinue" xml:space="preserve">
+    <value>Tappez ici pour continuer</value>
+  </data>
+  <data name="DefaultMission.Welcome" xml:space="preserve">
+    <value>Bienvenue sur Infinite Flight ! Tappez cette fenêtre pour commencer et voir le résumé de la mission et les instructions</value>
+  </data>
+  <data name="DefaultMission.YourMissionBrief" xml:space="preserve">
+    <value>Votre mission d'aujourd'hui est :
+{0}</value>
+  </data>
+  <data name="Mission.MissionBrief" xml:space="preserve">
+    <value>BRIEFING DE LA MISSION</value>
   </data>
 </root>

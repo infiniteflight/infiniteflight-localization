@@ -952,6 +952,153 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Welcome to {0}. Taxi to parking and shutdown the airplane to complete this mission.
+        /// </summary>
+        internal static string DefaultMission_AfterLanding {
+            get {
+                return ResourceManager.GetString("DefaultMission.AfterLanding", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Congratulations on completing this flight to {0}!
+        ///You can quit this session or embark on another journey to a new destination. See you soon in the Infinite Flight skies!.
+        /// </summary>
+        internal static string DefaultMission_Congratulation {
+            get {
+                return ResourceManager.GetString("DefaultMission.Congratulation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Congratulations on completing this flight to {0}!
+        ///You can quit this session or embark on another journey to a new destination..
+        /// </summary>
+        internal static string DefaultMission_Congratulation2 {
+            get {
+                return ResourceManager.GetString("DefaultMission.Congratulation2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Have a great flight to {0}.
+        /// </summary>
+        internal static string DefaultMission_HaveAGoodFlight {
+            get {
+                return ResourceManager.GetString("DefaultMission.HaveAGoodFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You are now ready to taxi, have a great flight to {0}.
+        /// </summary>
+        internal static string DefaultMission_HaveAGoodFlightTaxi {
+            get {
+                return ResourceManager.GetString("DefaultMission.HaveAGoodFlightTaxi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This is your mission brief window. You can come back here at any time to see what you need to do. This window can be toggled by tapping on the &quot;MISSION BRIEF&quot; button on the right.
+        /// </summary>
+        internal static string DefaultMission_MissionBriefWindow {
+            get {
+                return ResourceManager.GetString("DefaultMission.MissionBriefWindow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pushback has been stopped. Press &quot;DETACH TUG&quot; in the &quot;GROUND SERVICES&quot; menu to disconnect the tug from the aircraft.
+        /// </summary>
+        internal static string DefaultMission_PushbackEnd {
+            get {
+                return ResourceManager.GetString("DefaultMission.PushbackEnd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to When you&apos;re done, press the &quot;PUSH&quot; button again to stop..
+        /// </summary>
+        internal static string DefaultMission_PushbackEndPrompt {
+            get {
+                return ResourceManager.GetString("DefaultMission.PushbackEndPrompt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Now that the parking brakes are released, to start pushback, just tap on the &quot;PUSH&quot; button in the &quot;GROUND SERVICES&quot; menu..
+        /// </summary>
+        internal static string DefaultMission_PushbackStart {
+            get {
+                return ResourceManager.GetString("DefaultMission.PushbackStart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pushback has started, use the &quot;RUD BRAKES&quot; slider on the bottom right to steer the aircraft in the direction you want..
+        /// </summary>
+        internal static string DefaultMission_PushbackSteering {
+            get {
+                return ResourceManager.GetString("DefaultMission.PushbackSteering", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We are ready for pushback, open the &quot;GROUND SERVICES&quot; menu on the right, slide down to the &quot;PUSHBACK&quot; section and tap on &quot;ATTACH TUG&quot;.
+        /// </summary>
+        internal static string DefaultMission_ReadyForPushback {
+            get {
+                return ResourceManager.GetString("DefaultMission.ReadyForPushback", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you&apos;re ready to start pushback, the parking brakes need to be released by tapping on the &quot;PARK BRAKES&quot; button on the bottom left.
+        /// </summary>
+        internal static string DefaultMission_ReleaseBrakes {
+            get {
+                return ResourceManager.GetString("DefaultMission.ReleaseBrakes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We can now start the engines if they are not started already. Open the &quot;SYSTEMS&quot; menu on the right and tap on &quot;AUTO START&quot; to start the engines and get the plane ready for taxi.
+        /// </summary>
+        internal static string DefaultMission_StartEngine {
+            get {
+                return ResourceManager.GetString("DefaultMission.StartEngine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tap here to continue.
+        /// </summary>
+        internal static string DefaultMission_TapToContinue {
+            get {
+                return ResourceManager.GetString("DefaultMission.TapToContinue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Welcome to Infinite Flight! Tap this window to get started and see the mission briefing and instructions.
+        /// </summary>
+        internal static string DefaultMission_Welcome {
+            get {
+                return ResourceManager.GetString("DefaultMission.Welcome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your mission today is:
+        ///{0}.
+        /// </summary>
+        internal static string DefaultMission_YourMissionBrief {
+            get {
+                return ResourceManager.GetString("DefaultMission.YourMissionBrief", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0}).
         /// </summary>
         internal static string Error_AccountAlreadyInUse {
@@ -3189,6 +3336,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string MenuPageBase_ShowUsernameDisabled {
             get {
                 return ResourceManager.GetString("MenuPageBase.ShowUsernameDisabled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MISSION BRIEF.
+        /// </summary>
+        internal static string Mission_MissionBrief {
+            get {
+                return ResourceManager.GetString("Mission.MissionBrief", resourceCulture);
             }
         }
         

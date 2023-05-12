@@ -2332,7 +2332,7 @@ Consulte el mapa para más información</value>
     <value>Los servicios de rampa necesitan los Frenos de Parking ACTIVADOS, Luces Anticolisión ACTIVADAS, y motores APAGADOS.</value>
   </data>
   <data name="IntroPage.Home" xml:space="preserve">
-    <value>Inicio</value>
+    <value>INICIO</value>
   </data>
   <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
     <value>Encontramos tu cuenta pero no hay una suscripción activa asociada con ella.</value>
@@ -2524,7 +2524,7 @@ Consulte el mapa para más información</value>
     <value>CONTROLAR</value>
   </data>
   <data name="MainMenuPage.FlightUpper" xml:space="preserve">
-    <value>VUELO</value>
+    <value>VUELOS</value>
   </data>
   <data name="MainMenuPage.FlyButtonUpper" xml:space="preserve">
     <value>VOLAR</value>
@@ -2564,5 +2564,62 @@ Consulte el mapa para más información</value>
   </data>
   <data name="World.SoloDescription" xml:space="preserve">
     <value>Elige tu propio avión y ruta, pon a prueba tus habilidades de pilotaje y explora hermosos paisajes sin reglas ni otros pilotos.</value>
+  </data>
+  <data name="DefaultMission.AfterLanding" xml:space="preserve">
+  <value>Bienvenido a {0}. Dirígete al parking y apaga el avión para finalizar esta misión</value>
+  </data>
+  <data name="DefaultMission.Congratulation" xml:space="preserve">
+    <value>¡Enhorabuena por completar tu vuelo a {0}!
+  Puedes terminar esta sesión o iniciar un vuelo nuevo hacia otro destino. ¡Nos vemos pronto en el aire!</value>
+  </data>
+  <data name="DefaultMission.Congratulation2" xml:space="preserve">
+    <value>¡Enhorabuena! Has llegado a a {0}!
+  Puedes terminar esta sesión o comenzar una ruta nueva a otro destino.</value>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlight" xml:space="preserve">
+    <value>Que tengas un buen vuelo a {0}</value>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlightTaxi" xml:space="preserve">
+    <value>Ya estás listo para rodar a la pista de despegue, que tengas un buen vuelo a {0}</value>
+  </data>
+  <data name="DefaultMission.MissionBriefWindow" xml:space="preserve">
+    <value>Esta es tu ventana de resumen de la misión. Puedes volver aquí en cualquier momento para ver tu próxima tarea. Esta ventana se puede ocultar tocando el botón "MISSION BRIEF" a la derecha</value>
+  </data>
+  <data name="DefaultMission.PushbackEnd" xml:space="preserve">
+    <value>El pushback ha terminado. Pulse "DETACH TUG" en el menú "GROUND SERVICES" para desconectar el remolcador del avión</value>
+  </data>
+  <data name="DefaultMission.PushbackEndPrompt" xml:space="preserve">
+    <value>Cuando termines, pulse el botón "PUSH" nuevamente para parar el pushback.</value>
+  </data>
+  <data name="DefaultMission.PushbackStart" xml:space="preserve">
+    <value>Ahora que los frenos de parking están desactivados, para comenzar el pushback, pulse el botón "PUSH" en el menú "GROUND SERVICES".</value>
+  </data>
+  <data name="DefaultMission.PushbackSteering" xml:space="preserve">
+    <value>El pushback ha comenzado, usa el deslizador "RUD BRAKES" en la parte inferior derecha para dirigir el avión en la dirección que desees.</value>
+  </data>
+  <data name="DefaultMission.ReadyForPushback" xml:space="preserve">
+    <value>Estamos listos para el pushback, abre el menú "GROUND SERVICES" a la derecha, deslízate hasta la sección "PUSHBACK" y toca "ATTACH TUG"</value>
+  </data>
+  <data name="DefaultMission.ReleaseBrakes" xml:space="preserve">
+    <value>Si estás listo para comenzar el pushback, necesitas desactivar los frenos de parking tocando el botón "PARK BRAKES" en la parte inferior izquierda</value>
+  </data>
+  <data name="DefaultMission.StartEngine" xml:space="preserve">
+    <value>Ahora podemos encender los motores. Abre el menú "SYSTEMS" a la derecha y toca "AUTO START" para arrancar los motores y preparar el avión para rodar</value>
+  </data>
+  <data name="DefaultMission.TapToContinue" xml:space="preserve">
+    <value>Toca aquí para continuar</value>
+  </data>
+  <data name="DefaultMission.Welcome" xml:space="preserve">
+    <value>¡Bienvenido a Infinite Flight! Toca esta ventana para comenzar y ver el resumen e instrucciones de la misión</value>
+  </data>
+  <data name="DefaultMission.YourMissionBrief" xml:space="preserve">
+    <value>Tu misión de hoy es:
+{0}</value>
+  </data>
+  <data name="Mission.MissionBrief" xml:space="preserve">
+    <value>Resumen de la Misión</value>
+  </data>
+  <data name="LogbookControl.LogbookControl.NoEntrySelected" xml:space="preserve">
+    <value>No hay entradas</value>
   </data>
 </root>
