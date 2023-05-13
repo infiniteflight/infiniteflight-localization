@@ -59,7 +59,10 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema id="root"
+    xmlns=""
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -2028,4 +2031,236 @@ Verifique o mapa para mais informações</value>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
     <value>Por favor mantenha uma distância segura com a aeronave à frente</value>
   </data>
+  <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
+    <value>MUDAR AERONAVE</value>
+  </data>
+  <data name="FlightFreeControl.ImageNotFoundUpper" xml:space="preserve">
+    <value>IMAGEM NÃO ENCONTRADA</value>
+  </data>
+  <data name="FlightFreeControl.NewFlightUpper" xml:space="preserve">
+    <value>NOVO VOO</value>
+  </data>
+  <data name="FlightFreeControl.UnavailableUpper" xml:space="preserve">
+    <value>INDISPONÍVEL</value>
+  </data>
+  <data name="FlightFreeControl.WeatherUpper" xml:space="preserve">
+    <value>METEOROLOGIA</value>
+  </data>
+  <data name="FlightMenu.AltimeterUpper" xml:space="preserve">
+    <value>ALTÍMETRO</value>
+  </data>
+  <data name="FlightMenu.ApproxDurationUpper" xml:space="preserve">
+    <value>DURAÇÃO APROXIMADA</value>
+  </data>
+  <data name="FlightMenu.CloudsUpper" xml:space="preserve">
+    <value>NUVENS</value>
+  </data>
+  <data name="FlightMenu.DistanceUpper" xml:space="preserve">
+    <value>DISTÂNCIA</value>
+  </data>
+  <data name="FlightMenu.FlightSchoolDescription" xml:space="preserve">
+    <value>Aperfeiçoe suas habilidades de pilotagem com tutoriais interativos</value>
+  </data>
+  <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
+    <value>ESCOLA DE VOO</value>
+  </data>
+  <data name="FlightMenu.FreeFlightDescription" xml:space="preserve">
+    <value>Escolha sua aeronave e aeroporto, personalize seu plano de voo e desfrute de uma experiência imersiva de voo no seu próprio ritmo</value>
+  </data>
+  <data name="FlightMenu.FreeFlightUpper" xml:space="preserve">
+    <value>VOO LIVRE</value>
+  </data>
+  <data name="FlightMenu.GenericFlightUpper" xml:space="preserve">
+    <value>VOO GENÉRICO</value>
+  </data>
+  <data name="FlightMenu.LatestMetarUpper" xml:space="preserve">
+    <value>ÚLTIMO METAR</value>
+  </data>
+  <data name="FlightMenu.MissionsDescription" xml:space="preserve">
+    <value>Entre diretamente na ação com rotas recomendadas de linhas aéreas e fretamento com base no tráfego e no ATC</value>
+  </data>
+  <data name="FlightMenu.MissionsUpper" xml:space="preserve">
+    <value>MISSÕES</value>
+  </data>
+  <data name="FlightMenu.ParkingUpper" xml:space="preserve">
+    <value>ESTACIONAMENTO</value>
+  </data>
+  <data name="FlightMenu.TemperatureUpper" xml:space="preserve">
+    <value>TEMPERATURA</value>
+  </data>
+  <data name="FlightMenu.TimeUpper" xml:space="preserve">
+    <value>HORA</value>
+  </data>
+  <data name="FlightMenu.TypeUpper" xml:space="preserve">
+    <value>TIPO</value>
+  </data>
+  <data name="FlightMenu.VisibilityUpper" xml:space="preserve">
+    <value>VISIBILIDADE</value>
+  </data>
+  <data name="FlightMenu.Wind" xml:space="preserve">
+    <value>{0:#000}° a {1} kts</value>
+    <comment>{0:#000}° a {1} kts</comment>
+  </data>
+  <data name="FlightMenu.WindCalm" xml:space="preserve">
+    <value>CALMO</value>
+  </data>
+  <data name="FlightMenu.WindUpper" xml:space="preserve">
+    <value>VENTO</value>
+  </data>
+  <data name="FlightMenu.WindWithGust" xml:space="preserve">
+    <value>{0:#000}° a {1} - {2} kts</value>
+  </data>
+  <data name="FlightMenu.WorldUpper" xml:space="preserve">
+    <value>MUNDO</value>
+  </data>
+  <data name="FlightMissionControl.LongHaulUpper" xml:space="preserve">
+    <value>LONGA DISTÂNCIA</value>
+  </data>
+  <data name="FlightMissionControl.MediumHaulUpper" xml:space="preserve">
+    <value>MÉDIA DISTÂNCIA</value>
+  </data>
+  <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
+    <value>SEM MISSÕES ENCONTRADAS</value>
+  </data>
+  <data name="FlightMissionControl.ShortHaulUpper" xml:space="preserve">
+    <value>CURTA DISTÂNCIA</value>
+  </data>
+  <data name="FlightMissionControl.UltraLongHaulUpper" xml:space="preserve">
+    <value>ULTRA LONGA DISTÂNCIA</value>
+  </data>
+  <data name="FlightSchoolControl.AircraftUpper" xml:space="preserve">
+    <value>AERONAVE</value>
+  </data>
+  <data name="FlightSchoolControl.NoEntrySelected" xml:space="preserve">
+    <value>NENHUM ITEM SELECIONADO</value>
+  </data>
+  <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
+    <value>NENHUMA LIÇÃO ENCONTRADA</value>
+  </data>
+  <data name="Global.NotApplicable" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="LogbookControl.AircraftUpper" xml:space="preserve">
+    <value>AERONAVE</value>
+  </data>
+  <data name="LogbookControl.AllUpper" xml:space="preserve">
+    <value>TODOS</value>
+  </data>
+  <data name="LogbookControl.AtcUpper" xml:space="preserve">
+    <value>ATC</value>
+  </data>
+  <data name="LogbookControl.DistanceUpper" xml:space="preserve">
+    <value>DISTÂNCIA</value>
+  </data>
+  <data name="LogbookControl.DurationUpper" xml:space="preserve">
+    <value>DURAÇÃO</value>
+  </data>
+  <data name="LogbookControl.ExportErrorMessage" xml:space="preserve">
+    <value>Erro ao exportar o arquivo de replay. Verifique se você possui espaço de armazenamento suficiente disponível</value>
+  </data>
+  <data name="LogbookControl.ExportingUpper" xml:space="preserve">
+    <value>EXPORTANDO</value>
+  </data>
+  <data name="LogbookControl.FileSizeUpper" xml:space="preserve">
+    <value>TAMANHO DO ARQUIVO</value>
+  </data>
+  <data name="LogbookControl.MultiplayerUpper" xml:space="preserve">
+    <value>MULTIJOGADOR</value>
+  </data>
+  <data name="LogbookControl.NoEntrySelected" xml:space="preserve">
+    <value>NENHUMA ENTRADA SELECIONADA</value>
+  </data>
+  <data name="LogbookControl.NoItemsFound" xml:space="preserve">
+    <value>NENHUM ITEM ENCONTRADO</value>
+  </data>
+  <data name="LogbookControl.OnlyReplaysUpper" xml:space="preserve">
+    <value>SOMENTE REPLAYS</value>
+  </data>
+  <data name="LogbookControl.ServerUpper" xml:space="preserve">
+    <value>SERVIDOR</value>
+  </data>
+  <data name="LogbookControl.SoloUpper" xml:space="preserve">
+    <value>SOLO</value>
+  </data>
+  <data name="LogbookControl.XpEarnedUpper" xml:space="preserve">
+    <value>XP GANHO</value>
+  </data>
+  <data name="LogbookControl.YourLogbook" xml:space="preserve">
+    <value>SEU DIÁRIO DE VOO</value>
+  </data>
+  <data name="LoginSubscriptionPage.Pricing12Months" xml:space="preserve">
+    <value>{0} / 12 meses</value>
+  </data>
+  <data name="LoginSubscriptionPage.Pricing6Months" xml:space="preserve">
+    <value>{0} / 6 meses</value>
+  </data>
+  <data name="MainMenuPage.AirTrafficControlUpper" xml:space="preserve">
+    <value>CONTROLE DE TRÁFEGO AÉREO</value>
+  </data>
+  <data name="MainMenuPage.ControlButtonUpper" xml:space="preserve">
+    <value>CONTROLE</value>
+  </data>
+  <data name="MainMenuPage.FlightUpper" xml:space="preserve">
+    <value>VOO</value>
+  </data>
+  <data name="MainMenuPage.FlyButtonUpper" xml:space="preserve">
+    <value>VOAR</value>
+  </data>
+  <data name="MainMenuPage.OpenButtonUpper" xml:space="preserve">
+    <value>ABRIR</value>
+  </data>
+  <data name="MainMenuPage.ReplayButtonUpper" xml:space="preserve">
+    <value>REPLAY</value>
+  </data>
+  <data name="MainMenuPage.UnableToPlayReplay" xml:space="preserve">
+    <value>Não é possível reproduzir o arquivo de replay</value>
+  </data>
+  <data name="MenuAtcControl.ChangeAirportUpper" xml:space="preserve">
+    <value>MUDAR AEROPORTO</value>
+  </data>
+  <data name="MenuAtcControl.Duration" xml:space="preserve">
+    <value>Duração</value>
+  </data>
+  <data name="MenuAtcControl.Frequencies" xml:space="preserve">
+    <value>Frequências</value>
+  </data>
+  <data name="MenuAtcControl.MultipleFrequencies" xml:space="preserve">
+    <value>Múltiplas Frequências</value>
+  </data>
+  <data name="MenuAtcControl.NewAtcSessionUpper" xml:space="preserve">
+    <value>NOVA SESSÃO ATC</value>
+  </data>
+  <data name="MenuAtcControl.NoSessionsFoundUpper" xml:space="preserve">
+    <value>NENHUMA SESSÃO ENCONTRADA</value>
+  </data>
+  <data name="MenuAtcControl.ResumeAtcSessionQuestion" xml:space="preserve">
+    <value>Continuar sessão ATC?</value>
+  </data>
+  <data name="MenuAtcControl.UnableToRestartUserNotSame" xml:space="preserve">
+    <value>Não é possível reiniciar, pois esta sessão não está vinculada à sua conta</value>
+  </data>
+  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+    <value>Mostrar aeronaves de versões anteriores</value>
+  </data>
+  <data name="World.SoloDescription" xml:space="preserve">
+    <value>Escolha sua própria aeronave e rota, teste suas habilidades de pilotagem e explore belas paisagens sem regras ou outros pilotos.</value>
+  </data>
+  <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
+    <value>Encontramos sua conta, mas não há assinatura ativa associada a ela.</value>
+</data>
+<data name="IntroPage.Home" xml:space="preserve">
+    <value>Início</value>
+</data>
+<data name="Error.InvalidTimeSpan" xml:space="preserve">
+    <value>Os horários de início e término para esta sessão não são válidos (código de erro {0})</value>
+</data>
+<data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
+    <value>Servidor Indisponível</value>
+</data>
+<data name="Error.CannotOpenBrowser" xml:space="preserve">
+    <value>Nenhum navegador está disponível para abrir este link - certifique-se de ter um navegador instalado. Entre em contato com o suporte se o problema persistir (código de erro {0})</value>
+</data>
+<data name="Error.CouldNotGetFileSize" xml:space="preserve">
+    <value>Não foi possível conectar ao servidor. Verifique sua conexão com a internet (código de erro {0})</value>
+</data>
 </root>
