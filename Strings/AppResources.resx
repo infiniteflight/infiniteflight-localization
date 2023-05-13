@@ -2972,4 +2972,78 @@ Check map for more information</comment>
     <value>Choose your own aircraft and route, test your piloting skills and explore beautiful scenery without rules or other pilots.</value>
     <comment>Choose your own aircraft and route, test your piloting skills and explore beautiful scenery without rules or other pilots.</comment>
   </data>
+  <data name="DefaultMission.AfterLanding" xml:space="preserve">
+    <value>Welcome to {0}. Taxi to parking and shutdown the airplane to complete this mission</value>
+    <comment>Welcome to {0}. Taxi to parking and shutdown the airplane to complete this mission</comment>
+  </data>
+  <data name="DefaultMission.Congratulation" xml:space="preserve">
+    <value>Congratulations on completing this flight to {0}!
+You can quit this session or embark on another journey to a new destination. See you soon in the Infinite Flight skies!</value>
+    <comment>Congratulations on completing this flight to {0}!
+You can quit this session or embark on another journey to a new destination. See you soon in the Infinite Flight skies!</comment>
+  </data>
+  <data name="DefaultMission.Congratulation2" xml:space="preserve">
+    <value>Congratulations on completing this flight to {0}!
+You can quit this session or embark on another journey to a new destination.</value>
+    <comment>Congratulations on completing this flight to {0}!
+You can quit this session or embark on another journey to a new destination.</comment>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlight" xml:space="preserve">
+    <value>Have a great flight to {0}</value>
+    <comment>Have a great flight to {0}</comment>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlightTaxi" xml:space="preserve">
+    <value>You are now ready to taxi, have a great flight to {0}</value>
+    <comment>You are now ready to taxi, have a great flight to {0}</comment>
+  </data>
+  <data name="DefaultMission.MissionBriefWindow" xml:space="preserve">
+    <value>This is your mission brief window. You can come back here at any time to see what you need to do. This window can be toggled by tapping on the "MISSION BRIEF" button on the right</value>
+    <comment>This is your mission brief window. You can come back here at any time to see what you need to do. This window can be toggled by tapping on the "MISSION BRIEF" button on the right</comment>
+  </data>
+  <data name="DefaultMission.PushbackEnd" xml:space="preserve">
+    <value>Pushback has been stopped. Press "DETACH TUG" in the "GROUND SERVICES" menu to disconnect the tug from the aircraft</value>
+    <comment>Pushback has been stopped. Press "DETACH TUG" in the "GROUND SERVICES" menu to disconnect the tug from the aircraft</comment>
+  </data>
+  <data name="DefaultMission.PushbackEndPrompt" xml:space="preserve">
+    <value>When you're done, press the "PUSH" button again to stop.</value>
+    <comment>When you're done, press the "PUSH" button again to stop.</comment>
+  </data>
+  <data name="DefaultMission.PushbackStart" xml:space="preserve">
+    <value>Now that the parking brakes are released, to start pushback, just tap on the "PUSH" button in the "GROUND SERVICES" menu.</value>
+    <comment>Now that the parking brakes are released, to start pushback, just tap on the "PUSH" button in the "GROUND SERVICES" menu.</comment>
+  </data>
+  <data name="DefaultMission.PushbackSteering" xml:space="preserve">
+    <value>Pushback has started, use the "RUD BRAKES" slider on the bottom right to steer the aircraft in the direction you want.</value>
+    <comment>Pushback has started, use the "RUD BRAKES" slider on the bottom right to steer the aircraft in the direction you want.</comment>
+  </data>
+  <data name="DefaultMission.ReadyForPushback" xml:space="preserve">
+    <value>We are ready for pushback, open the "GROUND SERVICES" menu on the right, slide down to the "PUSHBACK" section and tap on "ATTACH TUG"</value>
+    <comment>We are ready for pushback, open the "GROUND SERVICES" menu on the right, slide down to the "PUSHBACK" section and tap on "ATTACH TUG"</comment>
+  </data>
+  <data name="DefaultMission.ReleaseBrakes" xml:space="preserve">
+    <value>If you're ready to start pushback, the parking brakes need to be released by tapping on the "PARK BRAKES" button on the bottom left</value>
+    <comment>If you're ready to start pushback, the parking brakes need to be released by tapping on the "PARK BRAKES" button on the bottom left</comment>
+  </data>
+  <data name="DefaultMission.StartEngine" xml:space="preserve">
+    <value>We can now start the engines if they are not started already. Open the "SYSTEMS" menu on the right and tap on "AUTO START" to start the engines and get the plane ready for taxi</value>
+    <comment>We can now start the engines if they are not started already. Open the "SYSTEMS" menu on the right and tap on "AUTO START" to start the engines and get the plane ready for taxi</comment>
+  </data>
+  <data name="DefaultMission.TapToContinue" xml:space="preserve">
+    <value>Tap here to continue</value>
+    <comment>Tap here to continue</comment>
+  </data>
+  <data name="DefaultMission.Welcome" xml:space="preserve">
+    <value>Welcome to Infinite Flight! Tap this window to get started and see the mission briefing and instructions</value>
+    <comment>Welcome to Infinite Flight! Tap this window to get started and see the mission briefing and instructions</comment>
+  </data>
+  <data name="DefaultMission.YourMissionBrief" xml:space="preserve">
+    <value>Your mission today is:
+{0}</value>
+    <comment>Your mission today is:
+{0}</comment>
+  </data>
+  <data name="Mission.MissionBrief" xml:space="preserve">
+    <value>MISSION BRIEF</value>
+    <comment>MISSION BRIEF</comment>
+  </data>
 </root>
