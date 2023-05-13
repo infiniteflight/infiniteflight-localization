@@ -210,11 +210,11 @@
     <comment>There was an error validating this account with the provider (error code {0})</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight无法连接至服务器 (错误代码 {0})</value>
+    <value>无法连接至服务器 (错误代码 {0})</value>
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Infinite Flight服务器出现错误，请在稍后重试 (错误代码 {0})</value>
+    <value>服务器出现错误，请稍后重试 (错误代码 {0})</value>
     <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
@@ -230,7 +230,7 @@
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight在连接至服务器时遇到问题 (错误代码 {0})</value>
+    <value>连接至服务器时遇到问题 (错误代码 {0})</value>
     <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
@@ -246,7 +246,7 @@
     <comment>There was a problem connecting to the server (error code {0})</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Infinite Flight无法连接至服务器 (错误代码 {0})</value>
+    <value>无法连接至服务器 (错误代码 {0})</value>
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
@@ -254,7 +254,7 @@
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>该IF社区账号尚未绑定过IF (error code {0})</value>
+    <value>该IF社区账号尚未绑定IF (error code {0})</value>
     <comment>This Infinite Flight Community account has not been used with the app before (error code {0})</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
@@ -2688,11 +2688,11 @@ Check map for more information</comment>
     <value>无可用服务器</value>
     <comment>No Available Server</comment>
   </data>
-  <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
+   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
     <value>更换飞机</value>
   </data>
   <data name="FlightFreeControl.ImageNotFoundUpper" xml:space="preserve">
-      <value>找不到图像</value>
+      <value>找不到预览</value>
   </data>
   <data name="FlightFreeControl.NewFlightUpper" xml:space="preserve">
       <value>新飞行</value>
@@ -2704,10 +2704,10 @@ Check map for more information</comment>
       <value>天气</value>
   </data>
   <data name="FlightMenu.AltimeterUpper" xml:space="preserve">
-      <value>高度表</value>
+      <value>修正海压</value>
   </data>
   <data name="FlightMenu.ApproxDurationUpper" xml:space="preserve">
-      <value>大约时长</value>
+      <value>预计时长</value>
   </data>
   <data name="FlightMenu.CloudsUpper" xml:space="preserve">
       <value>云层</value>
@@ -2716,15 +2716,14 @@ Check map for more information</comment>
       <value>距离</value>
   </data>
   <data name="FlightMenu.FlightSchoolDescription" xml:space="preserve">
-      <value>通过互动教程来掌握飞行技巧</value>
+      <value>跟随互动教程，掌握飞行技术</value>
   </data>
   <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
       <value>飞行学校</value>
   </data>
   <data name="FlightMenu.FreeFlightDescription" xml:space="preserve">
-      <value>选择您的飞机和机场，
-  自定义飞行计划，
-  并以您自己的节奏享受沉浸式的飞行体验</value>
+      <value>自由选择飞机和机场，自定义飞行计划，
+以自己的节奏享受沉浸式的飞行体验</value>
   </data>
   <data name="FlightMenu.FreeFlightUpper" xml:space="preserve">
       <value>自由飞行</value>
@@ -2736,9 +2735,8 @@ Check map for more information</comment>
       <value>最新METAR</value>
   </data>
   <data name="FlightMenu.MissionsDescription" xml:space="preserve">
-      <value>根据交通和ATC，
-选择推荐的航空公司和包机航线，
-立即参与行动</value>
+      <value>根据交通流量和管制实况为您推荐航司航线
+或包机航线，来一次说走就走的飞行</value>
   </data>
   <data name="FlightMenu.MissionsUpper" xml:space="preserve">
       <value>任务</value>
@@ -2747,7 +2745,7 @@ Check map for more information</comment>
       <value>停机位</value>
   </data>
   <data name="FlightMenu.TemperatureUpper" xml:space="preserve">
-      <value>温度</value>
+      <value>温度/露点</value>
   </data>
   <data name="FlightMenu.TimeUpper" xml:space="preserve">
       <value>时间</value>
@@ -2771,34 +2769,34 @@ Check map for more information</comment>
       <value>{0:#000}° {1} - {2} 节</value>
   </data>
   <data name="FlightMenu.WorldUpper" xml:space="preserve">
-      <value>世界</value>
+      <value>服务器</value>
   </data>
   <data name="FlightMissionControl.LongHaulUpper" xml:space="preserve">
-      <value>长航班</value>
+      <value>远程航线</value>
   </data>
   <data name="FlightMissionControl.MediumHaulUpper" xml:space="preserve">
-      <value>中航班</value>
+      <value>中程航线</value>
   </data>
   <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
       <value>未找到任务</value>
   </data>
   <data name="FlightMissionControl.ShortHaulUpper" xml:space="preserve">
-      <value>短航班</value>
+      <value>近程航线</value>
   </data>
   <data name="FlightMissionControl.UltraLongHaulUpper" xml:space="preserve">
-      <value>超长航班</value>
+      <value>超远程航线</value>
   </data>
   <data name="FlightSchoolControl.AircraftUpper" xml:space="preserve">
       <value>飞机</value>
   </data>
   <data name="FlightSchoolControl.NoEntrySelected" xml:space="preserve">
-      <value>未选择任何项目</value>
+      <value>未选择项目</value>
   </data>
   <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
-      <value>未找到任何教程</value>
+      <value>未找到教程</value>
   </data>
   <data name="Global.NotApplicable" xml:space="preserve">
-      <value>不适用</value>
+      <value>无</value>
   </data>
   <data name="LogbookControl.AircraftUpper" xml:space="preserve">
       <value>飞机</value>
@@ -2807,7 +2805,7 @@ Check map for more information</comment>
       <value>全部</value>
   </data>
   <data name="LogbookControl.AtcUpper" xml:space="preserve">
-      <value>ATC</value>
+      <value>空中交通管制</value>
   </data>
   <data name="LogbookControl.DistanceUpper" xml:space="preserve">
       <value>距离</value>
@@ -2817,7 +2815,7 @@ Check map for more information</comment>
   </data>
   <data name="LogbookControl.ExportErrorMessage" xml:space="preserve">
       <value>导出回放文件时出错。
-请检查您是否有足够的存储空间可用</value>
+请检查您是否有足够的存储空间</value>
   </data>
   <data name="LogbookControl.ExportingUpper" xml:space="preserve">
       <value>导出中</value>
@@ -2826,7 +2824,7 @@ Check map for more information</comment>
       <value>文件大小</value>
   </data>
   <data name="LogbookControl.MultiplayerUpper" xml:space="preserve">
-      <value>多人游戏</value>
+      <value>连线飞行</value>
   </data>
   <data name="LogbookControl.LogbookControl.NoEntrySelected" xml:space="preserve">
       <value>未选择任何项目</value>
@@ -2835,19 +2833,19 @@ Check map for more information</comment>
       <value>未找到任何记录</value>
   </data>
   <data name="LogbookControl.OnlyReplaysUpper" xml:space="preserve">
-      <value>仅回放</value>
+      <value>有回放文件</value>
   </data>
   <data name="LogbookControl.ServerUpper" xml:space="preserve">
       <value>服务器</value>
   </data>
   <data name="LogbookControl.SoloUpper" xml:space="preserve">
-      <value>单人游戏</value>
+      <value>单人飞行</value>
   </data>
   <data name="LogbookControl.XpEarnedUpper" xml:space="preserve">
-      <value>获得的经验值</value>
+      <value>获得经验</value>
   </data>
   <data name="LogbookControl.YourLogbook" xml:space="preserve">
-      <value>您的飞行日志</value>
+      <value>飞行日志</value>
   </data>
   <data name="LoginSubscriptionPage.Pricing12Months" xml:space="preserve">
       <value>{0} / 12个月</value>
@@ -2859,22 +2857,22 @@ Check map for more information</comment>
       <value>空中交通管制</value>
   </data>
   <data name="MainMenuPage.ControlButtonUpper" xml:space="preserve">
-      <value>控制</value>
+      <value>开始管制！</value>
   </data>
   <data name="MainMenuPage.FlightUpper" xml:space="preserve">
       <value>飞行</value>
   </data>
   <data name="MainMenuPage.FlyButtonUpper" xml:space="preserve">
-      <value>起飞</value>
+      <value>开始飞行！</value>
   </data>
   <data name="MainMenuPage.OpenButtonUpper" xml:space="preserve">
-      <value>打开</value>
+      <value>编辑</value>
   </data>
   <data name="MainMenuPage.ReplayButtonUpper" xml:space="preserve">
       <value>回放</value>
   </data>
   <data name="MainMenuPage.UnableToPlayReplay" xml:space="preserve">
-      <value>无法播放回放文件</value>
+      <value>无法加载回放文件</value>
   </data>
   <data name="MenuAtcControl.ChangeAirportUpper" xml:space="preserve">
       <value>更换机场</value>
@@ -2883,29 +2881,29 @@ Check map for more information</comment>
       <value>时长</value>
   </data>
   <data name="MenuAtcControl.Frequencies" xml:space="preserve">
-      <value>频率</value>
+      <value>席位</value>
   </data>
   <data name="MenuAtcControl.MultipleFrequencies" xml:space="preserve">
       <value>多个频率</value>
   </data>
   <data name="MenuAtcControl.NewAtcSessionUpper" xml:space="preserve">
-      <value>新ATC会话</value>
+      <value>新管制任务</value>
   </data>
   <data name="MenuAtcControl.NoSessionsFoundUpper" xml:space="preserve">
-      <value>未找到任何会话</value>
+      <value>未找到管制任务</value>
   </data>
   <data name="MenuAtcControl.ResumeAtcSessionQuestion" xml:space="preserve">
-      <value>继续ATC会话？</value>
+      <value>继续管制任务？</value>
   </data>
   <data name="MenuAtcControl.UnableToRestartUserNotSame" xml:space="preserve">
-      <value>无法重新启动，因为此会话与您的帐户无关</value>
+      <value>无法重新启动，因为这不是你的管制任务</value>
   </data>
   <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
       <value>显示来自旧版本的飞机</value>
   </data>
   <data name="World.SoloDescription" xml:space="preserve">
-      <value>选择您自己的飞机和航线，
-测试您的飞行技巧，探索美丽的风景，
-无需规则或其他飞行员。</value>
+      <value>自由选择飞机和航线，在没有规则和其他飞机的环境中
+磨练您的飞行技术，探索美丽的风景。
+</value>
   </data>
 </root>
