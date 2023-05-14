@@ -2890,19 +2890,19 @@ You can quit this session or embark on another journey to a new destination. See
 You can quit this session or embark on another journey to a new destination.</comment>
   </data>
   <data name="DefaultMission.HaveAGoodFlight" xml:space="preserve">
-    <value>Приятен полет до {0}</value>
+    <value>Приятен полет до {0}!</value>
     <comment>Have a great flight to {0}</comment>
   </data>
   <data name="DefaultMission.HaveAGoodFlightTaxi" xml:space="preserve">
-    <value>Готови сте за рулиране, приятен полет до {0}</value>
+    <value>Готови сте за рулиране, приятен полет до {0}!</value>
     <comment>You are now ready to taxi, have a great flight to {0}</comment>
   </data>
   <data name="DefaultMission.MissionBriefWindow" xml:space="preserve">
-    <value>Това е прозореца за брифинг на мисията. Можете да се върнете тук по всяко време, като натиснете бутона "MISSION BRIEF" вдясно</value>
+    <value>Това е прозореца за брифинг на мисията. Можете да се върнете тук по всяко време, като натиснете бутона "MISSION BRIEF" вдясно.</value>
     <comment>This is your mission brief window. You can come back here at any time to see what you need to do. This window can be toggled by tapping on the "MISSION BRIEF" button on the right</comment>
   </data>
   <data name="DefaultMission.PushbackEnd" xml:space="preserve">
-    <value>Буксирането е спряно. Натиснете "DETACH TUG" в менюто "GROUND SERVICES", за да отвържете буксира от самолета</value>
+    <value>Буксирането е спряно. Натиснете "DETACH TUG" в менюто "GROUND SERVICES", за да отвържете буксира от самолета.</value>
     <comment>Pushback has been stopped. Press "DETACH TUG" in the "GROUND SERVICES" menu to disconnect the tug from the aircraft</comment>
   </data>
   <data name="DefaultMission.PushbackEndPrompt" xml:space="preserve">
@@ -2944,7 +2944,7 @@ You can quit this session or embark on another journey to a new destination.</co
 {0}</comment>
   </data>
   <data name="Mission.MissionBrief" xml:space="preserve">
-    <value>БРИФИНГ ЗА МИСИЯТА</value>
+    <value>БРИФИНГ НА МИСИЯТА</value>
     <comment>MISSION BRIEF</comment>
   </data>
 </root>
