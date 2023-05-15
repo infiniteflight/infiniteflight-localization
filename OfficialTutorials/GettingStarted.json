@@ -25,37 +25,37 @@
   },
   "stringsPerStep": [
     {
-      "en": "Welcome to Infinite Flight and our Getting Started Tutorial. Let’s get you flying as quickly as possible! ",
-      "es": "Bienvenido a Infinite Flight y a nuestro Tutorial de Inicio. ¡Vamos a enseñarte como volar!\"",
-      "de": "Willkommen bei Infinite Flight und unserem Einführungstutorial. Lass uns dich so schnell wie möglich zum Fliegen bringen!\"",
-      "fr": "Bienvenue sur Infinite Flight et notre tutoriel de prise en main. Allons vous faire voler le plus rapidement possible !\"",
-      "zh": "欢迎来到《无限飞行》的入门教程。让我们快速上手飞行操作吧！\"",
-      "ms": "Selamat datang ke Infinite Flight dan Tutorial Memulakan. Mari kita terbang secepat mungkin!\"",
-      "pt": "Bem-vindo ao Infinite Flight e ao nosso Tutorial de Início. Vamos fazer você voar o mais rápido possível!\"",
-      "ru": "Добро пожаловать в Infinite Flight и наше руководство для начинающих. Давайте научимся летать как можно быстрее!\"",
-      "bg": "Добре дошли в Infinite Flight и в нашето ръководство за започване. Нека Ви научим да летите възможно най-бързо!\""
+      "en": "Welcome to Infinite Flight and our Getting Started Tutorial. Let's get you flying as quickly as possible!",
+      "es": "Bienvenido a Infinite Flight y a nuestro Tutorial de Inicio. ¡Vamos a enseñarte como volar!",
+      "de": "Willkommen bei Infinite Flight und unserem Einführungstutorial. Lass uns dich so schnell wie möglich zum Fliegen bringen!",
+      "fr": "Bienvenue sur Infinite Flight et notre tutoriel de prise en main. Allons vous faire voler le plus rapidement possible !",
+      "zh": "欢迎来到《无限飞行》的入门教程。让我们快速上手飞行操作吧",
+      "ms": "Selamat datang ke Infinite Flight dan Tutorial Memulakan. Mari kita terbang secepat mungkin!",
+      "pt": "Bem-vindo ao Infinite Flight e ao nosso Tutorial de Início. Vamos fazer você voar o mais rápido possível!",
+      "ru": "Добро пожаловать в Infinite Flight и наше руководство для начинающих. Давайте научимся летать как можно быстрее!",
+      "bg": "Добре дошли в Infinite Flight и в нашето ръководство за започване. Нека Ви научим да летите възможно най-бързо!"
     },
     {
       "en": "Our app has an intuitive way to control the joystick or yoke of your aircraft by tilting your device in the direction you want to go. Infinite Flight detects this motion and provides input to the control surfaces just as if you were flying the aircraft yourself!",
       "es": "Nuestra aplicación tiene una manera intuitiva de controlar el joystick o la palanca de mando de su avión inclinando su dispositivo en la dirección que desea ir. ¡Infinite Flight detecta este movimiento y proporciona entrada a las superficies de control como si estuviera volando el avión usted mismo!",
       "ms": "Aplikasi kami mempunyai cara yang mudah difahami untuk mengawal joyistik atau stereng pesawat anda dengan memiringkan peranti anda ke arah anda ingin terbang. Infinite Flight akan mengesan gerakan ini dan memberikan input kepada permukaan kawalan seolah-olah anda sendiri yang mengawal pesawat itu!",
-      "pt": "Nosso aplicativo possui uma maneira intuitiva de controlar o joystick ou manche da sua aeronave inclinando seu dispositivo na direção desejada. O Infinite Flight detecta esse movimento e fornece entrada para as superfícies de controle, exatamente como se você estivesse pilotando a aeronave!\"",
-      "fr": "Notre application dispose d'une méthode intuitive pour contrôler le joystick ou le manche de votre avion en inclinant votre appareil dans la direction que vous souhaitez prendre. Infinite Flight détecte ce mouvement et fournit des entrées aux surfaces de contrôle comme si vous étiez aux commandes de l'avion vous-même!\"",
+      "pt": "Nosso aplicativo possui uma maneira intuitiva de controlar o joystick ou manche da sua aeronave inclinando seu dispositivo na direção desejada. O Infinite Flight detecta esse movimento e fornece entrada para as superfícies de controle, exatamente como se você estivesse pilotando a aeronave!",
+      "fr": "Notre application dispose d'une méthode intuitive pour contrôler le joystick ou le manche de votre avion en inclinant votre appareil dans la direction que vous souhaitez prendre. Infinite Flight détecte ce mouvement et fournit des entrées aux surfaces de contrôle comme si vous étiez aux commandes de l'avion vous-même!",
       "de": "Unsere App verfügt über eine intuitive Möglichkeit, den Joystick oder das Steuerhorn Ihres Flugzeugs zu steuern, indem Sie Ihr Gerät in die Richtung neigen, in die Sie gehen möchten. Infinite Flight erkennt diese Bewegung und liefert Eingaben an die Steuerflächen, als ob Sie das Flugzeug selbst fliegen würden!",
       "zh": "《无限飞行》的操纵方式非常直观，只需通过向所需方向倾斜您的设备即可控制飞机的操纵杆（盘）。《无限飞行》将检测设备的运动，并将其转换为操纵面的偏转，就好像您自己驾驶飞机一样！",
-      "bg": "Нашият приложение има интуитивен начин да управлява джойстика или колелото на самолета ви, като накланяте устройството си в посока на движение. Infinite Flight открива това движение и осигурява вход за контролните повърхности, точно като при самолет, който лети те! \"",
-      "ru": "В нашем приложении интуитивно понятный способ управления джойстиком или штурвалом вашего воздушного судна - наклон устройства в нужном направлении. Infinite Flight распознает это движение и передает сигнал на управляющие поверхности так, как если бы вы сами управляли самолетом!\""
+      "bg": "Нашият приложение има интуитивен начин да управлява джойстика или колелото на самолета ви, като накланяте устройството си в посока на движение. Infinite Flight открива това движение и осигурява вход за контролните повърхности, точно като при самолет, който лети те!",
+      "ru": "В нашем приложении интуитивно понятный способ управления джойстиком или штурвалом вашего воздушного судна - наклон устройства в нужном направлении. Infinite Flight распознает это движение и передает сигнал на управляющие поверхности так, как если бы вы сами управляли самолетом!"
     },
     {
       "en": "First, let's show you how to pitch the aircraft nose up and down.",
       "es": "Primero, vamos a mostrarte cómo elevar y bajar la nariz del avión.",
       "pt": "Primeiro, vamos te mostrar como inclinar o nariz da aeronave para cima e para baixo.",
-      "de": "Zuerst zeigen wir dir, wie du die Nase des Flugzeugs nach oben und unten bewegen kannst.\"",
+      "de": "Zuerst zeigen wir dir, wie du die Nase des Flugzeugs nach oben und unten bewegen kannst.",
       "ms": "Pertama, mari kami tunjukkan kepada anda cara untuk membuat hidung pesawat naik dan turun.",
       "zh": "首先，让我们学习如何控制飞机上下俯仰。",
-      "fr": "Tout d'abord, nous allons vous montrer comment incliner le nez de l'avion vers le haut et vers le bas.\"",
-      "ru": "Сначала давайте покажем вам, как изменять угол наклона носа самолета вверх и вниз.\"",
-      "bg": "Първо, нека ви покажем как да наклоните носа на самолета нагоре и надолу.\""
+      "fr": "Tout d'abord, nous allons vous montrer comment incliner le nez de l'avion vers le haut et vers le bas.",
+      "ru": "Сначала давайте покажем вам, как изменять угол наклона носа самолета вверх и вниз.",
+      "bg": "Първо, нека ви покажем как да наклоните носа на самолета нагоре и надолу."
     },
     {
       "en": "To lower the nose, you’ll need to tilt the top of your device away from you. Ready to give it a go? Tap to continue!",
@@ -71,7 +71,7 @@
     {
       "en": "Okay, you have control! Let's first pitch down. You only need small and smooth inputs to control the aircraft.",
       "pt": "Ok, você está no controle! Vamos primeiro abaixar o nariz. Você só precisa fazer pequenos e suaves movimentos de controle para controlar a aeronave.",
-      "es": "Está bien, ¡tú tienes el control! Primero inclinemos hacia abajo. Solo necesitas entradas suaves y pequeñas para controlar el avión.",
+      "es": "Vale, ¡tú tienes el contról! Primero inclinemos hacia abajo. Solo necesitas entradas suaves y pequeñas para controlar el avión.",
       "fr": "D'accord, tu as les commandes! Commençons d'abord par cabrer. Pour contrôler l'avion, il te suffit de faire des petites et douces corrections.",
       "de": "Okay, du hast die Kontrolle! Lass uns zuerst nach unten neigen. Du brauchst nur kleine und ruhige Eingaben, um das Flugzeug zu steuern.",
       "ms": "Baiklah, kawalan anda! Pertama, kita turunkan hidung pesawat dahulu. Anda hanya perlu buat input kecil dan lancar untuk mengawal pesawat.",
