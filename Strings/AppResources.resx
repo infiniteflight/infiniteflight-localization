@@ -2730,8 +2730,8 @@ Check map for more information</comment>
     <comment>Master your piloting skills with interactive tutorials</comment>
   </data>
   <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
-    <value>FLIGHT SCHOOL</value>
-    <comment>FLIGHT SCHOOL</comment>
+    <value>FLIGHT TRAINING</value>
+    <comment>FLIGHT TRAINING</comment>
   </data>
   <data name="FlightMenu.FreeFlightDescription" xml:space="preserve">
     <value>Choose your aircraft and airport, customize your flight plan, and enjoy an immersive flying experience at your own pace</value>
