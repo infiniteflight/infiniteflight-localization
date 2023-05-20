@@ -2818,7 +2818,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I already have an account.
+        ///   Looks up a localized string similar to More Options.
         /// </summary>
         internal static string LoginSubscriptionPage_ExistingAccount {
             get {
