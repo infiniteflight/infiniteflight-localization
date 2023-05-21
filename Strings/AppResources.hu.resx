@@ -2679,11 +2679,11 @@ Check map for more information</comment>
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>Nem érhető el böngésző a hivatkozás megnyitásához – győződj meg róla, hogy telepítetted a böngészőt. Ha a probléma továbbra is fennáll, fordulj az ügyfélszolgálathoz (hibakód: {0})</value>
+    <value>Nem érhető el böngésző a hivatkozás megnyitásához – győződj meg arról, hogy van telepítve böngésző. Ha nem tudod megoldani a problémát akkor, fordulj az ügyfélszolgálathoz (hibakód: {0})</value>
     <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
   </data>
   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
-    <value>REPÜLŐT VÁLTOZTATÁSA</value>
+    <value>REPÜLŐ MEGVÁLTOZTATÁSA</value>
   </data>
   <data name="FlightFreeControl.ImageNotFoundUpper" xml:space="preserve">
     <value>KÉP NEM TALÁLHATÓ</value>
@@ -2692,7 +2692,7 @@ Check map for more information</comment>
     <value>ÚJ REPÜLÉS</value>
   </data>
   <data name="FlightFreeControl.UnavailableUpper" xml:space="preserve">
-    <value>ELÉRHETETLEN</value>
+    <value>NEM ELÉRHETŐ</value>
   </data>
   <data name="FlightFreeControl.WeatherUpper" xml:space="preserve">
     <value>IDŐJÁRÁS</value>
@@ -2710,13 +2710,13 @@ Check map for more information</comment>
     <value>TÁVOLSÁG</value>
   </data>
   <data name="FlightMenu.FlightSchoolDescription" xml:space="preserve">
-    <value>Használd az interaktív oktatóanyagokat a pilótai képességeid fejlesztésére</value>
+    <value>Használd az interaktív oktatóanyagokat a pilóta képességeid fejlesztésére</value>
   </data>
   <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
     <value>REPÜLŐ ISKOLA</value>
   </data>
   <data name="FlightMenu.FreeFlightDescription" xml:space="preserve">
-    <value>Válassz repülőgépet és repülőteret, alakítsd ki a repülési tervedet, és élvezd az lenyűgöző repülési élményt a saját tempódban</value>
+    <value>Válassz légijárművet és repülőteret, készítsd el a repülési tervedet, és élvezd a lenyűgöző élményt úgy ahogy szeretnéd</value>
   </data>
   <data name="FlightMenu.FreeFlightUpper" xml:space="preserve">
     <value>SZABAD REPÜLÉS</value>
@@ -2725,16 +2725,16 @@ Check map for more information</comment>
     <value>ÁLTALÁNOS REPÜLÉS</value>
   </data>
   <data name="FlightMenu.LatestMetarUpper" xml:space="preserve">
-    <value>LEGI KÖZLEMÉNY</value>
+    <value>LÉGTÉR JELENTÉS</value>
   </data>
   <data name="FlightMenu.MissionsDescription" xml:space="preserve">
-    <value>Készülj fel az akcióra a forgalom és az ATC alapján javasolt légiutas-kísérletekkel és charter útvonalakkal</value>
+    <value>Ugorj bele a pilótaszékbe és repülj a forgalom és az ATC alapján ajánlott útvonalakon</value>
   </data>
   <data name="FlightMenu.MissionsUpper" xml:space="preserve">
     <value>KÜLDETÉSEK</value>
   </data>
   <data name="FlightMenu.ParkingUpper" xml:space="preserve">
-    <value>PARKOLÓ</value>
+    <value>PARKOLÁS</value>
   </data>
   <data name="FlightMenu.TemperatureUpper" xml:space="preserve">
     <value>HŐMÉRSÉKLET</value>
@@ -2765,13 +2765,13 @@ Check map for more information</comment>
     <value>VILÁG</value>
   </data>
   <data name="FlightMissionControl.LongHaulUpper" xml:space="preserve">
-    <value>HOSZSZÚ TÁV</value>
+    <value>HOSSZÚ TÁV</value>
   </data>
   <data name="FlightMissionControl.MediumHaulUpper" xml:space="preserve">
     <value>KÖZEPES TÁV</value>
   </data>
   <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
-    <value>NEM TALÁLTAM KÜLDETÉST</value>
+    <value>NEM TALÁLHATÓ KÜLDETÉS</value>
   </data>
   <data name="FlightMissionControl.ShortHaulUpper" xml:space="preserve">
     <value>RÖVID TÁV</value>
@@ -2786,7 +2786,7 @@ Check map for more information</comment>
     <value>NINCS KIVÁLASZTOTT BEJEGYZÉS</value>
   </data>
   <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
-    <value>NEM TALÁLTAM TANANYAGOT</value>
+    <value>NEM TALÁLHATÓ TANANYAG</value>
   </data>
   <data name="Global.NotApplicable" xml:space="preserve">
     <value>NEM ALKALMAZHATÓ</value>
@@ -2822,22 +2822,22 @@ Check map for more information</comment>
     <value>NINCS KIVÁLASZTOTT BEJEGYZÉS</value>
   </data>
   <data name="LogbookControl.NoItemsFound" xml:space="preserve">
-    <value>NEM TALÁLTAM ELEMET</value>
+    <value>NEM TALÁLHATÓ ELEM</value>
   </data>
   <data name="LogbookControl.OnlyReplaysUpper" xml:space="preserve">
     <value>CSAK VISSZAJÁTSZÁSOK</value>
   </data>
   <data name="LogbookControl.ServerUpper" xml:space="preserve">
-    <value>SERVER</value>
+    <value>SZERVER</value>
   </data>
   <data name="LogbookControl.SoloUpper" xml:space="preserve">
-    <value>EGYÉNI</value>
+    <value>SZOLO</value>
   </data>
   <data name="LogbookControl.XpEarnedUpper" xml:space="preserve">
-    <value>SZEREZETT TP</value>
+    <value>SZERZETT XP</value>
   </data>
   <data name="LogbookControl.YourLogbook" xml:space="preserve">
-    <value>A REPÜLŐJEGYZETED</value>
+    <value>NAPLÓ</value>
   </data>
   <data name="LoginSubscriptionPage.Pricing12Months" xml:space="preserve">
     <value>{0} / 12 hónap</value>
@@ -2846,7 +2846,7 @@ Check map for more information</comment>
     <value>{0} / 6 hónap</value>
   </data>
   <data name="MainMenuPage.AirTrafficControlUpper" xml:space="preserve">
-    <value>LEGTÉRI IRÁNYÍTÁS</value>
+    <value>LÉGIFORGALMI IRÁNYÍTÁS</value>
   </data>
   <data name="MainMenuPage.ControlButtonUpper" xml:space="preserve">
     <value>IRÁNYÍTÁS</value>
@@ -2864,37 +2864,37 @@ Check map for more information</comment>
     <value>VISSZAJÁTSZÁS</value>
   </data>
   <data name="MainMenuPage.UnableToPlayReplay" xml:space="preserve">
-    <value>Nem sikerült lejátszani a visszajátszás fájlt</value>
+    <value>Nem sikerült lejátszani a visszajátszást</value>
   </data>
   <data name="MenuAtcControl.ChangeAirportUpper" xml:space="preserve">
-    <value>REPÜLŐTÉR VÁLTOZTATÁSA</value>
+    <value>REPÜLŐTÉR VÁLTOZTATÁS</value>
   </data>
   <data name="MenuAtcControl.Duration" xml:space="preserve">
-    <value>IDŐTARTAM</value>
+    <value>Időtartam</value>
   </data>
   <data name="MenuAtcControl.Frequencies" xml:space="preserve">
-    <value>GYAKORLÁSI IDŐK</value>
+    <value>Frekvenciák</value>
   </data>
   <data name="MenuAtcControl.MultipleFrequencies" xml:space="preserve">
-    <value>TÖBB GYAKORLÁSI IDŐ</value>
+    <value>Több frekvencia</value>
   </data>
   <data name="MenuAtcControl.NewAtcSessionUpper" xml:space="preserve">
-    <value>ÚJ ATC ÜLÉS</value>
+    <value>ÚJ FORGALOM IRÁNYÍTÁS</value>
   </data>
   <data name="MenuAtcControl.NoSessionsFoundUpper" xml:space="preserve">
-    <value>NEM TALÁLTAM ÜLÉSEKET</value>
+    <value>NEM TALÁLHATÓ AKTÍV IRÁNYÍTÓ</value>
   </data>
   <data name="MenuAtcControl.ResumeAtcSessionQuestion" xml:space="preserve">
-    <value>Folytassam az ATC ülést?</value>
+    <value>Folytatod az forgalom irányítást?</value>
   </data>
   <data name="MenuAtcControl.UnableToRestartUserNotSame" xml:space="preserve">
-    <value>Nem lehet újraindítani, mert ez az ülés nem kapcsolódik a fiókodhoz</value>
+    <value>Nem indítható újra, mert ez az írányítás nem a te fiókodhoz kapcsolódik</value>
   </data>
   <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
-    <value>Mutassa a régebbi verziók repülőgépeit</value>
+    <value>Régebbi repülőgépek mutatása</value>
   </data>
   <data name="World.SoloDescription" xml:space="preserve">
-    <value>Válassz saját repülőgépet és útvonalat, teszteld a pilótai képességeidet és fedezd fel a gyönyörű tájakat szabályok vagy más pilóták nélkül.</value>
+    <value>Válassz saját repülőgépet és útvonalat, teszteld a pilóta képességeidet és fedezd fel a gyönyörű tájakat szabályok vagy más pilóták nélkül.</value>
   </data>
   <data name="LogbookControl.LogbookControl.NoEntrySelected">
     <value>NINCS KIVÁLASZTOTT BEJEGYZÉS</value>
@@ -2906,6 +2906,6 @@ Check map for more information</comment>
       <value>Nincs elérhető szerver</value>
   </data>
   <data name="Error.CouldNotGetFileSize">
-      <value>Nem sikerült csatlakozni a szerverhez, ellenőrizd az internetkapcsolatodat (hiba kód: {0})</value>
+      <value>Nem sikerült csatlakozni a szerverhez, ellenőrizd az internetkapcsolatod (hiba kód: {0})</value>
   </data>
 </root>
