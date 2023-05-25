@@ -399,6 +399,61 @@
       "de": "Keine Notwendigkeit, den Autopiloten jetzt zu trennen! Versuchen Sie es erneut, aber lassen Sie diesmal den Autopiloten eingeschaltet.",
       "bg": "Няма нужда да изключвате автопилота все още! Опитайте отново, но този път оставете автопилота включен.",
       "ru": "Пока нет необходимости отключать автопилот! Попробуйте еще раз, оставив автопилот включенным на этот раз."
+    },
+    {
+      "en": "The aircraft pitch exceeded 15 degrees up! Re-try, this time with a reduced pitch. Remember to make your movements more gentle.",
+      "ms": "Pesawat miring melebihi 15 darjah ke atas! Cuba semula, kali ini dengan pitch yang dikurangkan. Ingat untuk membuat gerakan anda lebih lembut.",
+      "es": "¡La inclinación del avión superó los 15 grados hacia arriba! Intenta de nuevo, esta vez con una inclinación reducida. Recuerda que tienes que hacer movimientos suaves.",
+      "fr": "L'assiette de l'avion a dépassé 15 degrés vers le haut ! Essayez à nouveau, cette fois-ci avec une assiette réduite. N'oubliez pas de rendre vos mouvements plus doux.",
+      "de": "Der Anstellwinkel des Flugzeugs �berschritt 15 Grad nach oben! Versuchen Sie es erneut, diesmal mit einem reduzierten Anstellwinkel. Denken Sie daran, Ihre Bewegungen sanfter zu gestalten.",
+      "zh": "飞机俯仰角超过了15度！请重试，这次采取更小的俯仰角。记得轻柔地操作。",
+      "pt": "O pitch da aeronave excedeu 15 graus para cima! Tente novamente, dessa vez com um pitch reduzido. Lembre-se de tornar seus movimentos mais suaves.",
+      "bg": "Наклонът на самолета надвишава 15 градуса нагоре! Опитайте отново, но този път намалете наклона. Запомнете да направите движенията си по-нежни.",
+      "ru": "Крен самолёта превысил 15 градусов вверх! Попробуйте еще раз, на этот раз с уменьшенным креном. Помните, что необходимо делать более плавные движения."
+    },
+    {
+      "en": "The aircraft pitch exceeded 15 degrees down! Re-try, this time with a reduced pitch. Remember to make your movements more gentle.",
+      "ms": "Pesawat miring melebihi 15 darjah ke bawah! Cuba lagi, kali ini dengan miring yang lebih rendah. Ingat untuk membuat gerakan anda lebih lembut.",
+      "es": "¡El ángulo de cabeceo del avión superó los 15 grados hacia abajo! Inténtelo de nuevo, esta vez con un cabeceo reducido. Recuerda que tienes que hacer movimientos  suaves.",
+      "fr": "L'altitude de l'avion a dépassé les 15 degrés vers le bas ! Essayez de nouveau avec une altitude réduite. Rappelez-vous de rendre vos mouvements plus doux.",
+      "de": "Der Flugzeug-Nickwinkel überstieg 15 Grad nach unten! Versuche es erneut, dieses Mal mit einem reduzierten Nickwinkel. Denke daran, deine Bewegungen sanfter zu machen.",
+      "zh": "飞机俯仰角超过15度了! 重新尝试，这次减小俯仰角。记住要动作更加轻柔。",
+      "pt": "O \"pitch\" da aeronave excedeu 15 graus para baixo! Tente novamente, desta vez com um \"pitch\" reduzido. Lembre-se de tornar seus movimentos mais suaves.",
+      "ru": "Перекрышка самолета превысила 15 градусов вниз! Попробуйте еще раз, на этот раз с более низкой перекрышкой. Помните, что нужно делать более мягкие движения.",
+      "bg": "Клинът на самолета превиши 15 градуса надолу! Опитай отново, този път с по-нисък клин. Запомни да направиш движенията си по-меки."
+    },
+    {
+      "en": "The aircraft bank exceeded 45 degrees! Re-try, this time with a reduced bank. Remember to make your movements more gentle.",
+      "es": "¡El avión se inclinó más de 45 grados! Intenta de nuevo pero con una inclinación menor. Recuerda que debes hacer movimientos más suaves.",
+      "ms": "Pesawat anda melebihi 45 darjah! Cuba lagi, kali ini buat dengan bank yang rendah. Ingat untuk membuat pergerakan yang lebih lembut.",
+      "fr": "L'avion a incliné de plus de 45 degrés ! Réessayez, cette fois avec une inclinaison réduite. N'oubliez pas de faire des mouvements plus doux.",
+      "de": "Das Flugzeug hat eine Neigung von 45 Grad überschritten! Versuche es erneut, diesmal mit einer reduzierten Neigung. Denke daran, deine Bewegungen sanfter zu machen.",
+      "pt": "O avião inclinou mais de 45 graus! Tente novamente, dessa vez com uma inclinação reduzida. Lembre-se de fazer movimentos mais suaves.",
+      "zh": "飞机的滚转角度超过了45度！请重新尝试，这次使用更小的滚转角度。记得动作更轻柔一些。",
+      "ru": "Банк самолета превысил 45 градусов! Попробуйте еще раз, на этот раз с меньшим банком. Помните, что нужно делать более плавные движения.",
+      "bg": "Самолетът наведе повече от 45 градуса! Опитай отново, този път с по-малък наклон. Помни да бъдеш по-нежен в движенията си."
+    },
+    {
+      "en": "The aircraft bank exceeded 45 degrees! Re-try, this time with a reduced bank. Remember to make your movements more gentle.",
+      "ms": "Pesawat terlalu miring melebihi 45 darjah! Cuba lagi, kali ini dengan miring yang diturunkan. Ingat bahawa anda perlu membuat pergerakan yang lebih perlahan.",
+      "es": "¡El avión inclinó más de 45 grados! Inténtalo de nuevo, esta vez con una inclinación reducida. Recuerda hacer tus movimientos con más suavidad.",
+      "de": "Das Flugzeug hat eine Neigung von mehr als 45 Grad erreicht! Versuche es erneut, dieses Mal mit einer reduzierten Neigung. Bitte denk daran, deine Bewegungen sanfter auszuführen.",
+      "fr": "L'avion a incliné de plus de 45 degrés ! Réessayez, cette fois avec une inclinaison réduite. Rappelez-vous de faire des mouvements plus doux.",
+      "pt": "O avião inclinou mais de 45 graus! Tente novamente, desta vez com uma inclinação menor. Lembre-se de fazer movimentos mais suaves.",
+      "zh": "飞机倾斜角度超过45度了！再试一次，这次减小倾斜角度。记住要更缓慢轻柔地移动。",
+      "ru": "Боковой крен самолёта превысил 45 градусов! Повторите попытку с меньшим креном. Помните, делайте свои движения более мягкими.",
+      "bg": "Летателният апарат извърти банката си повече от 45 градуса! Опитай отново, този път с по-малка банка. Запомни, че трябва да правиш по-нежни движения."
+    },
+    {
+      "en": "The aircraft has stalled. Try again, this time remember to stick to the instructions to complete the tutorial.",
+      "fr": "L'avion a calé. Essayez à nouveau, cette fois, rappelez-vous de suivre les instructions pour terminer le didacticiel.",
+      "es": "La aeronave ha entrado en pérdida. Intenta de nuevo, esta vez recuerda seguir las instrucciones para completar el tutorial.",
+      "ms": "Kapal terbang telah melambat. Cuba lagi, kali ini ingatlah untuk menurut arahan untuk menyelesaikan tutorial.",
+      "de": "Das Flugzeug ist abgestürzt. Versuche es erneut, aber denke daran, dich an die Anweisungen zu halten, um das Tutorial abzuschließen.",
+      "zh": "飞机熄火了。再试一遍，这次记得遵循指示完成教程。",
+      "pt": "A aeronave entrou em estol. Tente novamente, desta vez lembre-se de seguir as instruções para completar o tutorial.",
+      "bg": "Самолетът е паднал в крен. Опитайте отново, този път не забравяйте да следвате инструкциите, за да завършите обучението.",
+      "ru": "Самолет остановился в воздухе. Попробуйте еще раз, на этот раз помните следовать инструкциям, чтобы завершить учебное пособие."
     }
   ]
 }
