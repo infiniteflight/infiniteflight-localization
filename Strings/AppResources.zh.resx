@@ -122,8 +122,7 @@
     <comment>ACCESS TO OUR ENTIRE FLEET</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText1" xml:space="preserve">
-    <value>数十架飞机、
-几百种涂装、
+    <value>几十种不同的机型、数百个不同的涂装、
 逼真的气动模型和可动驾驶舱</value>
     <comment>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</comment>
   </data>
@@ -132,9 +131,7 @@
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>全球超过20,000个机场、
-400 多个 3D 机场并且数量在持续增加、
-15m级分辨率卫星地形图像等。</value>
+    <value>全球超过20,000个机场；上千个3D机场，并且数量在持续增加；15m级分辨率卫星地形图像；真正的开放世界游戏</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
@@ -578,11 +575,7 @@
     <comment>Frame rate limit</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
-    <value>将帧率设置为 60fps 可能会导致你的设备过热。
-为防止损坏，
-你的设备可能会自动降低性能，
-这会导致 Infinite Flight 运行缓慢。
-我们建议将此设置保持为 30fps。</value>
+    <value>将帧率设置为 60fps 可能会导致你的设备过热。为防止损坏，你的设备可能会自动降低性能，这会导致 Infinite Flight 运行缓慢。我们建议将此设置保持为 30fps。</value>
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
@@ -1790,7 +1783,7 @@
     <comment>Settings</comment>
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
-    <value>{0} 飞机过大，无法停靠在位于 {2} 的 {1} 机位。 请更换停机位。</value>
+    <value>{0}飞机过大，无法停靠在位于{2}的{1}机位。请更换停机位。</value>
     <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
@@ -1802,7 +1795,7 @@
     <comment>CAN'T CONNECT</comment>
   </data>
   <data name="MenuPageBase.CannotConnect.Message" xml:space="preserve">
-    <value>Infinite Flight 遭遇连接问题。请检查互联网连接并重启应用或稍后再试。 </value>
+    <value>Infinite Flight遭遇连接问题。请检查互联网连接并重启应用或稍后再试。 </value>
     <comment>Infinite Flight is experiencing internet connectivity issues. Please check your internet connection and restart the app or try again later.</comment>
   </data>
   <data name="MenuPageBase.ForumNotConnected" xml:space="preserve">
@@ -2579,11 +2572,8 @@
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
-    <value>你没有编辑该机场的权限。
-
-请前往论坛请求分配至该机场</value>
+    <value>你没有编辑该机场的权限。请前往Discord服务器请求分配至该机场。</value>
     <comment>You do not have permission to upload changes to this airport.
-
 Please ask to be assigned via the Scenery Editing forum first</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
@@ -2676,8 +2666,7 @@ Check map for more information</comment>
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>无法打开链接。请确认已经安装了一个浏览器。
-若问题持续出现，请联系技术支持 (error code {0})</value>
+    <value>无法打开链接。请确认已经安装了一个浏览器。若问题持续出现，请联系技术支持 (error code {0})</value>
     <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
@@ -2814,8 +2803,7 @@ Check map for more information</comment>
       <value>时长</value>
   </data>
   <data name="LogbookControl.ExportErrorMessage" xml:space="preserve">
-      <value>导出回放文件时出错。
-请检查您是否有足够的存储空间</value>
+      <value>导出回放文件时出错。请检查您是否有足够的存储空间。</value>
   </data>
   <data name="LogbookControl.ExportingUpper" xml:space="preserve">
       <value>导出中</value>
@@ -2896,14 +2884,88 @@ Check map for more information</comment>
       <value>继续管制任务？</value>
   </data>
   <data name="MenuAtcControl.UnableToRestartUserNotSame" xml:space="preserve">
-      <value>无法重新启动，因为这不是你的管制任务</value>
+      <value>无法重新启动，因为这不是
+你的管制任务</value>
   </data>
   <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
       <value>显示来自旧版本的飞机</value>
   </data>
   <data name="World.SoloDescription" xml:space="preserve">
-      <value>自由选择飞机和航线，在没有规则和其他飞机的环境中
-磨练您的飞行技术，探索美丽的风景。
+      <value>自由选择飞机和航线，在没有规则和其他飞机的环境中磨练您的飞行技术，探索美丽的风景。
 </value>
+  </data>
+    <data name="DefaultMission.AfterLanding" xml:space="preserve">
+    <value>欢迎来到 {0}. 滑行到机位并关车即可完成本次任务</value>
+    <comment>Welcome to {0}. Taxi to parking and shutdown the airplane to complete this mission</comment>
+  </data>
+  <data name="DefaultMission.Congratulation" xml:space="preserve">
+    <value>恭喜完成本次飞往{0}的航班!
+你可以退出本次飞行或者继续飞往下一个目的地。广阔天空，期待再次相会！</value>
+    <comment>Congratulations on completing this flight to {0}!
+You can quit this session or embark on another journey to a new destination. See you soon in the Infinite Flight skies!</comment>
+  </data>
+  <data name="DefaultMission.Congratulation2" xml:space="preserve">
+    <value>恭喜完成本次飞往{0}的航班!
+你可以退出本次飞行或者继续飞往下一个目的地。</value>
+    <comment>Congratulations on completing this flight to {0}!
+You can quit this session or embark on another journey to a new destination.</comment>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlight" xml:space="preserve">
+    <value>祝您飞往{0}的旅途愉快！</value>
+    <comment>Have a great flight to {0}</comment>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlightTaxi" xml:space="preserve">
+    <value>您已经准备好滑行, 祝您飞往{0}的旅途愉快</value>
+    <comment>You are now ready to taxi, have a great flight to {0}</comment>
+  </data>
+  <data name="DefaultMission.MissionBriefWindow" xml:space="preserve">
+    <value>这是任务简报窗口。你可以随时在此查看待完成的事项。点击右侧的MISSION BRIEF按钮打开或关闭此窗口</value>
+    <comment>This is your mission brief window. You can come back here at any time to see what you need to do. This window can be toggled by tapping on the "MISSION BRIEF" button on the right</comment>
+  </data>
+  <data name="DefaultMission.PushbackEnd" xml:space="preserve">
+    <value>推出已经停止. 点击“GROUND SERVICES”菜单中的“DETACH TUG”来将拖车和飞机断开</value>
+    <comment>Pushback has been stopped. Press "DETACH TUG" in the "GROUND SERVICES" menu to disconnect the tug from the aircraft</comment>
+  </data>
+  <data name="DefaultMission.PushbackEndPrompt" xml:space="preserve">
+    <value>完成推出后，再点击一次“PUSH”按钮停下来。</value>
+    <comment>When you're done, press the "PUSH" button again to stop.</comment>
+  </data>
+  <data name="DefaultMission.PushbackStart" xml:space="preserve">
+    <value>现在停机刹车已松开，要开始推出，请点击“GROUND SERVICES”菜单里的“PUSH”按钮。</value>
+    <comment>Now that the parking brakes are released, to start pushback, just tap on the "PUSH" button in the "GROUND SERVICES" menu.</comment>
+  </data>
+  <data name="DefaultMission.PushbackSteering" xml:space="preserve">
+    <value>现已开始推出，可以使用右下角的“RUD BRAKES”滑块转向。</value>
+    <comment>Pushback has started, use the "RUD BRAKES" slider on the bottom right to steer the aircraft in the direction you want.</comment>
+  </data>
+  <data name="DefaultMission.ReadyForPushback" xml:space="preserve">
+    <value>我们已经准备好推出, 打开右侧的“GROUND SERVICES”菜单，向下滑找到“PUSHBACK”部分，点击“ATTACH TUG”按钮。</value>
+    <comment>We are ready for pushback, open the "GROUND SERVICES" menu on the right, slide down to the "PUSHBACK" section and tap on "ATTACH TUG"</comment>
+  </data>
+  <data name="DefaultMission.ReleaseBrakes" xml:space="preserve">
+    <value>如果你准备好推出，需要点击左下角的“PARK BRAKE”按钮松开停机刹车</value>
+    <comment>If you're ready to start pushback, the parking brakes need to be released by tapping on the "PARK BRAKES" button on the bottom left</comment>
+  </data>
+  <data name="DefaultMission.StartEngine" xml:space="preserve">
+    <value>如果你还没启动发动机的话，现在是时候启动了。打开右侧“SYSTEM”菜单，点击“AUTO START”来启动发动机，准备好滑行</value>
+    <comment>We can now start the engines if they are not started already. Open the "SYSTEMS" menu on the right and tap on "AUTO START" to start the engines and get the plane ready for taxi</comment>
+  </data>
+  <data name="DefaultMission.TapToContinue" xml:space="preserve">
+    <value>点此继续</value>
+    <comment>Tap here to continue</comment>
+  </data>
+  <data name="DefaultMission.Welcome" xml:space="preserve">
+    <value>欢迎来到无限飞行！点击此窗口查看任务简报和指示</value>
+    <comment>Welcome to Infinite Flight! Tap this window to get started and see the mission briefing and instructions</comment>
+  </data>
+  <data name="DefaultMission.YourMissionBrief" xml:space="preserve">
+    <value>你今天的任务是:
+{0}</value>
+    <comment>Your mission today is:
+{0}</comment>
+  </data>
+  <data name="Mission.MissionBrief" xml:space="preserve">
+    <value>任务简报</value>
+    <comment>MISSION BRIEF</comment>
   </data>
 </root>

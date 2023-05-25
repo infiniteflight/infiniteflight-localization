@@ -2622,4 +2622,46 @@ Consulte el mapa para más información</value>
   <data name="LogbookControl.LogbookControl.NoEntrySelected" xml:space="preserve">
     <value>No hay entradas</value>
   </data>
+  <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
+    <value>Elije un plan</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
+    <value>{0:0}% de descuento</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MonthlyUpper" xml:space="preserve">
+    <value>MENSUAL</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MostPopular" xml:space="preserve">
+    <value>Plan más popular</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.PerMonth" xml:space="preserve">
+    <value>{0}{1:0.00}/mes</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitle" xml:space="preserve">
+    <value>Acede a toda la flota, aeropuertos mundiales, multijugador y ATC</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitleSubscribed" xml:space="preserve">
+    <value>Ya tienes una suscripción! Puedes gestionarla en tu app store.</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.RevertToDefaultAccount" xml:space="preserve">
+    <value>Volver a la cuenta predeterminada</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SemiYearlyUpper" xml:space="preserve">
+    <value>SEMI ANUAL</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.YearlyUpper" xml:space="preserve">
+    <value>ANUAL</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignIn" xml:space="preserve">
+    <value>Inicia sesión</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignInWithInfiniteFlight" xml:space="preserve">
+    <value>Inicia sesión con Infinite Flight</value>
+  </data>
+  <data name="Global.StartOver" xml:space="preserve">
+    <value>Empezar de nuevo</value>
+  </data>
+  <data name="Mission.MissionFailedUpper" xml:space="preserve">
+    <value>MISIÓN FALLIDA</value>
+  </data>
 </root>
