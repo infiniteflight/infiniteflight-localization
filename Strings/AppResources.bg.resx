@@ -242,7 +242,7 @@
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
-    <value>Стриймингът на Глобалния сървър е неуспешен, защото паметта на устройството ви е пълна</value>
+    <value>Стриймингът на глобалния сървър е неуспешен, защото паметта на устройството ви е пълна</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
@@ -266,7 +266,7 @@
     <comment>Sign in to use a subscription bought on another device</comment>
   </data>
   <data name="LoginSubscriptionPage.ExistingAccount" xml:space="preserve">
-    <value>Вече имам акаунт</value>
+    <value>Повече опции</value>
     <comment>I already have an account</comment>
   </data>
   <data name="LoginSubscriptionPage.MoreInfo" xml:space="preserve">
@@ -290,7 +290,7 @@
     <comment>Cancel (button text)</comment>
   </data>
   <data name="Settings.About" xml:space="preserve">
-    <value>Относно</value>
+    <value>ОТНОСНО</value>
     <comment>About (button title)</comment>
   </data>
   <data name="Settings.Account" xml:space="preserve">
@@ -442,11 +442,11 @@
     <comment>Very High (option)</comment>
   </data>
   <data name="Settings.SendCurrentLog" xml:space="preserve">
-    <value>Изпрати Текущия Лог</value>
+    <value>Изпрати текущия лог</value>
     <comment>Send Current Log (button text)</comment>
   </data>
   <data name="Settings.SendPreviousLog" xml:space="preserve">
-    <value>Изпрати Предишния Лог</value>
+    <value>Изпрати предишния лог</value>
     <comment>Send Previous Log (button text)</comment>
   </data>
   <data name="Settings.Sounds" xml:space="preserve">
@@ -674,11 +674,11 @@
     <comment>Show Username In-Flight</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Subtitle" xml:space="preserve">
-    <value>Променя височината на избрания глас</value>
+    <value>Променя тембъра на избрания глас</value>
     <comment>Changes the pitch of your selected voice</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Title" xml:space="preserve">
-    <value>Височина на гласа</value>
+    <value>Тембър на гласа</value>
     <comment>Voice Pitch</comment>
   </data>
   <data name="Commands.AileronTrim" xml:space="preserve">
@@ -814,7 +814,7 @@
     <comment>Controls the airplane Throttle(s)</comment>
   </data>
   <data name="Commands.ToggleSpoilers" xml:space="preserve">
-    <value>Превключване на Спойлерите</value>
+    <value>Превключване на спойлерите</value>
     <comment>Toggle Spoilers</comment>
   </data>
   <data name="Commands.YawAxis.Description" xml:space="preserve">
@@ -942,19 +942,19 @@
     <comment>Axes</comment>
   </data>
   <data name="Settings.Controls.Axes.AxesKey" xml:space="preserve">
-    <value>Бутон/Ос</value>
+    <value>Бутон/ос</value>
     <comment>Key/Axis</comment>
   </data>
   <data name="Settings.Controls.Axes.CommandName" xml:space="preserve">
-    <value>Име на Командата</value>
+    <value>Име на командата</value>
     <comment>Command Name</comment>
   </data>
   <data name="Settings.Controls.Axes.NullZone" xml:space="preserve">
-    <value>Мъртва зона / Чувствителност</value>
+    <value>Мъртва зона / чувствителност</value>
     <comment>Null Zone / Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Axes.Reverse" xml:space="preserve">
-    <value>Обръщане</value>
+    <value>Инверсия</value>
     <comment>Rev.</comment>
   </data>
   <data name="Settings.Controls.Axes.Sensitivity" xml:space="preserve">
@@ -978,7 +978,7 @@
     <comment>Move Axis on Device to Assign</comment>
   </data>
   <data name="Settings.Controls.RestoreDefaults" xml:space="preserve">
-    <value>Връщане на настройки по подразбиране</value>
+    <value>Връщане на настройките по подразбиране</value>
     <comment>Restore Defaults</comment>
   </data>
   <data name="Settings.Controls.SetupGuide" xml:space="preserve">
@@ -1114,7 +1114,7 @@
     <comment>Toggle ATC Window</comment>
   </data>
   <data name="Commands.ToggleAutopilot" xml:space="preserve">
-    <value>Включване/Изключване на автопилота</value>
+    <value>Включване/изключване на автопилота</value>
     <comment>Engage/Disengage Autopilot</comment>
   </data>
   <data name="Commands.ToggleFlightPathVector" xml:space="preserve">
@@ -1122,7 +1122,7 @@
     <comment>Toggle Flight Path Vector</comment>
   </data>
   <data name="Commands.ToggleHUD" xml:space="preserve">
-    <value>Превключване на HUD Дисплея</value>
+    <value>Превключване на HUD дисплея</value>
     <comment>Toggle HUD</comment>
   </data>
   <data name="Commands.TogglePause" xml:space="preserve">
@@ -1154,7 +1154,7 @@
     <comment>Calibrate</comment>
   </data>
   <data name="GameMenu.CalibrationComplete" xml:space="preserve">
-    <value>Калибрацията е Завършена</value>
+    <value>Калибрирането е завършено</value>
     <comment>Calibration Complete</comment>
   </data>
   <data name="GameMenu.Crash" xml:space="preserve">
@@ -1178,7 +1178,7 @@
     <comment>Resume</comment>
   </data>
   <data name="GameMenu.ShortFinal" xml:space="preserve">
-    <value>Кратък Финал</value>
+    <value>Къс финален подход</value>
     <comment>Short Final</comment>
   </data>
   <data name="GameMenu.TakeOff" xml:space="preserve">
@@ -1198,7 +1198,7 @@
     <comment>Weather</comment>
   </data>
   <data name="GameMenu.WeightBalance" xml:space="preserve">
-    <value>Тегло и Баланс</value>
+    <value>Тегло и баланс</value>
     <comment>Weight &amp; Balance</comment>
   </data>
   <data name="GamePage.EndFlight.Message" xml:space="preserve">
@@ -1206,7 +1206,7 @@
     <comment>Are you sure you want to end this flight?</comment>
   </data>
   <data name="GamePage.EndFlight.Title" xml:space="preserve">
-    <value>Край на Полета</value>
+    <value>Край на полета</value>
     <comment>End Flight</comment>
   </data>
   <data name="GamePage.EndSession.Message" xml:space="preserve">
@@ -1450,7 +1450,7 @@
     <comment>Go to {0}</comment>
   </data>
   <data name="ATCJobBoardControl.NoFlightsFound" xml:space="preserve">
-    <value>Няма Намерени Полети</value>
+    <value>Няма намерени полети</value>
     <comment>No Flights Found</comment>
   </data>
   <data name="FlightPlan.AddToCurrentFlightPlanPrompt" xml:space="preserve">
@@ -1458,7 +1458,7 @@
     <comment>Add to current flight plan?</comment>
   </data>
   <data name="FlightPlan.AddToFlightPlan" xml:space="preserve">
-    <value>Добавяне към Полетния План</value>
+    <value>Добавяне към полетния план</value>
     <comment>Add to Flight Plan</comment>
   </data>
   <data name="FlightPlan.ReplaceCurrentFlightPlanPrompt" xml:space="preserve">
@@ -1466,7 +1466,7 @@
     <comment>Replace current flight plan?</comment>
   </data>
   <data name="FlightPlan.ReplaceFlightPlan" xml:space="preserve">
-    <value>Замяна на Полетния План</value>
+    <value>Замяна на полетния план</value>
     <comment>Replace Flight Plan</comment>
   </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
@@ -1494,7 +1494,7 @@
     <comment>Please wait...</comment>
   </data>
   <data name="Global_FinalApproach" xml:space="preserve">
-    <value>Финален Подход</value>
+    <value>Финален подход</value>
     <comment>Final Approach</comment>
   </data>
   <data name="Global_Runway" xml:space="preserve">
@@ -1594,7 +1594,7 @@
     <comment>Select</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectApproach" xml:space="preserve">
-    <value>Избор на Подход</value>
+    <value>Избор на подход</value>
     <comment>Select Approach</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectArrival" xml:space="preserve">
@@ -1606,7 +1606,7 @@
     <comment>Select Departure</comment>
   </data>
   <data name="MenuPageBase.Grade.GradeRequired" xml:space="preserve">
-    <value>Нужен Клас: {0}</value>
+    <value>Нужен ранг: {0}</value>
     <comment>Grade Required: {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.InsufficientGradePrompt" xml:space="preserve">
@@ -1614,7 +1614,7 @@
     <comment>You do not have the required grade to fly on {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.YourGrade" xml:space="preserve">
-    <value>Вашият Ранг: {0}</value>
+    <value>Вашият ранг: {0}</value>
     <comment>Your Grade: {0}</comment>
   </data>
   <data name="MenuPageBase.NoATCAccess" xml:space="preserve">
@@ -2066,7 +2066,7 @@
     <comment>ALT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.ArrivingAtDestination" xml:space="preserve">
-    <value>ПРИСТИГАНЕ НА ДЕСТИНАЦИЯТА след &lt; 1мин</value>
+    <value>ПРИСТИГАНЕ ДО ДЕСТИНАЦИЯТА след &lt; 1мин</value>
     <comment>ARRIVING AT DESTINATION in &lt; 1min</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.FlyHdg" xml:space="preserve">
@@ -2078,11 +2078,11 @@
     <comment>FT (feet)</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWpt" xml:space="preserve">
-    <value>СЛЕДВ. ТОЧКА:</value>
+    <value>СЛЕДВАЩА ТОЧКА:</value>
     <comment>NEXT WPT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
-    <value>СЛЕДВ. ТОЧКА след &lt; 1 мин - Завийте по курс</value>
+    <value>СЛЕДВАЩА ТОЧКА след &lt; 1 мин - Завийте по курс</value>
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
@@ -2270,7 +2270,7 @@
     <comment>Got it!</comment>
   </data>
   <data name="Multiplayer.Welcome" xml:space="preserve">
-    <value>Добре Дошли</value>
+    <value>Добре дошли</value>
     <comment>Welcome</comment>
   </data>
   <data name="Tips.Default" xml:space="preserve">
@@ -2522,7 +2522,7 @@
     <comment>Unavailable</comment>
   </data>
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
-    <value>Активирайте ръчната спирачка на земята, за да променяте теглото и баланса в Онлайн Режим.</value>
+    <value>Активирайте ръчната спирачка на земята, за да променяте теглото и баланса в онлайн режим.</value>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
@@ -2610,7 +2610,7 @@ Check map for more information</comment>
     <comment>Account Linked</comment>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
-    <value>Discord трябва да бъде инсталиран от вашия App Store, за да се присъедините към Infinite Flight сървъра. Желаете ли да инсталирате сега?</value>
+    <value>Discord трябва да бъде инсталиран от вашия магазин за приложения, за да се присъедините към Infinite Flight сървъра. Желаете ли да инсталирате сега?</value>
     <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
@@ -2618,7 +2618,7 @@ Check map for more information</comment>
     <comment>Discord Not Installed</comment>
   </data>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
-    <value>Наземните услуги изискват Ръчната спирачка да е включена, противоколизионните светлини и двигателите да са изключени.</value>
+    <value>Наземните услуги изискват ръчната спирачка да е включена, противоколизионните светлини и двигателите да са изключени.</value>
     <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
@@ -2693,7 +2693,7 @@ Check map for more information</comment>
       <value>ТЕМПЕРАТУРА</value>
   </data>
   <data name="FlightMenu.TimeUpper" xml:space="preserve">
-      <value>ВРЕМЕ</value>
+      <value>ДАТА И ЧАС</value>
   </data>
   <data name="FlightMenu.TypeUpper" xml:space="preserve">
       <value>ТИП</value>
@@ -2850,7 +2850,7 @@ Check map for more information</comment>
       <value>Изберете свой собствен самолет и маршрут, тествайте своите пилотски умения и изследвайте красивите пейзажи без правила и други пилоти.</value>
   </data>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
-      <value>Моля спазвайте безопасно разстояние със самолета пред вас</value>
+      <value>Моля, спазвайте безопасно разстояние със самолета пред вас</value>
   </data>
   <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
       <value>Намерихме вашия акаунт, но няма активна абонаментна услуга свързана с него.</value>
@@ -2946,5 +2946,48 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="Mission.MissionBrief" xml:space="preserve">
     <value>БРИФИНГ НА МИСИЯТА</value>
     <comment>MISSION BRIEF</comment>
+  </data>
+    <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
+    <value>Изберете план</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
+    <value>{0:0}% отстъпка</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MonthlyUpper" xml:space="preserve">
+    <value>МЕСЕЧНО</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MostPopular" xml:space="preserve">
+    <value>Най-популярен</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.PerMonth" xml:space="preserve">
+    <value>{0}{1:0.00}/месец</value>
+    <comment>{currency}{price}/mo</comment>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitle" xml:space="preserve">
+    <value>Отключете всички самолети, целия свят, мултиплейър и РВД</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitleSubscribed" xml:space="preserve">
+    <value>Изглежда, че вече сте абонирани! Можете да управлявате абонамента си от магазина за приложения.</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.RevertToDefaultAccount" xml:space="preserve">
+    <value>Връщане към акаунт по подразбиране</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SemiYearlyUpper" xml:space="preserve">
+    <value>ПОЛУГОДИШНО</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignIn" xml:space="preserve">
+    <value>Вписване</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignInWithInfiniteFlight" xml:space="preserve">
+    <value>Вписване с Infinite Flight</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.YearlyUpper" xml:space="preserve">
+    <value>ГОДИШНО</value>
+  </data>
+  <data name="Global.StartOver" xml:space="preserve">
+    <value>Започни отначало</value>
+  </data>
+  <data name="Mission.MissionFailedUpper" xml:space="preserve">
+    <value>ПРОВАЛЕНА МИСИЯ</value>
   </data>
 </root>

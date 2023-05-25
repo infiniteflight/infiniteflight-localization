@@ -266,7 +266,7 @@
     <comment>Sign in to use a subscription bought on another device</comment>
   </data>
   <data name="LoginSubscriptionPage.ExistingAccount" xml:space="preserve">
-    <value>I already have an account</value>
+    <value>More Options</value>
     <comment>I already have an account</comment>
   </data>
   <data name="LoginSubscriptionPage.MoreInfo" xml:space="preserve">
@@ -2730,8 +2730,8 @@ Check map for more information</comment>
     <comment>Master your piloting skills with interactive tutorials</comment>
   </data>
   <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
-    <value>FLIGHT SCHOOL</value>
-    <comment>FLIGHT SCHOOL</comment>
+    <value>FLIGHT TRAINING</value>
+    <comment>FLIGHT TRAINING</comment>
   </data>
   <data name="FlightMenu.FreeFlightDescription" xml:space="preserve">
     <value>Choose your aircraft and airport, customize your flight plan, and enjoy an immersive flying experience at your own pace</value>
@@ -3045,5 +3045,48 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="Mission.MissionBrief" xml:space="preserve">
     <value>MISSION BRIEF</value>
     <comment>MISSION BRIEF</comment>
+  </data>
+  <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
+    <value>Choose a plan</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
+    <value>{0:0}% discount</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MonthlyUpper" xml:space="preserve">
+    <value>MONTHLY</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MostPopular" xml:space="preserve">
+    <value>Most popular</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.PerMonth" xml:space="preserve">
+    <value>{0}{1:0.00}/mo</value>
+    <comment>{currency}{price}/mo</comment>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitle" xml:space="preserve">
+    <value>Unlock all aircraft, the entire world, multiplayer, and ATC</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitleSubscribed" xml:space="preserve">
+    <value>It looks like you are already subscribed! You can manage your subscription on the store.</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.RevertToDefaultAccount" xml:space="preserve">
+    <value>Revert to default account</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SemiYearlyUpper" xml:space="preserve">
+    <value>SEMI YEARLY</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignIn" xml:space="preserve">
+    <value>Sign in</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignInWithInfiniteFlight" xml:space="preserve">
+    <value>Sign in with Infinite Flight</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.YearlyUpper" xml:space="preserve">
+    <value>YEARLY</value>
+  </data>
+  <data name="Global.StartOver" xml:space="preserve">
+    <value>Start Over</value>
+  </data>
+  <data name="Mission.MissionFailedUpper" xml:space="preserve">
+    <value>MISSION FAILED</value>
   </data>
 </root>
