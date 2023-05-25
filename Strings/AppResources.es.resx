@@ -2664,4 +2664,7 @@ Consulte el mapa para más información</value>
   <data name="Mission.MissionFailedUpper" xml:space="preserve">
     <value>MISIÓN FALLIDA</value>
   </data>
+  <data name="Error.ApplicationInitializationError" xml:space="preserve">
+    <value>Infinite Flight ha tenido un problema. Por favor, reinicia la app o póngase en contacto con soporte técnico (errór {0})</value>
+  </data>
 </root>

@@ -3089,4 +3089,7 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="Mission.MissionFailedUpper" xml:space="preserve">
     <value>MISSION FAILED</value>
   </data>
+  <data name="Error.ApplicationInitializationError" xml:space="preserve">
+    <value>Infinite Flight could not launch due to a problem. Please try restarting or contact support. (error code {0})</value>
+  </data>
 </root>
