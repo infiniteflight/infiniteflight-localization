@@ -1423,7 +1423,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to FLIGHT SCHOOL.
+        ///   Looks up a localized string similar to FLIGHT TRAINING.
         /// </summary>
         internal static string FlightMenu_FlightSchoolUpper {
             get {
