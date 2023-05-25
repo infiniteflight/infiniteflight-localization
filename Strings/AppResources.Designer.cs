@@ -2233,6 +2233,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Start Over.
+        /// </summary>
+        internal static string Global_StartOver {
+            get {
+                return ResourceManager.GetString("Global.StartOver", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Takeoff.
         /// </summary>
         internal static string Global_Takeoff {
@@ -3345,6 +3354,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Mission_MissionBrief {
             get {
                 return ResourceManager.GetString("Mission.MissionBrief", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MISSION FAILED.
+        /// </summary>
+        internal static string Mission_MissionFailedUpper {
+            get {
+                return ResourceManager.GetString("Mission.MissionFailedUpper", resourceCulture);
             }
         }
         
@@ -5140,6 +5158,114 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string SplashScreen_UpdatingNavigationDatabase {
             get {
                 return ResourceManager.GetString("SplashScreen.UpdatingNavigationDatabase", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose a plan.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_ChooseAPlan {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.ChooseAPlan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0:0}% discount.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_Discount {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.Discount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MONTHLY.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_MonthlyUpper {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.MonthlyUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Most popular.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_MostPopular {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.MostPopular", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0}{1:0.00}/mo.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_PerMonth {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.PerMonth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unlock all aircraft, the entire world, multiplayer, and ATC.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_ProSubtitle {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.ProSubtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to It looks like you are already subscribed! You can manage your subscription on the store..
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_ProSubtitleSubscribed {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.ProSubtitleSubscribed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Revert to default account.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_RevertToDefaultAccount {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.RevertToDefaultAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SEMI YEARLY.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_SemiYearlyUpper {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.SemiYearlyUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_SignIn {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.SignIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in with Infinite Flight.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_SignInWithInfiniteFlight {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.SignInWithInfiniteFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to YEARLY.
+        /// </summary>
+        internal static string SubscriptionMorePlansControl_YearlyUpper {
+            get {
+                return ResourceManager.GetString("SubscriptionMorePlansControl.YearlyUpper", resourceCulture);
             }
         }
         
