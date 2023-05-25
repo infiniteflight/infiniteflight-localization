@@ -20,7 +20,7 @@
       "pt": "Aprenda os conceitos básicos do Infinite Flight aqui!",
       "es": "¡Aprende los conceptos básicos de Infinite Flight aquí!",
       "ms": "Pelajari asas-asas Infinite Flight di sini!",
-      "zh": "在这里学习《无限飞行》的基本操作！"
+      "zh": "一起学习《无限飞行》的基本操作吧！"
     }
   },
   "stringsPerStep": [
@@ -42,7 +42,7 @@
       "pt": "Nosso aplicativo possui uma maneira intuitiva de controlar o joystick ou manche da sua aeronave inclinando seu dispositivo na direção desejada. O Infinite Flight detecta esse movimento e fornece entrada para as superfícies de controle, exatamente como se você estivesse pilotando a aeronave!",
       "fr": "Notre application dispose d'une méthode intuitive pour contrôler le joystick ou le manche de votre avion en inclinant votre appareil dans la direction que vous souhaitez prendre. Infinite Flight détecte ce mouvement et fournit des entrées aux surfaces de contrôle comme si vous étiez aux commandes de l'avion vous-même!",
       "de": "Unsere App verfügt über eine intuitive Möglichkeit, den Joystick oder das Steuerhorn Ihres Flugzeugs zu steuern, indem Sie Ihr Gerät in die Richtung neigen, in die Sie gehen möchten. Infinite Flight erkennt diese Bewegung und liefert Eingaben an die Steuerflächen, als ob Sie das Flugzeug selbst fliegen würden!",
-      "zh": "《无限飞行》的操纵方式非常直观，只需通过向所需方向倾斜您的设备即可控制飞机的操纵杆（盘）。《无限飞行》将检测设备的运动，并将其转换为操纵面的偏转，就好像您自己驾驶飞机一样！",
+      "zh": "《无限飞行》的操纵方式非常直观，只需通过向所需方向倾斜你的设备即可控制飞机的操纵杆。《无限飞行》将检测设备的运动，并将其转换为操纵面的偏转，就好像你自己驾驶飞机一样！",
       "bg": "Нашият приложение има интуитивен начин да управлява джойстика или колелото на самолета ви, като накланяте устройството си в посока на движение. Infinite Flight открива това движение и осигурява вход за контролните повърхности, точно като при самолет, който лети те!",
       "ru": "В нашем приложении интуитивно понятный способ управления джойстиком или штурвалом вашего воздушного судна - наклон устройства в нужном направлении. Infinite Flight распознает это движение и передает сигнал на управляющие поверхности так, как если бы вы сами управляли самолетом!"
     },
@@ -136,7 +136,7 @@
     },
     {
       "en": "Okay, you have control! Let's turn left, don't forget, small and smooth inputs!",
-      "zh": "好的，现在你来操纵！我们先左转，别忘了，操纵要柔和平稳！",
+      "zh": "好的，现在你来操纵！我们先左转，别忘了，操纵要柔和，平稳！",
       "ms": "Okay, pihak awak memegang kawalan! Mari belok ke kiri, jangan lupa, gunakan input yang kecil dan lembut!",
       "fr": "D'accord, tu as les commandes ! Tournons à gauche, n'oublie pas de faire des entrées douces et progressives !",
       "es": "¡Vale, tienes el control! Giremos a la izquierda, ¡no te olvides de hacer entradas pequeñas y suaves!",
@@ -173,7 +173,7 @@
       "es": "¡Genial! ¡Sigue practicando y cuando estés listo para continuar, toca para continuar!",
       "pt": "Ótimo! Continue praticando e quando estiver pronto para avançar, toque para continuar!",
       "ms": "Baik! Teruskan berlatih dan apabila anda bersedia untuk bergerak ke hadapan, ketik untuk meneruskan!",
-      "zh": "漂亮！自己再多练练，准备好之后点击继续。",
+      "zh": "漂亮！自己再多试试，准备好之后点击继续。",
       "fr": "Génial ! Continuez à vous entraîner et lorsque vous êtes prêt à passer à la suite, appuyez pour continuer !",
       "ru": "Отлично! Продолжайте практиковаться, и когда будете готовы двигаться дальше, коснитесь экрана, чтобы продолжить!",
       "bg": "Отлично! Продължавай да практикуваш и когато си готов да продължиш напред, докосни за да продължиш!"
@@ -191,7 +191,7 @@
     },
     {
       "en": "You can move the rudder by holding your finger on the slider in the bottom right of the screen and moving it left or right.",
-      "zh": "您可以通过按住右下角的滑块并左右拖动来控制方向舵。",
+      "zh": "你可以通过按住右下角的滑块并左右拖动来控制方向舵。",
       "de": "Du kannst das Ruder bewegen, indem du deinen Finger auf den Regler unten rechts auf dem Bildschirm hältst und ihn nach links oder rechts bewegst.",
       "pt": "Você pode mover o leme mantendo o dedo no controle deslizante na parte inferior direita da tela e movendo-o para a esquerda ou para a direita.",
       "es": "Puedes mover el timón manteniendo tu dedo en el deslizador en la parte inferior derecha de la pantalla y moviéndolo hacia la izquierda o hacia la derecha.",
@@ -273,7 +273,7 @@
       "es": "¡Sigue practicando y cuando estés listo para avanzar, toca para continuar!",
       "ms": "Terus berlatih dan apabila anda sudah sedia untuk terus, ketik untuk meneruskan!",
       "fr": "Continuez à pratiquer et lorsque vous êtes prêt à passer à l'étape suivante, appuyez pour continuer !",
-      "zh": "自己再多练练，准备好之后点击继续！",
+      "zh": "自己再多试试，准备好之后点击继续！",
       "ru": "Продолжайте тренироваться, и когда вы будете готовы продолжить, коснитесь экрана, чтобы продолжить!",
       "bg": "Продължи да практикуваш и когато си готов да продължиш напред, докосни за да продължиш!"
     },
@@ -301,7 +301,7 @@
     },
     {
       "en": "You can also change the camera view by either tapping the Camera icon again, or by holding your finger over it and then sliding to a specific view. Have a go and when you're ready to move on, tap to continue!",
-      "zh": "你可以通过连续点按摄像头图标，或者按住并拖动来调到想要的视角。自己试试，准备好之后点击继续！",
+      "zh": "你可以通过连续点按摄像头图标，或者按住并拖动来调整到想要的视角。自己试试，准备好之后点击继续！",
       "pt": "Você também pode alterar a visualização da câmera tocando no ícone da câmera novamente ou segurando o dedo sobre ele e deslizando para uma visualização específica. Experimente e quando estiver pronto para continuar, toque para prosseguir!",
       "ms": "Anda boleh juga menukar pandangan kamera dengan mengetik icon Kamera sekali lagi atau dengan mengetik dan menarik ikon tersebut ke pandangan yang anda ingin kecapi. Cuba dan apabila anda sudah bersedia untuk meneruskan, ketik untuk meneruskan!",
       "es": "¡También puedes cambiar la vista de la cámara tocando el ícono de la cámara de nuevo o manteniendo tu dedo sobre él y luego deslizándolo hacia una vista específica. Inténtalo y cuando estés listo para continuar, toca para seguir!",
@@ -356,7 +356,7 @@
     },
     {
       "en": "The Direct To icon is shown with a \"D\" symbol that has an arrow going through it. Tap the Direct To icon for KSMO.",
-      "zh": "“直飞”标志由一个D和从中穿过的箭头组成。点击它“直飞”KSMO。",
+      "zh": "“直飞”按钮由一个D和从中穿过的箭头组成。点击它“直飞”KSMO。",
       "ms": "Ikon Direct To ditunjukkan dengan simbol \"D\" yang mempunyai anak panah ke dalamnya. Ketik pada ikon Direct To untuk KSMO.",
       "es": "El icono de Directo A se muestra con un símbolo \"D\" que tiene una flecha pasando por él. Toca el icono Directo A para KSMO.",
       "pt": "O ícone \"Direto Para\" é exibido com o símbolo \"D\" que tem uma seta passando por ele. Toque no ícone \"Direto Para\" para KSMO.",
@@ -367,7 +367,7 @@
     },
     {
       "en": "Looks like we are on our way home! Thanks for joining, we hope you enjoyed the intro to Infinite Flight. See you in the next one!",
-      "zh": "看起来我们已经开始返航了！感谢您的参与，希望您喜欢《无限飞行》的入门教程。我们下次见！",
+      "zh": "看起来我们已经开始返航了！感谢你的参与，希望你喜欢《无限飞行》的入门教程。我们下次见！",
       "es": "¡Parece que estamos en camino a casa! Gracias por venir, esperamos que hayas disfrutado de la introducción a Infinite Flight. ¡Nos vemos en la próxima!",
       "ms": "Nampaknya kita dalam perjalanan pulang! Terima kasih kerana menyertai, kami harap anda menikmati pengenalan kepada Infinite Flight. Jumpa anda di tutorial yang akan datang!",
       "fr": "On dirait que nous sommes sur la voie de retour à la maison! Merci d'avoir participé, nous espérons que vous avez apprécié l'introduction à Infinite Flight. À la prochaine !",
@@ -394,7 +394,7 @@
       "pt": "Não é necessário desconectar o piloto automático ainda! Tente novamente, mas deixe o piloto automático ligado desta vez.",
       "ms": "Tidak perlu memutuskan autopilot buat masa ini! Cuba lagi tapi biarkan autopilot pada kali ini.",
       "fr": "Pas besoin de déconnecter l'autopilote pour le moment ! Essayez à nouveau, mais laissez l'autopilote activé cette fois-ci.",
-      "zh": "现在还不需要断开自动驾驶！再试一次，这次让自动驾驶保持接通。",
+      "zh": "现在还不需要断开自动驾驶！再试一次，注意让自动驾驶保持接通。",
       "es": "¡No hay necesidad de desconectar el piloto automático todavía! Inténtalo de nuevo pero deja encendido el piloto automático esta vez.",
       "de": "Keine Notwendigkeit, den Autopiloten jetzt zu trennen! Versuchen Sie es erneut, aber lassen Sie diesmal den Autopiloten eingeschaltet.",
       "bg": "Няма нужда да изключвате автопилота все още! Опитайте отново, но този път оставете автопилота включен.",
@@ -406,7 +406,7 @@
       "es": "¡La inclinación del avión superó los 15 grados hacia arriba! Intenta de nuevo, esta vez con una inclinación reducida. Recuerda que tienes que hacer movimientos suaves.",
       "fr": "L'assiette de l'avion a dépassé 15 degrés vers le haut ! Essayez à nouveau, cette fois-ci avec une assiette réduite. N'oubliez pas de rendre vos mouvements plus doux.",
       "de": "Der Anstellwinkel des Flugzeugs �berschritt 15 Grad nach oben! Versuchen Sie es erneut, diesmal mit einem reduzierten Anstellwinkel. Denken Sie daran, Ihre Bewegungen sanfter zu gestalten.",
-      "zh": "飞机俯仰角超过了15度！请重试，这次采取更小的俯仰角。记得轻柔地操作。",
+      "zh": "飞机的俯仰角超过15度了！再试一次，这次减小点俯仰角。注意要更加轻柔地操纵。",
       "pt": "O pitch da aeronave excedeu 15 graus para cima! Tente novamente, dessa vez com um pitch reduzido. Lembre-se de tornar seus movimentos mais suaves.",
       "bg": "Наклонът на самолета надвишава 15 градуса нагоре! Опитайте отново, но този път намалете наклона. Запомнете да направите движенията си по-нежни.",
       "ru": "Крен самолёта превысил 15 градусов вверх! Попробуйте еще раз, на этот раз с уменьшенным креном. Помните, что необходимо делать более плавные движения."
@@ -417,7 +417,7 @@
       "es": "¡El ángulo de cabeceo del avión superó los 15 grados hacia abajo! Inténtelo de nuevo, esta vez con un cabeceo reducido. Recuerda que tienes que hacer movimientos  suaves.",
       "fr": "L'altitude de l'avion a dépassé les 15 degrés vers le bas ! Essayez de nouveau avec une altitude réduite. Rappelez-vous de rendre vos mouvements plus doux.",
       "de": "Der Flugzeug-Nickwinkel überstieg 15 Grad nach unten! Versuche es erneut, dieses Mal mit einem reduzierten Nickwinkel. Denke daran, deine Bewegungen sanfter zu machen.",
-      "zh": "飞机俯仰角超过15度了! 重新尝试，这次减小俯仰角。记住要动作更加轻柔。",
+      "zh": "飞机的俯仰角超过15度了! 再试一次，这次减小点俯仰角。注意要更加轻柔地操纵。",
       "pt": "O \"pitch\" da aeronave excedeu 15 graus para baixo! Tente novamente, desta vez com um \"pitch\" reduzido. Lembre-se de tornar seus movimentos mais suaves.",
       "ru": "Перекрышка самолета превысила 15 градусов вниз! Попробуйте еще раз, на этот раз с более низкой перекрышкой. Помните, что нужно делать более мягкие движения.",
       "bg": "Клинът на самолета превиши 15 градуса надолу! Опитай отново, този път с по-нисък клин. Запомни да направиш движенията си по-меки."
@@ -429,7 +429,7 @@
       "fr": "L'avion a incliné de plus de 45 degrés ! Réessayez, cette fois avec une inclinaison réduite. N'oubliez pas de faire des mouvements plus doux.",
       "de": "Das Flugzeug hat eine Neigung von 45 Grad überschritten! Versuche es erneut, diesmal mit einer reduzierten Neigung. Denke daran, deine Bewegungen sanfter zu machen.",
       "pt": "O avião inclinou mais de 45 graus! Tente novamente, dessa vez com uma inclinação reduzida. Lembre-se de fazer movimentos mais suaves.",
-      "zh": "飞机的滚转角度超过了45度！请重新尝试，这次使用更小的滚转角度。记得动作更轻柔一些。",
+      "zh": "飞机的滚转角超过45度了！再试一次，这次减小点滚转角。注意要更加轻柔地操纵。",
       "ru": "Банк самолета превысил 45 градусов! Попробуйте еще раз, на этот раз с меньшим банком. Помните, что нужно делать более плавные движения.",
       "bg": "Самолетът наведе повече от 45 градуса! Опитай отново, този път с по-малък наклон. Помни да бъдеш по-нежен в движенията си."
     },
@@ -440,7 +440,7 @@
       "de": "Das Flugzeug hat eine Neigung von mehr als 45 Grad erreicht! Versuche es erneut, dieses Mal mit einer reduzierten Neigung. Bitte denk daran, deine Bewegungen sanfter auszuführen.",
       "fr": "L'avion a incliné de plus de 45 degrés ! Réessayez, cette fois avec une inclinaison réduite. Rappelez-vous de faire des mouvements plus doux.",
       "pt": "O avião inclinou mais de 45 graus! Tente novamente, desta vez com uma inclinação menor. Lembre-se de fazer movimentos mais suaves.",
-      "zh": "飞机倾斜角度超过45度了！再试一次，这次减小倾斜角度。记住要更缓慢轻柔地移动。",
+      "zh": "飞机的滚转角超过45度了！再试一次，这次减小点滚转角。注意要更加轻柔地操纵。",
       "ru": "Боковой крен самолёта превысил 45 градусов! Повторите попытку с меньшим креном. Помните, делайте свои движения более мягкими.",
       "bg": "Летателният апарат извърти банката си повече от 45 градуса! Опитай отново, този път с по-малка банка. Запомни, че трябва да правиш по-нежни движения."
     },
@@ -450,7 +450,7 @@
       "es": "La aeronave ha entrado en pérdida. Intenta de nuevo, esta vez recuerda seguir las instrucciones para completar el tutorial.",
       "ms": "Kapal terbang telah melambat. Cuba lagi, kali ini ingatlah untuk menurut arahan untuk menyelesaikan tutorial.",
       "de": "Das Flugzeug ist abgestürzt. Versuche es erneut, aber denke daran, dich an die Anweisungen zu halten, um das Tutorial abzuschließen.",
-      "zh": "飞机熄火了。再试一遍，这次记得遵循指示完成教程。",
+      "zh": "飞机失速了！再试一次，要好好跟着教程飞哦。",
       "pt": "A aeronave entrou em estol. Tente novamente, desta vez lembre-se de seguir as instruções para completar o tutorial.",
       "bg": "Самолетът е паднал в крен. Опитайте отново, този път не забравяйте да следвате инструкциите, за да завършите обучението.",
       "ru": "Самолет остановился в воздухе. Попробуйте еще раз, на этот раз помните следовать инструкциям, чтобы завершить учебное пособие."
