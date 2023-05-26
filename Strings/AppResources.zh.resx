@@ -2968,4 +2968,50 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>任务简报</value>
     <comment>MISSION BRIEF</comment>
   </data>
+   <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
+    <value>选择方案</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
+    <value>{0:0}%折扣</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MonthlyUpper" xml:space="preserve">
+    <value>包月</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MostPopular" xml:space="preserve">
+    <value>热门选择</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.PerMonth" xml:space="preserve">
+    <value>{0}{1:0.00}/月</value>
+    <comment>{currency}{price}/mo</comment>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitle" xml:space="preserve">
+    <value>解锁所有飞机，全球地图，多人连飞和管制模式</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitleSubscribed" xml:space="preserve">
+    <value>你已经成功订阅！可前往应用商店管理你的订阅。</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.RevertToDefaultAccount" xml:space="preserve">
+    <value>退出登录</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SemiYearlyUpper" xml:space="preserve">
+    <value>半年</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignIn" xml:space="preserve">
+    <value>登录</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignInWithInfiniteFlight" xml:space="preserve">
+    <value>使用IFC社区账号登录</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.YearlyUpper" xml:space="preserve">
+    <value>包年</value>
+  </data>
+  <data name="Global.StartOver" xml:space="preserve">
+    <value>重新开始</value>
+  </data>
+  <data name="Mission.MissionFailedUpper" xml:space="preserve">
+    <value>任务失败</value>
+  </data>
+  <data name="Error.ApplicationInitializationError" xml:space="preserve">
+    <value>Infinite Flight由于出错无法打开。请尝试重启或联系支持。 (错误代码 {0})</value>
+  </data>
 </root>
