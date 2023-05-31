@@ -2966,7 +2966,8 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="Mission.MissionBrief" xml:space="preserve">
     <value>任务简报</value>
     <comment>MISSION BRIEF</comment>
-<data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
+  </data>
+  <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
     <value>选择方案</value>
   </data>
   <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
