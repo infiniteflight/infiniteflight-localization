@@ -617,7 +617,7 @@
     <comment>Texture Quality</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Subtitle" xml:space="preserve">
-    <value>Устанавливает персональный голос для общения с другими игроками</value>
+    <value>Устанавливает ваш голос для взаимодействия с УВД</value>
     <comment>Select voice for your ATC communications</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Title" xml:space="preserve">
@@ -657,7 +657,7 @@
     <comment>Hide Airplane Names</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Subtitle" xml:space="preserve">
-    <value>Контролирует количество видимых самолетов в многопользовательском режиме</value>
+    <value>Устанавливает количество видимых самолетов в многопользовательском режиме</value>
     <comment>Controls how many airplanes are shown in multiplayer.</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Title" xml:space="preserve">
@@ -2823,7 +2823,7 @@ Check map for more information</comment>
       <value>Непроработанные самолеты</value>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
-      <value>Внимание: Этот самолет унаследован из старой версии игры. Его качество не соответствует нашим новым самолетам.</value>
+      <value>Внимание: Этот самолет был добавлен в старой версии игры. Его качество не соответствует нашим новым самолетам.</value>
   </data>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
       <value>Пожалуйста, соблюдайте безопасную дистанцию с самолетом перед вами.</value>
@@ -2841,7 +2841,7 @@ Check map for more information</comment>
       <value>Неверные временные значения для этой сессии (код ошибки {0})</value>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
-      <value>Непроработанные самолеты унаследованы из более старых версий Infinite Flight и отличаются от новых качеством. Все равно показать их?</value>
+      <value>Непроработанные самолеты были добавлены в более старых версиях Infinite Flight и отличаются от новых качеством. Все равно показать их?</value>
   </data>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
       <value>Для обслуживания на земле требуется включенный стояночный тормоз, отключенные сигнальные огни и выключенные двигатели.</value>
