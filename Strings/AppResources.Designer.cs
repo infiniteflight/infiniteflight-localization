@@ -1135,6 +1135,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Infinite Flight could not launch due to a problem. Please try restarting or contact support. (error code {0}).
+        /// </summary>
+        internal static string Error_ApplicationInitializationError {
+            get {
+                return ResourceManager.GetString("Error.ApplicationInitializationError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to We can&apos;t find information about this ATC session (error code {0}).
         /// </summary>
         internal static string Error_ATCSessionNotFound {
