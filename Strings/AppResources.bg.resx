@@ -2873,7 +2873,7 @@ Check map for more information</comment>
   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
       <value>Докоснете, за да продължите</value>
   </data>
-    <data name="DefaultMission.AfterLanding" xml:space="preserve">
+  <data name="DefaultMission.AfterLanding" xml:space="preserve">
     <value>Добре дошли в {0}. Рулирайте до стоянка и спрете самолета, за да завършите мисията</value>
     <comment>Welcome to {0}. Taxi to parking and shutdown the airplane to complete this mission</comment>
   </data>
