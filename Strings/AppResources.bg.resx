@@ -2947,7 +2947,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>БРИФИНГ НА МИСИЯТА</value>
     <comment>MISSION BRIEF</comment>
   </data>
-  <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
+    <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
     <value>Изберете план</value>
   </data>
   <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">

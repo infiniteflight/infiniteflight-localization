@@ -1549,6 +1549,303 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The start and end times for this session aren&apos;t valid (error code {0}).
+        /// </summary>
+        internal static string Error_InvalidTimeSpan {
+            get {
+                return ResourceManager.GetString("Error.InvalidTimeSpan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The account you are trying to login to has invalid credentials (error code {0}).
+        /// </summary>
+        internal static string FlightMenu_WindCalm {
+            get {
+                return ResourceManager.GetString("FlightMenu.WindCalm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to WIND.
+        /// </summary>
+        internal static string FlightMenu_WindUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.WindUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0:#000}° at {1} - {2} kts.
+        /// </summary>
+        internal static string FlightMenu_WindWithGust {
+            get {
+                return ResourceManager.GetString("FlightMenu.WindWithGust", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to WORLD.
+        /// </summary>
+        internal static string FlightMenu_WorldUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.WorldUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LONG HAUL.
+        /// </summary>
+        internal static string FlightMissionControl_LongHaulUpper {
+            get {
+                return ResourceManager.GetString("FlightMissionControl.LongHaulUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MEDIUM HAUL.
+        /// </summary>
+        internal static string FlightMissionControl_MediumHaulUpper {
+            get {
+                return ResourceManager.GetString("FlightMissionControl.MediumHaulUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NO MISSIONS FOUND.
+        /// </summary>
+        internal static string FlightMissionControl_NoMissionsFoundUpper {
+            get {
+                return ResourceManager.GetString("FlightMissionControl.NoMissionsFoundUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SHORT HAUL.
+        /// </summary>
+        internal static string FlightMissionControl_ShortHaulUpper {
+            get {
+                return ResourceManager.GetString("FlightMissionControl.ShortHaulUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ULTRA LONG HAUL.
+        /// </summary>
+        internal static string FlightMissionControl_UltraLongHaulUpper {
+            get {
+                return ResourceManager.GetString("FlightMissionControl.UltraLongHaulUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CHANGE AIRCRAFT.
+        /// </summary>
+        internal static string FlightFreeControl_ChangeAircraftUpper {
+            get {
+                return ResourceManager.GetString("FlightFreeControl.ChangeAircraftUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to IMAGE NOT FOUND.
+        /// </summary>
+        internal static string FlightFreeControl_ImageNotFoundUpper {
+            get {
+                return ResourceManager.GetString("FlightFreeControl.ImageNotFoundUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NEW FLIGHT.
+        /// </summary>
+        internal static string FlightFreeControl_NewFlightUpper {
+            get {
+                return ResourceManager.GetString("FlightFreeControl.NewFlightUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to UNAVAILABLE.
+        /// </summary>
+        internal static string FlightFreeControl_UnavailableUpper {
+            get {
+                return ResourceManager.GetString("FlightFreeControl.UnavailableUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to WEATHER.
+        /// </summary>
+        internal static string FlightFreeControl_WeatherUpper {
+            get {
+                return ResourceManager.GetString("FlightFreeControl.WeatherUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ALTIMETER.
+        /// </summary>
+        internal static string FlightMenu_AltimeterUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.AltimeterUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to APPROX. DURATION.
+        /// </summary>
+        internal static string FlightMenu_ApproxDurationUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.ApproxDurationUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CLOUDS.
+        /// </summary>
+        internal static string FlightMenu_CloudsUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.CloudsUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DISTANCE.
+        /// </summary>
+        internal static string FlightMenu_DistanceUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.DistanceUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Master your piloting skills with interactive tutorials.
+        /// </summary>
+        internal static string FlightMenu_FlightSchoolDescription {
+            get {
+                return ResourceManager.GetString("FlightMenu.FlightSchoolDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to FLIGHT TRAINING.
+        /// </summary>
+        internal static string FlightMenu_FlightSchoolUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.FlightSchoolUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose your aircraft and airport, customize your flight plan, and enjoy an immersive flying experience at your own pace.
+        /// </summary>
+        internal static string FlightMenu_FreeFlightDescription {
+            get {
+                return ResourceManager.GetString("FlightMenu.FreeFlightDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to FREE FLIGHT.
+        /// </summary>
+        internal static string FlightMenu_FreeFlightUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.FreeFlightUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GENERIC FLIGHT.
+        /// </summary>
+        internal static string FlightMenu_GenericFlightUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.GenericFlightUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LATEST METAR.
+        /// </summary>
+        internal static string FlightMenu_LatestMetarUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.LatestMetarUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Jump right into the action with recommended airline and charter routes based on traffic and ATC.
+        /// </summary>
+        internal static string FlightMenu_MissionsDescription {
+            get {
+                return ResourceManager.GetString("FlightMenu.MissionsDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MISSIONS.
+        /// </summary>
+        internal static string FlightMenu_MissionsUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.MissionsUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PARKING.
+        /// </summary>
+        internal static string FlightMenu_ParkingUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.ParkingUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TEMPERATURE.
+        /// </summary>
+        internal static string FlightMenu_TemperatureUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.TemperatureUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TIME.
+        /// </summary>
+        internal static string FlightMenu_TimeUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.TimeUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TYPE.
+        /// </summary>
+        internal static string FlightMenu_TypeUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.TypeUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to VISIBILITY.
+        /// </summary>
+        internal static string FlightMenu_VisibilityUpper {
+            get {
+                return ResourceManager.GetString("FlightMenu.VisibilityUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0:#000}° at {1} kts.
+        /// </summary>
+        internal static string FlightMenu_Wind {
+            get {
+                return ResourceManager.GetString("FlightMenu.Wind", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Calm.
         /// </summary>
         internal static string FlightMenu_WindCalm {
@@ -2679,6 +2976,150 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Logbook_ViewFlightDetails {
             get {
                 return ResourceManager.GetString("Logbook.ViewFlightDetails", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to AIRCRAFT.
+        /// </summary>
+        internal static string LogbookControl_AircraftUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.AircraftUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ALL.
+        /// </summary>
+        internal static string LogbookControl_AllUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.AllUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ATC.
+        /// </summary>
+        internal static string LogbookControl_AtcUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.AtcUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DISTANCE.
+        /// </summary>
+        internal static string LogbookControl_DistanceUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.DistanceUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DURATION.
+        /// </summary>
+        internal static string LogbookControl_DurationUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.DurationUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Error exporting the replay file. Check that you have enough storage space available.
+        /// </summary>
+        internal static string LogbookControl_ExportErrorMessage {
+            get {
+                return ResourceManager.GetString("LogbookControl.ExportErrorMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EXPORTING.
+        /// </summary>
+        internal static string LogbookControl_ExportingUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.ExportingUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to FILE SIZE.
+        /// </summary>
+        internal static string LogbookControl_FileSizeUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.FileSizeUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MULTIPLAYER.
+        /// </summary>
+        internal static string LogbookControl_MultiplayerUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.MultiplayerUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NO ENTRY SELECTED.
+        /// </summary>
+        internal static string LogbookControl_NoEntrySelected {
+            get {
+                return ResourceManager.GetString("LogbookControl.NoEntrySelected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NO ITEMS FOUND.
+        /// </summary>
+        internal static string LogbookControl_NoItemsFound {
+            get {
+                return ResourceManager.GetString("LogbookControl.NoItemsFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ONLY REPLAYS.
+        /// </summary>
+        internal static string LogbookControl_OnlyReplaysUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.OnlyReplaysUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SERVER.
+        /// </summary>
+        internal static string LogbookControl_ServerUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.ServerUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SOLO.
+        /// </summary>
+        internal static string LogbookControl_SoloUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.SoloUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to XP EARNED.
+        /// </summary>
+        internal static string LogbookControl_XpEarnedUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.XpEarnedUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to YOUR LOGBOOK.
+        /// </summary>
+        internal static string LogbookControl_YourLogbook {
+            get {
+                return ResourceManager.GetString("LogbookControl.YourLogbook", resourceCulture);
             }
         }
         

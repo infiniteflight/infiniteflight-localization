@@ -408,7 +408,7 @@
       "de": "Der Anstellwinkel des Flugzeugs �berschritt 15 Grad nach oben! Versuchen Sie es erneut, diesmal mit einem reduzierten Anstellwinkel. Denken Sie daran, Ihre Bewegungen sanfter zu gestalten.",
       "zh": "飞机的俯仰角超过15度了！再试一次，这次减小点俯仰角。注意要更加轻柔地操纵。",
       "pt": "O pitch da aeronave excedeu 15 graus para cima! Tente novamente, dessa vez com um pitch reduzido. Lembre-se de tornar seus movimentos mais suaves.",
-      "bg": "Вертикалният наклон надвиши 15 градуса надолу! Опитайте отново, но този път намалете наклона. Запомнете, че движенията трябва да са по-плавни.",
+      "bg": "Вертикалният наклон надвиши 15 градуса нагоре! Опитайте отново, но този път намалете наклона. Запомнете, че движенията трябва да са по-плавни.",
       "ru": "Крен самолёта превысил 15 градусов вверх! Попробуйте еще раз, на этот раз с уменьшенным креном. Помните, что необходимо делать более плавные движения."
     },
     {
@@ -420,7 +420,7 @@
       "zh": "飞机的俯仰角超过15度了! 再试一次，这次减小点俯仰角。注意要更加轻柔地操纵。",
       "pt": "O \"pitch\" da aeronave excedeu 15 graus para baixo! Tente novamente, desta vez com um \"pitch\" reduzido. Lembre-se de tornar seus movimentos mais suaves.",
       "ru": "Перекрышка самолета превысила 15 градусов вниз! Попробуйте еще раз, на этот раз с более низкой перекрышкой. Помните, что нужно делать более мягкие движения.",
-      "bg": "Клинът на самолета превиши 15 градуса надолу! Опитай отново, този път с по-нисък клин. Запомни да направиш движенията си по-меки."
+      "bg": "Вертикалният наклон надвиши 15 градуса надолу! Опитайте отново, но този път намалете наклона. Запомнете, че движенията трябва да са по-плавни."
     },
     {
       "en": "The aircraft bank exceeded 45 degrees! Re-try, this time with a reduced bank. Remember to make your movements more gentle.",
