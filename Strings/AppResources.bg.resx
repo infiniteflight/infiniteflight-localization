@@ -2648,7 +2648,7 @@ Check map for more information</comment>
       <value>НЕДОСТЪПНО</value>
   </data>
   <data name="FlightFreeControl.WeatherUpper" xml:space="preserve">
-      <value>ВРЕМЕТО В {0}</value>
+      <value>ВРЕМЕТО В</value>
   </data>
   <data name="FlightMenu.AltimeterUpper" xml:space="preserve">
       <value>БАРОМЕТЪР</value>
@@ -2873,7 +2873,7 @@ Check map for more information</comment>
   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
       <value>Докоснете, за да продължите</value>
   </data>
-    <data name="DefaultMission.AfterLanding" xml:space="preserve">
+  <data name="DefaultMission.AfterLanding" xml:space="preserve">
     <value>Добре дошли в {0}. Рулирайте до стоянка и спрете самолета, за да завършите мисията</value>
     <comment>Welcome to {0}. Taxi to parking and shutdown the airplane to complete this mission</comment>
   </data>
@@ -2947,7 +2947,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>БРИФИНГ НА МИСИЯТА</value>
     <comment>MISSION BRIEF</comment>
   </data>
-    <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
+  <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
     <value>Изберете план</value>
   </data>
   <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
