@@ -1666,6 +1666,33 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Altitude format incorrect.
+        /// </summary>
+        internal static string FlightPlan_AltitudeFormatError {
+            get {
+                return ResourceManager.GetString("FlightPlan.AltitudeFormatError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to clear your flight plan?.
+        /// </summary>
+        internal static string FlightPlan_ClearConfirmationMessage {
+            get {
+                return ResourceManager.GetString("FlightPlan.ClearConfirmationMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Error saving the flight plan file to disk, check that you have enough storage space available.
+        /// </summary>
+        internal static string FlightPlan_ImportError {
+            get {
+                return ResourceManager.GetString("FlightPlan.ImportError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Do you want to replace or add to the existing flight plan?.
         /// </summary>
         internal static string FlightPlan_ImportReplaceAdd {
@@ -1698,6 +1725,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string FlightPlan_ReplaceFlightPlan {
             get {
                 return ResourceManager.GetString("FlightPlan.ReplaceFlightPlan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight Plan.
+        /// </summary>
+        internal static string FlightPlan_Title {
+            get {
+                return ResourceManager.GetString("FlightPlan.Title", resourceCulture);
             }
         }
         

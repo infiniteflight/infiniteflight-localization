@@ -2623,7 +2623,7 @@ Consulte el mapa para más información</value>
     <value>No hay entradas</value>
   </data>
   <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
-    <value>Elije un plan</value>
+    <value>Elige un plan</value>
   </data>
   <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
     <value>{0:0}% de descuento</value>
@@ -2666,5 +2666,14 @@ Consulte el mapa para más información</value>
   </data>
   <data name="Error.ApplicationInitializationError" xml:space="preserve">
     <value>Infinite Flight ha tenido un problema. Por favor, reinicia la app o póngase en contacto con soporte técnico (errór {0})</value>
+  </data>
+  <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
+    <value>{0} es demasiado pequeño para este avión. Elige otro aeropuerto.</value>
+  </data>
+  <data name="FlightPlan.ClearConfirmationMessage" xml:space="preserve">
+    <value>¿Borrar plan de vuelo?</value>
+  </data>
+  <data name="FlightPlan.Title" xml:space="preserve">
+    <value>Plan de Vuelo</value>
   </data>
 </root>

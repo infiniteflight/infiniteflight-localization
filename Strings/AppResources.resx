@@ -3096,4 +3096,10 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>{0} is too small for your aircraft. Choose another airport.</value>
     <comment>{0} is airport ICAO</comment>
   </data>
+  <data name="FlightPlan.ClearConfirmationMessage" xml:space="preserve">
+    <value>Are you sure you want to clear your flight plan?</value>
+  </data>
+  <data name="FlightPlan.Title" xml:space="preserve">
+    <value>Flight Plan</value>
+  </data>
 </root>
