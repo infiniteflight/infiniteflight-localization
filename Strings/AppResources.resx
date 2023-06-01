@@ -3096,8 +3096,14 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>{0} is too small for your aircraft. Choose another airport.</value>
     <comment>{0} is airport ICAO</comment>
   </data>
+  <data name="FlightPlan.AltitudeFormatError" xml:space="preserve">
+    <value>Altitude format incorrect</value>
+  </data>
   <data name="FlightPlan.ClearConfirmationMessage" xml:space="preserve">
     <value>Are you sure you want to clear your flight plan?</value>
+  </data>
+  <data name="FlightPlan.ImportError" xml:space="preserve">
+    <value>Error saving the flight plan file to disk, check that you have enough storage space available</value>
   </data>
   <data name="FlightPlan.Title" xml:space="preserve">
     <value>Flight Plan</value>
