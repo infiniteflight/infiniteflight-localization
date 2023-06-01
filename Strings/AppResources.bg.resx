@@ -138,7 +138,7 @@
     <comment>Fly with friends! Join thousands of other pilots for an immersive, global, multiplayer experience.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText4" xml:space="preserve">
-    <value>Летете с истински, тренирани ръководители на въздушния трафик в нашия експертен сървър, или се изкачете по ранговете, за да станете ръководител сами!</value>
+    <value>Летете с истински, тренирани ръководители на въздушното движение в нашия експертен сървър, или се изкачете по ранговете, за да станете ръководител сами!</value>
     <comment>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle3" xml:space="preserve">
@@ -286,7 +286,7 @@
     <comment>{price} / month</comment>
   </data>
   <data name="Global.Cancel" xml:space="preserve">
-    <value>Отмяна</value>
+    <value>Отмени</value>
     <comment>Cancel (button text)</comment>
   </data>
   <data name="Settings.About" xml:space="preserve">
@@ -866,7 +866,7 @@
     <comment>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</comment>
   </data>
   <data name="Settings.Account.Forum.Title" xml:space="preserve">
-    <value>Акаунт във Форума</value>
+    <value>Акаунт във форума</value>
     <comment>Community Forum Account</comment>
   </data>
   <data name="Settings.Account.Forum.UnlinkedAccount" xml:space="preserve">
@@ -918,7 +918,7 @@
     <comment>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</comment>
   </data>
   <data name="Settings.Account.Subscription.Title" xml:space="preserve">
-    <value>Вашият Infinite Flight Pro Абонамент</value>
+    <value>Вашият Infinite Flight Pro абонамент</value>
     <comment>Your Infinite Flight Pro Subscription</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Subtitle" xml:space="preserve">
@@ -998,7 +998,7 @@
     <comment>Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.NoDevices" xml:space="preserve">
-    <value>Няма налични устройства. Проверете Упътването за Настройка за помощ</value>
+    <value>Няма налични устройства. Проверете упътването за настройка за помощ</value>
     <comment>No devices are available. Check the Setup Guide for help</comment>
   </data>
   <data name="Settings.Controls.Unassigned" xml:space="preserve">
@@ -2126,7 +2126,7 @@
     <comment>Low Power Mode Enabled</comment>
   </data>
   <data name="SystemMessaging.OutOfRegion" xml:space="preserve">
-    <value>Нужен е Infinite Flight Pro, за да летите извън стандартните региони.Натиснете тук за повече информация</value>
+    <value>Нужен е Infinite Flight Pro, за да летите извън стандартните региони. Натиснете тук за повече информация</value>
     <comment>Infinite Flight Pro is required to fly outside of the default regions.Tap here for more information</comment>
   </data>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
@@ -2174,15 +2174,15 @@
     <comment>Simulation time scale cannot be changed for fighter jets.</comment>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
-    <value>ПРЕДУПРЕЖДЕНИЕ ЗА АЕРОБАТИКАНе са позволени аеробатични маневри около летища.</value>
+    <value>ПРЕДУПРЕЖДЕНИЕ ЗА АЕРОБАТИКА Не са позволени аеробатични маневри около летища.</value>
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>ПРЕДУПРЕЖДЕНИЕ ЗА БЕЗДЕЙСТВИЕ НА ПИСТАТАСтоенето на активни писти за дълги периоди от време е забраненно.Излезте от пистата, или излетете, за да избегнете нарушение</value>
+    <value>ПРЕДУПРЕЖДЕНИЕ ЗА БЕЗДЕЙСТВИЕ НА ПИСТАТА Стоенето на активни писти за дълги периоди от време е забраненно. Излезте от пистата, или излетете, за да избегнете нарушение</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>ПРЕДУПРЕЖДЕНИЕ ЗА СКОРОСТТА НА РУЛИРАНЕМаксималната скорост по време на рулиране е 35 възела.Намалете скоростта, за да избегнете нарушение.</value>
+    <value>ПРЕДУПРЕЖДЕНИЕ ЗА СКОРОСТТА НА РУЛИРАНЕ Максималната скорост по време на рулиране е 35 възела. Намалете скоростта, за да избегнете нарушение.</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
@@ -2374,15 +2374,15 @@
     <comment>Unspecified Reason</comment>
   </data>
   <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
-    <value>Не са позволени аеробатични маневри около летища.Издадено е нарушение Ниво 1.</value>
+    <value>Не са позволени аеробатични маневри около летища. Издадено е нарушение Ниво 1.</value>
     <comment>Aerobatic Maneuvers prohibited near airports.A level 1 violation has been issued.</comment>
   </data>
   <data name="Violations.AircraftIdle.Message" xml:space="preserve">
-    <value>Самолетът бездейства на пистата за прекалено много времеИздадено е нарушение Ниво 1.</value>
+    <value>Самолетът бездейства на пистата за прекалено много време Издадено е нарушение Ниво 1.</value>
     <comment>Aircraft idle on active runway for too longA level 1 violation has been issued</comment>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
-    <value>Превишихте максималната наземна скорост от 35 възела. Издадено ви е нарушение Ниво 1.Намалете скоростта, за да избегнете допълнителни нарушения.</value>
+    <value>Превишихте максималната наземна скорост от 35 възела. Издадено ви е нарушение Ниво 1. Намалете скоростта, за да избегнете допълнителни нарушения.</value>
     <comment>Exceeded max ground speed of 35kts.A level 1 violation has been issued.Slow down to avoid further violations.</comment>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
@@ -2648,7 +2648,7 @@ Check map for more information</comment>
       <value>НЕДОСТЪПНО</value>
   </data>
   <data name="FlightFreeControl.WeatherUpper" xml:space="preserve">
-      <value>ВРЕМЕТО В {0}</value>
+      <value>ВРЕМЕ</value>
   </data>
   <data name="FlightMenu.AltimeterUpper" xml:space="preserve">
       <value>БАРОМЕТЪР</value>
@@ -2814,7 +2814,7 @@ Check map for more information</comment>
       <value>ОТВОРИ</value>
   </data>
   <data name="MainMenuPage.ReplayButtonUpper" xml:space="preserve">
-      <value>ЗАПИС</value>
+      <value>ОТВОРИ</value>
   </data>
   <data name="MainMenuPage.UnableToPlayReplay" xml:space="preserve">
       <value>Неуспешно възпроизвеждане на запис</value>
@@ -2989,5 +2989,8 @@ You can quit this session or embark on another journey to a new destination.</co
   </data>
   <data name="Mission.MissionFailedUpper" xml:space="preserve">
     <value>ПРОВАЛЕНА МИСИЯ</value>
+  </data>
+  <data name="Error.ApplicationInitializationError" xml:space="preserve">
+    <value>Infinite Flight не можа да стартира поради проблем. Моля, рестартирайте приложението или се свържете с поддръжка. (Код на грешката {0})</value>
   </data>
 </root>
