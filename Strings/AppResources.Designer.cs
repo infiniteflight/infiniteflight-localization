@@ -1342,6 +1342,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {0} is too small for your aircraft. Choose another airport..
+        /// </summary>
+        internal static string FlightFreeControl_AirportTooSmall {
+            get {
+                return ResourceManager.GetString("FlightFreeControl.AirportTooSmall", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CHANGE AIRCRAFT.
         /// </summary>
         internal static string FlightFreeControl_ChangeAircraftUpper {
