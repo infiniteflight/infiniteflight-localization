@@ -2362,11 +2362,11 @@
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
-    <value>Вие получихте нарушение Ниво 2 и бяхте изключени от сесията си. Можете да започнете друг полет веднага и не е нужно обжалване, ако общият ви брой на нарушенията го позволява. Съветваме ви да прегледате приложимите уроци на youtube.com/infiniteflight</value>
+    <value>Вие получихте нарушение ниво 2 и бяхте изключени от сесията си. Можете да започнете друг полет веднага и не е нужно обжалване, ако общият ви брой на нарушенията го позволява. Съветваме ви да прегледате приложимите уроци на youtube.com/infiniteflight</value>
     <comment>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.Level3Received.Message" xml:space="preserve">
-    <value>Вие получихте нарушение Ниво 3 и бяхте изключени от сесията си. Съветваме ви да прегледате приложимите уроци на youtube.com/infiniteflight</value>
+    <value>Вие получихте нарушение ниво 3 и бяхте изключени от сесията си. Съветваме ви да прегледате приложимите уроци на youtube.com/infiniteflight</value>
     <comment>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review and applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.UnspecifiedReason" xml:space="preserve">
@@ -2374,15 +2374,15 @@
     <comment>Unspecified Reason</comment>
   </data>
   <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
-    <value>Не са позволени аеробатични маневри около летища. Издадено е нарушение Ниво 1.</value>
+    <value>Не са позволени аеробатични маневри около летища. Издадено е нарушение ниво 1.</value>
     <comment>Aerobatic Maneuvers prohibited near airports.A level 1 violation has been issued.</comment>
   </data>
   <data name="Violations.AircraftIdle.Message" xml:space="preserve">
-    <value>Самолетът бездейства на пистата за прекалено много време Издадено е нарушение Ниво 1.</value>
+    <value>Самолетът бездейства на пистата за прекалено много време Издадено е нарушение ниво 1.</value>
     <comment>Aircraft idle on active runway for too longA level 1 violation has been issued</comment>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
-    <value>Превишихте максималната наземна скорост от 35 възела. Издадено ви е нарушение Ниво 1. Намалете скоростта, за да избегнете допълнителни нарушения.</value>
+    <value>Превишихте максималната наземна скорост от 35 възела. Издадено ви е нарушение ниво 1. Намалете скоростта, за да избегнете допълнителни нарушения.</value>
     <comment>Exceeded max ground speed of 35kts.A level 1 violation has been issued.Slow down to avoid further violations.</comment>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
