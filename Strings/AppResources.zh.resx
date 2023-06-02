@@ -3011,6 +3011,22 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>任务失败</value>
   </data>
   <data name="Error.ApplicationInitializationError" xml:space="preserve">
-    <value>Infinite Flight由于出错无法打开。请尝试重启或联系支持。 (错误代码 {0})</value>
+    <value>Infinite Flight由于出错无法打开。请尝试重启或联系支持。(错误代码 {0})</value>
+  </data>
+    <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
+    <value>{0} 无法保障你选择的机型。请更换出发机场。</value>
+    <comment>{0} is airport ICAO</comment>
+  </data>
+  <data name="FlightPlan.AltitudeFormatError" xml:space="preserve">
+    <value>高度格式不正确</value>
+  </data>
+  <data name="FlightPlan.ClearConfirmationMessage" xml:space="preserve">
+    <value>确认清空飞行计划？</value>
+  </data>
+  <data name="FlightPlan.ImportError" xml:space="preserve">
+    <value>保存飞行计划文件时出错。请检查存储空间。</value>
+  </data>
+  <data name="FlightPlan.Title" xml:space="preserve">
+    <value>飞行计划</value>
   </data>
 </root>
