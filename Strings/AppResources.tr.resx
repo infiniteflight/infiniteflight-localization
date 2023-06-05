@@ -1370,7 +1370,7 @@
     <comment>(ATC)</comment>
   </data>
   <data name="AircraftPage.LiveryWillBeDownloaded" xml:space="preserve">
-    <value>Livery uçuş başladığında indirilecektir.</value>
+    <value>Kaplama uçuş başladığında indirilecektir.</value>
     <comment>Livery will be downloaded when flight starts.</comment>
   </data>
   <data name="AircraftPage.RecentlyReleased" xml:space="preserve">
@@ -1390,7 +1390,7 @@
     <comment>Show Pro Aircraft</comment>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
-    <value>Approach</value>
+    <value>Yaklaşma</value>
     <comment>Approach</comment>
   </data>
   <data name="ATC.ATIS" xml:space="preserve">
@@ -1398,11 +1398,11 @@
     <comment>ATIS</comment>
   </data>
   <data name="ATC.Departure" xml:space="preserve">
-    <value>Departure</value>
+    <value>Kalkış</value>
     <comment>Departure</comment>
   </data>
   <data name="ATC.Ground" xml:space="preserve">
-    <value>Ground</value>
+    <value>Yer</value>
     <comment>Ground</comment>
   </data>
   <data name="ATC.Station" xml:space="preserve">
