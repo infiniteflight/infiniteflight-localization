@@ -266,7 +266,7 @@
     <comment>Sign in to use a subscription bought on another device</comment>
   </data>
   <data name="LoginSubscriptionPage.ExistingAccount" xml:space="preserve">
-    <value>I already have an account</value>
+    <value>More Options</value>
     <comment>I already have an account</comment>
   </data>
   <data name="LoginSubscriptionPage.MoreInfo" xml:space="preserve">
@@ -2685,6 +2685,218 @@ Check map for more information</comment>
     <value>No Available Server</value>
     <comment>No Available Server</comment>
   </data>
+  <data name="Error.InvalidTimeSpan" xml:space="preserve">
+    <value>The start and end times for this session aren't valid (error code {0})</value>
+    <comment>The start and end times for this session aren't valid (error code {0})</comment>
+  </data>
+  <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
+    <value>CHANGE AIRCRAFT</value>
+    <comment>CHANGE AIRCRAFT</comment>
+  </data>
+  <data name="FlightFreeControl.ImageNotFoundUpper" xml:space="preserve">
+    <value>IMAGE NOT FOUND</value>
+    <comment>IMAGE NOT FOUND</comment>
+  </data>
+  <data name="FlightFreeControl.NewFlightUpper" xml:space="preserve">
+    <value>NEW FLIGHT</value>
+    <comment>NEW FLIGHT</comment>
+  </data>
+  <data name="FlightFreeControl.UnavailableUpper" xml:space="preserve">
+    <value>UNAVAILABLE</value>
+    <comment>UNAVAILABLE</comment>
+  </data>
+  <data name="FlightFreeControl.WeatherUpper" xml:space="preserve">
+    <value>WEATHER</value>
+    <comment>WEATHER</comment>
+  </data>
+  <data name="FlightMenu.AltimeterUpper" xml:space="preserve">
+    <value>ALTIMETER</value>
+    <comment>ALTIMETER</comment>
+  </data>
+  <data name="FlightMenu.ApproxDurationUpper" xml:space="preserve">
+    <value>APPROX. DURATION</value>
+    <comment>APPROX. DURATION</comment>
+  </data>
+  <data name="FlightMenu.CloudsUpper" xml:space="preserve">
+    <value>CLOUDS</value>
+    <comment>CLOUDS</comment>
+  </data>
+  <data name="FlightMenu.DistanceUpper" xml:space="preserve">
+    <value>DISTANCE</value>
+    <comment>DISTANCE</comment>
+  </data>
+  <data name="FlightMenu.FlightSchoolDescription" xml:space="preserve">
+    <value>Master your piloting skills with interactive tutorials</value>
+    <comment>Master your piloting skills with interactive tutorials</comment>
+  </data>
+  <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
+    <value>FLIGHT TRAINING</value>
+    <comment>FLIGHT TRAINING</comment>
+  </data>
+  <data name="FlightMenu.FreeFlightDescription" xml:space="preserve">
+    <value>Choose your aircraft and airport, customize your flight plan, and enjoy an immersive flying experience at your own pace</value>
+    <comment>Choose your aircraft and airport, customize your flight plan, and enjoy an immersive flying experience at your own pace</comment>
+  </data>
+  <data name="FlightMenu.FreeFlightUpper" xml:space="preserve">
+    <value>FREE FLIGHT</value>
+    <comment>FREE FLIGHT</comment>
+  </data>
+  <data name="FlightMenu.GenericFlightUpper" xml:space="preserve">
+    <value>GENERIC FLIGHT</value>
+    <comment>GENERIC FLIGHT</comment>
+  </data>
+  <data name="FlightMenu.LatestMetarUpper" xml:space="preserve">
+    <value>LATEST METAR</value>
+    <comment>LATEST METAR</comment>
+  </data>
+  <data name="FlightMenu.MissionsDescription" xml:space="preserve">
+    <value>Jump right into the action with recommended airline and charter routes based on traffic and ATC</value>
+    <comment>Jump right into the action with recommended airline and charter routes based on traffic and ATC</comment>
+  </data>
+  <data name="FlightMenu.MissionsUpper" xml:space="preserve">
+    <value>MISSIONS</value>
+    <comment>MISSIONS</comment>
+  </data>
+  <data name="FlightMenu.ParkingUpper" xml:space="preserve">
+    <value>PARKING</value>
+    <comment>PARKING</comment>
+  </data>
+  <data name="FlightMenu.TemperatureUpper" xml:space="preserve">
+    <value>TEMPERATURE</value>
+    <comment>TEMPERATURE</comment>
+  </data>
+  <data name="FlightMenu.TimeUpper" xml:space="preserve">
+    <value>TIME</value>
+    <comment>TIME</comment>
+  </data>
+  <data name="FlightMenu.TypeUpper" xml:space="preserve">
+    <value>TYPE</value>
+    <comment>TYPE</comment>
+  </data>
+  <data name="FlightMenu.VisibilityUpper" xml:space="preserve">
+    <value>VISIBILITY</value>
+    <comment>VISIBILITY</comment>
+  </data>
+  <data name="FlightMenu.Wind" xml:space="preserve">
+    <value>{0:#000}° at {1} kts</value>
+    <comment>{0:#000}° at {1} kts</comment>
+  </data>
+  <data name="FlightMenu.WindCalm" xml:space="preserve">
+    <value>Calm</value>
+    <comment>Calm</comment>
+  </data>
+  <data name="FlightMenu.WindUpper" xml:space="preserve">
+    <value>WIND</value>
+    <comment>WIND</comment>
+  </data>
+  <data name="FlightMenu.WindWithGust" xml:space="preserve">
+    <value>{0:#000}° at {1} - {2} kts</value>
+    <comment>{0:#000}° at {1} - {2} kts</comment>
+  </data>
+  <data name="FlightMenu.WorldUpper" xml:space="preserve">
+    <value>WORLD</value>
+    <comment>WORLD</comment>
+  </data>
+  <data name="FlightMissionControl.LongHaulUpper" xml:space="preserve">
+    <value>LONG HAUL</value>
+    <comment>LONG HAUL</comment>
+  </data>
+  <data name="FlightMissionControl.MediumHaulUpper" xml:space="preserve">
+    <value>MEDIUM HAUL</value>
+    <comment>MEDIUM HAUL</comment>
+  </data>
+  <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
+    <value>NO MISSIONS FOUND</value>
+    <comment>NO MISSIONS FOUND</comment>
+  </data>
+  <data name="FlightMissionControl.ShortHaulUpper" xml:space="preserve">
+    <value>SHORT HAUL</value>
+    <comment>SHORT HAUL</comment>
+  </data>
+  <data name="FlightMissionControl.UltraLongHaulUpper" xml:space="preserve">
+    <value>ULTRA LONG HAUL</value>
+    <comment>ULTRA LONG HAUL</comment>
+  </data>
+  <data name="FlightSchoolControl.AircraftUpper" xml:space="preserve">
+    <value>AIRCRAFT</value>
+    <comment>AIRCRAFT</comment>
+  </data>
+  <data name="FlightSchoolControl.NoEntrySelected" xml:space="preserve">
+    <value>NO ENTRY SELECTED</value>
+    <comment>NO ENTRY SELECTED</comment>
+  </data>
+  <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
+    <value>NO LESSONS FOUND</value>
+    <comment>NO LESSONS FOUND</comment>
+  </data>
+  <data name="Global.NotApplicable" xml:space="preserve">
+    <value>N/A</value>
+    <comment>N/A</comment>
+  </data>
+  <data name="LogbookControl.AircraftUpper" xml:space="preserve">
+    <value>AIRCRAFT</value>
+    <comment>AIRCRAFT</comment>
+  </data>
+  <data name="LogbookControl.AllUpper" xml:space="preserve">
+    <value>ALL</value>
+    <comment>ALL</comment>
+  </data>
+  <data name="LogbookControl.AtcUpper" xml:space="preserve">
+    <value>ATC</value>
+    <comment>ATC</comment>
+  </data>
+  <data name="LogbookControl.DistanceUpper" xml:space="preserve">
+    <value>DISTANCE</value>
+    <comment>DISTANCE</comment>
+  </data>
+  <data name="LogbookControl.DurationUpper" xml:space="preserve">
+    <value>DURATION</value>
+    <comment>DURATION</comment>
+  </data>
+  <data name="LogbookControl.ExportErrorMessage" xml:space="preserve">
+    <value>Error exporting the replay file. Check that you have enough storage space available</value>
+    <comment>Error exporting the replay file. Check that you have enough storage space available</comment>
+  </data>
+  <data name="LogbookControl.ExportingUpper" xml:space="preserve">
+    <value>EXPORTING</value>
+    <comment>EXPORTING</comment>
+  </data>
+  <data name="LogbookControl.FileSizeUpper" xml:space="preserve">
+    <value>FILE SIZE</value>
+    <comment>FILE SIZE</comment>
+  </data>
+  <data name="LogbookControl.MultiplayerUpper" xml:space="preserve">
+    <value>MULTIPLAYER</value>
+    <comment>MULTIPLAYER</comment>
+  </data>
+  <data name="LogbookControl.NoEntrySelected" xml:space="preserve">
+    <value>NO ENTRY SELECTED</value>
+    <comment>NO ENTRY SELECTED</comment>
+  </data>
+  <data name="LogbookControl.NoItemsFound" xml:space="preserve">
+    <value>NO ITEMS FOUND</value>
+    <comment>NO ITEMS FOUND</comment>
+  </data>
+  <data name="LogbookControl.OnlyReplaysUpper" xml:space="preserve">
+    <value>ONLY REPLAYS</value>
+    <comment>ONLY REPLAYS</comment>
+  </data>
+  <data name="LogbookControl.ServerUpper" xml:space="preserve">
+    <value>SERVER</value>
+    <comment>SERVER</comment>
+  </data>
+  <data name="LogbookControl.SoloUpper" xml:space="preserve">
+    <value>SOLO</value>
+    <comment>SOLO</comment>
+  </data>
+  <data name="LogbookControl.XpEarnedUpper" xml:space="preserve">
+    <value>XP EARNED</value>
+    <comment>XP EARNED</comment>
+  </data>
+  <data name="LogbookControl.YourLogbook" xml:space="preserve">
+    <value>YOUR LOGBOOK</value>
+    <comment>YOUR LOGBOOK</comment>
+  </data>
   <data name="LoginSubscriptionPage.Pricing12Months" xml:space="preserve">
     <value>{0} / 12 months</value>
     <comment>{0} / 12 months</comment>
@@ -2692,5 +2904,208 @@ Check map for more information</comment>
   <data name="LoginSubscriptionPage.Pricing6Months" xml:space="preserve">
     <value>{0} / 6 months</value>
     <comment>{0} / 6 months</comment>
+  </data>
+  <data name="MainMenuPage.AirTrafficControlUpper" xml:space="preserve">
+    <value>AIR TRAFFIC CONTROL</value>
+    <comment>AIR TRAFFIC CONTROL</comment>
+  </data>
+  <data name="MainMenuPage.ControlButtonUpper" xml:space="preserve">
+    <value>CONTROL</value>
+    <comment>CONTROL</comment>
+  </data>
+  <data name="MainMenuPage.FlightUpper" xml:space="preserve">
+    <value>FLIGHT</value>
+    <comment>FLIGHT</comment>
+  </data>
+  <data name="MainMenuPage.FlyButtonUpper" xml:space="preserve">
+    <value>FLY</value>
+    <comment>FLY</comment>
+  </data>
+  <data name="MainMenuPage.OpenButtonUpper" xml:space="preserve">
+    <value>OPEN</value>
+    <comment>OPEN</comment>
+  </data>
+  <data name="MainMenuPage.ReplayButtonUpper" xml:space="preserve">
+    <value>REPLAY</value>
+    <comment>REPLAY</comment>
+  </data>
+  <data name="MainMenuPage.UnableToPlayReplay" xml:space="preserve">
+    <value>Unable to play replay file</value>
+    <comment>Unable to play replay file</comment>
+  </data>
+  <data name="MenuAtcControl.ChangeAirportUpper" xml:space="preserve">
+    <value>CHANGE AIRPORT</value>
+    <comment>CHANGE AIRPORT</comment>
+  </data>
+  <data name="MenuAtcControl.Duration" xml:space="preserve">
+    <value>Duration</value>
+    <comment>Duration</comment>
+  </data>
+  <data name="MenuAtcControl.Frequencies" xml:space="preserve">
+    <value>Frequencies</value>
+    <comment>Frequencies</comment>
+  </data>
+  <data name="MenuAtcControl.MultipleFrequencies" xml:space="preserve">
+    <value>Multiple Frequencies</value>
+    <comment>Multiple Frequencies</comment>
+  </data>
+  <data name="MenuAtcControl.NewAtcSessionUpper" xml:space="preserve">
+    <value>NEW ATC SESSION</value>
+    <comment>NEW ATC SESSION</comment>
+  </data>
+  <data name="MenuAtcControl.NoSessionsFoundUpper" xml:space="preserve">
+    <value>NO SESSIONS FOUND</value>
+    <comment>NO SESSIONS FOUND</comment>
+  </data>
+  <data name="MenuAtcControl.ResumeAtcSessionQuestion" xml:space="preserve">
+    <value>Resume ATC session?</value>
+    <comment>Resume ATC session?</comment>
+  </data>
+  <data name="MenuAtcControl.UnableToRestartUserNotSame" xml:space="preserve">
+    <value>Unable to restart as this session is not tied to your account</value>
+    <comment>Unable to restart as this session is not tied to your account</comment>
+  </data>
+  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
+    <value>Show aircraft from older versions</value>
+  </data>
+  <data name="World.SoloDescription" xml:space="preserve">
+    <value>Choose your own aircraft and route, test your piloting skills and explore beautiful scenery without rules or other pilots.</value>
+    <comment>Choose your own aircraft and route, test your piloting skills and explore beautiful scenery without rules or other pilots.</comment>
+  </data>
+  <data name="DefaultMission.AfterLanding" xml:space="preserve">
+    <value>Welcome to {0}. Taxi to parking and shutdown the airplane to complete this mission</value>
+    <comment>Welcome to {0}. Taxi to parking and shutdown the airplane to complete this mission</comment>
+  </data>
+  <data name="DefaultMission.Congratulation" xml:space="preserve">
+    <value>Congratulations on completing this flight to {0}!
+You can quit this session or embark on another journey to a new destination. See you soon in the Infinite Flight skies!</value>
+    <comment>Congratulations on completing this flight to {0}!
+You can quit this session or embark on another journey to a new destination. See you soon in the Infinite Flight skies!</comment>
+  </data>
+  <data name="DefaultMission.Congratulation2" xml:space="preserve">
+    <value>Congratulations on completing this flight to {0}!
+You can quit this session or embark on another journey to a new destination.</value>
+    <comment>Congratulations on completing this flight to {0}!
+You can quit this session or embark on another journey to a new destination.</comment>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlight" xml:space="preserve">
+    <value>Have a great flight to {0}</value>
+    <comment>Have a great flight to {0}</comment>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlightTaxi" xml:space="preserve">
+    <value>You are now ready to taxi, have a great flight to {0}</value>
+    <comment>You are now ready to taxi, have a great flight to {0}</comment>
+  </data>
+  <data name="DefaultMission.MissionBriefWindow" xml:space="preserve">
+    <value>This is your mission brief window. You can come back here at any time to see what you need to do. This window can be toggled by tapping on the "MISSION BRIEF" button on the right</value>
+    <comment>This is your mission brief window. You can come back here at any time to see what you need to do. This window can be toggled by tapping on the "MISSION BRIEF" button on the right</comment>
+  </data>
+  <data name="DefaultMission.PushbackEnd" xml:space="preserve">
+    <value>Pushback has been stopped. Press "DETACH TUG" in the "GROUND SERVICES" menu to disconnect the tug from the aircraft</value>
+    <comment>Pushback has been stopped. Press "DETACH TUG" in the "GROUND SERVICES" menu to disconnect the tug from the aircraft</comment>
+  </data>
+  <data name="DefaultMission.PushbackEndPrompt" xml:space="preserve">
+    <value>When you're done, press the "PUSH" button again to stop.</value>
+    <comment>When you're done, press the "PUSH" button again to stop.</comment>
+  </data>
+  <data name="DefaultMission.PushbackStart" xml:space="preserve">
+    <value>Now that the parking brakes are released, to start pushback, just tap on the "PUSH" button in the "GROUND SERVICES" menu.</value>
+    <comment>Now that the parking brakes are released, to start pushback, just tap on the "PUSH" button in the "GROUND SERVICES" menu.</comment>
+  </data>
+  <data name="DefaultMission.PushbackSteering" xml:space="preserve">
+    <value>Pushback has started, use the "RUD BRAKES" slider on the bottom right to steer the aircraft in the direction you want.</value>
+    <comment>Pushback has started, use the "RUD BRAKES" slider on the bottom right to steer the aircraft in the direction you want.</comment>
+  </data>
+  <data name="DefaultMission.ReadyForPushback" xml:space="preserve">
+    <value>We are ready for pushback, open the "GROUND SERVICES" menu on the right, slide down to the "PUSHBACK" section and tap on "ATTACH TUG"</value>
+    <comment>We are ready for pushback, open the "GROUND SERVICES" menu on the right, slide down to the "PUSHBACK" section and tap on "ATTACH TUG"</comment>
+  </data>
+  <data name="DefaultMission.ReleaseBrakes" xml:space="preserve">
+    <value>If you're ready to start pushback, the parking brakes need to be released by tapping on the "PARK BRAKES" button on the bottom left</value>
+    <comment>If you're ready to start pushback, the parking brakes need to be released by tapping on the "PARK BRAKES" button on the bottom left</comment>
+  </data>
+  <data name="DefaultMission.StartEngine" xml:space="preserve">
+    <value>We can now start the engines if they are not started already. Open the "SYSTEMS" menu on the right and tap on "AUTO START" to start the engines and get the plane ready for taxi</value>
+    <comment>We can now start the engines if they are not started already. Open the "SYSTEMS" menu on the right and tap on "AUTO START" to start the engines and get the plane ready for taxi</comment>
+  </data>
+  <data name="DefaultMission.TapToContinue" xml:space="preserve">
+    <value>Tap here to continue</value>
+    <comment>Tap here to continue</comment>
+  </data>
+  <data name="DefaultMission.Welcome" xml:space="preserve">
+    <value>Welcome to Infinite Flight! Tap this window to get started and see the mission briefing and instructions</value>
+    <comment>Welcome to Infinite Flight! Tap this window to get started and see the mission briefing and instructions</comment>
+  </data>
+  <data name="DefaultMission.YourMissionBrief" xml:space="preserve">
+    <value>Your mission today is:
+{0}</value>
+    <comment>Your mission today is:
+{0}</comment>
+  </data>
+  <data name="Mission.MissionBrief" xml:space="preserve">
+    <value>MISSION BRIEF</value>
+    <comment>MISSION BRIEF</comment>
+  </data>
+  <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
+    <value>Choose a plan</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
+    <value>{0:0}% discount</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MonthlyUpper" xml:space="preserve">
+    <value>MONTHLY</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MostPopular" xml:space="preserve">
+    <value>Most popular</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.PerMonth" xml:space="preserve">
+    <value>{0}{1:0.00}/mo</value>
+    <comment>{currency}{price}/mo</comment>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitle" xml:space="preserve">
+    <value>Unlock all aircraft, the entire world, multiplayer, and ATC</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitleSubscribed" xml:space="preserve">
+    <value>It looks like you are already subscribed! You can manage your subscription on the store.</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.RevertToDefaultAccount" xml:space="preserve">
+    <value>Revert to default account</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SemiYearlyUpper" xml:space="preserve">
+    <value>SEMI YEARLY</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignIn" xml:space="preserve">
+    <value>Sign in</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignInWithInfiniteFlight" xml:space="preserve">
+    <value>Sign in with Infinite Flight</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.YearlyUpper" xml:space="preserve">
+    <value>YEARLY</value>
+  </data>
+  <data name="Global.StartOver" xml:space="preserve">
+    <value>Start Over</value>
+  </data>
+  <data name="Mission.MissionFailedUpper" xml:space="preserve">
+    <value>MISSION FAILED</value>
+  </data>
+  <data name="Error.ApplicationInitializationError" xml:space="preserve">
+    <value>Infinite Flight could not launch due to a problem. Please try restarting or contact support. (error code {0})</value>
+  </data>
+  <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
+    <value>{0} is too small for your aircraft. Choose another airport.</value>
+    <comment>{0} is airport ICAO</comment>
+  </data>
+  <data name="FlightPlan.AltitudeFormatError" xml:space="preserve">
+    <value>Altitude format incorrect</value>
+  </data>
+  <data name="FlightPlan.ClearConfirmationMessage" xml:space="preserve">
+    <value>Are you sure you want to clear your flight plan?</value>
+  </data>
+  <data name="FlightPlan.ImportError" xml:space="preserve">
+    <value>Error saving the flight plan file to disk, check that you have enough storage space available</value>
+  </data>
+  <data name="FlightPlan.Title" xml:space="preserve">
+    <value>Flight Plan</value>
   </data>
 </root>

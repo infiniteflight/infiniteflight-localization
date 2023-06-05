@@ -59,7 +59,10 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema id="root"
+    xmlns=""
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -346,7 +349,7 @@
     <comment>Control Sensitivity</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Subtitle" xml:space="preserve">
-    <value>Устанавливает время, в течение которого интерфейс будет оставаться на экране после касания.</value>
+    <value>Устанавливает время, в течение которого интерфейс будет оставаться на экране после касания</value>
     <comment>Controls how long the User Interface controls stay on screen.</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Title" xml:space="preserve">
@@ -370,7 +373,7 @@
     <comment>Invert External Cameras Vertical Motion</comment>
   </data>
   <data name="Settings.General.LandingAid.Subtitle" xml:space="preserve">
-    <value>Показывает вспомогательные прямоугольники вокруг траектории захода. Помогает совершать стабилизированные посадки.</value>
+    <value>Показывает вспомогательные прямоугольники вокруг траектории захода. Помогает совершать стабилизированные посадки</value>
     <comment>Shows a set of rectangles around the landing path. Helps make stabilized landings.</comment>
   </data>
   <data name="Settings.General.LandingAid.Title" xml:space="preserve">
@@ -562,7 +565,7 @@
     <comment>Anti-Aliasing</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Subtitle" xml:space="preserve">
-    <value>Устанавливает максимальную частоту кадров в секунду.</value>
+    <value>Устанавливает максимальную частоту кадров в секунду</value>
     <comment>Sets the highest allowed frame rate.</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Title" xml:space="preserve">
@@ -614,7 +617,7 @@
     <comment>Texture Quality</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Subtitle" xml:space="preserve">
-    <value>Устанавливает персональный голос для коммуникаций с другими игроками</value>
+    <value>Устанавливает ваш голос для взаимодействия с УВД</value>
     <comment>Select voice for your ATC communications</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Title" xml:space="preserve">
@@ -654,7 +657,7 @@
     <comment>Hide Airplane Names</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Subtitle" xml:space="preserve">
-    <value>Контролирует количество видимых самолетов в многопользовательском режиме.</value>
+    <value>Устанавливает количество видимых самолетов в многопользовательском режиме</value>
     <comment>Controls how many airplanes are shown in multiplayer.</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Title" xml:space="preserve">
@@ -846,7 +849,7 @@
     <comment>MESSAGE</comment>
   </data>
   <data name="Settings.Account.Callsign.Subtitle" xml:space="preserve">
-    <value>Используется для коммуникаций с диспетчерами и другими пилотами</value>
+    <value>Используется для общения с диспетчерами и другими пилотами</value>
     <comment>Used for communication with controllers and other pilots</comment>
   </data>
   <data name="Settings.Account.Callsign.Title" xml:space="preserve">
@@ -950,7 +953,7 @@
     <comment>Command Name</comment>
   </data>
   <data name="Settings.Controls.Axes.NullZone" xml:space="preserve">
-    <value>Мертвая Зона / Чувствительность</value>
+    <value>Мертвая Зона / Чувствительн.</value>
     <comment>Null Zone / Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Axes.Reverse" xml:space="preserve">
@@ -1098,7 +1101,7 @@
     <comment>Reset Camera</comment>
   </data>
   <data name="Commands.SelectATCEntry" xml:space="preserve">
-    <value>Выбрать Опцию Коммуникаций {0}</value>
+    <value>Выбрать Опцию Общения с УВД {0}</value>
     <comment>Select ATC Entry {number}</comment>
   </data>
   <data name="Commands.StartEngine" xml:space="preserve">
@@ -1110,7 +1113,7 @@
     <comment>Stop Specified Engine</comment>
   </data>
   <data name="Commands.ToggleATCWindow" xml:space="preserve">
-    <value>Изменить Видимость Окна Коммуникаций</value>
+    <value>Изменить Видимость Окна Общения с УВД</value>
     <comment>Toggle ATC Window</comment>
   </data>
   <data name="Commands.ToggleAutopilot" xml:space="preserve">
@@ -1842,7 +1845,7 @@
     <comment>WARNING: ACTIVE NOTAM</comment>
   </data>
   <data name="About.PrivacyPolicy" xml:space="preserve">
-    <value>ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</value>
+    <value>ПОЛИТИКА КОНФИДЕНЦ.</value>
     <comment>PRIVACY POLICY</comment>
   </data>
   <data name="About.TermsOfUse" xml:space="preserve">
@@ -2449,8 +2452,8 @@
     <comment>Throttle Up</comment>
   </data>
   <data name="Error.NetworkErrorShort" xml:space="preserve">
-     <value>Сетевая Ошибка</value>
-     <comment>Network Error</comment>
+    <value>Сетевая Ошибка</value>
+    <comment>Network Error</comment>
   </data>
   <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
     <value>Нет Дополнительной Информации</value>
@@ -2595,5 +2598,276 @@ Check map for more information</comment>
   <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
     <value>Аккаунт Связан</value>
     <comment>Account Linked</comment>
+  </data>
+  <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
+    <value>ИЗМЕНИТЬ САМОЛЕТ</value>
+  </data>
+  <data name="FlightFreeControl.ImageNotFoundUpper" xml:space="preserve">
+    <value>ИЗОБРАЖЕНИЕ НЕ НАЙДЕНО</value>
+  </data>
+  <data name="FlightFreeControl.NewFlightUpper" xml:space="preserve">
+    <value>НОВЫЙ ПОЛЕТ</value>
+  </data>
+  <data name="FlightFreeControl.UnavailableUpper" xml:space="preserve">
+    <value>НЕДОСТУПНО</value>
+  </data>
+  <data name="FlightFreeControl.WeatherUpper" xml:space="preserve">
+    <value>ПОГОДА</value>
+  </data>
+  <data name="FlightMenu.AltimeterUpper" xml:space="preserve">
+    <value>ВЫСОТОМЕР</value>
+  </data>
+  <data name="FlightMenu.ApproxDurationUpper" xml:space="preserve">
+    <value>ПРИБЛИЗ. ДЛИТЕЛЬНОСТЬ</value>
+  </data>
+  <data name="FlightMenu.CloudsUpper" xml:space="preserve">
+    <value>ОБЛАКА</value>
+  </data>
+  <data name="FlightMenu.DistanceUpper" xml:space="preserve">
+    <value>РАССТОЯНИЕ</value>
+  </data>
+  <data name="FlightMenu.FlightSchoolDescription" xml:space="preserve">
+    <value>Освойте навыки пилотирования через интерактивные пособия</value>
+  </data>
+  <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
+    <value>ШКОЛА ПИЛОТАЖА</value>
+  </data>
+  <data name="FlightMenu.FreeFlightDescription" xml:space="preserve">
+    <value>Выберите свой самолет и аэропорт, настройте план полета и наслаждайтесь захватывающими летными испытаниями тогда, когда вам будет удобно</value>
+  </data>
+  <data name="FlightMenu.FreeFlightUpper" xml:space="preserve">
+    <value>СВОБОДНЫЙ ПОЛЕТ</value>
+  </data>
+  <data name="FlightMenu.GenericFlightUpper" xml:space="preserve">
+    <value>ОБЫЧНЫЙ ПОЛЕТ</value>
+  </data>
+  <data name="FlightMenu.LatestMetarUpper" xml:space="preserve">
+    <value>ПОСЛЕДНИЕ ДАННЫЕ МЕТАR</value>
+  </data>
+  <data name="FlightMenu.MissionsDescription" xml:space="preserve">
+    <value>Сразу присоединяйтесь к взаимодействию с рекомендуемыми маршрутами авиакомпаний и чартерных рейсов, основанных на плотности воздушного движения и работе УВД</value>
+  </data>
+  <data name="FlightMenu.MissionsUpper" xml:space="preserve">
+    <value>ЗАДАНИЯ</value>
+  </data>
+  <data name="FlightMenu.ParkingUpper" xml:space="preserve">
+    <value>СТОЯНКА</value>
+  </data>
+  <data name="FlightMenu.TemperatureUpper" xml:space="preserve">
+    <value>ТЕМПЕРАТУРА</value>
+  </data>
+  <data name="FlightMenu.TimeUpper" xml:space="preserve">
+    <value>ВРЕМЯ</value>
+  </data>
+  <data name="FlightMenu.TypeUpper" xml:space="preserve">
+    <value>ТИП</value>
+  </data>
+  <data name="FlightMenu.VisibilityUpper" xml:space="preserve">
+    <value>ВИДИМОСТЬ</value>
+  </data>
+  <data name="FlightMenu.Wind" xml:space="preserve">
+    <value>{0:#000}°, {1} узлов</value>
+    <comment>{0:#000}°, {1} узлов</comment>
+  </data>
+  <data name="FlightMenu.WindCalm" xml:space="preserve">
+    <value>Штиль</value>
+  </data>
+  <data name="FlightMenu.WindUpper" xml:space="preserve">
+    <value>ВЕТЕР</value>
+  </data>
+  <data name="FlightMenu.WindWithGust" xml:space="preserve">
+    <value>{0:#000}°, {1} - {2} узлов</value>
+  </data>
+  <data name="FlightMenu.WorldUpper" xml:space="preserve">
+    <value>МИР</value>
+  </data>
+  <data name="FlightMissionControl.LongHaulUpper" xml:space="preserve">
+    <value>ДАЛЬНИЙ МАРШРУТ</value>
+  </data>
+  <data name="FlightMissionControl.MediumHaulUpper" xml:space="preserve">
+    <value>СРЕДНИЙ МАРШРУТ</value>
+  </data>
+  <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
+    <value>ЗАДАНИЯ НЕ НАЙДЕНЫ</value>
+  </data>
+  <data name="FlightMissionControl.ShortHaulUpper" xml:space="preserve">
+    <value>КОРОТКИЙ МАРШРУТ</value>
+  </data>
+  <data name="FlightMissionControl.UltraLongHaulUpper" xml:space="preserve">
+    <value>СВЕРХДАЛЬНИЙ МАРШРУТ</value>
+  </data>
+  <data name="FlightSchoolControl.AircraftUpper" xml:space="preserve">
+    <value>САМОЛЕТ</value>
+  </data>
+  <data name="FlightSchoolControl.NoEntrySelected" xml:space="preserve">
+    <value>НЕ ВЫБРАНА ЗАПИСЬ</value>
+  </data>
+  <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
+    <value>УРОКИ НЕ НАЙДЕНЫ</value>
+  </data>
+  <data name="Global.NotApplicable" xml:space="preserve">
+    <value>Н/Д</value>
+  </data>
+  <data name="LogbookControl.AircraftUpper" xml:space="preserve">
+    <value>САМОЛЕТ</value>
+  </data>
+  <data name="LogbookControl.AllUpper" xml:space="preserve">
+    <value>ВСЕ</value>
+  </data>
+  <data name="LogbookControl.AtcUpper" xml:space="preserve">
+    <value>УВД</value>
+  </data>
+  <data name="LogbookControl.DistanceUpper" xml:space="preserve">
+    <value>РАССТОЯНИЕ</value>
+  </data>
+  <data name="LogbookControl.DurationUpper" xml:space="preserve">
+    <value>ДЛИТЕЛЬНОСТЬ</value>
+  </data>
+  <data name="LogbookControl.ExportErrorMessage" xml:space="preserve">
+    <value>Ошибка экспорта файла повтора. Проверьте, что у вас есть достаточно свободного места на устройстве</value>
+  </data>
+  <data name="LogbookControl.ExportingUpper" xml:space="preserve">
+    <value>ЭКСПОРТ</value>
+  </data>
+  <data name="LogbookControl.FileSizeUpper" xml:space="preserve">
+    <value>РАЗМЕР ФАЙЛА</value>
+  </data>
+  <data name="LogbookControl.MultiplayerUpper" xml:space="preserve">
+    <value>МУЛЬТИПЛЕЕР</value>
+  </data>
+  <data name="LogbookControl.NoEntrySelected" xml:space="preserve">
+    <value>НЕ ВЫБРАНА ЗАПИСЬ</value>
+  </data>
+  <data name="LogbookControl.NoItemsFound" xml:space="preserve">
+    <value>НЕ НАЙДЕНО ЭЛЕМЕНТОВ</value>
+  </data>
+  <data name="LogbookControl.OnlyReplaysUpper" xml:space="preserve">
+    <value>ТОЛЬКО ПОВТОРЫ</value>
+  </data>
+  <data name="LogbookControl.ServerUpper" xml:space="preserve">
+    <value>СЕРВЕР</value>
+  </data>
+  <data name="LogbookControl.SoloUpper" xml:space="preserve">
+    <value>ОДИНОЧНЫЙ</value>
+  </data>
+  <data name="LogbookControl.XpEarnedUpper" xml:space="preserve">
+    <value>ЗАРАБОТАНО ОПЫТА</value>
+  </data>
+  <data name="LogbookControl.YourLogbook" xml:space="preserve">
+    <value>ВАШ ЖУРНАЛ ПОЛЕТОВ</value>
+  </data>
+  <data name="LoginSubscriptionPage.Pricing12Months" xml:space="preserve">
+    <value>{0} / 12 месяцев</value>
+  </data>
+  <data name="LoginSubscriptionPage.Pricing6Months" xml:space="preserve">
+    <value>{0} / 6 месяцев</value>
+  </data>
+  <data name="MainMenuPage.AirTrafficControlUpper" xml:space="preserve">
+    <value>РЕЖИМ ДИСПЕТЧЕРА</value>
+  </data>
+  <data name="MainMenuPage.ControlButtonUpper" xml:space="preserve">
+    <value>УПРАВЛЕНИЕ</value>
+  </data>
+  <data name="MainMenuPage.FlightUpper" xml:space="preserve">
+    <value>ПОЛЕТ</value>
+  </data>
+  <data name="MainMenuPage.FlyButtonUpper" xml:space="preserve">
+    <value>ПОЛЕТЕТЬ</value>
+  </data>
+  <data name="MainMenuPage.OpenButtonUpper" xml:space="preserve">
+    <value>ОТКРЫТЬ</value>
+  </data>
+  <data name="MainMenuPage.ReplayButtonUpper" xml:space="preserve">
+    <value>ПОВТОР</value>
+  </data>
+  <data name="MainMenuPage.UnableToPlayReplay" xml:space="preserve">
+    <value>Невозможно воспроизвести файл повтора</value>
+  </data>
+  <data name="MenuAtcControl.ChangeAirportUpper" xml:space="preserve">
+    <value>ИЗМЕНИТЬ АЭРОПОРТ</value>
+  </data>
+  <data name="MenuAtcControl.Duration" xml:space="preserve">
+    <value>Длительность</value>
+  </data>
+  <data name="MenuAtcControl.Frequencies" xml:space="preserve">
+    <value>Частоты</value>
+  </data>
+  <data name="MenuAtcControl.MultipleFrequencies" xml:space="preserve">
+    <value>Несколько частот</value>
+  </data>
+  <data name="MenuAtcControl.NewAtcSessionUpper" xml:space="preserve">
+    <value>НОВАЯ СЕССИЯ УВД</value>
+  </data>
+  <data name="MenuAtcControl.NoSessionsFoundUpper" xml:space="preserve">
+    <value>СЕССИИ НЕ НАЙДЕНЫ</value>
+  </data>
+  <data name="MenuAtcControl.ResumeAtcSessionQuestion" xml:space="preserve">
+    <value>Возобновить сессию УВД?</value>
+  </data>
+  <data name="MenuAtcControl.UnableToRestartUserNotSame" xml:space="preserve">
+    <value>Невозможно перезапустить, так как эта сессия не связана с вашей учетной записью</value>
+  </data>
+  <data name="World.SoloDescription" xml:space="preserve">
+    <value>Выберите самолет и маршрут, проверьте свои навыки пилотирования, исследуйте красивые пейзажи в одиночном режиме без ограничений.</value>
+  </data>
+  <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
+      <value>Заменить или добавить в существующий план полета?</value>
+  </data>
+  <data name="FlightPlan.Add" xml:space="preserve">
+      <value>Добавить</value>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
+      <value>Discord не установлен</value>
+  </data>
+  <data name="Settings.General.Legacy" xml:space="preserve">
+      <value>Непроработанные самолеты</value>
+  </data>
+  <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
+      <value>Внимание: Этот самолет был добавлен в старой версии игры. Его качество не соответствует нашим новым самолетам.</value>
+  </data>
+  <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
+      <value>Пожалуйста, соблюдайте безопасную дистанцию с самолетом перед вами.</value>
+  </data>
+  <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
+      <value>Мы нашли ваш аккаунт, но к нему не привязана активная подписка.</value>
+  </data>
+  <data name="IntroPage.Home" xml:space="preserve">
+      <value>ГЛАВНАЯ</value>
+  </data>
+  <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
+      <value>Для подключения к серверу Infinite Flight необходимо установить Discord из App Store. Хотите установить его сейчас?</value>
+  </data>
+  <data name="Error.InvalidTimeSpan" xml:space="preserve">
+      <value>Неверные временные значения для этой сессии (код ошибки {0})</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
+      <value>Непроработанные самолеты были добавлены в более старых версиях Infinite Flight и отличаются от новых качеством. Все равно показать их?</value>
+  </data>
+  <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
+      <value>Для обслуживания на земле требуется включенный стояночный тормоз, отключенные сигнальные огни и выключенные двигатели.</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
+      <value>Показывать непроработанные самолеты, которые не имеют последних улучшений (высококачественные виртуальные кабины, приборы и т.д.)</value>
+  </data>
+  <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
+      <value>Показывать непроработанные самолеты</value>
+  </data>
+  <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
+      <value>Сервер недоступен</value>
+  </data>
+  <data name="Error.CannotOpenBrowser" xml:space="preserve">
+      <value>Отсутствует доступный браузер для открытия данной ссылки. Убедитесь, что у вас установлен браузер. Если проблема не исчезает, обратитесь в службу поддержки (код ошибки {0})</value>
+  </data>
+  <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
+      <value>НЕ НАЙДЕНО УРОКОВ</value>
+  </data>
+  <data name="Error.CouldNotGetFileSize" xml:space="preserve">
+      <value>Не удалось подключиться к серверу. Проверьте подключение к интернету (код ошибки {0})</value>
+  </data>
+  <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
+      <value>Нажмите для продолжения</value>
+  </data>
+  <data name="FlightPlan.Replace" xml:space="preserve">
+      <value>Заменить</value>
   </data>
 </root>
