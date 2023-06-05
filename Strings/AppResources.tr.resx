@@ -798,11 +798,11 @@
     <comment>Taxi Lights</comment>
   </data>
   <data name="Commands.Throttle" xml:space="preserve">
-    <value>Valf</value>
+    <value>Gaz kolu</value>
     <comment>Throttle</comment>
   </data>
   <data name="Commands.Throttle.Description" xml:space="preserve">
-    <value>Uçağın valflerini kontrol eder</value>
+    <value>Uçağın gaz kollarını kontrol eder</value>
     <comment>Controls the airplane Throttle(s)</comment>
   </data>
   <data name="Commands.ToggleSpoilers" xml:space="preserve">
@@ -842,199 +842,199 @@
     <comment>Callsign</comment>
   </data>
   <data name="Settings.Account.ConnectedMessage" xml:space="preserve">
-    <value>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</value>
+    <value>Infinite Flight ile {0} bağlantı kurdunuz. Bu profili kaldırmak istiyor musunuz?</value>
     <comment>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</comment>
   </data>
   <data name="Settings.Account.DiscourseConnect" xml:space="preserve">
-    <value>Connect</value>
+    <value>Bağlan</value>
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
-    <value>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</value>
+    <value>Infinite Flight Community profilinizi bağladınız. Hesabınızı bağlı tutmak için diğer cihazlarınızda giriş yapın</value>
     <comment>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</comment>
   </data>
   <data name="Settings.Account.Forum.Title" xml:space="preserve">
-    <value>Community Forum Account</value>
+    <value>Community Forum Hesabı</value>
     <comment>Community Forum Account</comment>
   </data>
   <data name="Settings.Account.Forum.UnlinkedAccount" xml:space="preserve">
-    <value>Connect an Infinite Flight Community profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms.</value>
+    <value>Uçuş sırasında kullanıcı adınızı göstermek için bir Infinite Flight Community profili bağlayın. Bu bağlantı, cihaz platformlarını değiştirirseniz giriş yapmanıza da izin verir.</value>
     <comment>Connect an Infinite Flight Community profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription" xml:space="preserve">
-    <value>Manage Subscription</value>
+    <value>Aboneliği Yönet</value>
     <comment>Manage Subscription</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Android" xml:space="preserve">
-    <value>Your subscription was purchased on a different platform and can't be managed from this device.</value>
+    <value>Aboneliğiniz farklı bir platformdan satın alındı ve bu cihazdan yönetilemiyor.</value>
     <comment>Your subscription was purchased on a different platform and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Error" xml:space="preserve">
-    <value>Can't connect to the store. You can manage your subscription by going to the store's subscriptions page.</value>
+    <value>Mağazaya bağlanılamıyor. Mağazanın abonelikler sayfasına giderek aboneliğinizi yönetebilirsiniz.</value>
     <comment>Can't connect to the store. You can manage your subscription by going to the store's subscriptions page.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.iOS" xml:space="preserve">
-    <value>Your subscription was purchased on iOS and can't be managed from this device.</value>
+    <value>Aboneliğiniz iOS üzerinden satın alındı ve bu cihazdan yönetilemiyor.</value>
     <comment>Your subscription was purchased on iOS and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.NotSubscribed" xml:space="preserve">
-    <value>You are not subscribed to Infinite Flight Pro</value>
+    <value>Infinite Flight Pro'ya abone değilsiniz</value>
     <comment>You are not subscribed to Infinite Flight Pro</comment>
   </data>
   <data name="Settings.Account.Stats.Subtitle" xml:space="preserve">
-    <value>See your grade level and violation history. These stats determine multiplayer server level eligibility</value>
+    <value>Rütbe ve ihlal geçmişinizi görün. Bu istatistikler çok oyunculu sunucu seviyesi uygunluğunu belirler</value>
     <comment>See your grade level and violation history. These stats determine multiplayer server level eligibility</comment>
   </data>
   <data name="Settings.Account.Stats.Title" xml:space="preserve">
-    <value>Account Statistics</value>
+    <value>Hesap İstatistikleri</value>
     <comment>Account Statistics</comment>
   </data>
   <data name="Settings.Account.StatsError" xml:space="preserve">
-    <value>There was a problem getting your stats. Try again or contact support.</value>
+    <value>İstatistiklerinizi alırken bir sorun oluştu. Tekrar deneyin veya destek ekibiyle iletişime geçin.</value>
     <comment>There was a problem getting your stats. Try again or contact support.</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithAutoRenew" xml:space="preserve">
-    <value>You are subscribed to {0} which renews on {1}</value>
+    <value>{1} tarihinde yenilenen {0} aboneliğine sahipsiniz</value>
     <comment>You are subscribed to {0} which renews on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithoutAutoRenew" xml:space="preserve">
-    <value>You are subscribed to {0} which expires on {1}</value>
+    <value>{1} tarihinde sona erecek olan {0} aboneliğine sahipsiniz</value>
     <comment>You are subscribed to {0} which expires on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
-    <value>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</value>
+    <value>Aboneliğinizin yenilenmesi başarısız oldu. {0}'dan önce ödeme bilgilerini kontrol etmek için Aboneliği Yönet'e dokunun</value>
     <comment>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</comment>
   </data>
   <data name="Settings.Account.Subscription.Title" xml:space="preserve">
-    <value>Your Infinite Flight Pro Subscription</value>
+    <value>Infinite Flight Pro Aboneliğiniz</value>
     <comment>Your Infinite Flight Pro Subscription</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Subtitle" xml:space="preserve">
-    <value>Use a different Infinite Flight account to access a subscription bought on another device</value>
+    <value>Başka bir cihazdan satın alınan bir aboneliğe erişmek için farklı bir Infinite Flight hesabı kullanın</value>
     <comment>Use a different Infinite Flight account to access a subscription bought on another device</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Title" xml:space="preserve">
-    <value>Switch Account</value>
+    <value>Hesap Değiştir</value>
     <comment>Switch Account</comment>
   </data>
   <data name="Settings.Account.Unlink" xml:space="preserve">
-    <value>Unlink</value>
+    <value>Bağlantıyı Kes</value>
     <comment>Unlink</comment>
   </data>
   <data name="Settings.Account.ViewStats" xml:space="preserve">
-    <value>View Stats</value>
+    <value>İstatistikleri Görüntüle</value>
     <comment>View Stats</comment>
   </data>
   <data name="Settings.Controls.Axes" xml:space="preserve">
-    <value>Axes</value>
+    <value>Eksenler</value>
     <comment>Axes</comment>
   </data>
   <data name="Settings.Controls.Axes.AxesKey" xml:space="preserve">
-    <value>Key/Axis</value>
+    <value>Tuş/Eksen</value>
     <comment>Key/Axis</comment>
   </data>
   <data name="Settings.Controls.Axes.CommandName" xml:space="preserve">
-    <value>Command Name</value>
+    <value>Komut İsmi</value>
     <comment>Command Name</comment>
   </data>
   <data name="Settings.Controls.Axes.NullZone" xml:space="preserve">
-    <value>Null Zone / Sensitivity</value>
+    <value>Boş Bölge / Hassasiyet</value>
     <comment>Null Zone / Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Axes.Reverse" xml:space="preserve">
-    <value>Rev.</value>
+    <value>Tersine al</value>
     <comment>Rev.</comment>
   </data>
   <data name="Settings.Controls.Axes.Sensitivity" xml:space="preserve">
-    <value>Sensitivity</value>
+    <value>Hassasiyet</value>
     <comment>Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Buttons" xml:space="preserve">
-    <value>Buttons</value>
+    <value>Düğmeler</value>
     <comment>Buttons</comment>
   </data>
   <data name="Settings.Controls.Commands" xml:space="preserve">
-    <value>Commands</value>
+    <value>Komutlar</value>
     <comment>Commands</comment>
   </data>
   <data name="Settings.Controls.Commands.Alternate" xml:space="preserve">
-    <value>Alternate</value>
+    <value>Dönüşümlü olarak kullan</value>
     <comment>Alternate</comment>
   </data>
   <data name="Settings.Controls.MoveAxisToAssign" xml:space="preserve">
-    <value>Move Axis on Device to Assign</value>
+    <value>Atamak için Cihazdaki Ekseni Oynat</value>
     <comment>Move Axis on Device to Assign</comment>
   </data>
   <data name="Settings.Controls.RestoreDefaults" xml:space="preserve">
-    <value>Restore Defaults</value>
+    <value>Fabrika Ayarlarını Geri Yükle</value>
     <comment>Restore Defaults</comment>
   </data>
   <data name="Settings.Controls.SetupGuide" xml:space="preserve">
-    <value>Setup Guide</value>
+    <value>Kurulum Kılavuzu</value>
     <comment>Setup Guide</comment>
   </data>
   <data name="Settings.Controls.ShowDevices" xml:space="preserve">
-    <value>Show Devices</value>
+    <value>Cihazları Göster</value>
     <comment>Show Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.DeviceSingular" xml:space="preserve">
-    <value>Device</value>
+    <value>Cihaz</value>
     <comment>Device</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.DevicesPlural" xml:space="preserve">
-    <value>Devices</value>
+    <value>Cihazlar</value>
     <comment>Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.NoDevices" xml:space="preserve">
-    <value>No devices are available. Check the Setup Guide for help</value>
+    <value>Hiçbir cihaz mevcut değil. Yardım için Kurulum Kılavuzunu kontrol edin</value>
     <comment>No devices are available. Check the Setup Guide for help</comment>
   </data>
   <data name="Settings.Controls.Unassigned" xml:space="preserve">
-    <value>Unassigned</value>
+    <value>Atanmamış</value>
     <comment>Unassigned</comment>
   </data>
   <data name="Settings.Controls.UseNetworkJoystick" xml:space="preserve">
-    <value>Use Network Joystick</value>
+    <value>Ağ Kumanda Kolunu Kullan</value>
     <comment>Use Network Joystick</comment>
   </data>
   <data name="Settings.Sounds.ATC" xml:space="preserve">
-    <value>ATC Volume</value>
+    <value>ATC Ses Seviyesi</value>
     <comment>ATC Volume</comment>
   </data>
   <data name="Settings.Sounds.SFX" xml:space="preserve">
-    <value>SFX Volume</value>
+    <value>SFX Ses Seviyesi</value>
     <comment>SFX Volume</comment>
   </data>
   <data name="Commands.AutoStartEngines" xml:space="preserve">
-    <value>Auto Start Engine(s)</value>
+    <value>Otomatikman Motor(ları) başlat</value>
     <comment>Auto Start Engine(s)</comment>
   </data>
   <data name="Commands.CockpitCamera" xml:space="preserve">
-    <value>Cockpit Camera</value>
+    <value>Kokpit Kamerası</value>
     <comment>Cockpit Camera</comment>
   </data>
   <data name="Commands.FlyByCamera" xml:space="preserve">
-    <value>Fly By Camera</value>
+    <value>Fly By Kamera</value>
     <comment>Fly By Camera</comment>
   </data>
   <data name="Commands.FollowCamera" xml:space="preserve">
-    <value>Follow Camera</value>
+    <value>Takip Kamerası</value>
     <comment>Follow Camera</comment>
   </data>
   <data name="Commands.Group.Autopilot" xml:space="preserve">
-    <value>Autopilot</value>
+    <value>Otopilot</value>
     <comment>Autopilot</comment>
   </data>
   <data name="Commands.Group.ControlSurfaces" xml:space="preserve">
-    <value>Control Surfaces</value>
+    <value>Kontrol Yüzeyleri</value>
     <comment>Control Surfaces</comment>
   </data>
   <data name="Commands.Group.Engines" xml:space="preserve">
-    <value>Engines</value>
+    <value>Motorlar</value>
     <comment>Engines</comment>
   </data>
   <data name="Commands.Group.General" xml:space="preserve">
-    <value>General</value>
+    <value>Genel</value>
     <comment>General</comment>
   </data>
   <data name="Commands.Group.HUD" xml:space="preserve">
@@ -1042,247 +1042,247 @@
     <comment>HUD</comment>
   </data>
   <data name="Commands.Live" xml:space="preserve">
-    <value>Multiplayer</value>
+    <value>Çok Oyunculu</value>
     <comment>Multiplayer</comment>
   </data>
   <data name="Commands.MoveCameraDown" xml:space="preserve">
-    <value>Move Camera Down</value>
+    <value>Kamerayı Aşağı Oynat</value>
     <comment>Move Camera Down</comment>
   </data>
   <data name="Commands.MoveCameraHorizontal" xml:space="preserve">
-    <value>Move Camera Left/Right</value>
+    <value>Kamerayı Sağa/Sola Oynat</value>
     <comment>Move Camera Left/Right</comment>
   </data>
   <data name="Commands.MoveCameraLeft" xml:space="preserve">
-    <value>Move Camera Left</value>
+    <value>Kamerayı Sola Oynat</value>
     <comment>Move Camera Left</comment>
   </data>
   <data name="Commands.MoveCameraRight" xml:space="preserve">
-    <value>Move Camera Right</value>
+    <value>Kamerayı Sağa Oynat</value>
     <comment>Move Camera Right</comment>
   </data>
   <data name="Commands.MoveCameraUp" xml:space="preserve">
-    <value>Move Camera Up</value>
+    <value>Kamerayı Yukarı Oynat</value>
     <comment>Move Camera Up</comment>
   </data>
   <data name="Commands.MoveCameraVertical" xml:space="preserve">
-    <value>Move Camera Up/Down</value>
+    <value>Kamerayı Yukarı/Aşağı Oynat</value>
     <comment>Move Camera Up/Down</comment>
   </data>
   <data name="Commands.NextCamera" xml:space="preserve">
-    <value>Next Camera</value>
+    <value>Sonraki Kamera</value>
     <comment>Next Camera</comment>
   </data>
   <data name="Commands.OnboardCamera" xml:space="preserve">
-    <value>Onboard Camera</value>
+    <value>Uçak İçi Kamera</value>
     <comment>Onboard Camera</comment>
   </data>
   <data name="Commands.PreviousCamera" xml:space="preserve">
-    <value>Previous Camera</value>
+    <value>Önceki Kamera</value>
     <comment>Previous Camera</comment>
   </data>
   <data name="Commands.ResetCamera" xml:space="preserve">
-    <value>Reset Camera</value>
+    <value>Kamerayı Sıfırla</value>
     <comment>Reset Camera</comment>
   </data>
   <data name="Commands.SelectATCEntry" xml:space="preserve">
-    <value>Select ATC Entry {0}</value>
+    <value>{0}. ATC Girişini Seçin</value>
     <comment>Select ATC Entry {number}</comment>
   </data>
   <data name="Commands.StartEngine" xml:space="preserve">
-    <value>Start Specified Engine</value>
+    <value>Belirtilen Motoru Çalıştır</value>
     <comment>Start Specified Engine</comment>
   </data>
   <data name="Commands.StopEngine" xml:space="preserve">
-    <value>Stop Specified Engine</value>
+    <value>Belirtilen Motoru Durdur</value>
     <comment>Stop Specified Engine</comment>
   </data>
   <data name="Commands.ToggleATCWindow" xml:space="preserve">
-    <value>Toggle ATC Window</value>
+    <value>ATC Penceresini Aç / Kapat</value>
     <comment>Toggle ATC Window</comment>
   </data>
   <data name="Commands.ToggleAutopilot" xml:space="preserve">
-    <value>Engage/Disengage Autopilot</value>
+    <value>Otopilotu Açma/Kapatma</value>
     <comment>Engage/Disengage Autopilot</comment>
   </data>
   <data name="Commands.ToggleFlightPathVector" xml:space="preserve">
-    <value>Toggle Flight Path Vector</value>
+    <value>Uçuş Yolu Vektörünü Aç / Kapat</value>
     <comment>Toggle Flight Path Vector</comment>
   </data>
   <data name="Commands.ToggleHUD" xml:space="preserve">
-    <value>Toggle HUD</value>
+    <value>HUD'ı Aç / Kapat</value>
     <comment>Toggle HUD</comment>
   </data>
   <data name="Commands.TogglePause" xml:space="preserve">
-    <value>Pause</value>
+    <value>Duraklat</value>
     <comment>Pause</comment>
   </data>
   <data name="Commands.TowerCamera" xml:space="preserve">
-    <value>Tower Camera</value>
+    <value>Kule Kamerası</value>
     <comment>Tower Camera</comment>
   </data>
   <data name="Commands.VirtualCockpitCamera" xml:space="preserve">
-    <value>Virtual Cockpit</value>
+    <value>Sanal Kokpit</value>
     <comment>Virtual Cockpit</comment>
   </data>
   <data name="Commands.ZoomIn" xml:space="preserve">
-    <value>Zoom In</value>
+    <value>Yakınlaştır</value>
     <comment>Zoom In</comment>
   </data>
   <data name="Commands.ZoomOut" xml:space="preserve">
-    <value>Zoom Out</value>
+    <value>Uzaklaştır</value>
     <comment>Zoom Out</comment>
   </data>
   <data name="GameMenu.20sAgo" xml:space="preserve">
-    <value>20s Ago</value>
+    <value>20 saniye önce</value>
     <comment>20s Ago</comment>
   </data>
   <data name="GameMenu.Calibrate" xml:space="preserve">
-    <value>Calibrate</value>
+    <value>Kalibre et</value>
     <comment>Calibrate</comment>
   </data>
   <data name="GameMenu.CalibrationComplete" xml:space="preserve">
-    <value>Calibration Complete</value>
+    <value>Kalibrasyon Tamamlandı</value>
     <comment>Calibration Complete</comment>
   </data>
   <data name="GameMenu.Crash" xml:space="preserve">
-    <value>CRASH</value>
+    <value>KAZA</value>
     <comment>CRASH</comment>
   </data>
   <data name="GameMenu.EndFlight" xml:space="preserve">
-    <value>End Flight</value>
+    <value>Uçuşu sonlandır</value>
     <comment>End Flight</comment>
   </data>
   <data name="GameMenu.EndSession" xml:space="preserve">
-    <value>End Session</value>
+    <value>Seansı sonlandır</value>
     <comment>End Session (ATC)</comment>
   </data>
   <data name="GameMenu.Paused" xml:space="preserve">
-    <value>PAUSED</value>
+    <value>DURAKLATILDI</value>
     <comment>PAUSED</comment>
   </data>
   <data name="GameMenu.Resume" xml:space="preserve">
-    <value>Resume</value>
+    <value>Devam et</value>
     <comment>Resume</comment>
   </data>
   <data name="GameMenu.ShortFinal" xml:space="preserve">
-    <value>Short Final</value>
+    <value>Kısa Final</value>
     <comment>Short Final</comment>
   </data>
   <data name="GameMenu.TakeOff" xml:space="preserve">
-    <value>Take Off</value>
+    <value>Kalkış</value>
     <comment>Take Off</comment>
   </data>
   <data name="GameMenu.TapToCalibrate" xml:space="preserve">
-    <value>Tap screen to calibrate and start</value>
+    <value>Kalibre etmek ve başlatmak için ekrana dokun</value>
     <comment>Tap screen to calibrate and start</comment>
   </data>
   <data name="GameMenu.Time" xml:space="preserve">
-    <value>Time</value>
+    <value>Zaman</value>
     <comment>Time</comment>
   </data>
   <data name="GameMenu.Weather" xml:space="preserve">
-    <value>Weather</value>
+    <value>Hava Durumu</value>
     <comment>Weather</comment>
   </data>
   <data name="GameMenu.WeightBalance" xml:space="preserve">
-    <value>Weight &amp; Balance</value>
+    <value>Ağırlık ve Balans</value>
     <comment>Weight &amp; Balance</comment>
   </data>
   <data name="GamePage.EndFlight.Message" xml:space="preserve">
-    <value>Are you sure you want to end this flight?</value>
+    <value>Bu uçuşu sonlandırmak istediğine emin misin?</value>
     <comment>Are you sure you want to end this flight?</comment>
   </data>
   <data name="GamePage.EndFlight.Title" xml:space="preserve">
-    <value>End Flight</value>
+    <value>Uçuşu sonlandır</value>
     <comment>End Flight</comment>
   </data>
   <data name="GamePage.EndSession.Message" xml:space="preserve">
-    <value>Are you sure you want to end this session?</value>
+    <value>Bu seansı bitirmek istediğine emin misin?</value>
     <comment>Are you sure you want to end this session?</comment>
   </data>
   <data name="GamePage.EndSession.Title" xml:space="preserve">
-    <value>End Session</value>
+    <value>Seansı sonlandır</value>
     <comment>End Session</comment>
   </data>
   <data name="Global.Grade" xml:space="preserve">
-    <value>Grade</value>
+    <value>Rütbe</value>
     <comment>Grade</comment>
   </data>
   <data name="Global.Operations" xml:space="preserve">
-    <value>Operations</value>
+    <value>Operasyonlar</value>
     <comment>Operations (ATC Operations)</comment>
   </data>
   <data name="SplashScreen.DownloadingAircraft" xml:space="preserve">
-    <value>Downloading Aircraft {0}%</value>
+    <value>Uçak İndiriliyor {0}%</value>
     <comment>Downloading Aircraft {0}%</comment>
   </data>
   <data name="SplashScreen.DownloadingAirportData" xml:space="preserve">
-    <value>Downloading airport data</value>
+    <value>Havaalanı verileri indiriliyor</value>
     <comment>Downloading airport data</comment>
   </data>
   <data name="SplashScreen.LoadingFlight" xml:space="preserve">
-    <value>Loading your flight</value>
+    <value>Uçuşunuz yükleniyor</value>
     <comment>Loading your flight</comment>
   </data>
   <data name="SplashScreen.LoadingReplay" xml:space="preserve">
-    <value>Loading replay</value>
+    <value>Tekrar oynatma yükleniyor</value>
     <comment>Loading replay</comment>
   </data>
   <data name="SplashScreen.UnloadingFlight" xml:space="preserve">
-    <value>Ending flight</value>
+    <value>Uçuş sonlandırılıyor</value>
     <comment>Ending flight</comment>
   </data>
   <data name="SplashScreen.UpdatingNavigationDatabase" xml:space="preserve">
-    <value>Updating navigation database</value>
+    <value>Navigasyon veritabanı güncelleniyor</value>
     <comment>Updating navigation database</comment>
   </data>
   <data name="TimePage.CurrentTime" xml:space="preserve">
-    <value>Current Time</value>
+    <value>Güncel Saat</value>
     <comment>Current Time</comment>
   </data>
   <data name="TimePage.Night" xml:space="preserve">
-    <value>Night</value>
+    <value>Gece</value>
     <comment>Night</comment>
   </data>
   <data name="TimePage.Noon" xml:space="preserve">
-    <value>Noon</value>
+    <value>Öğlen</value>
     <comment>Noon</comment>
   </data>
   <data name="TimePage.Sunrise" xml:space="preserve">
-    <value>Sunrise</value>
+    <value>Gündoğumu</value>
     <comment>Sunrise</comment>
   </data>
   <data name="TimePage.Sunset" xml:space="preserve">
-    <value>Sunset</value>
+    <value>Günbatımı</value>
     <comment>Sunset</comment>
   </data>
   <data name="UserAccountControl.YourAccount" xml:space="preserve">
-    <value>Your Account</value>
+    <value>Hesabınız</value>
     <comment>Your Account</comment>
   </data>
   <data name="WeatherPage.CirrusCloudLayer" xml:space="preserve">
-    <value>Cirrus Cloud Layer</value>
+    <value>Sirüs Bulut Katmanı</value>
     <comment>Cirrus Cloud Layer</comment>
   </data>
   <data name="WeatherPage.CloudsAltitude" xml:space="preserve">
-    <value>Clouds Altitude</value>
+    <value>Bulut Yüksekliği</value>
     <comment>Clouds Altitude</comment>
   </data>
   <data name="WeatherPage.Temperature" xml:space="preserve">
-    <value>Temperature</value>
+    <value>Sıcaklık</value>
     <comment>Temperature</comment>
   </data>
   <data name="WeatherPage.Turbulence" xml:space="preserve">
-    <value>Turbulence</value>
+    <value>Türbülans</value>
     <comment>Turbulence</comment>
   </data>
   <data name="WeatherPage.Visibility" xml:space="preserve">
-    <value>Visibility</value>
+    <value>Görüş mesafesi</value>
     <comment>Visibility</comment>
   </data>
   <data name="WeatherPage.WindDirection" xml:space="preserve">
-    <value>Wind Direction</value>
+    <value>Rüzgar Yönü</value>
     <comment>Wind Direction</comment>
   </data>
   <data name="WeatherPage.WindGusts" xml:space="preserve">
