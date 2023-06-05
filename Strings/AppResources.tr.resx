@@ -178,7 +178,7 @@
     <comment>Replays</comment>
   </data>
   <data name="IntroPage.SceneryEditor" xml:space="preserve">
-    <value>SCENERY EDITOR</value>
+    <value>GÖRÜNÜM EDİTÖRÜ</value>
     <comment>Scenery Editor</comment>
   </data>
   <data name="LiveMapControl.LiveData" xml:space="preserve">
@@ -1286,79 +1286,79 @@
     <comment>Wind Direction</comment>
   </data>
   <data name="WeatherPage.WindGusts" xml:space="preserve">
-    <value>Wind Gusts</value>
+    <value>Rüzgar Esintileri</value>
     <comment>Wind Gusts</comment>
   </data>
   <data name="WeatherPage.WindVelocity" xml:space="preserve">
-    <value>Wind Velocity</value>
+    <value>Rüzgar Hızı</value>
     <comment>Wind Velocity</comment>
   </data>
   <data name="WeatherState.Clouds.Broken" xml:space="preserve">
-    <value>Broken</value>
+    <value>Parçalı</value>
     <comment>Broken</comment>
   </data>
   <data name="WeatherState.Clouds.Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Açık</value>
     <comment>Clear</comment>
   </data>
   <data name="WeatherState.Clouds.Few" xml:space="preserve">
-    <value>Few</value>
+    <value>Az</value>
     <comment>Few</comment>
   </data>
   <data name="WeatherState.Clouds.Scattered" xml:space="preserve">
-    <value>Scattered</value>
+    <value>Dağınık</value>
     <comment>Scattered</comment>
   </data>
   <data name="WeatherState.Turbulence.Extreme" xml:space="preserve">
-    <value>Extreme</value>
+    <value>Aşırı</value>
     <comment>Extreme</comment>
   </data>
   <data name="WeatherState.Turbulence.Light" xml:space="preserve">
-    <value>Light</value>
+    <value>Hafif</value>
     <comment>Light</comment>
   </data>
   <data name="WeatherState.Turbulence.Moderate" xml:space="preserve">
-    <value>Moderate</value>
+    <value>Orta düzeyde</value>
     <comment>Moderate</comment>
   </data>
   <data name="WeatherState.Turbulence.None" xml:space="preserve">
-    <value>None</value>
+    <value>Yok</value>
     <comment>None</comment>
   </data>
   <data name="WeatherState.Turbulence.Severe" xml:space="preserve">
-    <value>Severe</value>
+    <value>Şiddetli</value>
     <comment>Severe</comment>
   </data>
   <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
-    <value>Are you sure you want to clear the scenery cache?</value>
+    <value>Görünüm önbelleğini temizlemek istediğinizden emin misiniz?</value>
     <comment>Are you sure you want to clear the scenery cache?</comment>
   </data>
   <data name="Settings.DisabledInFlight" xml:space="preserve">
-    <value>can't be changed while in-flight</value>
+    <value>uçuş sırasında değiştirilemez</value>
     <comment>can't be changed while in-flight</comment>
   </data>
   <data name="Settings.DisabledUnlinkedAccount" xml:space="preserve">
-    <value>account must be linked with IFC</value>
+    <value>hesap IFC ile bağlantılı olmalıdır</value>
     <comment>account must be linked with IFC</comment>
   </data>
   <data name="Settings.NoVoicesAlert.Message" xml:space="preserve">
-    <value>No voices were found on the device, would you like to visit the Android Text to Speech Settings? (Still having issues? Make sure Google Speech Engine is selected)</value>
+    <value>Cihazda ses bulunamadı, Android Metinden Konuşmaya Ayarlarını ziyaret etmek ister misiniz? (Hala sorun mu yaşıyorsunuz? Google Speech Engine'in seçili olduğundan emin olun)</value>
     <comment>No voices were found on the device, would you like to visit the Android Text to Speech Settings? (Still having issues? Make sure Google Speech Engine is selected)</comment>
   </data>
   <data name="MenuPageBase.Control" xml:space="preserve">
-    <value>Control</value>
+    <value>Kontrol Et</value>
     <comment>Control (ATC)</comment>
   </data>
   <data name="MenuPageBase.Fly" xml:space="preserve">
-    <value>Fly</value>
+    <value>Uç</value>
     <comment>Fly (Fly)</comment>
   </data>
   <data name="MenuPageBase.Open" xml:space="preserve">
-    <value>Open</value>
+    <value>Aç</value>
     <comment>Open (Scenery Editor)</comment>
   </data>
   <data name="Global.Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Yükleniyor...</value>
     <comment>Loading...</comment>
   </data>
   <data name="Settings.Option.Normal" xml:space="preserve">
@@ -1366,27 +1366,27 @@
     <comment>Normal</comment>
   </data>
   <data name="SplashScreen.LoadingSession" xml:space="preserve">
-    <value>Loading your session</value>
+    <value>Seansınız yükleniyor</value>
     <comment>(ATC)</comment>
   </data>
   <data name="AircraftPage.LiveryWillBeDownloaded" xml:space="preserve">
-    <value>Livery will be downloaded when flight starts.</value>
+    <value>Livery uçuş başladığında indirilecektir.</value>
     <comment>Livery will be downloaded when flight starts.</comment>
   </data>
   <data name="AircraftPage.RecentlyReleased" xml:space="preserve">
-    <value>Recently released</value>
+    <value>Yakın zamanda yayınlandı</value>
     <comment>Recently released</comment>
   </data>
   <data name="AircraftPage.ReleaseInfo" xml:space="preserve">
-    <value>Released or updated in {0}</value>
+    <value>{0}'da yayınlandı veya güncellendi</value>
     <comment>Released or updated in {0}</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
-    <value>Show aircraft from older versions</value>
+    <value>Eski Uçakları Göster</value>
     <comment>Show Legacy Aircraft</comment>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
-    <value>Show Pro Aircraft</value>
+    <value>Pro Uçakları Göster</value>
     <comment>Show Pro Aircraft</comment>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
@@ -1406,139 +1406,139 @@
     <comment>Ground</comment>
   </data>
   <data name="ATC.Station" xml:space="preserve">
-    <value>Station</value>
+    <value>İstasyon</value>
     <comment>Station (as in, selected frequencies)</comment>
   </data>
   <data name="ATC.Stations" xml:space="preserve">
-    <value>Stations</value>
+    <value>İstasyonlar</value>
     <comment>Stations</comment>
   </data>
   <data name="ATC.Tower" xml:space="preserve">
-    <value>Tower</value>
+    <value>Kule</value>
     <comment>Tower</comment>
   </data>
   <data name="ATCJobBoard.Header.Arrivals" xml:space="preserve">
-    <value>Arrivals</value>
+    <value>Varışlar</value>
     <comment>Arrivals</comment>
   </data>
   <data name="ATCJobBoardControl.ActiveFIRs" xml:space="preserve">
-    <value>{0} Active Flight Information Regions</value>
+    <value>{0} Aktif Uçuş Bilgi Bölgeleri</value>
     <comment>{0} Active Flight Information Regions</comment>
   </data>
   <data name="ATCJobBoardControl.AirspaceActivity" xml:space="preserve">
-    <value>Airspace Activity</value>
+    <value>Hava Sahası Aktivitesi</value>
     <comment>Airspace Activity</comment>
   </data>
   <data name="ATCJobBoardControl.FIRs" xml:space="preserve">
-    <value>Flight Information Regions</value>
+    <value>Uçuş Bilgi Bölgeleri</value>
     <comment>Flight Information Regions</comment>
   </data>
   <data name="ATCJobBoardControl.GoTo" xml:space="preserve">
-    <value>Go to {0}</value>
+    <value>{0}'a git</value>
     <comment>Go to {0}</comment>
   </data>
   <data name="ATCJobBoardControl.NoFlightsFound" xml:space="preserve">
-    <value>No Flights Found</value>
+    <value>Hiç Uçuş Bulunamadı</value>
     <comment>No Flights Found</comment>
   </data>
   <data name="FlightPlan.AddToCurrentFlightPlanPrompt" xml:space="preserve">
-    <value>Add to current flight plan?</value>
+    <value>Mevcut uçuş planına mı ekle?</value>
     <comment>Add to current flight plan?</comment>
   </data>
   <data name="FlightPlan.AddToFlightPlan" xml:space="preserve">
-    <value>Add to Flight Plan</value>
+    <value>Uçuş Planına Ekle</value>
     <comment>Add to Flight Plan</comment>
   </data>
   <data name="FlightPlan.ReplaceCurrentFlightPlanPrompt" xml:space="preserve">
-    <value>Replace current flight plan?</value>
+    <value>Mevcut uçuş planını mı değiştir?</value>
     <comment>Replace current flight plan?</comment>
   </data>
   <data name="FlightPlan.ReplaceFlightPlan" xml:space="preserve">
-    <value>Replace Flight Plan</value>
+    <value>Uçuş Planını Değiştir</value>
     <comment>Replace Flight Plan</comment>
   </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
-    <value>Do you want to replace or add to the existing flight plan?</value>
+    <value>Mevcut uçuş planını değiştirmek mi yoksa ona ekleme yapmak mı istiyorsunuz?</value>
     <comment>Shown when importing a flight plan FPL file</comment>
   </data>
   <data name="FlightPlan.Replace" xml:space="preserve">
-    <value>Replace</value>
+    <value>Değiştir</value>
     <comment>Replace</comment>
   </data>
   <data name="FlightPlan.Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Ekle</value>
     <comment>Add</comment>
   </data>
   <data name="Global.Airport" xml:space="preserve">
-    <value>Airport</value>
+    <value>Havaalanı</value>
     <comment>Airport</comment>
   </data>
   <data name="Global.NotQualified" xml:space="preserve">
-    <value>Not Qualified</value>
+    <value>Kalifiye Değil</value>
     <comment>Not Qualified</comment>
   </data>
   <data name="Global.PleaseWait" xml:space="preserve">
-    <value>Please wait...</value>
+    <value>Lütfen bekleyin...</value>
     <comment>Please wait...</comment>
   </data>
   <data name="Global_FinalApproach" xml:space="preserve">
-    <value>Final Approach</value>
+    <value>Son Yaklaşma</value>
     <comment>Final Approach</comment>
   </data>
   <data name="Global_Runway" xml:space="preserve">
-    <value>Runway</value>
+    <value>Pist</value>
     <comment>Runway</comment>
   </data>
   <data name="Global_Takeoff" xml:space="preserve">
-    <value>Takeoff</value>
+    <value>Kalkış</value>
     <comment>Takeoff</comment>
   </data>
   <data name="Global_Unknown" xml:space="preserve">
-    <value>Unknown</value>
+    <value>Bilinmiyor</value>
     <comment>Unknown</comment>
   </data>
   <data name="Grade.FlightTimeLongPeriod" xml:space="preserve">
-    <value>Flight Time (90 days)</value>
+    <value>Uçuş Süresi (90 gün)</value>
     <comment>Flight Time (90 days)</comment>
   </data>
   <data name="Grade.LandingCountLongPeriod" xml:space="preserve">
-    <value>Landings (90 days)</value>
+    <value>İnişler (90 gün)</value>
     <comment>Landings (90 days)</comment>
   </data>
   <data name="Grade.ReportCountMediumPeriod" xml:space="preserve">
-    <value>Level 3 Violations (7 days)</value>
+    <value>3. Seviye İhlaller (7 gün)</value>
     <comment>Level 3 Violations (7 days)</comment>
   </data>
   <data name="Grade.Requirements" xml:space="preserve">
-    <value>Requirements</value>
+    <value>Gereksinimler</value>
     <comment>Requirements</comment>
   </data>
   <data name="Grade.ShowGradeTable" xml:space="preserve">
-    <value>Show Grade Table</value>
+    <value>Rütbe Tablosunu Göster</value>
     <comment>Show Grade Table</comment>
   </data>
   <data name="Grade.ShowViolationHistory" xml:space="preserve">
-    <value>Show Violation History</value>
+    <value>İhlal Geçmişini Göster</value>
     <comment>Show Violation History</comment>
   </data>
   <data name="Grade.Total12MonthsATCAllReports" xml:space="preserve">
-    <value>All Level 2/3 Violations (1 year)</value>
+    <value>Tüm Seviye 2/3 İhlaller (1 yıl)</value>
     <comment>All Level 2/3 Violations (1 year)</comment>
   </data>
   <data name="Grade.Total12MonthsATCMajorReports" xml:space="preserve">
-    <value>Level 3 Violations (1 year)</value>
+    <value>3. Seviye İhlaller (1 yıl)</value>
     <comment>Level 3 Violations (1 year)</comment>
   </data>
   <data name="Grade.Total12MonthsATCMinorReports" xml:space="preserve">
-    <value>Level 2 Violations (1 year)</value>
+    <value>2. Seviye İhlaller (1 yıl)</value>
     <comment>Level 2 Violations (1 year)</comment>
   </data>
   <data name="Grade.TotalFlightTime" xml:space="preserve">
-    <value>Total Flight Time</value>
+    <value>Toplam Uçuş Süresi</value>
     <comment>Total Flight Time</comment>
   </data>
   <data name="Grade.TotalLandings" xml:space="preserve">
-    <value>Total Landings</value>
+    <value>Toplam İnişler</value>
     <comment>Total Landings</comment>
   </data>
   <data name="Grade.TotalXP" xml:space="preserve">
@@ -1546,187 +1546,187 @@
     <comment>XP</comment>
   </data>
   <data name="Grade.ViolationsByLandingShortPeriod" xml:space="preserve">
-    <value>Level 1 Violations/Landing (12 Months)</value>
+    <value>1. Seviye İhlaller/İniş (12 Ay)</value>
     <comment>Level 1 Violations/Landing (12 Months)</comment>
   </data>
   <data name="Grade.ViolationsMediumPeriod" xml:space="preserve">
-    <value>Level 1 Violations (7 days)</value>
+    <value>1. Seviye İhlaller (7 gün)</value>
     <comment>Level 1 Violations (7 days)</comment>
   </data>
   <data name="Grade.ViolationsShortPeriod" xml:space="preserve">
-    <value>Level 1 Violations (24 hours)</value>
+    <value>1. Seviye İhlaller (24 saat)</value>
     <comment>Level 1 Violations (24 hours)</comment>
   </data>
   <data name="ItemSearchControl.NoResultsFor" xml:space="preserve">
-    <value>No results for "{0}"</value>
+    <value>"{0}" için sonuç yok</value>
     <comment>No results for "{0}"</comment>
   </data>
   <data name="ItemSearchControl.SearchAirports" xml:space="preserve">
-    <value>Search airports</value>
+    <value>Havaalanlarını arayın</value>
     <comment>Search airports</comment>
   </data>
   <data name="ItemSearchControl.SearchAirportsAndWaypoints" xml:space="preserve">
-    <value>Search airports/waypoints</value>
+    <value>Havaalanlarını/yol noktalarını arayın</value>
     <comment>Search airports/waypoints</comment>
   </data>
   <data name="LocationPage.NoAvailableStartLocations" xml:space="preserve">
-    <value>No available start locations for the {0}</value>
+    <value>{0} için mevcut başlangıç konumu yok</value>
     <comment>No Available start locations for the {0}</comment>
   </data>
   <data name="LocationPage.ResetZoom" xml:space="preserve">
-    <value>Reset Zoom</value>
+    <value>Yakınlaştırmayı Sıfırla</value>
     <comment>Reset Zoom</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.Select" xml:space="preserve">
-    <value>Select</value>
+    <value>Seç</value>
     <comment>Select</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectApproach" xml:space="preserve">
-    <value>Select Approach</value>
+    <value>Yaklaşım Seçin</value>
     <comment>Select Approach</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectArrival" xml:space="preserve">
-    <value>Select Arrival</value>
+    <value>Varış Seçin</value>
     <comment>Select Arrival</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectDeparture" xml:space="preserve">
-    <value>Select Departure</value>
+    <value>Kalkış Seçin</value>
     <comment>Select Departure</comment>
   </data>
   <data name="MenuPageBase.Grade.GradeRequired" xml:space="preserve">
-    <value>Grade Required: {0}</value>
+    <value>Gerekli rütbe: {0}</value>
     <comment>Grade Required: {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.InsufficientGradePrompt" xml:space="preserve">
-    <value>You do not have the required grade to fly on {0}</value>
+    <value>{0}'da uçmak için gerekli rütbeye sahip değilsiniz</value>
     <comment>You do not have the required grade to fly on {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.YourGrade" xml:space="preserve">
-    <value>Your Grade: {0}</value>
+    <value>Rütbeniz: {0}</value>
     <comment>Your Grade: {0}</comment>
   </data>
   <data name="MenuPageBase.NoATCAccess" xml:space="preserve">
-    <value>No ATC Access</value>
+    <value>ATC Erişimi Yok</value>
     <comment>No ATC Access</comment>
   </data>
   <data name="MenuPageBase.NoATCAccessOn" xml:space="preserve">
-    <value>No ATC Access on {0}</value>
+    <value>{0} üzerinde ATC Erişimi Yok</value>
     <comment>No ATC Access on {0}</comment>
   </data>
   <data name="MenuPageBase.NoProFound" xml:space="preserve">
-    <value>No valid Infinite Flight Pro subscription found</value>
+    <value>Geçerli Infinite Flight Pro aboneliği bulunamadı</value>
     <comment>No valid Infinite Flight Pro subscription found</comment>
   </data>
   <data name="MenuPageBase.ProRequired" xml:space="preserve">
-    <value>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</value>
+    <value>Bu konumda bir uçuş başlatmak için Infinite Flight Pro gereklidir. Lütfen başlangıç havaalanını değiştirin.</value>
     <comment>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="Time.1Hour" xml:space="preserve">
-    <value>1 hour</value>
+    <value>1 saat</value>
     <comment>1 hour</comment>
   </data>
   <data name="Time.1HourAgo" xml:space="preserve">
-    <value>1 hour ago</value>
+    <value>1 saat önce</value>
     <comment>1 hour ago</comment>
   </data>
   <data name="Time.1Minute" xml:space="preserve">
-    <value>1 minute</value>
+    <value>1 dakika</value>
     <comment>1 minute</comment>
   </data>
   <data name="Time.1MinuteAgo" xml:space="preserve">
-    <value>1 minute ago</value>
+    <value>1 dakika önce</value>
     <comment>1 minute ago</comment>
   </data>
   <data name="Time.1YearAgo" xml:space="preserve">
-    <value>1 year ago</value>
+    <value>1 yıl önce</value>
     <comment>1 year ago</comment>
   </data>
   <data name="Time.Days" xml:space="preserve">
-    <value>{0} days</value>
+    <value>{0} gün</value>
     <comment>{0} days</comment>
   </data>
   <data name="Time.DaysAgo" xml:space="preserve">
-    <value>{0} days ago</value>
+    <value>{0} gün önce</value>
     <comment>{0} days ago</comment>
   </data>
   <data name="Time.Hour" xml:space="preserve">
-    <value>hour</value>
+    <value>saat</value>
     <comment>hour</comment>
   </data>
   <data name="Time.Hours" xml:space="preserve">
-    <value>{0} hours</value>
+    <value>{0} saat</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HoursAgo" xml:space="preserve">
-    <value>{0} hours ago</value>
+    <value>{0} saat önce</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HourShortForm" xml:space="preserve">
-    <value>hr</value>
+    <value>sa.</value>
     <comment>hr</comment>
   </data>
   <data name="Time.HoursShortForm" xml:space="preserve">
-    <value>hrs</value>
+    <value>sa.</value>
     <comment>hrs</comment>
   </data>
   <data name="Time.In1Hour" xml:space="preserve">
-    <value>In 1 hour</value>
+    <value>1 saate</value>
     <comment>In 1 hour</comment>
   </data>
   <data name="Time.In1Minute" xml:space="preserve">
-    <value>In a minute</value>
+    <value>1 dakikaya</value>
     <comment>In a minute</comment>
   </data>
   <data name="Time.InDays" xml:space="preserve">
-    <value>In {0} days</value>
+    <value>{0} güne</value>
     <comment>In {0} days</comment>
   </data>
   <data name="Time.InHours" xml:space="preserve">
-    <value>In {0} hours</value>
+    <value>{0} saat</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.InLessThanAMinute" xml:space="preserve">
-    <value>In less than a minute</value>
+    <value>Bir dakikadan kısa sürede</value>
     <comment>In less than a minute</comment>
   </data>
   <data name="Time.InMinutes" xml:space="preserve">
-    <value>In {0} minutes</value>
+    <value>{0} dakikaya</value>
     <comment>In {0} minutes</comment>
   </data>
   <data name="Time.LessThanAMinute" xml:space="preserve">
-    <value>Less than a minute</value>
+    <value>Bir dakikadan daha kısa</value>
     <comment>less than a minute</comment>
   </data>
   <data name="Time.LessThanAMinuteAgo" xml:space="preserve">
-    <value>Less than a minute ago</value>
+    <value>Bir dakikadan daha kısa bir süre önce</value>
     <comment>Less than a minute ago</comment>
   </data>
   <data name="Time.Minute" xml:space="preserve">
-    <value>minute</value>
+    <value>dakika</value>
     <comment>minute</comment>
   </data>
   <data name="Time.Minutes" xml:space="preserve">
-    <value>{0} minutes</value>
+    <value>{0} dakika</value>
     <comment>{0} minutes</comment>
   </data>
   <data name="Time.MinutesAgo" xml:space="preserve">
-    <value>{0} minutes ago</value>
+    <value>{0} dakika önce</value>
     <comment>{0} minutes ago</comment>
   </data>
   <data name="Time.MinuteShortForm" xml:space="preserve">
-    <value>mn</value>
+    <value>dk.</value>
     <comment>mn</comment>
   </data>
   <data name="Time.Tomorrow" xml:space="preserve">
-    <value>Tomorrow</value>
+    <value>Yarın</value>
     <comment>Tomorrow</comment>
   </data>
   <data name="Time.YearsAgo" xml:space="preserve">
-    <value>{0} years ago</value>
+    <value>{0} yıl önce</value>
     <comment>{0} years ago</comment>
   </data>
   <data name="Time.Yesterday" xml:space="preserve">
-    <value>Yesterday</value>
+    <value>Dün</value>
     <comment>Yesterday</comment>
   </data>
   <data name="Violation.AerobaticsViolation" xml:space="preserve">
