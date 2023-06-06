@@ -9,7 +9,8 @@
       "pt": "Começando.",
       "es": "Tu Primer Vuelo",
       "ms": "Memulakan Pemakaian",
-      "zh": "入门教程"
+      "zh": "入门教程",
+      "tr": "Başlarken"
     },
     "description": {
       "en": "Learn the basics of Infinite Flight here!",
@@ -20,7 +21,8 @@
       "pt": "Aprenda os conceitos básicos do Infinite Flight aqui!",
       "es": "¡Aprende los conceptos básicos de Infinite Flight aquí!",
       "ms": "Pelajari asas-asas Infinite Flight di sini!",
-      "zh": "一起学习《无限飞行》的基本操作吧！"
+      "zh": "一起学习《无限飞行》的基本操作吧！",
+      "tr": "Infinite Flight'ın temellerini buradan öğrenin!"
     }
   },
   "stringsPerStep": [
@@ -33,7 +35,8 @@
       "ms": "Selamat datang ke Infinite Flight dan Tutorial Memulakan. Mari kita terbang secepat mungkin!",
       "pt": "Bem-vindo ao Infinite Flight e ao nosso Tutorial de Início. Vamos fazer você voar o mais rápido possível!",
       "ru": "Добро пожаловать в Infinite Flight и наше руководство для начинающих. Давайте научимся летать как можно быстрее!",
-      "bg": "Добре дошли в Infinite Flight и нашето ръководство за начинаещи. Нека ви научим да летите възможно най-бързо!"
+      "bg": "Добре дошли в Infinite Flight и нашето ръководство за начинаещи. Нека ви научим да летите възможно най-бързо!",
+      "tr": "Infinite Flight'a ve Başlarken Eğitimimize hoş geldiniz. Sizi olabildiğince çabuk uçuralım!"
     },
     {
       "en": "Our app has an intuitive way to control the joystick or yoke of your aircraft by tilting your device in the direction you want to go. Infinite Flight detects this motion and provides input to the control surfaces just as if you were flying the aircraft yourself!",
@@ -44,7 +47,8 @@
       "de": "Unsere App verfügt über eine intuitive Möglichkeit, den Joystick oder das Steuerhorn Ihres Flugzeugs zu steuern, indem Sie Ihr Gerät in die Richtung neigen, in die Sie gehen möchten. Infinite Flight erkennt diese Bewegung und liefert Eingaben an die Steuerflächen, als ob Sie das Flugzeug selbst fliegen würden!",
       "zh": "《无限飞行》的操纵方式非常直观，只需通过向所需方向倾斜你的设备即可控制飞机的操纵杆。《无限飞行》将检测设备的运动，并将其转换为操纵面的偏转，就好像你自己驾驶飞机一样！",
       "bg": "Нашето приложение има интуитивен начин за управление джойстика или щурвала на самолета - като накланяте устройството си в нужната ви посока. Infinite Flight разпознава това движение и предава сигнала на контролните повърхности, точно както би било, ако управлявате самолета наистина!",
-      "ru": "В нашем приложении интуитивно понятный способ управления джойстиком или штурвалом вашего воздушного судна - наклон устройства в нужном направлении. Infinite Flight распознает это движение и передает сигнал на управляющие поверхности так, как если бы вы сами управляли самолетом!"
+      "ru": "В нашем приложении интуитивно понятный способ управления джойстиком или штурвалом вашего воздушного судна - наклон устройства в нужном направлении. Infinite Flight распознает это движение и передает сигнал на управляющие поверхности так, как если бы вы сами управляли самолетом!",
+      "tr": "Uygulamamız, cihazınızı gitmek istediğiniz yöne doğru eğerek uçağınızın joystick'ini veya boyunduruğunu kontrol etmenin sezgisel bir yolunu sunuyor. Infinite Flight bu hareketi algılar ve sanki uçağı kendiniz uçuruyormuşsunuz gibi kontrol yüzeylerine girdi sağlar! "
     },
     {
       "en": "First, let's show you how to pitch the aircraft nose up and down.",
@@ -55,7 +59,8 @@
       "zh": "首先，让我们学习如何控制飞机上下俯仰。",
       "fr": "Tout d'abord, nous allons vous montrer comment incliner le nez de l'avion vers le haut et vers le bas.",
       "ru": "Сначала давайте покажем вам, как изменять угол наклона носа самолета вверх и вниз.",
-      "bg": "Първо, нека ви покажем как да накланяте носа на самолета нагоре и надолу."
+      "bg": "Първо, нека ви покажем как да накланяте носа на самолета нагоре и надолу.",
+      "tr": "Önce size uçağın burnunu nasıl yukarı ve aşağı sallayacağınızı gösterelim."
     },
     {
       "en": "To lower the nose, you’ll need to tilt the top of your device away from you. Ready to give it a go? Tap to continue!",
@@ -66,7 +71,8 @@
       "ms": "Untuk menurunkan hidung, anda perlu membimbangkan bahagian atas peranti anda dari anda. Sedia untuk mencuba? Ketik untuk teruskan!",
       "zh": "要降低飞机的机头，你需要将你的设备顶端向下压。准备好了吗？点击继续！",
       "ru": "Чтобы опустить нос, вам нужно наклонить верх устройства от себя. Готовы попробовать? Нажмите, чтобы продолжить!",
-      "bg": "За да наклоните носа надолу, трябва да отдалечите горната част на устройството от себе си. Готови ли сте да опитате? Докоснете, за да продължите!"
+      "bg": "За да наклоните носа надолу, трябва да отдалечите горната част на устройството от себе си. Готови ли сте да опитате? Докоснете, за да продължите!",
+      "tr": "Burnu alçaltmak için cihazınızın üst kısmını kendinizden uzaklaştırmanız gerekecek. Denemeye hazır mısınız? Devam etmek için hafifçe tıklayın!"
     },
     {
       "en": "Okay, you have control! Let's first pitch down. You only need small and smooth inputs to control the aircraft.",
@@ -77,7 +83,8 @@
       "ms": "Baiklah, kawalan anda! Pertama, kita turunkan hidung pesawat dahulu. Anda hanya perlu buat input kecil dan lancar untuk mengawal pesawat.",
       "zh": "好的，现在你来操纵！我们先操纵飞机低头。你只需要柔和、平稳的操纵来控制飞机。",
       "bg": "Добре, вие управлявате! Нека първо пробваме да наклоним носа надолу. Трябват само леки и плавни движения, за да управлявате самолета.",
-      "ru": "Хорошо, у тебя управление! Давай сначала угол наклона вниз. Тебе нужны только маленькие и плавные движения, чтобы управлять самолетом."
+      "ru": "Хорошо, у тебя управление! Давай сначала угол наклона вниз. Тебе нужны только маленькие и плавные движения, чтобы управлять самолетом.",
+      "tr": "Tamam, kontrol sizde! Önce aşağı inelim. Uçağı kontrol etmek için yalnızca küçük ve yumuşak girdilere ihtiyacınız var."
     },
     {
       "en": "Nice job! Now let's pitch up by tilting the top of your device towards you.",
@@ -88,7 +95,8 @@
       "zh": "飞得不错！现在我们将设备顶端抬起，让飞机抬头。",
       "ru": "Отлично сработано! Теперь давайте отклоним нос вверх, наклонив верх устройства к себе.",
       "bg": "Добра работа! Нека сега повдигнем носа - наклонете горната част на устройството към вас.",
-      "de": "Gute Arbeit! Jetzt lass uns hochziehen, indem du die Spitze deines Geräts zu dir neigst."
+      "de": "Gute Arbeit! Jetzt lass uns hochziehen, indem du die Spitze deines Geräts zu dir neigst.",
+      "tr": "Aferin! Şimdi cihazınızın üst kısmını kendinize doğru eğerek adım atalım."
     },
     {
       "en": "To return to straight and level flight, just lower the nose again.",
@@ -99,7 +107,8 @@
       "ru": "Чтобы вернуться к полету на прямом курсе и одном уровне, просто снова опустите нос самолета.",
       "es": "Para volver a un vuelo recto y nivelado, simplemente baja nuevamente la nariz.",
       "pt": "Para retornar ao voo reto e nivelado, basta abaixar novamente o nariz.",
-      "bg": "За да се върнете към хоризонтален полет, просто наклонете носа надолу отново."
+      "bg": "За да се върнете към хоризонтален полет, просто наклонете носа надолу отново.",
+      "tr": "Düz ve yatay uçuşa geri dönmek için burnu tekrar indirmeniz yeterli."
     },
     {
       "en": "So that’s pitch! Keep practicing and when you’re ready to move on, tap to continue!",
@@ -110,7 +119,8 @@
       "zh": "这就是飞机的俯仰操纵！自己再多练练，准备好之后点击继续！",
       "fr": "C'est donc le tangage ! Continuez à pratiquer et lorsque vous êtes prêt à passer à la suite, appuyez sur continuer !",
       "ru": "Вот такая тангаж! Продолжайте тренироваться, и когда будете готовы двигаться дальше, нажмите, чтобы продолжить!",
-      "bg": "Това е всичко за вертикалния наклон! Продължавайте да се упражнявате, а когато сте готови да продължите напред, докосните прозореца!"
+      "bg": "Това е всичко за вертикалния наклон! Продължавайте да се упражнявате, а когато сте готови да продължите напред, докосните прозореца!",
+      "tr": "Demek sunum bu! Pratik yapmaya devam edin ve devam etmeye hazır olduğunuzda devam etmek için hafifçe vurun!"
     },
     {
       "en": "Next, let’s explore roll.",
@@ -121,7 +131,8 @@
       "zh": "接下来，我们学习滚转操纵。",
       "es": "A continuación, exploremos el cabeceo (roll).",
       "ru": "Далее давайте изучим крен (roll).",
-      "bg": "Следващата стъпка е да разучим хоризонталния наклон на самолета."
+      "bg": "Следващата стъпка е да разучим хоризонталния наклон на самолета.",
+      "tr": "Şimdi, döndürmeyi  keşfedelim."
     },
     {
       "en": "To roll to the left, you’ll need to rotate your device left, like the steering wheel of a car. Ready to give it a go? Tap to continue!",
@@ -132,7 +143,8 @@
       "zh": "想要向左转，你需要向左旋转你的设备，就像开车一样。准备好了吗？点击继续！",
       "ru": "Чтобы совершить крен влево, вам нужно повернуть устройство влево, как руль автомобиля. Готовы попробовать? Нажмите, чтобы продолжить!",
       "bg": "За да завиете наляво, трябва да завъртите устройството си наляво, все едно управлявате автомобил. Готови ли сте да опитате? Докоснете, за да продължите!",
-      "de": "Um nach links zu rollen, musst du dein Gerät nach links drehen, wie das Lenkrad eines Autos. Bereit es zu versuchen? Tippe, um fortzufahren!"
+      "de": "Um nach links zu rollen, musst du dein Gerät nach links drehen, wie das Lenkrad eines Autos. Bereit es zu versuchen? Tippe, um fortzufahren!",
+      "tr": "Sola kaydırmak için, cihazınızı tıpkı bir arabanın direksiyonu gibi sola döndürmeniz gerekir. Denemeye hazır mısınız? Devam etmek için hafifçe tıklayın!"
     },
     {
       "en": "Okay, you have control! Let's turn left, don't forget, small and smooth inputs!",
@@ -143,7 +155,8 @@
       "de": "Okay, du hast die Kontrolle! Lass uns nach links drehen, vergiss nicht, kleine und sanfte Eingaben zu machen!",
       "pt": "Ok, você está no controle! Vire à esquerda, não esqueça, use entradas suaves e pequenas!",
       "bg": "Добре, вие управлявате! Нека завием наляво. Не забравяйте, трябват само леки и плавни движения!",
-      "ru": "Хорошо, вы на управлении! Давайте повернем налево, не забывайте, маленькие и плавные движения управления!"
+      "ru": "Хорошо, вы на управлении! Давайте повернем налево, не забывайте, маленькие и плавные движения управления!",
+      "tr": "Tamam, kontrol sizde! Sola dönelim, unutmayın, küçük ve düzgün girişler!"
     },
     {
       "en": "Now let’s try and go right! Rotate your device to the right to roll the aircraft right.",
@@ -154,7 +167,8 @@
       "fr": "Maintenant, essayons de tourner à droite ! Faites pivoter votre appareil vers la droite pour incliner l'avion à droite.",
       "pt": "Agora, vamos tentar ir para a direita! Gire seu dispositivo para a direita para inclinar a aeronave para a direita.",
       "ru": "Теперь давайте попробуем повернуть направо! Поверните свое устройство вправо, чтобы самолет скатился направо.",
-      "bg": "Сега нека да опитаме да завием надясно! Завъртете вашето устройство надясно, за да завиете надясно."
+      "bg": "Сега нека да опитаме да завием надясно! Завъртете вашето устройство надясно, за да завиете надясно.",
+      "tr": "Şimdi deneyelim ve sağa gidelim! Uçağı sağa döndürmek için cihazınızı sağa çevirin."
     },
     {
       "en": "Return to wings level by rolling left.",
@@ -165,7 +179,8 @@
       "fr": "Revenez à l'horizon artificiel en roulant sur la gauche.",
       "de": "Kehren Sie durch Linkswärts-Rollen zur waagerechten Fluglage zurück.",
       "ru": "Вернитесь на уровень крыльев с помощью крена влево.",
-      "bg": "Върнете се в хоризонтален полет като завиете наляво отново."
+      "bg": "Върнете се в хоризонтален полет като завиете наляво отново.",
+      "tr": "Sola dönerek kanat seviyesine dönün."
     },
     {
       "en": "Great! Keep practicing and when you’re ready to move on, tap to continue!",
@@ -176,7 +191,8 @@
       "zh": "漂亮！自己再多试试，准备好之后点击继续。",
       "fr": "Génial ! Continuez à vous entraîner et lorsque vous êtes prêt à passer à la suite, appuyez pour continuer !",
       "ru": "Отлично! Продолжайте практиковаться, и когда будете готовы двигаться дальше, коснитесь экрана, чтобы продолжить!",
-      "bg": "Отлично! Продължавайте да се упражнявате и когато сте готови да продължите нататък, докоснете прозореца!"
+      "bg": "Отлично! Продължавайте да се упражнявате и когато сте готови да продължите нататък, докоснете прозореца!",
+      "tr": "Harika! Pratik yapmaya devam edin ve devam etmeye hazır olduğunuzda devam etmek için hafifçe tıklayın"
     },
     {
       "en": "The rudder controls the aircraft's yaw.",
@@ -442,7 +458,8 @@
       "zh": "飞机的俯仰角超过15度了! 再试一次，这次减小点俯仰角。注意要更加轻柔地操纵。",
       "pt": "O \"pitch\" da aeronave excedeu 15 graus para baixo! Tente novamente, desta vez com um \"pitch\" reduzido. Lembre-se de tornar seus movimentos mais suaves.",
       "ru": "Перекрышка самолета превысила 15 градусов вниз! Попробуйте еще раз, на этот раз с более низкой перекрышкой. Помните, что нужно делать более мягкие движения.",
-      "bg": "Вертикалният наклон надвиши 15 градуса надолу! Опитайте отново, но този път намалете наклона. Запомнете, че движенията трябва да са по-плавни."
+      "bg": "Вертикалният наклон надвиши 15 градуса надолу! Опитайте отново, но този път намалете наклона. Запомнете, че движенията трябва да са по-плавни.",
+      "tr": "Uçağın eğimi aşağı doğru 15 dereceyi aştı! Bu sefer azaltılmış bir eğimle tekrar deneyin. Hareketlerinizi daha yumuşak yapmayı unutmayın."
     },
     {
       "en": "The aircraft bank exceeded 45 degrees! Re-try, this time with a reduced bank. Remember to make your movements more gentle.",
