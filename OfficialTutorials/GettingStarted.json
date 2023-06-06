@@ -187,7 +187,8 @@
       "de": "Das Ruder kontrolliert die Gier des Flugzeugs.",
       "bg": "Рулят управлява завъртането на самолета.",
       "ru": "Руль управляет креном самолета.",
-      "zh": "方向舵控制飞机的偏航。"
+      "zh": "方向舵控制飞机的偏航。",
+      "tr": "Dümen kontrolü uçağın sapmasını kontrol eder."
     },
     {
       "en": "You can move the rudder by holding your finger on the slider in the bottom right of the screen and moving it left or right.",
@@ -198,7 +199,8 @@
       "fr": "Vous pouvez déplacer la gouverne de direction en maintenant votre doigt sur le curseur en bas à droite de l'écran et en le déplaçant vers la gauche ou la droite.",
       "ms": "Anda boleh menggerakkan stereng dengan menekan jari anda pada penyeret di bahagian bawah kanan skrin dan menggerakkannya ke kiri atau ke kanan.",
       "ru": "Вы можете управлять рулем, удерживая палец на ползунке в правом нижнем углу экрана и перемещая его влево или вправо.",
-      "bg": "Можете да движите руля като задържите пръста си върху плъзгача в долната дясна част на екрана и го преместите наляво или надясно."
+      "bg": "Можете да движите руля като задържите пръста си върху плъзгача в долната дясна част на екрана и го преместите наляво или надясно.",
+      "tr": "Ekranın sağ alt kısmındaki kaydırma çubuğuna parmağınızı basılı tutup sola veya sağa hareket ettirerek dümeni hareket ettirebilirsiniz."
     },
     {
       "en": "Give it a try, and when you’re done practicing, tap to continue!",
@@ -209,7 +211,8 @@
       "es": "¡Inténtalo y cuando termines de practicar, toca para continuar!",
       "zh": "试试看，准备好之后点击继续！",
       "ru": "Попробуйте это сами, а когда закончите тренировку, коснитесь экрана, чтобы продолжить!",
-      "bg": "Пробвайте да го направите и когато сте готови, докоснете, за да продължите!"
+      "bg": "Пробвайте да го направите и когато сте готови, докоснете, за да продължите!",
+      "tr": "Bir deneyin ve alıştırmayı bitirdiğinizde devam etmek için dokunun!"
     },
     {
       "en": "Before we move outside, let's look at one more thing in the cockpit!",
@@ -220,7 +223,8 @@
       "ms": "Sebelum kita keluar, mari kita lihat satu lagi perkara di dalam kokpit!",
       "de": "Bevor wir nach draußen gehen, schauen wir uns noch eine Sache im Cockpit an!",
       "bg": "Преди да излезем навън, нека погледнем още нещо в кабината!",
-      "ru": "Перед тем, как мы выйдем наружу, давайте посмотрим на еще одну вещь в кабине!"
+      "ru": "Перед тем, как мы выйдем наружу, давайте посмотрим на еще одну вещь в кабине!",
+      "tr": "Dışarı çıkmadan önce kokpitte bir şeye daha bakalım!"
     },
     {
       "en": "The throttle controls how much power the engine gives you, and is controlled using the slider on the left of the screen.",
@@ -231,7 +235,8 @@
       "ru": "Ручка газа регулирует мощность двигателя и управляется с помощью ползунка слева на экране.",
       "de": "Der Schubregler steuert, wie viel Leistung der Motor liefert, und wird mit dem Schieberegler auf der linken Seite des Bildschirms gesteuert.",
       "ms": "Panas gas mengawal berapa banyak daya yang diberikan oleh enjin, dan dikawal menggunakan pemalar pada sebelah kiri skrin.",
-      "bg": "Дроселът контролира мощността на двигателя и се управлява посредством плъзгача вляво на екрана."
+      "bg": "Дроселът контролира мощността на двигателя и се управлява посредством плъзгача вляво на екрана.",
+      "tr": "Gaz kolu, motorun size ne kadar güç verdiğini kontrol eder ve ekranın solundaki kaydırıcı kullanılarak kontrol edilir."
     },
     {
       "en": "If you hold your finger on the slider and move it up, it increases power. Moving it down, reduces power.",
@@ -242,7 +247,8 @@
       "fr": "Si vous maintenez votre doigt sur le curseur et le déplacez vers le haut, cela augmente la puissance. En le déplaçant vers le bas, cela réduit la puissance.",
       "de": "Wenn du deinen Finger auf den Schieberegler hältst und ihn nach oben bewegst, erhöht sich die Leistung. Wenn du ihn nach unten bewegst, wird die Leistung reduziert.",
       "ru": "Если вы удерживаете палец на ползунке и сдвигаете его вверх, то мощность увеличивается. Движение вниз уменьшает мощность.",
-      "bg": "Ако задържите пръста си на плъзгача и го движите нагоре, ще увеличите мощността. Ако го движите надолу, ще намалите мощността."
+      "bg": "Ако задържите пръста си на плъзгача и го движите нагоре, ще увеличите мощността. Ако го движите надолу, ще намалите мощността.",
+      "tr": "Parmağınızı kaydırıcı üzerinde tutup yukarı hareket ettirirseniz güç artar. Aşağı hareket ettirirseniz güç azalır."
     },
     {
       "en": "Move the throttle to full power and let’s see what happens!",
@@ -253,7 +259,9 @@
       "zh": "现在把油门杆推到最大，看看会发生什么！",
       "ru": "Переместите рычаг газа в положение полной мощности, и посмотрим, что произойдет!",
       "de": "Schiebe den Gashebel auf volle Leistung und schauen wir mal, was passiert!",
-      "bg": "Преместете дросела до максимума и нека видим какво ще стане!"
+      "bg": "Преместете дросела до максимума и нека видим какво ще стане!",
+      "tr": "Gaz kolunu tam güce getirin ve ne olacağını görelim!"
+
     },
     {
       "en": "Look at how the speed is starting to increase!",
@@ -264,7 +272,8 @@
       "de": "Schau, wie die Geschwindigkeit anfängt zu erhöhen!",
       "es": "¡Mira cómo la velocidad está empezando a aumentar!",
       "ru": "Посмотрите, как начинает увеличиваться скорость!",
-      "bg": "Вижте как скоростта започва да се увеличава!"
+      "bg": "Вижте как скоростта започва да се увеличава!",
+      "tr": "Hızın nasıl artmaya başladığına bir bakın!"
     },
     {
       "en": "Keep practicing and when you’re ready to move on, tap to continue!",
@@ -275,7 +284,8 @@
       "fr": "Continuez à pratiquer et lorsque vous êtes prêt à passer à l'étape suivante, appuyez pour continuer !",
       "zh": "自己再多试试，准备好之后点击继续！",
       "ru": "Продолжайте тренироваться, и когда вы будете готовы продолжить, коснитесь экрана, чтобы продолжить!",
-      "bg": "Продължете да се упражнявате и когато сте готови да продължите напред, докоснете прозореца!"
+      "bg": "Продължете да се упражнявате и когато сте готови да продължите напред, докоснете прозореца!",
+      "tr": "Pratik yapmaya devam edin ve devam etmeye hazır olduğunuzda devam etmek için dokunun!"
     },
     {
       "en": "Let's change the view! Tap the camera icon, in the bottom right of the screen.",
@@ -286,7 +296,8 @@
       "fr": "Changeons de vue ! Appuyez sur l'icône de l'appareil photo, en bas à droite de l'écran.",
       "ms": "Mari kita tukar pandangan! Ketik pada ikon kamera di sudut kanan bawah skrin.",
       "bg": "Нека сменим изгледа! Докоснете иконата на камерата в долния десен ъгъл на екрана.",
-      "ru": "Поменяем вид! Нажмите на значок камеры в правом нижнем углу экрана. (Pomenyaem vid! Nazhmite na znachok kamery v pravom nizhnem ugla ekrana.)"
+      "ru": "Поменяем вид! Нажмите на значок камеры в правом нижнем углу экрана. (Pomenyaem vid! Nazhmite na znachok kamery v pravom nizhnem ugla ekrana.)",
+      "tr": "Görünümü değiştirelim! Ekranın sağ alt kısmındaki kamera simgesine dokunun."
     },
     {
       "en": "To look around, you can hold and slide your finger anywhere on the screen. Give it a go!",
@@ -297,7 +308,8 @@
       "ms": "Untuk melihat sekeliling, anda boleh menahan dan meluncurkan jari anda di mana-mana bahagian skrin. Cuba sekarang!",
       "fr": "Pour regarder autour de vous, vous pouvez maintenir votre doigt enfoncé et le faire glisser n'importe où sur l'écran. Essayez !",
       "ru": "Чтобы оглядеться, вы можете удерживать и перемещать палец по экрану в любом месте. Попробуйте!",
-      "bg": "За да се огледате наоколо, можете да задържите и плъзнете пръста си където и да е на екрана. Опитайте!"
+      "bg": "За да се огледате наоколо, можете да задържите и плъзнете пръста си където и да е на екрана. Опитайте!",
+      "tr": "Etrafa bakmak için parmağınızı ekranda herhangi bir yere basılı tutup kaydırabilirsiniz. Bir deneyin!"
     },
     {
       "en": "You can also change the camera view by either tapping the Camera icon again, or by holding your finger over it and then sliding to a specific view. Have a go and when you're ready to move on, tap to continue!",
@@ -308,7 +320,8 @@
       "fr": "Vous pouvez également changer la vue de la caméra en appuyant à nouveau sur l'icône de la caméra ou en la maintenant enfoncée avec votre doigt et en la faisant glisser vers une vue spécifique. Essayez et lorsque vous êtes prêt à continuer, appuyez pour continuer !",
       "de": "Du kannst auch die Kameraperspektive ändern, indem Du entweder erneut auf das Kamera-Symbol tippst oder Deinen Finger darüber hältst und ihn dann zu einer spezifischen Perspektive ziehst. Probier es aus und wenn Du bereit bist, weiterzumachen, tippe auf \"weiter\"!",
       "ru": "Вы также можете изменить вид камеры, коснувшись иконки Камеры еще раз, или удерживая палец над ней, а затем перемещаясь на конкретный вид. Попробуйте, и когда будете готовы продолжить, коснитесь для продолжения!",
-      "bg": "Можете да промените камерата като натиснете отново иконата, или задържайки пръста си върху нея и плъзгайки към конкретна гледна точка. Опитайте и когато сте готови да продължите, докоснете прозореца!"
+      "bg": "Можете да промените камерата като натиснете отново иконата, или задържайки пръста си върху нея и плъзгайки към конкретна гледна точка. Опитайте и когато сте готови да продължите, докоснете прозореца!",
+      "tr": "Ayrıca, Kamera simgesine tekrar dokunarak veya parmağınızı simgenin üzerinde tutup ardından belirli bir görünüme kaydırarak da kamera görünümünü değiştirebilirsiniz. Bir deneyin ve ilerlemeye hazır olduğunuzda devam etmek için dokunun!"
     },
     {
       "en": "It’s probably about time we head back to the airport!",
@@ -319,7 +332,8 @@
       "ms": "Mungkin sudah tiba masanya kita pulang ke lapangan terbang!",
       "de": "Es wird wahrscheinlich langsam Zeit, dass wir zum Flughafen zurückkehren!",
       "bg": "Вече е време да се върнем обратно към летището!",
-      "ru": "Пора, наверное, вернуться в аэропорт!"
+      "ru": "Пора, наверное, вернуться в аэропорт!",
+      "tr": "Muhtemelen havaalanına dönme vaktimiz gelmiştir!"
     },
     {
       "en": "Tap the Globe icon in the bottom left of the screen.",
@@ -330,7 +344,8 @@
       "fr": "Appuyez sur l'icône du Globe en bas à gauche de l'écran.",
       "de": "Tippe auf das Globus-Symbol unten links auf dem Bildschirm.",
       "ru": "Нажмите на иконку Земного шара в левом нижнем углу экрана.",
-      "bg": "Докоснете иконата на глобуса в долния ляв ъгъл на екрана."
+      "bg": "Докоснете иконата на глобуса в долния ляв ъгъл на екрана.",
+      "tr": "Ekranın sol alt kısmındaki Küre simgesine dokun."
     },
     {
       "en": "You can use your fingers to look around the map and to zoom in or out with a pinching motion.",
@@ -341,7 +356,8 @@
       "fr": "Vous pouvez utiliser vos doigts pour regarder autour de la carte et pour zoomer en avant ou en arrière avec un mouvement d'écartement ou de pincement.",
       "es": "Puedes usar tus dedos para explorar el mapa y hacer zoom hacia adentro o hacia afuera con un movimiento de pellizco.",
       "ru": "Для просмотра карты и приближения или отдаления изображения вы можете использовать пальцы, совершая жест \"щипков\".",
-      "bg": "Можете да използвате пръстите си, за да придвижите картата, и да увеличавате или намалявате мащаба ѝ, като ги раздалечавате или приближавате."
+      "bg": "Можете да използвате пръстите си, за да придвижите картата, и да увеличавате или намалявате мащаба ѝ, като ги раздалечавате или приближавате.",
+      "tr": "Haritada etrafa bakmak ve kıstırma hareketiyle yakınlaştırmak veya uzaklaştırmak için parmaklarınızı kullanabilirsiniz."
     },
     {
       "en": "Our home airport is Santa Monica, or KSMO on the map. Tap on (or close to) the blue dot that is next to KSMO.",
@@ -352,7 +368,8 @@
       "ms": "Lapangan terbang asal kami ialah Santa Monica, atau KSMO di peta. Ketik pada titik biru yang berhampiran dengan KSMO, atau hampir dengan titik itu.",
       "zh": "我们的基地位于圣莫尼卡，地图上显示为KSMO。点击KSMO旁边的蓝色小点。",
       "ru": "Наш домашний аэропорт - Санта-Моника, или KSMO на карте. Нажмите на синюю точку рядом с KSMO или поблизости от нее.",
-      "bg": "Нашето летище е Санта Моника, или KSMO на картата. Докоснете синята точка до KSMO."
+      "bg": "Нашето летище е Санта Моника, или KSMO на картата. Докоснете синята точка до KSMO.",
+      "tr": "Havaalanımız Santa Monica veya haritada KSMO. KSMO'nun yanındaki mavi noktaya (veya yakınına) dokunun."
     },
     {
       "en": "The Direct To icon is shown with a \"D\" symbol that has an arrow going through it. Tap the Direct To icon for KSMO.",
@@ -363,7 +380,8 @@
       "fr": "L'icône Direct To est représentée par le symbole « D » avec une flèche qui le traverse. Touchez l'icône Direct To pour KSMO.",
       "de": "Das Direct-To-Symbol wird mit einem \"D\" gekennzeichnet, das einen durchgehenden Pfeil aufweist. Tippe auf das Direct-To-Symbol für KSMO.",
       "ru": "Иконка \"Прямо на\" показана символом \"D\" с стрелкой, проходящей через нее. Нажмите иконку \"Прямо на\" для KSMO.",
-      "bg": "Иконата \"Direct To\" е със символа \"D\" и стрелка, преминаваща през него. Докоснете иконата \"Direct To\" за KSMO."
+      "bg": "Иконата \"Direct To\" е със символа \"D\" и стрелка, преминаваща през него. Докоснете иконатаD \"irect To\" за KSMO.",
+      "tr": " Direkt \"Direct To\" simgesi, içinden bir ok geçen bir \"D\" sembolüyle gösterilir. KSMO için Direkt \"Direct To\" simgesine dokunun."
     },
     {
       "en": "Looks like we are on our way home! Thanks for joining, we hope you enjoyed the intro to Infinite Flight. See you in the next one!",
@@ -374,8 +392,9 @@
       "de": "Sieht aus, als ob wir auf dem Weg nach Hause sind! Vielen Dank fürs Mitmachen, wir hoffen, Sie haben die Einführung in Infinite Flight genossen. Bis zum nächsten Mal!",
       "pt": "Parece que estamos a caminho de casa! Obrigado por se juntar a nós, esperamos que tenha gostado da introdução ao Infinite Flight. Nos vemos na próxima!",
       "ru": "Похоже, мы уже в пути домой! Спасибо за участие, мы надеемся, что вам понравилось введение в Infinite Flight. Увидимся в следующем!",
-      "bg": "Вече сме на път да се върнем у дома! Благодарим ви, че се присъединихте, надяваме се да сте се забавлявали с въведението в Infinite Flight. До нови срещи!"
-    }
+      "bg": "Вече сме на път да се върнем у дома! Благодарим ви, че се присъединихте, надяваме се да сте се забавлявали с въведението в Infinite Flight. До нови срещи!",
+      "tr": "Görünüşe göre eve dönüyoruz! Katıldığınız için teşekkürler, umarız Infinite Flight'ın girişini beğenmişsinizdir. Bir sonrakinde görüşmek üzere!"  
+     }
   ],
   "stringsPerFailCondition": [
     {
@@ -387,7 +406,8 @@
       "ms": "Kamu terlalu rendah!",
       "fr": "Tu es descendu trop bas !",
       "bg": "Спуснахте се прекалено ниско!",
-      "ru": "Вы опустились слишком низко!"
+      "ru": "Вы опустились слишком низко!",
+      "tr": "Çok alçalmışsın!"
     },
     {
       "en": "No need to disconnect the autopilot just yet! Try again but leave the autopilot on this time.",
@@ -398,7 +418,8 @@
       "es": "¡No hay necesidad de desconectar el piloto automático todavía! Inténtalo de nuevo pero deja encendido el piloto automático esta vez.",
       "de": "Keine Notwendigkeit, den Autopiloten jetzt zu trennen! Versuchen Sie es erneut, aber lassen Sie diesmal den Autopiloten eingeschaltet.",
       "bg": "Все още няма нужда да изключвате автопилота! Опитайте отново, но този път оставете автопилота включен.",
-      "ru": "Пока нет необходимости отключать автопилот! Попробуйте еще раз, оставив автопилот включенным на этот раз."
+      "ru": "Пока нет необходимости отключать автопилот! Попробуйте еще раз, оставив автопилот включенным на этот раз.",
+      "tr": "Henüz otomatik pilotu devre dışı bırakmanıza gerek yok! Tekrar deneyin ama bu sefer otomatik pilotu açık bırakın."
     },
     {
       "en": "The aircraft pitch exceeded 15 degrees up! Re-try, this time with a reduced pitch. Remember to make your movements more gentle.",
@@ -409,7 +430,8 @@
       "zh": "飞机的俯仰角超过15度了！再试一次，这次减小点俯仰角。注意要更加轻柔地操纵。",
       "pt": "O pitch da aeronave excedeu 15 graus para cima! Tente novamente, dessa vez com um pitch reduzido. Lembre-se de tornar seus movimentos mais suaves.",
       "bg": "Вертикалният наклон надвиши 15 градуса нагоре! Опитайте отново, но този път намалете наклона. Запомнете, че движенията трябва да са по-плавни.",
-      "ru": "Крен самолёта превысил 15 градусов вверх! Попробуйте еще раз, на этот раз с уменьшенным креном. Помните, что необходимо делать более плавные движения."
+      "ru": "Крен самолёта превысил 15 градусов вверх! Попробуйте еще раз, на этот раз с уменьшенным креном. Помните, что необходимо делать более плавные движения.",
+      "tr": "Uçağın eğimi 15 dereceyi aştı! Bu kez daha düşük bir eğimle tekrar deneyin. Hareketlerinizi daha yumuşak yapmayı unutmayın."
     },
     {
       "en": "The aircraft pitch exceeded 15 degrees down! Re-try, this time with a reduced pitch. Remember to make your movements more gentle.",
@@ -431,7 +453,8 @@
       "pt": "O avião inclinou mais de 45 graus! Tente novamente, dessa vez com uma inclinação reduzida. Lembre-se de fazer movimentos mais suaves.",
       "zh": "飞机的滚转角超过45度了！再试一次，这次减小点滚转角。注意要更加轻柔地操纵。",
       "ru": "Банк самолета превысил 45 градусов! Попробуйте еще раз, на этот раз с меньшим банком. Помните, что нужно делать более плавные движения.",
-      "bg": "Хоризонталният наклон на самолета надвиши 45 градуса! Опитайте отново, този път с по-малък наклон. Запомнете, че движенията трябва да са по-плавни."
+      "bg": "Хоризонталният наклон на самолета надвиши 45 градуса! Опитайте отново, този път с по-малък наклон. Запомнете, че движенията трябва да са по-плавни.",
+      "tr": "Uçak yatışı 45 dereceyi aştı! Bu sefer azaltılmış bir yatışla yeniden deneyin. Hareketlerinizi daha yumuşak yapmayı unutmayın."
     },
     {
       "en": "The aircraft bank exceeded 45 degrees! Re-try, this time with a reduced bank. Remember to make your movements more gentle.",
@@ -442,7 +465,8 @@
       "pt": "O avião inclinou mais de 45 graus! Tente novamente, desta vez com uma inclinação menor. Lembre-se de fazer movimentos mais suaves.",
       "zh": "飞机的滚转角超过45度了！再试一次，这次减小点滚转角。注意要更加轻柔地操纵。",
       "ru": "Боковой крен самолёта превысил 45 градусов! Повторите попытку с меньшим креном. Помните, делайте свои движения более мягкими.",
-      "bg": "Хоризонталният наклон на самолета надвиши 45 градуса! Опитайте отново, този път с по-малък наклон. Запомнете, че движенията трябва да са по-плавни."
+      "bg": "Хоризонталният наклон на самолета надвиши 45 градуса! Опитайте отново, този път с по-малък наклон. Запомнете, че движенията трябва да са по-плавни.",
+      "tr": "Uçak yatışı 45 dereceyi aştı! Bu kez azaltılmış bir yatışla tekrar deneyin. Hareketlerinizi daha yumuşak yapmayı unutmayın."
     },
     {
       "en": "The aircraft has stalled. Try again, this time remember to stick to the instructions to complete the tutorial.",
@@ -453,7 +477,8 @@
       "zh": "飞机失速了！再试一次，要好好跟着教程飞哦。",
       "pt": "A aeronave entrou em estol. Tente novamente, desta vez lembre-se de seguir as instruções para completar o tutorial.",
       "bg": "Самолетът загуби подемна сила. Опитайте отново, като този път не забравяйте да следвате инструкциите, за да завършите обучението.",
-      "ru": "Самолет остановился в воздухе. Попробуйте еще раз, на этот раз помните следовать инструкциям, чтобы завершить учебное пособие."
+      "ru": "Самолет остановился в воздухе. Попробуйте еще раз, на этот раз помните следовать инструкциям, чтобы завершить учебное пособие.",
+      "tr": "Uçak durdu. Tekrar deneyin, bu kez öğreticiyi tamamlamak için talimatlara bağlı kalmayı unutmayın."
     }
   ]
 }
