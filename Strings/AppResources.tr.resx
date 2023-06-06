@@ -1670,15 +1670,15 @@
     <comment>hrs</comment>
   </data>
   <data name="Time.In1Hour" xml:space="preserve">
-    <value>1 saate</value>
+    <value>1 saat içinde</value>
     <comment>In 1 hour</comment>
   </data>
   <data name="Time.In1Minute" xml:space="preserve">
-    <value>1 dakikaya</value>
+    <value>1 dakika içinde</value>
     <comment>In a minute</comment>
   </data>
   <data name="Time.InDays" xml:space="preserve">
-    <value>{0} güne</value>
+    <value>{0} gün içinde</value>
     <comment>In {0} days</comment>
   </data>
   <data name="Time.InHours" xml:space="preserve">
