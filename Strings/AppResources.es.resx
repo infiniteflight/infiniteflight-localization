@@ -2329,7 +2329,7 @@ Consulte el mapa para más información</value>
     <value>Los aviones legacy son extras de una versión antigua de Infinite Flight y no són de la misma calidad. ¿Quieres mostrarlos igualmente?</value>
   </data>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
-    <value>Los servicios de rampa necesitan los Frenos de Parking ACTIVADOS, Luces Anticolisión ACTIVADAS, y motores APAGADOS.</value>
+    <value>Los servicios de rampa necesitan los Frenos de Parking ACTIVADOS, Luces Anticolisión DESACTIVADAS, y motores APAGADOS.</value>
   </data>
   <data name="IntroPage.Home" xml:space="preserve">
     <value>INICIO</value>
