@@ -3655,6 +3655,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to The replay file is corrupt and couldn&apos;t be loaded.
+        /// </summary>
+        internal static string Replay_LoadingError {
+            get {
+                return ResourceManager.GetString("Replay.LoadingError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to SHARE.
         /// </summary>
         internal static string Replay_Share {

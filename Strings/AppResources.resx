@@ -3108,4 +3108,7 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="FlightPlan.Title" xml:space="preserve">
     <value>Flight Plan</value>
   </data>
+  <data name="Replay.LoadingError" xml:space="preserve">
+    <value>The replay file is corrupt and couldn't be loaded</value>
+  </data>
 </root>
