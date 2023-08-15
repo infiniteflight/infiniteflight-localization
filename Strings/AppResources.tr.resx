@@ -2046,7 +2046,7 @@
     <comment>FLIGHT PATH VECTOR OFF</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.On" xml:space="preserve">
-    <value>UÇUŞ YOLU VEKTÖRÜ AÇIK/value>
+    <value>UÇUŞ YOLU VEKTÖRÜ AÇIK</value>
     <comment>FLIGHT PATH VECTOR ON</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.Alt" xml:space="preserve">
