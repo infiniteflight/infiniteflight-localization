@@ -1270,6 +1270,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to There was an error downloading this scenario (error code {0}).
+        /// </summary>
+        internal static string Error_LoadingScenarioError {
+            get {
+                return ResourceManager.GetString("Error.LoadingScenarioError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to There was a problem connecting to the server (error code {0}).
         /// </summary>
         internal static string Error_MissingRequestParameters {

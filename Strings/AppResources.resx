@@ -3111,4 +3111,7 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="Replay.LoadingError" xml:space="preserve">
     <value>The replay file is corrupt and couldn't be loaded</value>
   </data>
+  <data name="Error.LoadingScenarioError" xml:space="preserve">
+    <value>There was an error downloading this scenario (error code {0})</value>
+  </data>
 </root>
