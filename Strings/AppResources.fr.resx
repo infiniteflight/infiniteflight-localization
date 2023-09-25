@@ -23,8 +23,7 @@
         <value>[base64 mime encoded serialized .NET Framework object]</value>
     </data>
     <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework
-  object]</value>
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
                 
@@ -307,8 +306,10 @@
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>Le mode diagnostic est maintenant désactivé, assurez-vous de nous envoyer le journal si vous ne l'avez pas encore fait.\nCliquez sur le bouton "Envoyer le journal", merci !</value>
-    <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
+    <value>Le mode diagnostic est maintenant désactivé, assurez-vous de nous envoyer le journal si vous ne l'avez pas encore fait.
+Cliquez sur le bouton "Envoyer le journal", merci !</value>
+    <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.
+Click on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
     <value>Redémarrez votre appareil et reproduisez le problème ou le bogue. Revenez ensuite sur cette page et cliquez sur le bouton « Envoyer le log», merci !</value>
@@ -572,7 +573,8 @@
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
     <value>Le réglage de la fréquence d'images sur 60 ips peut entraîner une surchauffe de votre appareil. Pour éviter tout dommage, votre appareil peut ralentir, ce qui peut ralentir Infinite Flight. Nous vous recommandons de maintenir ce paramètre à 30 ips.</value>
-    <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
+    <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.
+We recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
     <value>Use the entire screen when playing.</value>
@@ -1796,7 +1798,8 @@
     <value>Rapport ATC</value>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>Rapport ATC par [{0}]\n{1}</value>
+    <value>Rapport ATC par [{0}]
+{1}</value>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
     <value>Afficher les détails du vol</value>
@@ -2644,5 +2647,106 @@ Consultez la carte pour plus d’informations</value>
   </data>
   <data name="Mission.MissionBrief" xml:space="preserve">
     <value>BRIEFING DE LA MISSION</value>
+  </data>
+	<data name="NavigationControl.Leaderboards" xml:space="preserve">
+    <value>Classements</value>
+  </data>
+	<data name="Global.Mode" xml:space="preserve">
+    <value>Mode</value>
+  </data>
+	<data name="AircraftProfileImageControl.ImageUnavailable" xml:space="preserve">
+    <value>Image Indisponible</value>
+  </data>
+	<data name="ATC.Center" xml:space="preserve">
+    <value>Center</value>
+  </data>
+	<data name="FlightMissionControl.FeaturedMissionUpper" xml:space="preserve">
+    <value>FEATURED MISSION</value>
+  </data>
+	<data name="Global.You" xml:space="preserve">
+    <value>Vous</value>
+  </data>
+	<data name="LeaderboardsControl.Landings" xml:space="preserve">
+    <value>Atterissages</value>
+  </data>
+	<data name="LogbookControl.NoReplayFileUpper" xml:space="preserve">
+    <value>PAS DE REPLAY</value>
+  </data>
+	<data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
+    <value>INDISPONIBLE EN SOLO</value>
+  </data>
+	<data name="CallSignSelectionPage.CallsignsNotAvailable" xml:space="preserve">
+    <value>Les callsigns sont indisponibles, veuillez essayer plus tard</value>
+  </data>
+	<data name="GamePage.WaitCanvas.ReadyToFlyUpper" xml:space="preserve">
+    <value>PRET A VOLER</value>
+  </data>
+	<data name="InputAssignmentControl.AreYouSureToResetAllControls" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir réinitialiser tous les contrôles ?</value>
+  </data>
+	<data name="LeaderboardsControl.Pilots" xml:space="preserve">
+    <value>Pilotes</value>
+  </data>
+	<data name="MissionStatusControl.ObjectivesUpper" xml:space="preserve">
+    <value>OBJECTIFS</value>
+  </data>
+	<data name="MissionStatusControl.TapHereToContinueUpper" xml:space="preserve">
+    <value>APPUYEZ ICI POUR CONTINUER</value>
+  </data>
+	<data name="NewsControl.Announcement" xml:space="preserve">
+    <value>Annonce</value>
+  </data>
+	<data name="NewsControl.CommunityTopic" xml:space="preserve">
+    <value>Forum</value>
+  </data>
+	<data name="NewsControl.Event" xml:space="preserve">
+    <value>Événement</value>
+  </data>
+	<data name="NewsControl.Mission" xml:space="preserve">
+    <value>Mission</value>
+  </data>
+	<data name="NewsControl.News" xml:space="preserve">
+    <value>Actualités</value>
+  </data>
+	<data name="NewsControl.StartFlightQuestion" xml:space="preserve">
+    <value>Commencer le vol ?</value>
+  </data>
+	<data name="NewsControl.Timeline" xml:space="preserve">
+    <value>Timeline</value>
+  </data>
+	<data name="NewsControl.Tutorial" xml:space="preserve">
+    <value>Tutoriel</value>
+  </data>
+	<data name="NewsControl.Video" xml:space="preserve">
+    <value>Vidéo</value>
+  </data>
+	<data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
+    <value>ATC INDISPONIBLE</value>
+  </data>
+	<data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
+    <value>GRADE 2 REQUIS</value>
+  </data>
+	<data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
+    <value>PLUS DE
+SERVERS</value>
+  </data>
+	<data name="WorldModeModalControl.MultiPlayer" xml:space="preserve">
+    <value>MULTI
+JOUEUR</value>
+  </data>
+	<data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
+    <value>PAS D'ACCÈS</value>
+  </data>
+	<data name="WorldModeModalControl.ProDescription" xml:space="preserve">
+    <value>Obtenez Infinite Flight Pro pour débloquer tous les serveurs multijoueurs et voler avec des milliers d'autres pilotes à travers le monde.</value>
+  </data>
+	<data name="WorldModeModalControl.SinglePlayer" xml:space="preserve">
+    <value>SOLO</value>
+  </data>
+	<data name="WorldModeModalControl.SinglePlayerOneLine" xml:space="preserve">
+    <value>SOLO</value>
+  </data>
+	<data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
+    <value>MARRE DE VOLER SEUL ?</value>
   </data>
 </root>

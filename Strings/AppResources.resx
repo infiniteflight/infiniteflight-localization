@@ -306,8 +306,10 @@
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the "Send Log" button, thanks!</value>
-    <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
+    <value>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.
+Click on the "Send Log" button, thanks!</value>
+    <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.
+Click on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
     <value>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</value>
@@ -571,7 +573,8 @@
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
     <value>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly. We recommend keeping this setting to 30fps.</value>
-    <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
+    <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.
+We recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
     <value>Use the entire screen when playing.</value>
@@ -1779,7 +1782,9 @@
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
     <value>The {0} is too large for current starting point {1} at {2}. Please change the start location</value>
-    <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
+    <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.
+
+Please change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
     <value>ATC</value>
@@ -1946,8 +1951,10 @@
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>ATC Report by [{0}]\n{1}</value>
-    <comment>ATC Report by [{name}]\n{description}</comment>
+    <value>ATC Report by [{0}]
+{1}</value>
+    <comment>ATC Report by [{name}]
+{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
     <value>View Flight Details</value>
@@ -1987,7 +1994,8 @@
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
     <value>Press button on
 Keyboard to assign</value>
-    <comment>Press button on \nKeyboard to assign</comment>
+    <comment>Press button on 
+Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
     <value>Delete</value>
@@ -2000,7 +2008,8 @@ Keyboard to assign</value>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
     <value>Press button on 
 Controller/Keyboard to assign</value>
-    <comment>Press button on \nController/Keyboard to assign</comment>
+    <comment>Press button on 
+Controller/Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
     <value>Press button or move axis to assign</value>
@@ -2181,24 +2190,30 @@ Tap here for more information</comment>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
     <value>AEROBATICS WARNING
 Aerobatic Maneuvers prohibited near airports.</value>
-    <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
+    <comment>AEROBATICS WARNING
+Aerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
     <value>RUNWAY IDLE WARNING
 Staying on active runways for extended periods of time is prohibited.
 Exit the runway or take off to avoid receiving a violation</value>
-    <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
+    <comment>RUNWAY IDLE WARNING
+Staying on active runways for extended periods of time is prohibited.
+Exit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
     <value>TAXI SPEED WARNING
 Max ground speed while taxiing: 35kts.
 Slow down to avoid violations.</value>
-    <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
+    <comment>TAXI SPEED WARNING
+Max ground speed while taxiing: 35kts.
+Slow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
     <value>VNAV unavailable during climb.
 This functionality is only available for descent.</value>
-    <comment>VNAV unavailable during climb.\nThis functionality is only available for descent.</comment>
+    <comment>VNAV unavailable during climb.
+This functionality is only available for descent.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
     <value>VNAV Descending to {0} at {1:n0}ft</value>
@@ -2207,7 +2222,8 @@ This functionality is only available for descent.</value>
   <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
     <value>VNAV Unavailable
 No altitude set for any waypoint in Flight Plan</value>
-    <comment>VNAV Unavailable\nNo altitude set for any waypoint in Flight Plan</comment>
+    <comment>VNAV Unavailable
+No altitude set for any waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
     <value>VNAV Unavailable
@@ -2659,7 +2675,8 @@ Check map for more information</comment>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
     <value>Warning: This aircraft is an extra included from an old version and is not of the same quality as our newer aircraft</value>
-    <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
+    <comment>Warning: This aircraft is an extra included from an old version 
+and is not of the same quality as our newer aircraft</comment>
   </data>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
     <value>Please maintain a safe distance with the aircraft ahead</value>
@@ -3113,5 +3130,143 @@ You can quit this session or embark on another journey to a new destination.</co
   </data>
   <data name="Error.LoadingScenarioError" xml:space="preserve">
     <value>There was an error downloading this scenario (error code {0})</value>
+  </data>
+  <data name="NavigationControl.Leaderboards" xml:space="preserve">
+    <value>Leaderboards</value>
+    <comment>Leaderboards</comment>
+  </data>
+  <data name="Global.Mode" xml:space="preserve">
+    <value>Mode</value>
+    <comment>Mode</comment>
+  </data>
+  <data name="AircraftProfileImageControl.ImageUnavailable" xml:space="preserve">
+    <value>Image Unavailable</value>
+    <comment>Image Unavailable</comment>
+  </data>
+  <data name="ATC.Center" xml:space="preserve">
+    <value>Center</value>
+    <comment>Center</comment>
+  </data>
+  <data name="FlightMissionControl.FeaturedMissionUpper" xml:space="preserve">
+    <value>FEATURED MISSION</value>
+    <comment>FEATURED MISSION</comment>
+  </data>
+  <data name="Global.You" xml:space="preserve">
+    <value>You</value>
+    <comment>You</comment>
+  </data>
+  <data name="LeaderboardsControl.Landings" xml:space="preserve">
+    <value>Landings</value>
+    <comment>Landings</comment>
+  </data>
+  <data name="LogbookControl.NoReplayFileUpper" xml:space="preserve">
+    <value>NO REPLAY FILE</value>
+    <comment>NO REPLAY FILE</comment>
+  </data>
+  <data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
+    <value>UNAVAILABLE IN SOLO</value>
+    <comment>UNAVAILABLE IN SOLO</comment>
+  </data>
+  <data name="CallSignSelectionPage.CallsignsNotAvailable" xml:space="preserve">
+    <value>Callsigns are not available now, please try again later</value>
+    <comment>Callsigns are not available now, please try again later</comment>
+  </data>
+  <data name="GamePage.WaitCanvas.ReadyToFlyUpper" xml:space="preserve">
+    <value>READY TO FLY</value>
+    <comment>READY TO FLY</comment>
+  </data>
+  <data name="InputAssignmentControl.AreYouSureToResetAllControls" xml:space="preserve">
+    <value>Are you sure you want to reset all controls to default?</value>
+    <comment>Are you sure you want to reset all controls to default?</comment>
+  </data>
+  <data name="LeaderboardsControl.Pilots" xml:space="preserve">
+    <value>Pilots</value>
+    <comment>Pilots</comment>
+  </data>
+  <data name="MissionStatusControl.ObjectivesUpper" xml:space="preserve">
+    <value>OBJECTIVES</value>
+    <comment>OBJECTIVES</comment>
+  </data>
+  <data name="MissionStatusControl.TapHereToContinueUpper" xml:space="preserve">
+    <value>TAP HERE TO CONTINUE</value>
+    <comment>TAP HERE TO CONTINUE</comment>
+  </data>
+  <data name="NewsControl.Announcement" xml:space="preserve">
+    <value>Announcement</value>
+    <comment>Announcement</comment>
+  </data>
+  <data name="NewsControl.CommunityTopic" xml:space="preserve">
+    <value>Community Topic</value>
+    <comment>Community Topic</comment>
+  </data>
+  <data name="NewsControl.Event" xml:space="preserve">
+    <value>Event</value>
+    <comment>Event</comment>
+  </data>
+  <data name="NewsControl.Mission" xml:space="preserve">
+    <value>Mission</value>
+    <comment>Mission</comment>
+  </data>
+  <data name="NewsControl.News" xml:space="preserve">
+    <value>News</value>
+    <comment>News</comment>
+  </data>
+  <data name="NewsControl.StartFlightQuestion" xml:space="preserve">
+    <value>Start Flight?</value>
+    <comment>Start Flight?</comment>
+  </data>
+  <data name="NewsControl.Timeline" xml:space="preserve">
+    <value>Timeline</value>
+    <comment>Timeline</comment>
+  </data>
+  <data name="NewsControl.Tutorial" xml:space="preserve">
+    <value>Tutorial</value>
+    <comment>Tutorial</comment>
+  </data>
+  <data name="NewsControl.Video" xml:space="preserve">
+    <value>Video</value>
+    <comment>Video</comment>
+  </data>
+  <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
+    <value>ATC NOT AVAILABLE</value>
+    <comment>ATC NOT AVAILABLE</comment>
+  </data>
+  <data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
+    <value>GRADE 2 REQUIRED</value>
+    <comment>GRADE 2 REQUIRED</comment>
+  </data>
+  <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
+    <value>MORE
+SERVERS</value>
+    <comment>MORE
+SERVERS</comment>
+  </data>
+  <data name="WorldModeModalControl.MultiPlayer" xml:space="preserve">
+    <value>MULTI
+PLAYER</value>
+    <comment>MULTI
+PLAYER</comment>
+  </data>
+  <data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
+    <value>NO ACCESS</value>
+    <comment>NO ACCESS</comment>
+  </data>
+  <data name="WorldModeModalControl.ProDescription" xml:space="preserve">
+    <value>Get Infinite Flight Pro to unlock all multiplayer servers and fly with thousands of other pilots around the world.</value>
+    <comment>Get Infinite Flight Pro to unlock all multiplayer servers and fly with thousands of other pilots around the world.</comment>
+  </data>
+  <data name="WorldModeModalControl.SinglePlayer" xml:space="preserve">
+    <value>SINGLE
+PLAYER</value>
+    <comment>SINGLE
+PLAYER</comment>
+  </data>
+  <data name="WorldModeModalControl.SinglePlayerOneLine" xml:space="preserve">
+    <value>SINGLE PLAYER</value>
+    <comment>SINGLE PLAYER</comment>
+  </data>
+  <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
+    <value>TIRED OF FLYING ALONE?</value>
+    <comment>TIRED OF FLYING ALONE?</comment>
   </data>
 </root>
