@@ -133,6 +133,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Image Unavailable.
+        /// </summary>
+        internal static string AircraftProfileImageControl_ImageUnavailable {
+            get {
+                return ResourceManager.GetString("AircraftProfileImageControl.ImageUnavailable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Approach.
         /// </summary>
         internal static string ATC_Approach {
@@ -147,6 +156,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string ATC_ATIS {
             get {
                 return ResourceManager.GetString("ATC.ATIS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Center.
+        /// </summary>
+        internal static string ATC_Center {
+            get {
+                return ResourceManager.GetString("ATC.Center", resourceCulture);
             }
         }
         
@@ -300,6 +318,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string ATCRatingPage_TotalTime {
             get {
                 return ResourceManager.GetString("ATCRatingPage.TotalTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Callsigns are not available now, please try again later.
+        /// </summary>
+        internal static string CallSignSelectionPage_CallsignsNotAvailable {
+            get {
+                return ResourceManager.GetString("CallSignSelectionPage.CallsignsNotAvailable", resourceCulture);
             }
         }
         
@@ -1603,6 +1630,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to FEATURED MISSION.
+        /// </summary>
+        internal static string FlightMissionControl_FeaturedMissionUpper {
+            get {
+                return ResourceManager.GetString("FlightMissionControl.FeaturedMissionUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to LONG HAUL.
         /// </summary>
         internal static string FlightMissionControl_LongHaulUpper {
@@ -2008,6 +2044,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to READY TO FLY.
+        /// </summary>
+        internal static string GamePage_WaitCanvas_ReadyToFlyUpper {
+            get {
+                return ResourceManager.GetString("GamePage.WaitCanvas.ReadyToFlyUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Aircraft.
         /// </summary>
         internal static string Global_Aircraft {
@@ -2175,6 +2220,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Global_Message {
             get {
                 return ResourceManager.GetString("Global.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mode.
+        /// </summary>
+        internal static string Global_Mode {
+            get {
+                return ResourceManager.GetString("Global.Mode", resourceCulture);
             }
         }
         
@@ -2368,6 +2422,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You.
+        /// </summary>
+        internal static string Global_You {
+            get {
+                return ResourceManager.GetString("Global.You", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Flight Time (90 days).
         /// </summary>
         internal static string Grade_FlightTimeLongPeriod {
@@ -2512,6 +2575,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to reset all controls to default?.
+        /// </summary>
+        internal static string InputAssignmentControl_AreYouSureToResetAllControls {
+            get {
+                return ResourceManager.GetString("InputAssignmentControl.AreYouSureToResetAllControls", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to AIR TRAFFIC CONTROL.
         /// </summary>
         internal static string IntroPage_ATC {
@@ -2598,6 +2670,24 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string ItemSearchControl_SearchAirportsAndWaypoints {
             get {
                 return ResourceManager.GetString("ItemSearchControl.SearchAirportsAndWaypoints", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Landings.
+        /// </summary>
+        internal static string LeaderboardsControl_Landings {
+            get {
+                return ResourceManager.GetString("LeaderboardsControl.Landings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pilots.
+        /// </summary>
+        internal static string LeaderboardsControl_Pilots {
+            get {
+                return ResourceManager.GetString("LeaderboardsControl.Pilots", resourceCulture);
             }
         }
         
@@ -2832,6 +2922,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string LogbookControl_NoItemsFound {
             get {
                 return ResourceManager.GetString("LogbookControl.NoItemsFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NO REPLAY FILE.
+        /// </summary>
+        internal static string LogbookControl_NoReplayFileUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.NoReplayFileUpper", resourceCulture);
             }
         }
         
@@ -3430,6 +3529,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to OBJECTIVES.
+        /// </summary>
+        internal static string MissionStatusControl_ObjectivesUpper {
+            get {
+                return ResourceManager.GetString("MissionStatusControl.ObjectivesUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TAP HERE TO CONTINUE.
+        /// </summary>
+        internal static string MissionStatusControl_TapHereToContinueUpper {
+            get {
+                return ResourceManager.GetString("MissionStatusControl.TapHereToContinueUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to DISCONNECTED.
         /// </summary>
         internal static string Multiplayer_Disconnected {
@@ -3453,6 +3570,96 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Multiplayer_Welcome {
             get {
                 return ResourceManager.GetString("Multiplayer.Welcome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Leaderboards.
+        /// </summary>
+        internal static string NavigationControl_Leaderboards {
+            get {
+                return ResourceManager.GetString("NavigationControl.Leaderboards", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Announcement.
+        /// </summary>
+        internal static string NewsControl_Announcement {
+            get {
+                return ResourceManager.GetString("NewsControl.Announcement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Community Topic.
+        /// </summary>
+        internal static string NewsControl_CommunityTopic {
+            get {
+                return ResourceManager.GetString("NewsControl.CommunityTopic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Event.
+        /// </summary>
+        internal static string NewsControl_Event {
+            get {
+                return ResourceManager.GetString("NewsControl.Event", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mission.
+        /// </summary>
+        internal static string NewsControl_Mission {
+            get {
+                return ResourceManager.GetString("NewsControl.Mission", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to News.
+        /// </summary>
+        internal static string NewsControl_News {
+            get {
+                return ResourceManager.GetString("NewsControl.News", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Start Flight?.
+        /// </summary>
+        internal static string NewsControl_StartFlightQuestion {
+            get {
+                return ResourceManager.GetString("NewsControl.StartFlightQuestion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Timeline.
+        /// </summary>
+        internal static string NewsControl_Timeline {
+            get {
+                return ResourceManager.GetString("NewsControl.Timeline", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tutorial.
+        /// </summary>
+        internal static string NewsControl_Tutorial {
+            get {
+                return ResourceManager.GetString("NewsControl.Tutorial", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Video.
+        /// </summary>
+        internal static string NewsControl_Video {
+            get {
+                return ResourceManager.GetString("NewsControl.Video", resourceCulture);
             }
         }
         
@@ -6528,6 +6735,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to UNAVAILABLE IN SOLO.
+        /// </summary>
+        internal static string WeatherInfoControl_UnavailableInSoloUpper {
+            get {
+                return ResourceManager.GetString("WeatherInfoControl.UnavailableInSoloUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cirrus Cloud Layer.
         /// </summary>
         internal static string WeatherPage_CirrusCloudLayer {
@@ -6794,6 +7010,90 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string World_SoloDescription {
             get {
                 return ResourceManager.GetString("World.SoloDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ATC NOT AVAILABLE.
+        /// </summary>
+        internal static string WorldModeModalControl_AtcNotAvailable {
+            get {
+                return ResourceManager.GetString("WorldModeModalControl.AtcNotAvailable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to GRADE 2 REQUIRED.
+        /// </summary>
+        internal static string WorldModeModalControl_GradeTwoRequired {
+            get {
+                return ResourceManager.GetString("WorldModeModalControl.GradeTwoRequired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MORE
+        ///SERVERS.
+        /// </summary>
+        internal static string WorldModeModalControl_MoreServersUpper {
+            get {
+                return ResourceManager.GetString("WorldModeModalControl.MoreServersUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MULTI
+        ///PLAYER.
+        /// </summary>
+        internal static string WorldModeModalControl_MultiPlayer {
+            get {
+                return ResourceManager.GetString("WorldModeModalControl.MultiPlayer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NO ACCESS.
+        /// </summary>
+        internal static string WorldModeModalControl_NoAccessUpper {
+            get {
+                return ResourceManager.GetString("WorldModeModalControl.NoAccessUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Get Infinite Flight Pro to unlock all multiplayer servers and fly with thousands of other pilots around the world..
+        /// </summary>
+        internal static string WorldModeModalControl_ProDescription {
+            get {
+                return ResourceManager.GetString("WorldModeModalControl.ProDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SINGLE
+        ///PLAYER.
+        /// </summary>
+        internal static string WorldModeModalControl_SinglePlayer {
+            get {
+                return ResourceManager.GetString("WorldModeModalControl.SinglePlayer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SINGLE PLAYER.
+        /// </summary>
+        internal static string WorldModeModalControl_SinglePlayerOneLine {
+            get {
+                return ResourceManager.GetString("WorldModeModalControl.SinglePlayerOneLine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TIRED OF FLYING ALONE?.
+        /// </summary>
+        internal static string WorldModeModalControl_TiredOfFlyingAloneUpper {
+            get {
+                return ResourceManager.GetString("WorldModeModalControl.TiredOfFlyingAloneUpper", resourceCulture);
             }
         }
     }
