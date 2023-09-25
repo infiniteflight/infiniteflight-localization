@@ -59,10 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root"
-    xmlns=""
-    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -841,7 +838,7 @@
     <value>O seu perfil do Infinite Flight Community tem que estar conectado antes de iniciar a sessão</value>
   </data>
   <data name="MenuPageBase.Grade.GradeRequired" xml:space="preserve">
-    <value>Nível requerido: {0}</value>
+    <value>Nível necessário: {0}</value>
   </data>
   <data name="MenuPageBase.Grade.InsufficientGradePrompt" xml:space="preserve">
     <value>Você não tem o nível necessário para voar no {0}</value>
@@ -2120,7 +2117,7 @@ Verifique o mapa para mais informações</value>
     <value>MÉDIA DISTÂNCIA</value>
   </data>
   <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
-    <value>SEM MISSÕES ENCONTRADAS</value>
+    <value>NENHUMA MISSÃO ENCONTRADA</value>
   </data>
   <data name="FlightMissionControl.ShortHaulUpper" xml:space="preserve">
     <value>CURTA DISTÂNCIA</value>
@@ -2239,28 +2236,142 @@ Verifique o mapa para mais informações</value>
   <data name="MenuAtcControl.UnableToRestartUserNotSame" xml:space="preserve">
     <value>Não é possível reiniciar, pois esta sessão não está vinculada à sua conta</value>
   </data>
-  <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
-    <value>Mostrar aeronaves de versões anteriores</value>
-  </data>
   <data name="World.SoloDescription" xml:space="preserve">
     <value>Escolha sua própria aeronave e rota, teste suas habilidades de pilotagem e explore belas paisagens sem regras ou outros pilotos.</value>
   </data>
   <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
     <value>Encontramos sua conta, mas não há assinatura ativa associada a ela.</value>
 </data>
-<data name="IntroPage.Home" xml:space="preserve">
+  <data name="IntroPage.Home" xml:space="preserve">
     <value>Início</value>
 </data>
-<data name="Error.InvalidTimeSpan" xml:space="preserve">
+  <data name="Error.InvalidTimeSpan" xml:space="preserve">
     <value>Os horários de início e término para esta sessão não são válidos (código de erro {0})</value>
 </data>
-<data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
+  <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
     <value>Servidor Indisponível</value>
 </data>
-<data name="Error.CannotOpenBrowser" xml:space="preserve">
+  <data name="Error.CannotOpenBrowser" xml:space="preserve">
     <value>Nenhum navegador está disponível para abrir este link - certifique-se de ter um navegador instalado. Entre em contato com o suporte se o problema persistir (código de erro {0})</value>
 </data>
-<data name="Error.CouldNotGetFileSize" xml:space="preserve">
+  <data name="Error.CouldNotGetFileSize" xml:space="preserve">
     <value>Não foi possível conectar ao servidor. Verifique sua conexão com a internet (código de erro {0})</value>
 </data>
+  <data name="DefaultMission.AfterLanding" xml:space="preserve">
+    <value>Bem vindo à {0}. Realize o taxi para o estacionamento e desligue a aeronave para completar essa missão</value>
+  </data>
+  <data name="Global.StartOver" xml:space="preserve">
+    <value>Começar novamente</value>
+  </data>
+  <data name="Mission.MissionBrief" xml:space="preserve">
+    <value>BRIEFING DA MISSÃO</value>
+  </data>
+  <data name="Mission.MissionFailedUpper" xml:space="preserve">
+    <value>FALHA NA MISSÃO</value>
+  </data>
+  <data name="Replay.LoadingError" xml:space="preserve">
+    <value>O arquivo de replay está corrompido e não pode ser carregado</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
+    <value>Escolha um plano</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
+    <value>{0:0}% de desconto</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MonthlyUpper" xml:space="preserve">
+    <value>MENSAL</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MostPopular" xml:space="preserve">
+    <value>Mais popular</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.PerMonth" xml:space="preserve">
+    <value>{0}{1:0.00}/mês</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitle" xml:space="preserve">
+    <value>Desbloqueie todas as aeronaves, o mundo inteiro, multiplayer e ATC</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitleSubscribed" xml:space="preserve">
+    <value>Parece que você já tem a assinatura! Você poderá gerenciar a sua assinatura na loja de aplicativos.</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.RevertToDefaultAccount" xml:space="preserve">
+    <value>Reverter para a conta padrão</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SemiYearlyUpper" xml:space="preserve">
+    <value>SEMESTRAL</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignIn" xml:space="preserve">
+    <value>Entrar</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignInWithInfiniteFlight" xml:space="preserve">
+    <value>Entrar com Infinite Flight</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.YearlyUpper" xml:space="preserve">
+    <value>ANUAL</value>
+  </data>
+  <data name="FlightPlan.Title" xml:space="preserve">
+    <value>Plano de Voo</value>
+  </data>
+  <data name="FlightPlan.AltitudeFormatError" xml:space="preserve">
+    <value>Formato de altitude incorreto</value>
+  </data>
+  <data name="FlightPlan.ClearConfirmationMessage" xml:space="preserve">
+    <value>Você tem certeza que quer limpar o seu plano de voo?</value>
+  </data>
+  <data name="FlightPlan.ImportError" xml:space="preserve">
+    <value>Erro em salvar o plano de voo no disco, verifique se você tem armazenamento disponível</value>
+  </data>
+  <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
+    <value>{0} é muito pequeno para a sua aeronave. Escolha outro aeroporto.</value>
+  </data>
+  <data name="Error.ApplicationInitializationError" xml:space="preserve">
+    <value>Infinite Flight não pode ser iniciado devido a um problema. Tente reiniciar ou contate o suporte. (código de erro {0})</value>
+  </data>
+  <data name="DefaultMission.Congratulation" xml:space="preserve">
+    <value>Parabéns em completar esse voo para {0}!
+Você poderá sair nesta sessão ou embarcar em mais uma jornada para outro destino. Vejo você em breve nos céus do Infinite Flight!</value>
+  </data>
+  <data name="DefaultMission.Congratulation2" xml:space="preserve">
+    <value>Parabéns em completar esse voo para {0}!
+Você poderá sair nesta sessão ou embarcar em mais uma jornada para outro destino.</value>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlight" xml:space="preserve">
+    <value>Tenha um bom voo para {0}</value>
+  </data>
+  <data name="DefaultMission.HaveAGoodFlightTaxi" xml:space="preserve">
+    <value>Agora que você está pronto para o taxi, tenha um bom voo para {0}</value>
+  </data>
+  <data name="DefaultMission.MissionBriefWindow" xml:space="preserve">
+    <value>Este é o seu briefing da missão. Você poderá retornar aqui a qualquer momento para saber o que precisará fazer. Esta tela poderá ser aberta tocando no botão BRIEFING DA MISSÃO na direita</value>
+  </data>
+  <data name="DefaultMission.PushbackEnd" xml:space="preserve">
+    <value>Pushback foi interrompido. Toque em "DETACH TUG" no menu "GROUND SERVICES" para desconectar o trator</value>
+  </data>
+  <data name="DefaultMission.PushbackEndPrompt" xml:space="preserve">
+    <value>Quando estiver pronto, toque novamente no botão "PUSH" para interromper.</value>
+  </data>
+  <data name="DefaultMission.PushbackStart" xml:space="preserve">
+    <value>Agora que o freio de estacionamento foi liberado, para começar o pushback, apenas toque no botão "PUSH" no menu "GROUND SERVICES".</value>
+  </data>
+  <data name="DefaultMission.PushbackSteering" xml:space="preserve">
+    <value>Pushback iniciado, arraste o "RUD BRAKES" no canto inferior direito para direcionar a aeronave para a direção desejada.</value>
+  </data>
+  <data name="DefaultMission.ReadyForPushback" xml:space="preserve">
+    <value>Nós estamos prontos para o pushback, abra o menu "GROUND SERVICES" na direita, arraste para baixo até a seção "PUSHBACK" e toque em "ATTACH TUG"</value>
+  </data>
+  <data name="DefaultMission.ReleaseBrakes" xml:space="preserve">
+    <value>Se você estiver pronto para o pushback, o freio de estacionamento deve ser liberado tocando em "PARK BRAKES" no canto inferior esquerdo</value>
+  </data>
+  <data name="DefaultMission.StartEngine" xml:space="preserve">
+    <value>Agora podemos iniciar os motores caso não estejam acionados ainda, Abra o menu "SYSTEMS" na direita e toque em "AUTO START" para iniciar os motores e preparar a aeronave para o táxi</value>
+  </data>
+  <data name="DefaultMission.TapToContinue" xml:space="preserve">
+    <value>Toque aqui para continuar</value>
+  </data>
+  <data name="DefaultMission.Welcome" xml:space="preserve">
+    <value>Bem vindo ao Infinite Flight! Toque nesta janela para começar e visualizar o briefing da missão e instruções</value>
+  </data>
+  <data name="DefaultMission.YourMissionBrief" xml:space="preserve">
+    <value>Sua missão de hoje é:
+{0}</value>
+  </data>
 </root>

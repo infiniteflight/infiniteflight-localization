@@ -2993,4 +2993,20 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="Error.ApplicationInitializationError" xml:space="preserve">
     <value>Infinite Flight не можа да стартира поради проблем. Моля, рестартирайте приложението или се свържете с поддръжка. (Код на грешката {0})</value>
   </data>
+  <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
+    <value>{0} е прекалено малко летище за избрания самолет. Изберете друго летище.</value>
+    <comment>{0} is airport ICAO</comment>
+  </data>
+  <data name="FlightPlan.AltitudeFormatError" xml:space="preserve">
+    <value>Невалиден формат за височина</value>
+  </data>
+  <data name="FlightPlan.ClearConfirmationMessage" xml:space="preserve">
+    <value>Сигурни ли сте, че искате да изчистите полетния си план?</value>
+  </data>
+  <data name="FlightPlan.ImportError" xml:space="preserve">
+    <value>Грешка при запазването на полетния план в паметта, проверете дали имате достатъчно свободно място</value>
+  </data>
+  <data name="FlightPlan.Title" xml:space="preserve">
+    <value>Полетен план</value>
+  </data>
 </root>
