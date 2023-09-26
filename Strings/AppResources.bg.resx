@@ -3009,4 +3009,149 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="FlightPlan.Title" xml:space="preserve">
     <value>Полетен план</value>
   </data>
+  <data name="Replay.LoadingError" xml:space="preserve">
+    <value>Записът е повреден и не може да бъде зареден</value>
+  </data>
+  <data name="Error.LoadingScenarioError" xml:space="preserve">
+    <value>Възникна грешка при изтеглянето на този сценарий (код на грешката {0})</value>
+  </data>
+  <data name="NavigationControl.Leaderboards" xml:space="preserve">
+    <value>Класация</value>
+    <comment>Leaderboards</comment>
+  </data>
+  <data name="Global.Mode" xml:space="preserve">
+    <value>Режим</value>
+    <comment>Mode</comment>
+  </data>
+  <data name="AircraftProfileImageControl.ImageUnavailable" xml:space="preserve">
+    <value>Снимката не е налична</value>
+    <comment>Image Unavailable</comment>
+  </data>
+  <data name="ATC.Center" xml:space="preserve">
+    <value>център</value>
+    <comment>Center</comment>
+  </data>
+  <data name="FlightMissionControl.FeaturedMissionUpper" xml:space="preserve">
+    <value>ПРЕДСТАВЕНА МИСИЯ</value>
+    <comment>FEATURED MISSION</comment>
+  </data>
+  <data name="Global.You" xml:space="preserve">
+    <value>Вие</value>
+    <comment>You</comment>
+  </data>
+  <data name="LeaderboardsControl.Landings" xml:space="preserve">
+    <value>Кацания</value>
+    <comment>Landings</comment>
+  </data>
+  <data name="LogbookControl.NoReplayFileUpper" xml:space="preserve">
+    <value>ЛИПСВА ЗАПИС</value>
+    <comment>NO REPLAY FILE</comment>
+  </data>
+  <data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
+    <value>НЕНАЛИЧНО В СОЛО</value>
+    <comment>UNAVAILABLE IN SOLO</comment>
+  </data>
+  <data name="CallSignSelectionPage.CallsignsNotAvailable" xml:space="preserve">
+    <value>Позивните не са налични в момента, моля, опитайте по-късно</value>
+    <comment>Callsigns are not available now, please try again later</comment>
+  </data>
+  <data name="GamePage.WaitCanvas.ReadyToFlyUpper" xml:space="preserve">
+    <value>ГОТОВ ЗА ПОЛЕТ</value>
+    <comment>READY TO FLY</comment>
+  </data>
+  <data name="InputAssignmentControl.AreYouSureToResetAllControls" xml:space="preserve">
+    <value>Сигурни ли сте, че искате да върнете настройките на контролите по подразбиране?</value>
+    <comment>Are you sure you want to reset all controls to default?</comment>
+  </data>
+  <data name="LeaderboardsControl.Pilots" xml:space="preserve">
+    <value>Пилоти</value>
+    <comment>Pilots</comment>
+  </data>
+  <data name="MissionStatusControl.ObjectivesUpper" xml:space="preserve">
+    <value>ЦЕЛИ</value>
+    <comment>OBJECTIVES</comment>
+  </data>
+  <data name="MissionStatusControl.TapHereToContinueUpper" xml:space="preserve">
+    <value>НАТИСНЕТЕ ТУК, ЗА ДА ПРОДЪЛЖИТЕ</value>
+    <comment>TAP HERE TO CONTINUE</comment>
+  </data>
+  <data name="NewsControl.Announcement" xml:space="preserve">
+    <value>Обявление</value>
+    <comment>Announcement</comment>
+  </data>
+  <data name="NewsControl.CommunityTopic" xml:space="preserve">
+    <value>Тема във форума</value>
+    <comment>Community Topic</comment>
+  </data>
+  <data name="NewsControl.Event" xml:space="preserve">
+    <value>Събитие</value>
+    <comment>Event</comment>
+  </data>
+  <data name="NewsControl.Mission" xml:space="preserve">
+    <value>Мисия</value>
+    <comment>Mission</comment>
+  </data>
+  <data name="NewsControl.News" xml:space="preserve">
+    <value>Новини</value>
+    <comment>News</comment>
+  </data>
+  <data name="NewsControl.StartFlightQuestion" xml:space="preserve">
+    <value>Стартиране на полет?</value>
+    <comment>Start Flight?</comment>
+  </data>
+  <data name="NewsControl.Timeline" xml:space="preserve">
+    <value>Времева линия</value>
+    <comment>Timeline</comment>
+  </data>
+  <data name="NewsControl.Tutorial" xml:space="preserve">
+    <value>Урок</value>
+    <comment>Tutorial</comment>
+  </data>
+  <data name="NewsControl.Video" xml:space="preserve">
+    <value>Видео</value>
+    <comment>Video</comment>
+  </data>
+  <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
+    <value>НЕ Е НАЛИЧНО РВД</value>
+    <comment>ATC NOT AVAILABLE</comment>
+  </data>
+  <data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
+    <value>ИЗИСКВА СЕ РАНГ 2</value>
+    <comment>GRADE 2 REQUIRED</comment>
+  </data>
+  <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
+    <value>ПОВЕЧЕ
+СЪРВЪРИ</value>
+    <comment>MORE
+SERVERS</comment>
+  </data>
+  <data name="WorldModeModalControl.MultiPlayer" xml:space="preserve">
+    <value>МУЛТИ
+ПЛЕЙЪР</value>
+    <comment>MULTI
+PLAYER</comment>
+  </data>
+  <data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
+    <value>НЯМА ДОСТЪП</value>
+    <comment>NO ACCESS</comment>
+  </data>
+  <data name="WorldModeModalControl.ProDescription" xml:space="preserve">
+    <value>Абонирайте се за Infinite Flight Pro, за да отключите всички мултиплейър сървъри и да летите с хиляди други пилоти по целия свят.</value>
+    <comment>Get Infinite Flight Pro to unlock all multiplayer servers and fly with thousands of other pilots around the world.</comment>
+  </data>
+  <data name="WorldModeModalControl.SinglePlayer" xml:space="preserve">
+    <value>СОЛО</value>
+    <comment>SINGLE
+PLAYER</comment>
+  </data>
+  <data name="WorldModeModalControl.SinglePlayerOneLine" xml:space="preserve">
+    <value>СОЛО</value>
+    <comment>SINGLE PLAYER</comment>
+  </data>
+  <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
+    <value>ДОСКУЧАЛО ВИ Е ДА ЛЕТИТЕ САМИ?</value>
+    <comment>TIRED OF FLYING ALONE?</comment>
+  </data>
+</root>
+
 </root>
