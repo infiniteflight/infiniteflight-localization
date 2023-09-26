@@ -506,7 +506,7 @@
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>ForeFlight Link aktivieren</value>
+    <value>EFB Link aktivieren</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">

@@ -504,12 +504,12 @@ Click on the \"Send Log\" button, thanks!</comment>
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Sends Position/Attitude/Traffic data to local devices running ForeFlight</value>
-    <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
+    <value>Sends Position/Attitude/Traffic data to local devices running EFBs like ForeFlight, Garmin Pilot or others.</value>
+    <comment>Sends Position/Attitude/Traffic data to local devices running EFBs like ForeFlight, Garmin Pilot or others.</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>Enable ForeFlight Link</value>
-    <comment>Enable ForeFlight Link</comment>
+    <value>Enable EFB Link</value>
+    <comment>Enable EFB Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>Hide the status when interface timeout occurs</value>
