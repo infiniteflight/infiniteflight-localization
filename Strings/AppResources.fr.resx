@@ -504,11 +504,11 @@ Click on the \"Send Log\" button, thanks!</comment>
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Envoie les données de position/attitude/trafic aux appareils locaux exécutant ForeFlight</value>
+    <value>Envoie les données de position/attitude/trafic aux appareils locaux exécutant ForeFlight ou Garmin Pilot</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>Activer le lien ForeFlight</value>
+    <value>Activer le lien EFB</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
@@ -2648,105 +2648,105 @@ Consultez la carte pour plus d’informations</value>
   <data name="Mission.MissionBrief" xml:space="preserve">
     <value>BRIEFING DE LA MISSION</value>
   </data>
-	<data name="NavigationControl.Leaderboards" xml:space="preserve">
+  <data name="NavigationControl.Leaderboards" xml:space="preserve">
     <value>Classements</value>
   </data>
-	<data name="Global.Mode" xml:space="preserve">
+  <data name="Global.Mode" xml:space="preserve">
     <value>Mode</value>
   </data>
-	<data name="AircraftProfileImageControl.ImageUnavailable" xml:space="preserve">
+  <data name="AircraftProfileImageControl.ImageUnavailable" xml:space="preserve">
     <value>Image Indisponible</value>
   </data>
-	<data name="ATC.Center" xml:space="preserve">
+  <data name="ATC.Center" xml:space="preserve">
     <value>Center</value>
   </data>
-	<data name="FlightMissionControl.FeaturedMissionUpper" xml:space="preserve">
+  <data name="FlightMissionControl.FeaturedMissionUpper" xml:space="preserve">
     <value>FEATURED MISSION</value>
   </data>
-	<data name="Global.You" xml:space="preserve">
+  <data name="Global.You" xml:space="preserve">
     <value>Vous</value>
   </data>
-	<data name="LeaderboardsControl.Landings" xml:space="preserve">
+  <data name="LeaderboardsControl.Landings" xml:space="preserve">
     <value>Atterissages</value>
   </data>
-	<data name="LogbookControl.NoReplayFileUpper" xml:space="preserve">
+  <data name="LogbookControl.NoReplayFileUpper" xml:space="preserve">
     <value>PAS DE REPLAY</value>
   </data>
-	<data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
+  <data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
     <value>INDISPONIBLE EN SOLO</value>
   </data>
-	<data name="CallSignSelectionPage.CallsignsNotAvailable" xml:space="preserve">
+  <data name="CallSignSelectionPage.CallsignsNotAvailable" xml:space="preserve">
     <value>Les callsigns sont indisponibles, veuillez essayer plus tard</value>
   </data>
-	<data name="GamePage.WaitCanvas.ReadyToFlyUpper" xml:space="preserve">
+  <data name="GamePage.WaitCanvas.ReadyToFlyUpper" xml:space="preserve">
     <value>PRET A VOLER</value>
   </data>
-	<data name="InputAssignmentControl.AreYouSureToResetAllControls" xml:space="preserve">
+  <data name="InputAssignmentControl.AreYouSureToResetAllControls" xml:space="preserve">
     <value>Êtes-vous sûr de vouloir réinitialiser tous les contrôles ?</value>
   </data>
-	<data name="LeaderboardsControl.Pilots" xml:space="preserve">
+  <data name="LeaderboardsControl.Pilots" xml:space="preserve">
     <value>Pilotes</value>
   </data>
-	<data name="MissionStatusControl.ObjectivesUpper" xml:space="preserve">
+  <data name="MissionStatusControl.ObjectivesUpper" xml:space="preserve">
     <value>OBJECTIFS</value>
   </data>
-	<data name="MissionStatusControl.TapHereToContinueUpper" xml:space="preserve">
+  <data name="MissionStatusControl.TapHereToContinueUpper" xml:space="preserve">
     <value>APPUYEZ ICI POUR CONTINUER</value>
   </data>
-	<data name="NewsControl.Announcement" xml:space="preserve">
+  <data name="NewsControl.Announcement" xml:space="preserve">
     <value>Annonce</value>
   </data>
-	<data name="NewsControl.CommunityTopic" xml:space="preserve">
+  <data name="NewsControl.CommunityTopic" xml:space="preserve">
     <value>Forum</value>
   </data>
-	<data name="NewsControl.Event" xml:space="preserve">
+  <data name="NewsControl.Event" xml:space="preserve">
     <value>Événement</value>
   </data>
-	<data name="NewsControl.Mission" xml:space="preserve">
+  <data name="NewsControl.Mission" xml:space="preserve">
     <value>Mission</value>
   </data>
-	<data name="NewsControl.News" xml:space="preserve">
+  <data name="NewsControl.News" xml:space="preserve">
     <value>Actualités</value>
   </data>
-	<data name="NewsControl.StartFlightQuestion" xml:space="preserve">
+  <data name="NewsControl.StartFlightQuestion" xml:space="preserve">
     <value>Commencer le vol ?</value>
   </data>
-	<data name="NewsControl.Timeline" xml:space="preserve">
+  <data name="NewsControl.Timeline" xml:space="preserve">
     <value>Timeline</value>
   </data>
-	<data name="NewsControl.Tutorial" xml:space="preserve">
+  <data name="NewsControl.Tutorial" xml:space="preserve">
     <value>Tutoriel</value>
   </data>
-	<data name="NewsControl.Video" xml:space="preserve">
+  <data name="NewsControl.Video" xml:space="preserve">
     <value>Vidéo</value>
   </data>
-	<data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
+  <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
     <value>ATC INDISPONIBLE</value>
   </data>
-	<data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
+  <data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
     <value>GRADE 2 REQUIS</value>
   </data>
-	<data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
+  <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
     <value>PLUS DE
 SERVERS</value>
   </data>
-	<data name="WorldModeModalControl.MultiPlayer" xml:space="preserve">
+  <data name="WorldModeModalControl.MultiPlayer" xml:space="preserve">
     <value>MULTI
 JOUEUR</value>
   </data>
-	<data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
+  <data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
     <value>PAS D'ACCÈS</value>
   </data>
-	<data name="WorldModeModalControl.ProDescription" xml:space="preserve">
+  <data name="WorldModeModalControl.ProDescription" xml:space="preserve">
     <value>Obtenez Infinite Flight Pro pour débloquer tous les serveurs multijoueurs et voler avec des milliers d'autres pilotes à travers le monde.</value>
   </data>
-	<data name="WorldModeModalControl.SinglePlayer" xml:space="preserve">
+  <data name="WorldModeModalControl.SinglePlayer" xml:space="preserve">
     <value>SOLO</value>
   </data>
-	<data name="WorldModeModalControl.SinglePlayerOneLine" xml:space="preserve">
+  <data name="WorldModeModalControl.SinglePlayerOneLine" xml:space="preserve">
     <value>SOLO</value>
   </data>
-	<data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
+  <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
     <value>MARRE DE VOLER SEUL ?</value>
   </data>
 </root>

@@ -502,11 +502,11 @@
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Sends Position/Attitude/Traffic data to local devices running ForeFlight</value>
+    <value>Sends Position/Attitude/Traffic data to local devices running EFBs like ForeFlight, Garmin Pilot or others.</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>Enable ForeFlight Link</value>
+    <value>Enable EFB Link</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">

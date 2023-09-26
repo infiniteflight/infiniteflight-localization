@@ -59,10 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root"
-    xmlns=""
-    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -509,7 +506,7 @@
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>ForeFlight Összekapcsolás Engedélyezése</value>
+    <value>EFB Összekapcsolás Engedélyezése</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
@@ -2900,13 +2897,13 @@ Check map for more information</comment>
     <value>NINCS KIVÁLASZTOTT BEJEGYZÉS</value>
   </data>
   <data name="Error.InvalidTimeSpan">
-      <value>A kezdő és befejező időpontok nem érvényesek (hiba kód: {0})</value>
+    <value>A kezdő és befejező időpontok nem érvényesek (hiba kód: {0})</value>
   </data>
   <data name="GameModeSelection.NoAvailableServer">
-      <value>Nincs elérhető szerver</value>
+    <value>Nincs elérhető szerver</value>
   </data>
   <data name="Error.CouldNotGetFileSize">
-      <value>Nem sikerült csatlakozni a szerverhez, ellenőrizd az internetkapcsolatod (hiba kód: {0})</value>
+    <value>Nem sikerült csatlakozni a szerverhez, ellenőrizd az internetkapcsolatod (hiba kód: {0})</value>
   </data>
   <data name="DefaultMission.AfterLanding" xml:space="preserve">
     <value>Üdvözöllek a(z) {0} repülőtéren. Gurulj a parkolóhelyre és állítsd le a repülőgépet a küldetés teljesítéséhez.</value>

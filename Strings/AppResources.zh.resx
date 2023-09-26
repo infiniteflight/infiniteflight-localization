@@ -510,7 +510,7 @@
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>启用 ForeFlight 连接</value>
+    <value>启用 EFB 连接</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
@@ -2652,7 +2652,7 @@ Check map for more information</comment>
 其质量低于最新发布的机型</value>
     <comment>arning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
-   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
+  <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
     <value>请与前机保持安全距离</value>
     <comment>Please maintain a safe distance with the aircraft ahead</comment>
   </data>
@@ -2676,7 +2676,7 @@ Check map for more information</comment>
     <value>无可用服务器</value>
     <comment>No Available Server</comment>
   </data>
-   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
+  <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
     <value>更换飞机</value>
   </data>
   <data name="FlightFreeControl.ImageNotFoundUpper" xml:space="preserve">
@@ -2747,7 +2747,7 @@ Check map for more information</comment>
   <data name="FlightMenu.Wind" xml:space="preserve">
       <value>{0:#000}° {1} 节</value>
       </data>
-      <data name="FlightMenu.WindCalm" xml:space="preserve">
+  <data name="FlightMenu.WindCalm" xml:space="preserve">
       <value>静风</value>
   </data>
   <data name="FlightMenu.WindUpper" xml:space="preserve">
@@ -2893,7 +2893,7 @@ Check map for more information</comment>
       <value>自由选择飞机和航线，在没有规则和其他飞机的环境中磨练您的飞行技术，探索美丽的风景。
 </value>
   </data>
-    <data name="DefaultMission.AfterLanding" xml:space="preserve">
+  <data name="DefaultMission.AfterLanding" xml:space="preserve">
     <value>欢迎来到 {0}. 滑行到机位并关车即可完成本次任务</value>
     <comment>Welcome to {0}. Taxi to parking and shutdown the airplane to complete this mission</comment>
   </data>
@@ -3013,7 +3013,7 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="Error.ApplicationInitializationError" xml:space="preserve">
     <value>Infinite Flight由于出错无法打开。请尝试重启或联系支持。(错误代码 {0})</value>
   </data>
-    <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
+  <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
     <value>{0} 无法保障你选择的机型。请更换出发机场。</value>
     <comment>{0} is airport ICAO</comment>
   </data>

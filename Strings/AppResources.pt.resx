@@ -1168,7 +1168,7 @@
     <value>Envia informação de Posição/Altitude/Tráfego ao dispositivo rodando ForeFlight</value>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>Ativar Link com ForeFlight</value>
+    <value>Ativar Link com EFB</value>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>Oculta a barra de status quando a interface é ocultado</value>

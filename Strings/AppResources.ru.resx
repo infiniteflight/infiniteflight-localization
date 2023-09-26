@@ -59,10 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root"
-    xmlns=""
-    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -509,7 +506,7 @@
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>Активировать ForeFlight Link</value>
+    <value>Активировать EFB Link</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
@@ -2858,7 +2855,7 @@ Check map for more information</comment>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
       <value>Отсутствует доступный браузер для открытия данной ссылки. Убедитесь, что у вас установлен браузер. Если проблема не исчезает, обратитесь в службу поддержки (код ошибки {0})</value>
   </data>
-  <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
+  <data name="FlightSchoolControl.NoLessonsFoundUpper_Duplicate[1]" xml:space="preserve">
       <value>НЕ НАЙДЕНО УРОКОВ</value>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
