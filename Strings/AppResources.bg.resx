@@ -3149,7 +3149,7 @@ PLAYER</comment>
     <comment>SINGLE PLAYER</comment>
   </data>
   <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
-    <value>ДОСКУЧАЛО ВИ Е ДА ЛЕТИТЕ САМИ?</value>
+    <value>СКУЧНО ВИ Е ДА ЛЕТИТЕ САМИ?</value>
     <comment>TIRED OF FLYING ALONE?</comment>
   </data>
 </root>
