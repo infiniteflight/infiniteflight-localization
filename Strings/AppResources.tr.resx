@@ -2993,7 +2993,7 @@ Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolc
     <value>Video</value>
   </data>
   <data name="SubscriptionMorePlansControl.PerMonth" xml:space="preserve">
-    <value>{currency}{price}/ay</value>
+    <value>{0}{1:0.00}/ay</value>
   </data>
   <data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
     <value>SOLO İÇİN MEVCUT DEĞİL</value>
