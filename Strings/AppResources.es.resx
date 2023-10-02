@@ -938,7 +938,7 @@
     <comment>Control Sensitivity</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Manda información de posiciones/actitud/tráfico a dispositivos locales con ForeFlight</value>
+    <value>Manda información de posiciones/actitud/tráfico a dispositivos locales con un EFB como ForeFlight, Garmin Pilot, o otros.</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
@@ -2619,9 +2619,6 @@ Consulte el mapa para más información</value>
   <data name="Mission.MissionBrief" xml:space="preserve">
     <value>Resumen de la Misión</value>
   </data>
-  <data name="LogbookControl.LogbookControl.NoEntrySelected" xml:space="preserve">
-    <value>No hay entradas</value>
-  </data>
   <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
     <value>Elige un plan</value>
   </data>
@@ -2675,5 +2672,118 @@ Consulte el mapa para más información</value>
   </data>
   <data name="FlightPlan.Title" xml:space="preserve">
     <value>Plan de Vuelo</value>
+  </data>
+  <data name="FlightPlan.AltitudeFormatError" xml:space="preserve">
+    <value>El formato de la altitud es incorrecto</value>
+  </data>
+  <data name="WorldModeModalControl.MultiPlayer" xml:space="preserve">
+    <value>MULTI
+JUGADOR</value>
+  </data>
+  <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
+    <value>MÁS
+SERVIDORES</value>
+  </data>
+  <data name="WorldModeModalControl.SinglePlayer" xml:space="preserve">
+    <value>SOLO</value>
+  </data>
+  <data name="Global.Mode" xml:space="preserve">
+    <value>Modo</value>
+  </data>
+  <data name="ATC.Center" xml:space="preserve">
+    <value>Centro</value>
+  </data>
+  <data name="Global.You" xml:space="preserve">
+    <value>Tu</value>
+  </data>
+  <data name="NewsControl.Video" xml:space="preserve">
+    <value>Video</value>
+  </data>
+  <data name="FlightPlan.ImportError" xml:space="preserve">
+    <value>Error al guardar el plan de vuelo, comprueba que tienes suficiente espacio de almacenamiento disponible</value>
+  </data>
+  <data name="Replay.LoadingError" xml:space="preserve">
+    <value>Este archivo de repetición está dañado y no se pudo cargar</value>
+  </data>
+  <data name="Error.LoadingScenarioError" xml:space="preserve">
+    <value>No se pudo descargar este escenario (error code {0})</value>
+  </data>
+  <data name="NavigationControl.Leaderboards" xml:space="preserve">
+    <value>Clasificaciones</value>
+  </data>
+  <data name="AircraftProfileImageControl.ImageUnavailable" xml:space="preserve">
+    <value>Imagen no disponible</value>
+  </data>
+  <data name="FlightMissionControl.FeaturedMissionUpper" xml:space="preserve">
+    <value>MISIÓN DESTACADA</value>
+  </data>
+  <data name="LeaderboardsControl.Landings" xml:space="preserve">
+    <value>Aterrizaje</value>
+  </data>
+  <data name="LogbookControl.NoReplayFileUpper" xml:space="preserve">
+    <value>NO HAY ARCHIVO REPLAY</value>
+  </data>
+  <data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
+    <value>NO DISPONIBLE EN SOLO</value>
+  </data>
+  <data name="CallSignSelectionPage.CallsignsNotAvailable" xml:space="preserve">
+    <value>Los indicativos de llamada no están disponibles ahora mismo</value>
+  </data>
+  <data name="GamePage.WaitCanvas.ReadyToFlyUpper" xml:space="preserve">
+    <value>LISTO PARA VOLAR</value>
+  </data>
+  <data name="InputAssignmentControl.AreYouSureToResetAllControls" xml:space="preserve">
+    <value>¿Estás seguro de que quieres restablecer todos los controles a sus valores predeterminados?</value>
+  </data>
+  <data name="LeaderboardsControl.Pilots" xml:space="preserve">
+    <value>Pilotos</value>
+  </data>
+  <data name="MissionStatusControl.ObjectivesUpper" xml:space="preserve">
+    <value>METAS</value>
+  </data>
+  <data name="MissionStatusControl.TapHereToContinueUpper" xml:space="preserve">
+    <value>PULSE AQUÍ PARA CONTINUAR</value>
+  </data>
+  <data name="NewsControl.Announcement" xml:space="preserve">
+    <value>Comunicado</value>
+  </data>
+  <data name="NewsControl.Event" xml:space="preserve">
+    <value>Evento</value>
+  </data>
+  <data name="NewsControl.Mission" xml:space="preserve">
+    <value>Misión</value>
+  </data>
+  <data name="NewsControl.News" xml:space="preserve">
+    <value>Noticias</value>
+  </data>
+  <data name="NewsControl.StartFlightQuestion" xml:space="preserve">
+    <value>Empezar vuelo?</value>
+  </data>
+  <data name="NewsControl.Timeline" xml:space="preserve">
+    <value>Timeline</value>
+  </data>
+  <data name="NewsControl.Tutorial" xml:space="preserve">
+    <value>Tutorial</value>
+  </data>
+  <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
+    <value>CONTROL AÉREO NO DISPONIBLE</value>
+  </data>
+  <data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
+    <value>SE NECESITA GRADE 2</value>
+  </data>
+  <data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
+    <value>SIN ACCESO</value>
+  </data>
+  <data name="NewsControl.CommunityTopic" xml:space="preserve">
+    <value>Publicación de la Comunidad</value>
+  </data>
+  <data name="WorldModeModalControl.ProDescription" xml:space="preserve">
+    <value>Obtén Infinite Flight Pro para acceder a todos los servidores multijugador y volar con miles de otros pilotos alrededor del mundo.</value>
+  </data>
+  <data name="WorldModeModalControl.SinglePlayerOneLine" xml:space="preserve">
+    <value>SOLO</value>
+  </data>
+  <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
+    <value>¿CANSADO DE VOLAR SOLO?</value>
   </data>
 </root>
