@@ -506,11 +506,11 @@
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>向使用ForeFlight的本地设备发送位置/高度/交通数据</value>
+    <value>向正在运行电子飞行包（如ForeFlight,佳明Pilot等）的本地设备发送位置/高度/交通数据</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>启用 EFB 连接</value>
+    <value>连接电子飞行包（EFB）</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
@@ -3028,5 +3028,149 @@ You can quit this session or embark on another journey to a new destination.</co
   </data>
   <data name="FlightPlan.Title" xml:space="preserve">
     <value>飞行计划</value>
+  </data>
+ <data name="Replay.LoadingError" xml:space="preserve">
+    <value>回放文件已损坏，无法加载</value>
+  </data>
+  <data name="Error.LoadingScenarioError" xml:space="preserve">
+    <value>加载场景时出错 (错误代码 {0})</value>
+  </data>
+  <data name="NavigationControl.Leaderboards" xml:space="preserve">
+    <value>排行榜</value>
+    <comment>Leaderboards</comment>
+  </data>
+  <data name="Global.Mode" xml:space="preserve">
+    <value>模式</value>
+    <comment>Mode</comment>
+  </data>
+  <data name="AircraftProfileImageControl.ImageUnavailable" xml:space="preserve">
+    <value>暂无预览</value>
+    <comment>Image Unavailable</comment>
+  </data>
+  <data name="ATC.Center" xml:space="preserve">
+    <value>区域</value>
+    <comment>Center</comment>
+  </data>
+  <data name="FlightMissionControl.FeaturedMissionUpper" xml:space="preserve">
+    <value>特别任务</value>
+    <comment>FEATURED MISSION</comment>
+  </data>
+  <data name="Global.You" xml:space="preserve">
+    <value>你</value>
+    <comment>You</comment>
+  </data>
+  <data name="LeaderboardsControl.Landings" xml:space="preserve">
+    <value>降落数</value>
+    <comment>Landings</comment>
+  </data>
+  <data name="LogbookControl.NoReplayFileUpper" xml:space="preserve">
+    <value>无回放文件</value>
+    <comment>NO REPLAY FILE</comment>
+  </data>
+  <data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
+    <value>单人模式不可用</value>
+    <comment>UNAVAILABLE IN SOLO</comment>
+  </data>
+  <data name="CallSignSelectionPage.CallsignsNotAvailable" xml:space="preserve">
+    <value>呼号暂时不可用，请稍后再试</value>
+    <comment>Callsigns are not available now, please try again later</comment>
+  </data>
+  <data name="GamePage.WaitCanvas.ReadyToFlyUpper" xml:space="preserve">
+    <value>准备飞行</value>
+    <comment>READY TO FLY</comment>
+  </data>
+  <data name="InputAssignmentControl.AreYouSureToResetAllControls" xml:space="preserve">
+    <value>确认重置所有操纵设置到默认？</value>
+    <comment>Are you sure you want to reset all controls to default?</comment>
+  </data>
+  <data name="LeaderboardsControl.Pilots" xml:space="preserve">
+    <value>飞行员</value>
+    <comment>Pilots</comment>
+  </data>
+  <data name="MissionStatusControl.ObjectivesUpper" xml:space="preserve">
+    <value>任务目标</value>
+    <comment>OBJECTIVES</comment>
+  </data>
+  <data name="MissionStatusControl.TapHereToContinueUpper" xml:space="preserve">
+    <value>点击继续</value>
+    <comment>TAP HERE TO CONTINUE</comment>
+  </data>
+  <data name="NewsControl.Announcement" xml:space="preserve">
+    <value>公告</value>
+    <comment>Announcement</comment>
+  </data>
+  <data name="NewsControl.CommunityTopic" xml:space="preserve">
+    <value>论坛热贴</value>
+    <comment>Community Topic</comment>
+  </data>
+  <data name="NewsControl.Event" xml:space="preserve">
+    <value>活动</value>
+    <comment>Event</comment>
+  </data>
+  <data name="NewsControl.Mission" xml:space="preserve">
+    <value>任务</value>
+    <comment>Mission</comment>
+  </data>
+  <data name="NewsControl.News" xml:space="preserve">
+    <value>新闻</value>
+    <comment>News</comment>
+  </data>
+  <data name="NewsControl.StartFlightQuestion" xml:space="preserve">
+    <value>开始飞行？</value>
+    <comment>Start Flight?</comment>
+  </data>
+  <data name="NewsControl.Timeline" xml:space="preserve">
+    <value>时间线</value>
+    <comment>Timeline</comment>
+  </data>
+  <data name="NewsControl.Tutorial" xml:space="preserve">
+    <value>教程</value>
+    <comment>Tutorial</comment>
+  </data>
+  <data name="NewsControl.Video" xml:space="preserve">
+    <value>视频</value>
+    <comment>Video</comment>
+  </data>
+  <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
+    <value>ATC不可用</value>
+    <comment>ATC NOT AVAILABLE</comment>
+  </data>
+  <data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
+    <value>需要达到等级2</value>
+    <comment>GRADE 2 REQUIRED</comment>
+  </data>
+  <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
+    <value>更多
+服务器</value>
+    <comment>MORE
+SERVERS</comment>
+  </data>
+  <data name="WorldModeModalControl.MultiPlayer" xml:space="preserve">
+    <value>多人
+模式</value>
+    <comment>MULTI
+PLAYER</comment>
+  </data>
+  <data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
+    <value>无权限</value>
+    <comment>NO ACCESS</comment>
+  </data>
+  <data name="WorldModeModalControl.ProDescription" xml:space="preserve">
+    <value>现在订阅Infinite Flight Pro，解锁多人模式，和成千上万名来自全球各地的飞行员一起飞行</value>
+    <comment>Get Infinite Flight Pro to unlock all multiplayer servers and fly with thousands of other pilots around the world.</comment>
+  </data>
+  <data name="WorldModeModalControl.SinglePlayer" xml:space="preserve">
+    <value>单人
+模式</value>
+    <comment>SINGLE
+PLAYER</comment>
+  </data>
+  <data name="WorldModeModalControl.SinglePlayerOneLine" xml:space="preserve">
+    <value>单人模式</value>
+    <comment>SINGLE PLAYER</comment>
+  </data>
+  <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
+    <value>一个人飞空虚又寂寞？</value>
+    <comment>TIRED OF FLYING ALONE?</comment>
   </data>
 </root>
