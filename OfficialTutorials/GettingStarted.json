@@ -277,7 +277,6 @@
       "de": "Schiebe den Gashebel auf volle Leistung und schauen wir mal, was passiert!",
       "bg": "Преместете дросела до максимума и нека видим какво ще стане!",
       "tr": "Gaz kolunu tam güce getirin ve ne olacağını görelim!"
-
     },
     {
       "en": "Look at how the speed is starting to increase!",
@@ -409,8 +408,104 @@
       "pt": "Parece que estamos a caminho de casa! Obrigado por se juntar a nós, esperamos que tenha gostado da introdução ao Infinite Flight. Nos vemos na próxima!",
       "ru": "Похоже, мы уже в пути домой! Спасибо за участие, мы надеемся, что вам понравилось введение в Infinite Flight. Увидимся в следующем!",
       "bg": "Вече сме на път да се върнем у дома! Благодарим ви, че се присъединихте, надяваме се да сте се забавлявали с въведението в Infinite Flight. До нови срещи!",
-      "tr": "Görünüşe göre eve dönüyoruz! Katıldığınız için teşekkürler, umarız Infinite Flight'ın girişini beğenmişsinizdir. Bir sonrakinde görüşmek üzere!"  
-     }
+      "tr": "Görünüşe göre eve dönüyoruz! Katıldığınız için teşekkürler, umarız Infinite Flight'ın girişini beğenmişsinizdir. Bir sonrakinde görüşmek üzere!"
+    }
+  ],
+  "stringsPerStepCompletionCondition": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "aircraft/0/pitch": {
+          "en": "Pitch 5° down",
+          "es": "Baja el morro 5°"
+        }
+      }
+    ],
+    [
+      {
+        "aircraft/0/pitch": {
+          "en": "Pitch 5° up",
+          "es": "Inclina 5° hacia arriba"
+        }
+      }
+    ],
+    [
+      {
+        "aircraft/0/pitch": {
+          "en": "Return to straight and level",
+          "es": "Regresa al vuelo recto y nivelado."
+        }
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "aircraft/0/bank": {
+          "en": "Bank 20° to the left",
+          "es": "Incline 20° a la izquierda"
+        }
+      }
+    ],
+    [
+      {
+        "aircraft/0/bank": {
+          "en": "Bank 20° right",
+          "es": "Incline 20° a la derecha"
+        }
+      }
+    ],
+    [
+      {
+        "aircraft/0/bank": {
+          "en": "Return to straight and level flight.",
+          "es": "Regresa al vuelo recto y nivelado."
+        }
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "aircraft/0/indicated_airspeed": {
+          "en": "Speed >105kts",
+          "es": "Velocidad > 105 kts"
+        }
+      },
+      {
+        "aircraft/0/systems/engines/0/throttle_lever": {
+          "en": "Throttle to 100% Power",
+          "es": "Acelera al 100% de potencia"
+        }
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "aircraft/0/flightplan/destination_waypoint_name": {
+          "en": "Set the destination airport to KSMO",
+          "es": "Selecciona aeropuerto destino de KSMO"
+        }
+      }
+    ],
+    []
   ],
   "stringsPerFailCondition": [
     {
