@@ -2,33 +2,40 @@
     "infoStrings": {
       "name": {
         "en": "Shuttle Approach Runway 15",
-        "es": "Shuttle Approach Runway 15"
+        "es": "Shuttle Approach Runway 15",
+        "bg": "Подход за писта 15 с космическа совалка"
       },
       "description": {
         "en": "Land the Space Shuttle Atlantis at Cape Canaveral by flying through the waypoints",
-        "es": "Atteriza el Space Shuttle en Cape Canaveral volando por los waypoints"
+        "es": "Atteriza el Space Shuttle en Cape Canaveral volando por los waypoints",
+        "bg": "Приземете космическата совалка \"Атлантис\" в авиобаза Кейп Канаверал, прелитайки през навигационните точки"
       }
     },
     "stringsPerStep": [
       {
         "en": "Land the space shuttle on Runway 15 at Cape Canaveral.",
-        "es": "Aterriza el transbordador espacial en la Pista 15 de Cabo Cañaveral."
+        "es": "Aterriza el transbordador espacial en la Pista 15 de Cabo Cañaveral.",
+        "bg": "Приземете космическата совалка на писта 15 в Кейп Канаверал."
       },
       {
         "en": "Passing 2000ft. Start the flare.",
-        "es": "Pasando los 2000 pies. Comienza a nivelar el avión."
+        "es": "Pasando los 2000 pies. Comienza a nivelar el avión.",
+        "bg": "Пресякохте 2000фт. Започнете да изравнявате совалката."
       },
       {
         "en": "300ft AGL, gear down",
-        "es": "300 pies AGL, tren de aterrizaje abajo"
+        "es": "300 pies AGL, tren de aterrizaje abajo",
+        "bg": "300фт над земята, спуснете колесника"
       },
       {
         "en": "Touchdown!",
-        "es": "Atterizaje!"
+        "es": "Atterizaje!",
+        "bg": "Приземихте се!"
       },
       {
         "en": "Congratulations on a successful re-entry and mission completion. Everybody welcome back to earth! We'll meet you on page 5-3 of the reentry checklist.",
-        "es": "¡Felicidades por una reentrada exitosa y la finalización de la misión! ¡Bienvenidos de vuelta a la Tierra a todos! Nos vemos en la página 5-3 de la lista de verificación de reentrada."
+        "es": "¡Felicidades por una reentrada exitosa y la finalización de la misión! ¡Bienvenidos de vuelta a la Tierra a todos! Nos vemos en la página 5-3 de la lista de verificación de reentrada.",
+        "bg": "Поздравления за успешното навлизане и завършване на мисията. Добре дошли обратно на Земята! Ще се видим на страница 5-3 от контролната карта за навлизане."
       }
     ],
     "stringsPerStepCompletionCondition": [
@@ -36,7 +43,8 @@
         {
           "aircraft/0/altitude_msl": {
             "en": "Pass through 2000ft",
-            "es": "Pasa por 2000ft"
+            "es": "Pasa por 2000ft",
+            "bg": "Пресечете 2000фт"
           }
         }
       ],
@@ -56,7 +64,8 @@
         {
           "aircraft/0/is_on_runway": {
             "en": "Land on runway.",
-            "es": "Atteriza en pista."
+            "es": "Atteriza en pista.",
+            "bg": "Кацнете на пистата."
           }
         }
       ],
@@ -64,7 +73,8 @@
         {
           "aircraft/0/groundspeed": {
             "en": "Wheel Stop",
-            "es": "Wheel Stop"
+            "es": "Wheel Stop",
+            "bg": "Спрете колелата"
           }
         },
         {
