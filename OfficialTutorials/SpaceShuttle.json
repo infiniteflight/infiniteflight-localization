@@ -1,108 +1,118 @@
 {
-    "infoStrings": {
-      "name": {
-        "en": "Shuttle Approach Runway 15",
-        "es": "Shuttle Approach Runway 15",
-        "zh": "航天飞机返回任务-跑道15",
-        "bg": "Подход за писта 15 с космическа совалка"
-      },
-      "description": {
-        "en": "Land the Space Shuttle Atlantis at Cape Canaveral by flying through the waypoints",
-        "es": "Atteriza el Space Shuttle en Cape Canaveral volando por los waypoints"
-        "zh": "飞越一系列路径点，将航天飞机降落在位于卡纳维拉尔角的肯尼迪航天中心",
-        "bg": "Приземете космическата совалка \"Атлантис\" в авиобаза Кейп Канаверал, прелитайки през навигационните точки"
-      }
+  "infoStrings": {
+    "name": {
+      "en": "Shuttle Approach Runway 15",
+      "es": "Shuttle Approach Runway 15",
+      "zh": "航天飞机返回任务-跑道15",
+      "bg": "Подход за писта 15 с космическа совалка",
+      "tr": "Shuttle Approach Runway 15"
     },
-    "stringsPerStep": [
+    "description": {
+      "en": "Land the Space Shuttle Atlantis at Cape Canaveral by flying through the waypoints",
+      "es": "Atteriza el Space Shuttle en Cape Canaveral volando por los waypoints",
+      "zh": "飞越一系列路径点，将航天飞机降落在位于卡纳维拉尔角的肯尼迪航天中心",
+      "bg": "Приземете космическата совалка \"Атлантис\" в авиобаза Кейп Канаверал, прелитайки през навигационните точки",
+      "tr": "Ara noktalardan uçarak Uzay Mekiği Atlantis'i Cape Canaveral'a indirin"
+    }
+  },
+  "stringsPerStep": [
+    {
+      "en": "Land the space shuttle on Runway 15 at Cape Canaveral.",
+      "es": "Aterriza el transbordador espacial en la Pista 15 de Cabo Cañaveral.",
+      "zh": "将航天飞机降落在肯尼迪航天中心",
+      "bg": "Приземете космическата совалка на писта 15 в Кейп Канаверал.",
+      "tr": "Uzay mekiğini Cape Canaveral'daki 15 numaralı piste indirin."
+    },
+    {
+      "en": "Passing 2000ft. Start the flare.",
+      "es": "Pasando los 2000 pies. Comienza a nivelar el avión.",
+      "zh": "过2000英尺，开始拉平飘",
+      "bg": "Пресякохте 2000фт. Започнете да изравнявате совалката.",
+      "tr": "2000 feet geçiliyor. Uçağı düzleştirmeye başlayın."
+    },
+    {
+      "en": "300ft AGL, gear down",
+      "es": "300 pies AGL, tren de aterrizaje abajo",
+      "zh": "离地300英尺，放轮",
+      "bg": "300фт над земята, спуснете колесника",
+      "tr": "300ft AGL, iniş takımlarını açın"
+    },
+    {
+      "en": "Touchdown!",
+      "es": "Atterizaje!",
+      "zh": "接地！",
+      "bg": "Приземихте се!",
+      "tr": "İniş!"
+    },
+    {
+      "en": "Congratulations on a successful re-entry and mission completion. Everybody welcome back to earth! We'll meet you on page 5-3 of the reentry checklist.",
+      "es": "¡Felicidades por una reentrada exitosa y la finalización de la misión! ¡Bienvenidos de vuelta a la Tierra a todos! Nos vemos en la página 5-3 de la lista de verificación de reentrada.",
+      "zh": "恭喜你成功完成返回任务。欢迎各位回到地球！我们将按照再入检查单的5-3页执行着陆后程序。",
+      "bg": "Поздравления за успешното навлизане и завършване на мисията. Добре дошли обратно на Земята! Ще се видим на страница 5-3 от контролната карта за навлизане.",
+      "tr": "Başarılı bir yeniden giriş ve görev tamamlama için tebrikler. Herkes dünyaya hoş geldiniz! Sizinle yeniden giriş kontrol listesinin 5-3. sayfasında buluşacağız."
+    }
+  ],
+  "stringsPerStepCompletionCondition": [
+    [
       {
-        "en": "Land the space shuttle on Runway 15 at Cape Canaveral.",
-        "es": "Aterriza el transbordador espacial en la Pista 15 de Cabo Cañaveral.",
-        "zh": "将航天飞机降落在肯尼迪航天中心",
-        "bg": "Приземете космическата совалка на писта 15 в Кейп Канаверал."
-      },
-      {
-        "en": "Passing 2000ft. Start the flare.",
-        "es": "Pasando los 2000 pies. Comienza a nivelar el avión.",
-        "zh": "过2000英尺，开始拉平飘",
-        "bg": "Пресякохте 2000фт. Започнете да изравнявате совалката."
-      },
-      {
-        "en": "300ft AGL, gear down",
-        "es": "300 pies AGL, tren de aterrizaje abajo",
-        "zh": "离地300英尺，放轮",
-         "bg": "300фт над земята, спуснете колесника"
-      },
-      {
-        "en": "Touchdown!",
-        "es": "Atterizaje!",
-        "zh": "接地！",
-        "bg": "Приземихте се!"
-      },
-      {
-        "en": "Congratulations on a successful re-entry and mission completion. Everybody welcome back to earth! We'll meet you on page 5-3 of the reentry checklist.",
-        "es": "¡Felicidades por una reentrada exitosa y la finalización de la misión! ¡Bienvenidos de vuelta a la Tierra a todos! Nos vemos en la página 5-3 de la lista de verificación de reentrada.",
-        "zh": "恭喜你成功完成返回任务。欢迎各位回到地球！我们将按照再入检查单的5-3页执行着陆后程序。",
-        "bg": "Поздравления за успешното навлизане и завършване на мисията. Добре дошли обратно на Земята! Ще се видим на страница 5-3 от контролната карта за навлизане."
+        "aircraft/0/altitude_msl": {
+          "en": "Pass through 2000ft",
+          "es": "Pasa por 2000ft",
+          "zh": "下降通过2000英尺",
+          "bg": "Пресечете 2000фт",
+          "tr": "2000ft'den geç"
+        }
       }
     ],
-    "stringsPerStepCompletionCondition": [
-      [
-        {
-          "aircraft/0/altitude_msl": {
-            "en": "Pass through 2000ft",
-            "es": "Pasa por 2000ft",
-            "zh": "下降通过2000英尺",
-            "bg": "Пресечете 2000фт"
-          }
-        }
-      ],
-      [
-        {
-          "aircraft/0/altitude_msl": {
-            "en": null
-          }
-        }
-      ],
-      [
-        {
-          "aircraft/0/is_on_ground": {
-            "en": null
-          }
-        },
-        {
-          "aircraft/0/is_on_runway": {
-            "en": "Land on runway.",
-            "es": "Atteriza en pista.",
-            "zh": "降落到跑道上",
-            "bg": "Кацнете на пистата."
-          }
-        }
-      ],
-      [
-        {
-          "aircraft/0/groundspeed": {
-            "en": "Wheel Stop",
-            "es": "Wheel Stop",
-            "zh": "完全停稳飞机",
-            "bg": "Спрете колелата"
-          }
-        },
-        {
-          "infiniteflight/nearest_airport": {
-            "en": null
-          }
-        },
-        {
-          "aircraft/0/is_on_runway": {
-            "en": null
-          }
-        }
-      ],
-      []
-    ],
-    "stringsPerFailCondition": [
+    [
       {
-        "en": ""
+        "aircraft/0/altitude_msl": {
+          "en": null
+        }
       }
-    ]
-  }
+    ],
+    [
+      {
+        "aircraft/0/is_on_ground": {
+          "en": null
+        }
+      },
+      {
+        "aircraft/0/is_on_runway": {
+          "en": "Land on runway.",
+          "es": "Atteriza en pista.",
+          "zh": "降落到跑道上",
+          "bg": "Кацнете на пистата.",
+          "tr": "Piste iniş yapın."
+        }
+      }
+    ],
+    [
+      {
+        "aircraft/0/groundspeed": {
+          "en": "Wheel Stop",
+          "es": "Wheel Stop",
+          "zh": "完全停稳飞机",
+          "bg": "Спрете колелата",
+          "tr": "Wheel Stop"
+        }
+      },
+      {
+        "infiniteflight/nearest_airport": {
+          "en": null
+        }
+      },
+      {
+        "aircraft/0/is_on_runway": {
+          "en": null
+        }
+      }
+    ],
+    []
+  ],
+  "stringsPerFailCondition": [
+    {
+      "en": ""
+    }
+  ]
+}
