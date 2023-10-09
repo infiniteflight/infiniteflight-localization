@@ -3,32 +3,39 @@
       "name": {
         "en": "Shuttle Approach Runway 15",
         "es": "Shuttle Approach Runway 15"
+        "zh": "航天飞机返回任务-跑道15"
       },
       "description": {
         "en": "Land the Space Shuttle Atlantis at Cape Canaveral by flying through the waypoints",
         "es": "Atteriza el Space Shuttle en Cape Canaveral volando por los waypoints"
+        "zh": "飞越一系列路径点，将航天飞机降落在位于卡纳维拉尔角的肯尼迪航天中心"
       }
     },
     "stringsPerStep": [
       {
         "en": "Land the space shuttle on Runway 15 at Cape Canaveral.",
         "es": "Aterriza el transbordador espacial en la Pista 15 de Cabo Cañaveral."
+        "zh": "将航天飞机降落在肯尼迪航天中心"
       },
       {
         "en": "Passing 2000ft. Start the flare.",
         "es": "Pasando los 2000 pies. Comienza a nivelar el avión."
+        "zh": "过2000英尺，开始拉平飘"
       },
       {
         "en": "300ft AGL, gear down",
         "es": "300 pies AGL, tren de aterrizaje abajo"
+        "zh": "离地300英尺，放轮"
       },
       {
         "en": "Touchdown!",
         "es": "Atterizaje!"
+        "zh": "接地！"
       },
       {
         "en": "Congratulations on a successful re-entry and mission completion. Everybody welcome back to earth! We'll meet you on page 5-3 of the reentry checklist.",
         "es": "¡Felicidades por una reentrada exitosa y la finalización de la misión! ¡Bienvenidos de vuelta a la Tierra a todos! Nos vemos en la página 5-3 de la lista de verificación de reentrada."
+        "zh": "恭喜你成功完成返回任务。欢迎各位回到地球！我们将按照再入检查单的5-3页执行着陆后程序。"
       }
     ],
     "stringsPerStepCompletionCondition": [
@@ -37,6 +44,7 @@
           "aircraft/0/altitude_msl": {
             "en": "Pass through 2000ft",
             "es": "Pasa por 2000ft"
+            "zh": "下降通过2000英尺"
           }
         }
       ],
@@ -57,6 +65,7 @@
           "aircraft/0/is_on_runway": {
             "en": "Land on runway.",
             "es": "Atteriza en pista."
+            "zh": "降落到跑道上"
           }
         }
       ],
@@ -65,6 +74,7 @@
           "aircraft/0/groundspeed": {
             "en": "Wheel Stop",
             "es": "Wheel Stop"
+            "zh": "完全停稳飞机"
           }
         },
         {
