@@ -420,7 +420,8 @@
       {
         "aircraft/0/pitch": {
           "en": "Pitch 5° down",
-          "es": "Baja el morro 5°"
+          "es": "Baja el morro 5°",
+          "bg": "Наклонете носа 5° надолу"
         }
       }
     ],
@@ -428,7 +429,8 @@
       {
         "aircraft/0/pitch": {
           "en": "Pitch 5° up",
-          "es": "Inclina 5° hacia arriba"
+          "es": "Inclina 5° hacia arriba",
+          "bg": "Наклонете носа 5° нагоре"
         }
       }
     ],
@@ -436,7 +438,8 @@
       {
         "aircraft/0/pitch": {
           "en": "Return to straight and level",
-          "es": "Regresa al vuelo recto y nivelado."
+          "es": "Regresa al vuelo recto y nivelado.",
+          "bg": "Върнете се към хоризонтален полет."
         }
       }
     ],
@@ -447,7 +450,8 @@
       {
         "aircraft/0/bank": {
           "en": "Bank 20° to the left",
-          "es": "Incline 20° a la izquierda"
+          "es": "Incline 20° a la izquierda",
+          "bg": "Наклонете самолета 20° наляво"
         }
       }
     ],
@@ -455,7 +459,8 @@
       {
         "aircraft/0/bank": {
           "en": "Bank 20° right",
-          "es": "Incline 20° a la derecha"
+          "es": "Incline 20° a la derecha",
+          "bg": "Наклонете самолета 20° надясно"
         }
       }
     ],
@@ -463,7 +468,8 @@
       {
         "aircraft/0/bank": {
           "en": "Return to straight and level flight.",
-          "es": "Regresa al vuelo recto y nivelado."
+          "es": "Regresa al vuelo recto y nivelado.",
+          "bg": "Върнете се към хоризонтален полет."
         }
       }
     ],
@@ -478,13 +484,15 @@
       {
         "aircraft/0/indicated_airspeed": {
           "en": "Speed >105kts",
-          "es": "Velocidad > 105 kts"
+          "es": "Velocidad > 105 kts",
+          "bg": "Скорост > 105 възела"
         }
       },
       {
         "aircraft/0/systems/engines/0/throttle_lever": {
           "en": "Throttle to 100% Power",
-          "es": "Acelera al 100% de potencia"
+          "es": "Acelera al 100% de potencia",
+          "bg": "Дросел на 100% тяга"
         }
       }
     ],
@@ -501,7 +509,8 @@
       {
         "aircraft/0/flightplan/destination_waypoint_name": {
           "en": "Set the destination airport to KSMO",
-          "es": "Selecciona aeropuerto destino de KSMO"
+          "es": "Selecciona aeropuerto destino de KSMO",
+          "bg": "Задайте KSMO за дестинация"
         }
       }
     ],
