@@ -290,7 +290,7 @@
     <comment>Cancel (button text)</comment>
   </data>
   <data name="Settings.About" xml:space="preserve">
-    <value>Hakkında</value>
+    <value>HAKKINDA</value>
     <comment>About (button title)</comment>
   </data>
   <data name="Settings.Account" xml:space="preserve">
