@@ -3115,9 +3115,9 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>НЕ Е НАЛИЧНО РВД</value>
     <comment>ATC NOT AVAILABLE</comment>
   </data>
-  <data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
+  <data name="WorldModeModalControl.GradeThreeRequired" xml:space="preserve">
     <value>ИЗИСКВА СЕ РАНГ 2</value>
-    <comment>GRADE 2 REQUIRED</comment>
+    <comment>GRADE 3 REQUIRED</comment>
   </data>
   <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
     <value>ПОВЕЧЕ

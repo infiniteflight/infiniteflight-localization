@@ -2723,8 +2723,8 @@ Consultez la carte pour plus d’informations</value>
   <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
     <value>ATC INDISPONIBLE</value>
   </data>
-  <data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
-    <value>GRADE 2 REQUIS</value>
+  <data name="WorldModeModalControl.GradeThreeRequired" xml:space="preserve">
+    <value>GRADE 3 REQUIS</value>
   </data>
   <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
     <value>PLUS DE

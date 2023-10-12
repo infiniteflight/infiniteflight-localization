@@ -2768,8 +2768,8 @@ SERVIDORES</value>
   <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
     <value>CONTROL AÉREO NO DISPONIBLE</value>
   </data>
-  <data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
-    <value>SE NECESITA GRADE 2</value>
+  <data name="WorldModeModalControl.GradeThreeRequired" xml:space="preserve">
+    <value>SE NECESITA GRADO 3</value>
   </data>
   <data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
     <value>SIN ACCESO</value>

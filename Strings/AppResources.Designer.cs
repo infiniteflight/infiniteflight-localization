@@ -7025,11 +7025,11 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to GRADE 2 REQUIRED.
+        ///   Looks up a localized string similar to GRADE 3 REQUIRED.
         /// </summary>
-        internal static string WorldModeModalControl_GradeTwoRequired {
+        internal static string WorldModeModalControl_GradeThreeRequired {
             get {
-                return ResourceManager.GetString("WorldModeModalControl.GradeTwoRequired", resourceCulture);
+                return ResourceManager.GetString("WorldModeModalControl.GradeThreeRequired", resourceCulture);
             }
         }
         

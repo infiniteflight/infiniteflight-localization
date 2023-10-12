@@ -3004,8 +3004,8 @@ Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolc
   <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
     <value>ATC MEVCUT DEĞIL</value>
   </data>
-  <data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
-    <value>2. RÜTBE GEREKLİ</value>
+  <data name="WorldModeModalControl.GradeThreeRequired" xml:space="preserve">
+    <value>3. RÜTBE GEREKLİ</value>
   </data>
   <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
     <value>DAHA FAZLA

@@ -3135,9 +3135,9 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>ATC不可用</value>
     <comment>ATC NOT AVAILABLE</comment>
   </data>
-  <data name="WorldModeModalControl.GradeTwoRequired" xml:space="preserve">
-    <value>需要达到等级2</value>
-    <comment>GRADE 2 REQUIRED</comment>
+  <data name="WorldModeModalControl.GradeThreeRequired" xml:space="preserve">
+    <value>需要达到等级3</value>
+    <comment>GRADE 3 REQUIRED</comment>
   </data>
   <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
     <value>更多
