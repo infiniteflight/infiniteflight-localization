@@ -3305,4 +3305,8 @@ PLAYER</comment>
     <value>LAST SAVED</value>
     <comment>LAST SAVED</comment>
   </data>
+  <data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
+    <value>WEEKLY LEADERBOARD</value>
+    <comment>WEEKLY LEADERBOARD</comment>
+  </data>
 </root>
