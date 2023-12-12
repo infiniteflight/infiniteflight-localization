@@ -2749,4 +2749,31 @@ JOUEUR</value>
   <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
     <value>MARRE DE VOLER SEUL ?</value>
   </data>
+  <data name="GameControlsAxisSetupControl.AxisUpper" xml:space="preserve">
+    <value>AXE</value>
+  </data>
+  <data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
+    <value>INVERSER</value>
+  </data>
+  <data name="GameControlsAxisSetupControl.MoveAxisToAssignUpper" xml:space="preserve">
+    <value>BOUGER L'AXE À ASSIGNER</value>
+  </data>
+  <data name="GameControlsAxisSetupControl.TapToAssignUpper" xml:space="preserve">
+    <value>TOUCHEZ POUR ASSIGNER</value>
+  </data>
+  <data name="GamePage.AutoSaveUpper" xml:space="preserve">
+    <value>SAUVEGARDE AUTOMATIQUE</value>
+  </data>
+  <data name="GamePage.ConditionsUpper" xml:space="preserve">
+    <value>CONDITIONS</value>
+  </data>
+  <data name="GamePage.FlightNotSavedUpper" xml:space="preserve">
+    <value>VOL NON SAUVEGARDÉ</value>
+  </data>
+  <data name="GamePage.LastSavedUpper" xml:space="preserve">
+    <value>DERNIÈRE SAUVEGARDE</value>
+  </data>
+  <data name="LogbookControl.CouldNotImportReplayStorageError" xml:space="preserve">
+    <value>Impossible d'importer le fichier replay. Veuillez vérifier l'espace de stockage disponible.</value>
+  </data>
 </root>

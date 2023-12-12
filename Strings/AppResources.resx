@@ -3269,4 +3269,40 @@ PLAYER</comment>
     <value>TIRED OF FLYING ALONE?</value>
     <comment>TIRED OF FLYING ALONE?</comment>
   </data>
+  <data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
+    <value>INVERT</value>
+    <comment>INVERT</comment>
+  </data>
+  <data name="LogbookControl.CouldNotImportReplayStorageError" xml:space="preserve">
+    <value>Could not import replay file, please check available storage space.</value>
+    <comment>Could not import replay file, please check available storage space.</comment>
+  </data>
+  <data name="GameControlsAxisSetupControl.AxisUpper" xml:space="preserve">
+    <value>AXIS</value>
+    <comment>AXIS</comment>
+  </data>
+  <data name="GameControlsAxisSetupControl.MoveAxisToAssignUpper" xml:space="preserve">
+    <value>MOVE AXIS TO ASSIGN</value>
+    <comment>MOVE AXIS TO ASSIGN</comment>
+  </data>
+  <data name="GameControlsAxisSetupControl.TapToAssignUpper" xml:space="preserve">
+    <value>TAP TO ASSIGN</value>
+    <comment>TAP TO ASSIGN</comment>
+  </data>
+  <data name="GamePage.AutoSaveUpper" xml:space="preserve">
+    <value>AUTO SAVE</value>
+    <comment>AUTO SAVE</comment>
+  </data>
+  <data name="GamePage.ConditionsUpper" xml:space="preserve">
+    <value>CONDITIONS</value>
+    <comment>CONDITIONS</comment>
+  </data>
+  <data name="GamePage.FlightNotSavedUpper" xml:space="preserve">
+    <value>FLIGHT NOT SAVED</value>
+    <comment>FLIGHT NOT SAVED</comment>
+  </data>
+  <data name="GamePage.LastSavedUpper" xml:space="preserve">
+    <value>LAST SAVED</value>
+    <comment>LAST SAVED</comment>
+  </data>
 </root>

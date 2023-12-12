@@ -1873,6 +1873,42 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to AXIS.
+        /// </summary>
+        internal static string GameControlsAxisSetupControl_AxisUpper {
+            get {
+                return ResourceManager.GetString("GameControlsAxisSetupControl.AxisUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to INVERT.
+        /// </summary>
+        internal static string GameControlsAxisSetupControl_InvertUpper {
+            get {
+                return ResourceManager.GetString("GameControlsAxisSetupControl.InvertUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MOVE AXIS TO ASSIGN.
+        /// </summary>
+        internal static string GameControlsAxisSetupControl_MoveAxisToAssignUpper {
+            get {
+                return ResourceManager.GetString("GameControlsAxisSetupControl.MoveAxisToAssignUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TAP TO ASSIGN.
+        /// </summary>
+        internal static string GameControlsAxisSetupControl_TapToAssignUpper {
+            get {
+                return ResourceManager.GetString("GameControlsAxisSetupControl.TapToAssignUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 20s Ago.
         /// </summary>
         internal static string GameMenu_20sAgo {
@@ -2008,6 +2044,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to AUTO SAVE.
+        /// </summary>
+        internal static string GamePage_AutoSaveUpper {
+            get {
+                return ResourceManager.GetString("GamePage.AutoSaveUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CONDITIONS.
+        /// </summary>
+        internal static string GamePage_ConditionsUpper {
+            get {
+                return ResourceManager.GetString("GamePage.ConditionsUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Are you sure you want to end this flight?.
         /// </summary>
         internal static string GamePage_EndFlight_Message {
@@ -2040,6 +2094,24 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string GamePage_EndSession_Title {
             get {
                 return ResourceManager.GetString("GamePage.EndSession.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to FLIGHT NOT SAVED.
+        /// </summary>
+        internal static string GamePage_FlightNotSavedUpper {
+            get {
+                return ResourceManager.GetString("GamePage.FlightNotSavedUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LAST SAVED.
+        /// </summary>
+        internal static string GamePage_LastSavedUpper {
+            get {
+                return ResourceManager.GetString("GamePage.LastSavedUpper", resourceCulture);
             }
         }
         
@@ -2851,6 +2923,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string LogbookControl_AtcUpper {
             get {
                 return ResourceManager.GetString("LogbookControl.AtcUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Could not import replay file, please check available storage space..
+        /// </summary>
+        internal static string LogbookControl_CouldNotImportReplayStorageError {
+            get {
+                return ResourceManager.GetString("LogbookControl.CouldNotImportReplayStorageError", resourceCulture);
             }
         }
         
