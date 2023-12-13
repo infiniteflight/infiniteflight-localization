@@ -3325,4 +3325,8 @@ PLAYER</comment>
     <value>Saved</value>
     <comment>Saved</comment>
   </data>
+  <data name="GamePage.DiscardSavedFlight" xml:space="preserve">
+    <value>Overwrite currently saved flight?</value>
+    <comment>Overwrite currently saved flight?</comment>
+  </data>
 </root>

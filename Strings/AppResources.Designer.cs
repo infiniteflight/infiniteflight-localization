@@ -2044,6 +2044,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Overwrite currently saved flight?.
+        /// </summary>
+        internal static string GamePage_DiscardSavedFlight {
+            get {
+                return ResourceManager.GetString("GamePage.DiscardSavedFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Are you sure you want to end this flight?.
         /// </summary>
         internal static string GamePage_EndFlight_Message {
