@@ -2044,24 +2044,6 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to AUTO SAVE.
-        /// </summary>
-        internal static string GamePage_AutoSaveUpper {
-            get {
-                return ResourceManager.GetString("GamePage.AutoSaveUpper", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to CONDITIONS.
-        /// </summary>
-        internal static string GamePage_ConditionsUpper {
-            get {
-                return ResourceManager.GetString("GamePage.ConditionsUpper", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Are you sure you want to end this flight?.
         /// </summary>
         internal static string GamePage_EndFlight_Message {
@@ -2098,20 +2080,47 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to FLIGHT NOT SAVED.
+        ///   Looks up a localized string similar to This flight can be resumed.
         /// </summary>
-        internal static string GamePage_FlightNotSavedUpper {
+        internal static string GamePage_FlightCanBeResumed {
             get {
-                return ResourceManager.GetString("GamePage.FlightNotSavedUpper", resourceCulture);
+                return ResourceManager.GetString("GamePage.FlightCanBeResumed", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to LAST SAVED.
+        ///   Looks up a localized string similar to This flight cannot be resumed.
         /// </summary>
-        internal static string GamePage_LastSavedUpper {
+        internal static string GamePage_FlightCannotBeResumed {
             get {
-                return ResourceManager.GetString("GamePage.LastSavedUpper", resourceCulture);
+                return ResourceManager.GetString("GamePage.FlightCannotBeResumed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to FLIGHT RESUME.
+        /// </summary>
+        internal static string GamePage_FlightResumeIndicatorName {
+            get {
+                return ResourceManager.GetString("GamePage.FlightResumeIndicatorName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to leave this flight?.
+        /// </summary>
+        internal static string GamePage_LeaveFlight_Message {
+            get {
+                return ResourceManager.GetString("GamePage.LeaveFlight.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Leave Flight.
+        /// </summary>
+        internal static string GamePage_LeaveFlight_Title {
+            get {
+                return ResourceManager.GetString("GamePage.LeaveFlight.Title", resourceCulture);
             }
         }
         
@@ -2341,11 +2350,38 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Not Saved.
+        /// </summary>
+        internal static string Global_NotSaved {
+            get {
+                return ResourceManager.GetString("Global.NotSaved", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to OFF.
+        /// </summary>
+        internal static string Global_Off {
+            get {
+                return ResourceManager.GetString("Global.Off", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to OK.
         /// </summary>
         internal static string Global_Ok {
             get {
                 return ResourceManager.GetString("Global.Ok", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ON.
+        /// </summary>
+        internal static string Global_On {
+            get {
+                return ResourceManager.GetString("Global.On", resourceCulture);
             }
         }
         
@@ -2409,6 +2445,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Global_Runway {
             get {
                 return ResourceManager.GetString("Global_Runway", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Saved.
+        /// </summary>
+        internal static string Global_Saved {
+            get {
+                return ResourceManager.GetString("Global.Saved", resourceCulture);
             }
         }
         
