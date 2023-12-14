@@ -3233,4 +3233,8 @@ PLAYER</comment>
     <value>你有未完成的飞行，要覆盖它吗？</value>
     <comment>Overwrite currently saved flight?</comment>
   </data>
+<data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
+    <value>每周排行榜</value>
+    <comment>WEEKLY LEADERBOARD</comment>
+  </data>
 </root>
