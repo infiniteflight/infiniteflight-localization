@@ -1986,7 +1986,7 @@
     <comment />
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
-    <value>Натиснете бутон наклавиатурата, за да зададете</value>
+    <value>Натиснете бутон на клавиатурата, за да зададете</value>
     <comment>Press button on \nKeyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
@@ -3211,5 +3211,37 @@ PLAYER</comment>
   <data name="GamePage.DiscardSavedFlight" xml:space="preserve">
     <value>Сигурни ли сте, че искате да презапишете запазения до момента полет?</value>
     <comment>Overwrite currently saved flight?</comment>
+  </data>
+  <data name="Global.Cancelled" xml:space="preserve">
+    <value>ОТМЕНЕН</value>
+    <comment>CANCELLED</comment>
+  </data>
+  <data name="Global.InFlight" xml:space="preserve">
+    <value>В ПОЛЕТ</value>
+    <comment>IN FLIGHT</comment>
+  </data>
+  <data name="Global.OnGround" xml:space="preserve">
+    <value>НА ЗЕМЯТА</value>
+    <comment>ON GROUND</comment>
+  </data>
+  <data name="Global.Parked" xml:space="preserve">
+    <value>ПАРКИРАН</value>
+    <comment>PARKED</comment>
+  </data>
+  <data name="Global.ResumeLastFlight" xml:space="preserve">
+    <value>ПРОДЪЛЖИ ПРЕДИШНИЯ ПОЛЕТ</value>
+    <comment>RESUME LAST FLIGHT</comment>
+  </data>
+  <data name="Global.Stopped" xml:space="preserve">
+    <value>ПРЕКРАТЕН</value>
+    <comment>STOPPED</comment>
+  </data>
+  <data name="Global.Taxiing" xml:space="preserve">
+    <value>РУЛИРАЩ</value>
+    <comment>TAXIING</comment>
+  </data>
+  <data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
+    <value>СЕДМИЧНА КЛАСАЦИЯ</value>
+    <comment>WEEKLY LEADERBOARD</comment>
   </data>
 </root>
