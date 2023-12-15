@@ -2776,4 +2776,32 @@ JOUEUR</value>
   <data name="LogbookControl.CouldNotImportReplayStorageError" xml:space="preserve">
     <value>Impossible d'importer le fichier replay. Veuillez vérifier l'espace de stockage disponible.</value>
   </data>
+  <data name="Global.Cancelled" xml:space="preserve">
+    <value>ANNULÉ</value>
+    <comment>CANCELLED</comment>
+  </data>
+  <data name="Global.InFlight" xml:space="preserve">
+    <value>EN VOL</value>
+    <comment>IN FLIGHT</comment>
+  </data>
+  <data name="Global.OnGround" xml:space="preserve">
+    <value>AU SOL</value>
+    <comment>ON GROUND</comment>
+  </data>
+  <data name="Global.Parked" xml:space="preserve">
+    <value>GARÉ</value>
+    <comment>PARKED</comment>
+  </data>
+  <data name="Global.ResumeLastFlight" xml:space="preserve">
+    <value>REPRENDRE LE DERNIER VOL</value>
+    <comment>RESUME LAST FLIGHT</comment>
+  </data>
+  <data name="Global.Stopped" xml:space="preserve">
+    <value>ARRETÉ</value>
+    <comment>STOPPED</comment>
+  </data>
+  <data name="Global.Taxiing" xml:space="preserve">
+    <value>ROULAGE</value>
+    <comment>TAXIING</comment>
+  </data>
 </root>

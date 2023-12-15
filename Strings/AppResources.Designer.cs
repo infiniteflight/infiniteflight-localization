@@ -2179,6 +2179,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CANCELLED.
+        /// </summary>
+        internal static string Global_Cancelled {
+            get {
+                return ResourceManager.GetString("Global.Cancelled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Carry your passion.
         /// </summary>
         internal static string Global_CarryYourPassion {
@@ -2296,6 +2305,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to IN FLIGHT.
+        /// </summary>
+        internal static string Global_InFlight {
+            get {
+                return ResourceManager.GetString("Global.InFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Loading....
         /// </summary>
         internal static string Global_Loading {
@@ -2395,11 +2413,29 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ON GROUND.
+        /// </summary>
+        internal static string Global_OnGround {
+            get {
+                return ResourceManager.GetString("Global.OnGround", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Operations.
         /// </summary>
         internal static string Global_Operations {
             get {
                 return ResourceManager.GetString("Global.Operations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PARKED.
+        /// </summary>
+        internal static string Global_Parked {
+            get {
+                return ResourceManager.GetString("Global.Parked", resourceCulture);
             }
         }
         
@@ -2436,6 +2472,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Global_RestorePurchases {
             get {
                 return ResourceManager.GetString("Global.RestorePurchases", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to RESUME LAST FLIGHT.
+        /// </summary>
+        internal static string Global_ResumeLastFlight {
+            get {
+                return ResourceManager.GetString("Global.ResumeLastFlight", resourceCulture);
             }
         }
         
@@ -2485,11 +2530,29 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to STOPPED.
+        /// </summary>
+        internal static string Global_Stopped {
+            get {
+                return ResourceManager.GetString("Global.Stopped", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Takeoff.
         /// </summary>
         internal static string Global_Takeoff {
             get {
                 return ResourceManager.GetString("Global_Takeoff", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TAXIING.
+        /// </summary>
+        internal static string Global_Taxiing {
+            get {
+                return ResourceManager.GetString("Global.Taxiing", resourceCulture);
             }
         }
         

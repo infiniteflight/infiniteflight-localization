@@ -3329,4 +3329,32 @@ PLAYER</comment>
     <value>Overwrite currently saved flight?</value>
     <comment>Overwrite currently saved flight?</comment>
   </data>
+  <data name="Global.Cancelled" xml:space="preserve">
+    <value>CANCELLED</value>
+    <comment>CANCELLED</comment>
+  </data>
+  <data name="Global.InFlight" xml:space="preserve">
+    <value>IN FLIGHT</value>
+    <comment>IN FLIGHT</comment>
+  </data>
+  <data name="Global.OnGround" xml:space="preserve">
+    <value>ON GROUND</value>
+    <comment>ON GROUND</comment>
+  </data>
+  <data name="Global.Parked" xml:space="preserve">
+    <value>PARKED</value>
+    <comment>PARKED</comment>
+  </data>
+  <data name="Global.ResumeLastFlight" xml:space="preserve">
+    <value>RESUME LAST FLIGHT</value>
+    <comment>RESUME LAST FLIGHT</comment>
+  </data>
+  <data name="Global.Stopped" xml:space="preserve">
+    <value>STOPPED</value>
+    <comment>STOPPED</comment>
+  </data>
+  <data name="Global.Taxiing" xml:space="preserve">
+    <value>TAXIING</value>
+    <comment>TAXIING</comment>
+  </data>
 </root>
