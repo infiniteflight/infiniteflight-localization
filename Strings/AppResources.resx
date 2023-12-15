@@ -3289,21 +3289,73 @@ PLAYER</comment>
     <value>TAP TO ASSIGN</value>
     <comment>TAP TO ASSIGN</comment>
   </data>
-  <data name="GamePage.AutoSaveUpper" xml:space="preserve">
-    <value>AUTO SAVE</value>
-    <comment>AUTO SAVE</comment>
+  <data name="GamePage.FlightCanBeResumed" xml:space="preserve">
+    <value>This flight can be resumed</value>
+    <comment>This flight can be resumed</comment>
   </data>
-  <data name="GamePage.ConditionsUpper" xml:space="preserve">
-    <value>CONDITIONS</value>
-    <comment>CONDITIONS</comment>
+  <data name="GamePage.FlightCannotBeResumed" xml:space="preserve">
+    <value>This flight cannot be resumed</value>
+    <comment>This flight cannot be resumed</comment>
   </data>
-  <data name="GamePage.FlightNotSavedUpper" xml:space="preserve">
-    <value>FLIGHT NOT SAVED</value>
-    <comment>FLIGHT NOT SAVED</comment>
+  <data name="GamePage.LeaveFlight.Message" xml:space="preserve">
+    <value>Are you sure you want to leave this flight?</value>
+    <comment>Are you sure you want to leave this flight?</comment>
   </data>
-  <data name="GamePage.LastSavedUpper" xml:space="preserve">
-    <value>LAST SAVED</value>
-    <comment>LAST SAVED</comment>
+  <data name="GamePage.FlightResumeIndicatorName" xml:space="preserve">
+    <value>FLIGHT RESUME</value>
+    <comment>FLIGHT RESUME</comment>
+  </data>
+  <data name="GamePage.LeaveFlight.Title" xml:space="preserve">
+    <value>Leave Flight</value>
+    <comment>Leave Flight</comment>
+  </data>
+  <data name="Global.NotSaved" xml:space="preserve">
+    <value>Not Saved</value>
+    <comment>Not Saved</comment>
+  </data>
+  <data name="Global.Off" xml:space="preserve">
+    <value>OFF</value>
+    <comment>OFF</comment>
+  </data>
+  <data name="Global.On" xml:space="preserve">
+    <value>ON</value>
+    <comment>ON</comment>
+  </data>
+  <data name="Global.Saved" xml:space="preserve">
+    <value>Saved</value>
+    <comment>Saved</comment>
+  </data>
+  <data name="GamePage.DiscardSavedFlight" xml:space="preserve">
+    <value>Overwrite currently saved flight?</value>
+    <comment>Overwrite currently saved flight?</comment>
+  </data>
+  <data name="Global.Cancelled" xml:space="preserve">
+    <value>CANCELLED</value>
+    <comment>CANCELLED</comment>
+  </data>
+  <data name="Global.InFlight" xml:space="preserve">
+    <value>IN FLIGHT</value>
+    <comment>IN FLIGHT</comment>
+  </data>
+  <data name="Global.OnGround" xml:space="preserve">
+    <value>ON GROUND</value>
+    <comment>ON GROUND</comment>
+  </data>
+  <data name="Global.Parked" xml:space="preserve">
+    <value>PARKED</value>
+    <comment>PARKED</comment>
+  </data>
+  <data name="Global.ResumeLastFlight" xml:space="preserve">
+    <value>RESUME LAST FLIGHT</value>
+    <comment>RESUME LAST FLIGHT</comment>
+  </data>
+  <data name="Global.Stopped" xml:space="preserve">
+    <value>STOPPED</value>
+    <comment>STOPPED</comment>
+  </data>
+  <data name="Global.Taxiing" xml:space="preserve">
+    <value>TAXIING</value>
+    <comment>TAXIING</comment>
   </data>
   <data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
     <value>WEEKLY LEADERBOARD</value>
