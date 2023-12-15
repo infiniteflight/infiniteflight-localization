@@ -2776,6 +2776,9 @@ JOUEUR</value>
   <data name="LogbookControl.CouldNotImportReplayStorageError" xml:space="preserve">
     <value>Impossible d'importer le fichier replay. Veuillez vérifier l'espace de stockage disponible.</value>
   </data>
+  <data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
+    <value>CLASSEMENT HEBDOMADAIRE</value>
+  </data>
   <data name="Global.Cancelled" xml:space="preserve">
     <value>ANNULÉ</value>
     <comment>CANCELLED</comment>

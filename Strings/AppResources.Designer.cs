@@ -2881,6 +2881,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to WEEKLY LEADERBOARD.
+        /// </summary>
+        internal static string LeaderboardsControl_WeeklyLeaderboardUpper {
+            get {
+                return ResourceManager.GetString("LeaderboardsControl.WeeklyLeaderboardUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Live Data (All Servers).
         /// </summary>
         internal static string LiveMapControl_LiveData {
