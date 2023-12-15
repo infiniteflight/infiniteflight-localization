@@ -2624,7 +2624,7 @@ Check map for more information</comment>
     <comment>Account Linked</comment>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
-    <value>想加入IF官方Discord服务器需要先安装Discord.你要现在安装吗？（注意：中国大陆应用商店不提供下载）</value>
+    <value>想加入IF官方Discord服务器需要先安装Discord。你要现在安装吗？（注意：中国大陆应用商店不提供下载）</value>
     <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
@@ -3024,7 +3024,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>确认清空飞行计划？</value>
   </data>
   <data name="FlightPlan.ImportError" xml:space="preserve">
-    <value>保存飞行计划文件时出错。请检查存储空间。</value>
+    <value>保存飞行计划文件时出错。请确认设备有足够存储空间。</value>
   </data>
   <data name="FlightPlan.Title" xml:space="preserve">
     <value>飞行计划</value>
@@ -3172,5 +3172,69 @@ PLAYER</comment>
   <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
     <value>一个人飞空虚又寂寞？</value>
     <comment>TIRED OF FLYING ALONE?</comment>
+  </data>
+ <data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
+    <value>INVERT</value>
+    <comment>反转</comment>
+  </data>
+  <data name="LogbookControl.CouldNotImportReplayStorageError" xml:space="preserve">
+    <value>无法导入回放文件，请确认设备有足够存储空间</value>
+    <comment>Could not import replay file, please check available storage space.</comment>
+  </data>
+  <data name="GameControlsAxisSetupControl.AxisUpper" xml:space="preserve">
+    <value>轴</value>
+    <comment>AXIS</comment>
+  </data>
+  <data name="GameControlsAxisSetupControl.MoveAxisToAssignUpper" xml:space="preserve">
+    <value>移动轴以绑定</value>
+    <comment>MOVE AXIS TO ASSIGN</comment>
+  </data>
+  <data name="GameControlsAxisSetupControl.TapToAssignUpper" xml:space="preserve">
+    <value>点击绑定</value>
+    <comment>TAP TO ASSIGN</comment>
+  </data>
+  <data name="GamePage.FlightCanBeResumed" xml:space="preserve">
+    <value>本次飞行可以断点续飞</value>
+    <comment>This flight can be resumed</comment>
+  </data>
+  <data name="GamePage.FlightCannotBeResumed" xml:space="preserve">
+    <value>当前飞行未保存，无法断点续飞</value>
+    <comment>This flight cannot be resumed</comment>
+  </data>
+  <data name="GamePage.LeaveFlight.Message" xml:space="preserve">
+    <value>确认离开当前飞行？</value>
+    <comment>Are you sure you want to leave this flight?</comment>
+  </data>
+  <data name="GamePage.FlightResumeIndicatorName" xml:space="preserve">
+    <value>断点续飞</value>
+    <comment>FLIGHT RESUME</comment>
+  </data>
+  <data name="GamePage.LeaveFlight.Title" xml:space="preserve">
+    <value>暂时离开</value>
+    <comment>Leave Flight</comment>
+  </data>
+  <data name="Global.NotSaved" xml:space="preserve">
+    <value>进度未保存！</value>
+    <comment>Not Saved</comment>
+  </data>
+  <data name="Global.Off" xml:space="preserve">
+    <value>关</value>
+    <comment>OFF</comment>
+  </data>
+  <data name="Global.On" xml:space="preserve">
+    <value>开</value>
+    <comment>ON</comment>
+  </data>
+  <data name="Global.Saved" xml:space="preserve">
+    <value>进度已保存</value>
+    <comment>Saved</comment>
+  </data>
+  <data name="GamePage.DiscardSavedFlight" xml:space="preserve">
+    <value>你有未完成的飞行，要覆盖它吗？</value>
+    <comment>Overwrite currently saved flight?</comment>
+  </data>
+<data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
+    <value>每周排行榜</value>
+    <comment>WEEKLY LEADERBOARD</comment>
   </data>
 </root>
