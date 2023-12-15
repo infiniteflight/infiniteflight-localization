@@ -502,11 +502,11 @@
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Изпраща данни за Позиция/Височина/Трафик на локални устройства с ForeFlight</value>
+    <value>Изпраща данни за Позиция/Височина/Трафик на локални устройства с EFB приложения като ForeFlight, Garmin Pilot и други</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>Включване на ForeFlight Link</value>
+    <value>Включване на EFB Link</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
@@ -3151,5 +3151,65 @@ PLAYER</comment>
   <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
     <value>СКУЧНО ВИ Е ДА ЛЕТИТЕ САМИ?</value>
     <comment>TIRED OF FLYING ALONE?</comment>
+  </data>
+  <data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
+    <value>ИНВЕРСИЯ</value>
+    <comment>INVERT</comment>
+  </data>
+  <data name="LogbookControl.CouldNotImportReplayStorageError" xml:space="preserve">
+    <value>Импортирането на записа е неуспешно, моля, проверете свободното място за съхранение.</value>
+    <comment>Could not import replay file, please check available storage space.</comment>
+  </data>
+  <data name="GameControlsAxisSetupControl.AxisUpper" xml:space="preserve">
+    <value>ОС</value>
+    <comment>AXIS</comment>
+  </data>
+  <data name="GameControlsAxisSetupControl.MoveAxisToAssignUpper" xml:space="preserve">
+    <value>РАЗДВИЖЕТЕ ОСТА, ЗА ДА Я ЗАДАДЕТЕ</value>
+    <comment>MOVE AXIS TO ASSIGN</comment>
+  </data>
+  <data name="GameControlsAxisSetupControl.TapToAssignUpper" xml:space="preserve">
+    <value>ДОКОСНЕТЕ, ЗА ДА ЗАДАДЕТЕ</value>
+    <comment>TAP TO ASSIGN</comment>
+  </data>
+  <data name="GamePage.FlightCanBeResumed" xml:space="preserve">
+    <value>Този полет може да бъде продължен</value>
+    <comment>This flight can be resumed</comment>
+  </data>
+  <data name="GamePage.FlightCannotBeResumed" xml:space="preserve">
+    <value>Този полет не може да бъде продължен</value>
+    <comment>This flight cannot be resumed</comment>
+  </data>
+  <data name="GamePage.LeaveFlight.Message" xml:space="preserve">
+    <value>Сигурни ли сте, че искате да прекратите полета си?</value>
+    <comment>Are you sure you want to leave this flight?</comment>
+  </data>
+  <data name="GamePage.FlightResumeIndicatorName" xml:space="preserve">
+    <value>ПРОДЪЛЖЕНИЕ НА ПОЛЕТА</value>
+    <comment>FLIGHT RESUME</comment>
+  </data>
+  <data name="GamePage.LeaveFlight.Title" xml:space="preserve">
+    <value>Прекрати полета</value>
+    <comment>Leave Flight</comment>
+  </data>
+  <data name="Global.NotSaved" xml:space="preserve">
+    <value>Незапазен</value>
+    <comment>Not Saved</comment>
+  </data>
+  <data name="Global.Off" xml:space="preserve">
+    <value>ИЗКЛ</value>
+    <comment>OFF</comment>
+  </data>
+  <data name="Global.On" xml:space="preserve">
+    <value>ВКЛ</value>
+    <comment>ON</comment>
+  </data>
+  <data name="Global.Saved" xml:space="preserve">
+    <value>Запазен</value>
+    <comment>Saved</comment>
+  </data>
+  <data name="GamePage.DiscardSavedFlight" xml:space="preserve">
+    <value>Сигурни ли сте, че искате да презапишете запазения до момента полет?</value>
+    <comment>Overwrite currently saved flight?</comment>
   </data>
 </root>
