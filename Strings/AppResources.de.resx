@@ -502,7 +502,7 @@
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Sendet Positions-/Fluglagen-/Verkehrsdaten an lokale Geräte mit aktivem ForeFlight</value>
+    <value>Sendet Positions-/Fluglagen-/Verkehrsdaten an lokale Geräte mit EFBs wie ForeFlight, Garmin Pilot oder anderen.</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
@@ -2530,27 +2530,27 @@
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>Eine Vereinbarung wurde nicht unterzeichnet; Du musst die Vereinbarung unterzeichnen, um diese Aktion durchzuführen (Fehlercode {0})</value>
+    <value>Eine Vereinbarung wurde nicht unterzeichnet; Du musst die Vereinbarung unterzeichnen, um diese Aktion durchzuführen (Error Code {0})</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>Der ausgewählte Flughafen ist nicht verfügbar (Fehlercode {0})</value>
+    <value>Der ausgewählte Flughafen ist nicht verfügbar (Error Code {0})</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>Du wurdest abgemeldet und musst dich manuell neu anmelden (Fehlercode {0})</value>
+    <value>Du wurdest abgemeldet und musst dich manuell neu anmelden (Error Code {0})</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>Diese Funktion wird nicht unterstützt (Fehlercode {0})</value>
+    <value>Diese Funktion wird nicht unterstützt (Error Code {0})</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>Der ausgewählte Server ist nicht verfügbar (Fehlercode {0})</value>
+    <value>Der ausgewählte Server ist nicht verfügbar (Error Code {0})</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Du bist diesem Flughafen nicht zugewiesen. Bitte kontaktiere einen Reviewer oder Moderator (Fehlercode {0})</value>
+    <value>Du bist diesem Flughafen nicht zugewiesen. Bitte kontaktiere einen Reviewer oder Moderator (Error Code {0})</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
@@ -2582,11 +2582,11 @@
     <comment>Discord Account</comment>
   </data>
   <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
-    <value>Dein Discord-Konto wurde verknüpft und du hast Zugang zu unserem Discord-Server, der nur für Pro-Mitglieder zugänglich ist.</value>
+    <value>Dein Discord-Konto wurde verknüpft und du hast Zugang zu unserem Discord-Server, der nur für Pro-Mitglieder zugänglich ist</value>
     <comment>Your Discord account has been linked and you have access to our Pro-only Discord server</comment>
   </data>
   <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
-    <value>Verknüpfe dein Discord-Konto, um exklusiven Zugang zu unserem Pro-Only-Server zu erhalten.</value>
+    <value>Verknüpfe dein Discord-Konto, um exklusiven Zugang zu unserem Pro-Only-Server zu erhalten</value>
     <comment>Link a Discord account to gain exclusive access to our Pro-only server</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
@@ -2642,11 +2642,11 @@
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>Es ist kein Browser verfügbar, um diesen Link zu öffnen. Überprüfe, ob du einen Browser installiert hast, und kontaktiere den Support, falls das Problem weiterhin besteht (Fehlercode {0})</value>
+    <value>Es ist kein Browser verfügbar, um diesen Link zu öffnen. Überprüfe, ob du einen Browser installiert hast, und kontaktiere den Support, falls das Problem weiterhin besteht (Error Code {0})</value>
     <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>Die Verbindung zum Server konnte nicht hergestellt werden, überprüfe deine Internetverbindung (Fehlercode {0})</value>
+    <value>Die Verbindung zum Server konnte nicht hergestellt werden, überprüfe deine Internetverbindung (Error Code {0})</value>
     <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
   </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
@@ -2672,7 +2672,7 @@
     <value>HÖHENMESSER</value>
   </data>
   <data name="FlightMenu.ApproxDurationUpper" xml:space="preserve">
-    <value>CA. DAUER</value>
+    <value>VORAUSS. DAUER</value>
   </data>
   <data name="FlightMenu.CloudsUpper" xml:space="preserve">
     <value>WOLKEN</value>
@@ -2681,7 +2681,7 @@
     <value>ENTFERNUNG</value>
   </data>
   <data name="FlightMenu.FlightSchoolDescription" xml:space="preserve">
-    <value>Meistere deine Flugfähigkeiten mit interaktiven Tutorials</value>
+    <value>Verbessere deine Flugfähigkeiten mit interaktiven Tutorials</value>
   </data>
   <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
     <value>FLUGSCHULE</value>
@@ -2696,7 +2696,7 @@
     <value>ALLGEMEINER FLUG</value>
   </data>
   <data name="FlightMenu.LatestMetarUpper" xml:space="preserve">
-    <value>NEUESTE METAR</value>
+    <value>NEUESTES METAR</value>
   </data>
   <data name="FlightMenu.MissionsDescription" xml:space="preserve">
     <value>Spring direkt ins Geschehen mit empfohlenen Airline- und Charterrouten basierend auf Verkehr und Fluglotsen</value>
@@ -2705,7 +2705,7 @@
     <value>AUFGABEN</value>
   </data>
   <data name="FlightMenu.ParkingUpper" xml:space="preserve">
-    <value>PARKPLATZ</value>
+    <value>PARKPOSITION</value>
   </data>
   <data name="FlightMenu.TemperatureUpper" xml:space="preserve">
     <value>TEMPERATUR</value>
@@ -2760,7 +2760,7 @@
     <value>KEINE LERNINHALTE GEFUNDEN</value>
   </data>
   <data name="Global.NotApplicable" xml:space="preserve">
-    <value>N/A</value>
+    <value>N/V</value>
   </data>
   <data name="LogbookControl.AircraftUpper" xml:space="preserve">
     <value>FLUGZEUG</value>
@@ -2778,7 +2778,7 @@
     <value>DAUER</value>
   </data>
   <data name="LogbookControl.ExportErrorMessage" xml:space="preserve">
-    <value>Fehler beim Exportieren der Wiedergabedatei. Überprüfe, ob genügend Speicherplatz vorhanden ist.</value>
+    <value>Fehler beim Exportieren der Replay-Datei. Überprüfe, ob genügend freierSpeicherplatz vorhanden ist</value>
   </data>
   <data name="LogbookControl.ExportingUpper" xml:space="preserve">
     <value>EXPORTIERE</value>
@@ -2796,13 +2796,13 @@
     <value>KEINE EINTRÄGE GEFUNDEN</value>
   </data>
   <data name="LogbookControl.OnlyReplaysUpper" xml:space="preserve">
-    <value>NUR WIEDERGABEN</value>
+    <value>NUR REPLAYS</value>
   </data>
   <data name="LogbookControl.ServerUpper" xml:space="preserve">
     <value>SERVER</value>
   </data>
   <data name="LogbookControl.SoloUpper" xml:space="preserve">
-    <value>SOLO</value>
+    <value>EINZELSPIELER</value>
   </data>
   <data name="LogbookControl.XpEarnedUpper" xml:space="preserve">
     <value>XP VERDIENT</value>
@@ -2820,7 +2820,7 @@
     <value>FLUGVERKEHRSKONTROLLE</value>
   </data>
   <data name="MainMenuPage.ControlButtonUpper" xml:space="preserve">
-    <value>KONTROLLE</value>
+    <value>STARTEN</value>
   </data>
   <data name="MainMenuPage.FlightUpper" xml:space="preserve">
     <value>FLUG</value>
@@ -2835,7 +2835,7 @@
     <value>WIEDERGABE</value>
   </data>
   <data name="MainMenuPage.UnableToPlayReplay" xml:space="preserve">
-    <value>Kann die Wiedergabedatei nicht abspielen</value>
+    <value>Replay-Datei kann nicht abgespielt werden</value>
   </data>
   <data name="MenuAtcControl.ChangeAirportUpper" xml:space="preserve">
     <value>FLUGHAFEN WECHSELN</value>
@@ -2850,10 +2850,10 @@
     <value>MEHRERE FREQUENZEN</value>
   </data>
   <data name="MenuAtcControl.NewAtcSessionUpper" xml:space="preserve">
-    <value>NEUE ATC-SESSION</value>
+    <value>NEUE ATC-SITZUNG</value>
   </data>
   <data name="MenuAtcControl.NoSessionsFoundUpper" xml:space="preserve">
-    <value>KEINE SESSIONS GEFUNDEN</value>
+    <value>KEINE SITZUNGEN GEFUNDEN</value>
   </data>
   <data name="MenuAtcControl.ResumeAtcSessionQuestion" xml:space="preserve">
     <value>ATC-Sitzung fortsetzen?</value>
@@ -2868,10 +2868,10 @@
     <value>Wähle dein eigenes Flugzeug und deine Route, teste deine Flugfähigkeiten und erkunde wunderschöne Landschaften ohne Regeln oder andere Piloten.</value>
   </data>
   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
-    <value>Weiter tippen, um fortzufahren</value>
+    <value>Tippen, um fortzufahren</value>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-    <value>Die Start- und Endzeiten für diese Sitzung sind ungültig (Fehlercode {0})</value>
+    <value>Die Start- und Endzeiten für diese Sitzung sind ungültig (Error Code {0})</value>
   </data>
   <data name="DefaultMission.AfterLanding" xml:space="preserve">
     <value>Willkommen in {0}. Fahre zum Parkplatz und schalte das Flugzeug ab, um diese Mission abzuschließen</value>
@@ -2926,5 +2926,140 @@ Du kannst diese Sitzung beenden oder eine neue Reise beginnen.</value>
   </data>
   <data name="Mission.MissionBrief" xml:space="preserve">
     <value>MISSIONSBRIEFING</value>
+  </data>
+  <data name="Global.OnGround" xml:space="preserve">
+    <value>AM BODEN</value>
+  </data>
+  <data name="Global.ResumeLastFlight" xml:space="preserve">
+    <value>LETZTEN FLUG FORTSETZEN</value>
+  </data>
+  <data name="Global.Stopped" xml:space="preserve">
+    <value>GESTOPPT</value>
+  </data>
+  <data name="Global.Taxiing" xml:space="preserve">
+    <value>ROLLEND</value>
+  </data>
+  <data name="Global.Parked" xml:space="preserve">
+    <value>GEPARKT</value>
+  </data>
+  <data name="Global.InFlight" xml:space="preserve">
+    <value>IM FLUG</value>
+  </data>
+  <data name="Global.Cancelled" xml:space="preserve">
+    <value>ANNULIERT</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
+    <value>{0:0}% Rabatt</value>
+  </data>
+  <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
+    <value>{0} ist zu klein für dein Flugzeug. Wähle einen anderen Flugplatz.</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.PerMonth" xml:space="preserve">
+    <value>{0}{1:0.00}/Monat</value>
+  </data>
+  <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
+    <value>ATC NICHT VERFÜGBAR</value>
+  </data>
+  <data name="Error.ApplicationInitializationError" xml:space="preserve">
+    <value>Infinite Flight konnte aufgrund eines Problems nicht gestartet werden. Bitte versuche es erneut oder kontaktiere den Support. (Error Code {0})</value>
+  </data>
+  <data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
+    <value>UMKEHREN</value>
+  </data>
+  <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
+    <value>DU WILLST NICHT LÄNGER ALLEIN FLIEGEN?</value>
+  </data>
+  <data name="NewsControl.Mission" xml:space="preserve">
+    <value>Mission</value>
+  </data>
+  <data name="Mission.MissionFailedUpper" xml:space="preserve">
+    <value>MISSION GESCHEITERT</value>
+  </data>
+  <data name="MissionStatusControl.ObjectivesUpper" xml:space="preserve">
+    <value>AUFGABEN</value>
+  </data>
+  <data name="Global.You" xml:space="preserve">
+    <value>Du</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.ProSubtitleSubscribed" xml:space="preserve">
+    <value>Es scheint, dass du bereits ein Abo besitzt! Du kannst dein Abo im Store verwalten.</value>
+  </data>
+  <data name="GamePage.DiscardSavedFlight" xml:space="preserve">
+    <value>Aktuell gespeicherten Flug überschreiben?</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SignInWithInfiniteFlight" xml:space="preserve">
+    <value>Mit Infinite Flight anmelden</value>
+  </data>
+  <data name="FlightPlan.ImportError" xml:space="preserve">
+    <value>Fehler beim Speichern des Flugplans. Überprüfe, ob genug Speicherplatz frei ist</value>
+  </data>
+  <data name="NewsControl.Announcement" xml:space="preserve">
+    <value>Ankündigung</value>
+  </data>
+  <data name="Global.Off" xml:space="preserve">
+    <value>AUS</value>
+  </data>
+  <data name="GamePage.WaitCanvas.ReadyToFlyUpper" xml:space="preserve">
+    <value>BEREIT ZUM FLIEGEN</value>
+  </data>
+  <data name="Error.LoadingScenarioError" xml:space="preserve">
+    <value>Beim Herunterladen des Szenarios ist ein Fehler aufgetreten (Error Code {0})</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.YearlyUpper" xml:space="preserve">
+    <value>JÄHRLICH</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.MonthlyUpper" xml:space="preserve">
+    <value>MONATLICH</value>
+  </data>
+  <data name="ATC.Center" xml:space="preserve">
+    <value>Center</value>
+  </data>
+  <data name="SubscriptionMorePlansControl.SemiYearlyUpper" xml:space="preserve">
+    <value>HALBJÄHRLICH</value>
+  </data>
+  <data name="WorldModeModalControl.SinglePlayer" xml:space="preserve">
+    <value>EINZELSPIELER</value>
+  </data>
+  <data name="WorldModeModalControl.SinglePlayerOneLine" xml:space="preserve">
+    <value>EINZELSPIELER</value>
+  </data>
+  <data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
+    <value>IM EINZELSPIELER-MODUS NICHT VERFÜGBAR</value>
+  </data>
+  <data name="CallSignSelectionPage.CallsignsNotAvailable" xml:space="preserve">
+    <value>Rufzeichen sind gerade nicht verfügbar, versuche es später erneut</value>
+  </data>
+  <data name="Replay.LoadingError" xml:space="preserve">
+    <value>Die Replay-Datei ist fehlerhaft und konnte nicht geladen werden</value>
+  </data>
+  <data name="WorldModeModalControl.MultiPlayer" xml:space="preserve">
+    <value>MEHRSPIELER</value>
+  </data>
+  <data name="Global.On" xml:space="preserve">
+    <value>AN</value>
+  </data>
+  <data name="NewsControl.StartFlightQuestion" xml:space="preserve">
+    <value>FLUG BEGINNEN?</value>
+  </data>
+  <data name="GamePage.FlightCannotBeResumed" xml:space="preserve">
+    <value>Dieser Flug kann nicht fortgesetzt werden</value>
+  </data>
+  <data name="NavigationControl.Leaderboards" xml:space="preserve">
+    <value>Rangliste</value>
+  </data>
+  <data name="NewsControl.Tutorial" xml:space="preserve">
+    <value>Anleitung</value>
+  </data>
+  <data name="NewsControl.News" xml:space="preserve">
+    <value>Neuigkeiten</value>
+  </data>
+  <data name="GamePage.FlightResumeIndicatorName" xml:space="preserve">
+    <value>FLUGFORTSETZUNG</value>
+  </data>
+  <data name="LogbookControl.NoReplayFileUpper" xml:space="preserve">
+    <value>KEINE REPLAY-DATEI</value>
+  </data>
+  <data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
+    <value>KEIN ZUGRIFF</value>
   </data>
 </root>
