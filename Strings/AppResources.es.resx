@@ -2786,4 +2786,73 @@ SERVIDORES</value>
   <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
     <value>¿CANSADO DE VOLAR SOLO?</value>
   </data>
+<data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
+    <value>INVERTIR</value>
+  </data>
+  <data name="LogbookControl.CouldNotImportReplayStorageError" xml:space="preserve">
+    <value>No se pudo importar el archivo el replay, por favor verifica el espacio de almacenamiento disponible.</value>
+  </data>
+  <data name="GamePage.DiscardSavedFlight" xml:space="preserve">
+    <value>¿Sobrescribir el vuelo guardado?</value>
+  </data>
+  <data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
+    <value>RANKING SEMANAL</value>
+  </data>
+  <data name="Global.Taxiing" xml:space="preserve">
+    <value>RODANDO</value>
+  </data>
+  <data name="Global.Stopped" xml:space="preserve">
+    <value>DETENIDO</value>
+  </data>
+  <data name="Global.ResumeLastFlight" xml:space="preserve">
+    <value>CONTINUAR ÚLTIMO VUELO</value>
+  </data>
+  <data name="Global.Parked" xml:space="preserve">
+    <value>APARCADO</value>
+  </data>
+  <data name="Global.OnGround" xml:space="preserve">
+    <value>EN TIERRA</value>
+  </data>
+  <data name="Global.InFlight" xml:space="preserve">
+    <value>EN VUELO</value>
+  </data>
+  <data name="Global.Cancelled" xml:space="preserve">
+    <value>CANCELADO</value>
+  </data>
+  <data name="Global.Saved" xml:space="preserve">
+    <value>Guardado</value>
+  </data>
+  <data name="Global.On" xml:space="preserve">
+    <value>ON</value>
+  </data>
+  <data name="Global.Off" xml:space="preserve">
+    <value>OFF</value>
+  </data>
+  <data name="Global.NotSaved" xml:space="preserve">
+    <value>No Guardado</value>
+  </data>
+  <data name="GamePage.LeaveFlight.Title" xml:space="preserve">
+    <value>Salir del Vuelo</value>
+  </data>
+  <data name="GamePage.FlightResumeIndicatorName" xml:space="preserve">
+    <value>FLIGHT RESUME</value>
+  </data>
+  <data name="GamePage.LeaveFlight.Message" xml:space="preserve">
+    <value>¿Estás seguro de que quieres salir de este vuelo?</value>
+  </data>
+  <data name="GamePage.FlightCannotBeResumed" xml:space="preserve">
+    <value>Este vuelo no se puede continuar</value>
+  </data>
+  <data name="GamePage.FlightCanBeResumed" xml:space="preserve">
+    <value>Este vuelo se puede continuar</value>
+  </data>
+  <data name="GameControlsAxisSetupControl.TapToAssignUpper" xml:space="preserve">
+    <value>TOCA PARA ASIGNAR</value>
+  </data>
+  <data name="GameControlsAxisSetupControl.MoveAxisToAssignUpper" xml:space="preserve">
+    <value>MUEVE EL EJE PARA ASIGNAR</value>
+  </data>
+  <data name="GameControlsAxisSetupControl.AxisUpper" xml:space="preserve">
+    <value>EJE</value>
+  </data>
 </root>
