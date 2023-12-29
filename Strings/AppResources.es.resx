@@ -2786,7 +2786,7 @@ SERVIDORES</value>
   <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
     <value>¿CANSADO DE VOLAR SOLO?</value>
   </data>
-<data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
+  <data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
     <value>INVERTIR</value>
   </data>
   <data name="LogbookControl.CouldNotImportReplayStorageError" xml:space="preserve">
@@ -2854,5 +2854,9 @@ SERVIDORES</value>
   </data>
   <data name="GameControlsAxisSetupControl.AxisUpper" xml:space="preserve">
     <value>EJE</value>
+  </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>La suscripción se renovará automáticamente hasta que se cancele.
+Puede cancelar en cualquier momento en el Centro de Suscripciones de Google Play.</value>
   </data>
 </root>

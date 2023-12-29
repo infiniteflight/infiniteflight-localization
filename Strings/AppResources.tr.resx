@@ -3031,4 +3031,8 @@ OYUNCULU</value>
   <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
     <value>YALNIZ UÇMAKTAN BIKTINIZ MI?</value>
   </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>Abonelik iptal edilene kadar otomatik olarak yenilenecektir.
+Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
+  </data>
 </root>

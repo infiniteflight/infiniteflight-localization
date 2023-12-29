@@ -2979,4 +2979,8 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>KÜLDETÉS ÁTTEKINTÉS</value>
     <comment>MISSION BRIEF</comment>
   </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>Az előfizetés automatikusan megújul a lemondásig.
+Bármikor lemondhatja a Google Play előfizetési központjában.</value>
+  </data>
 </root>

@@ -2374,4 +2374,8 @@ Você poderá sair nesta sessão ou embarcar em mais uma jornada para outro dest
     <value>Sua missão de hoje é:
 {0}</value>
   </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>A assinatura será renovada automaticamente até ser cancelada.
+Você pode cancelar a qualquer momento no Centro de Assinaturas do Google Play.</value>
+  </data>
 </root>

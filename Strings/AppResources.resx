@@ -3361,4 +3361,10 @@ PLAYER</comment>
     <value>WEEKLY LEADERBOARD</value>
     <comment>WEEKLY LEADERBOARD</comment>
   </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>Subscription auto-renews until canceled.
+Cancel anytime in Google Play's Subscription Center.</value>
+    <comment>Subscription auto-renews until canceled.
+Cancel anytime in Google Play's Subscription Center.</comment>
+  </data>
 </root>

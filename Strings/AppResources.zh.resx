@@ -3029,7 +3029,7 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="FlightPlan.Title" xml:space="preserve">
     <value>飞行计划</value>
   </data>
- <data name="Replay.LoadingError" xml:space="preserve">
+  <data name="Replay.LoadingError" xml:space="preserve">
     <value>回放文件已损坏，无法加载</value>
   </data>
   <data name="Error.LoadingScenarioError" xml:space="preserve">
@@ -3173,7 +3173,7 @@ PLAYER</comment>
     <value>一个人飞空虚又寂寞？</value>
     <comment>TIRED OF FLYING ALONE?</comment>
   </data>
- <data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
+  <data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
     <value>INVERT</value>
     <comment>反转</comment>
   </data>
@@ -3261,8 +3261,12 @@ PLAYER</comment>
     <value>滑行中</value>
     <comment>TAXIING</comment>
   </data>
-<data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
+  <data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
     <value>每周排行榜</value>
     <comment>WEEKLY LEADERBOARD</comment>
+  </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>订阅将自动续订，直至取消。
+可随时在Google Play的订阅中心取消。</value>
   </data>
 </root>

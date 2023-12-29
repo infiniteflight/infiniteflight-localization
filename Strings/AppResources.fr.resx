@@ -2807,4 +2807,8 @@ JOUEUR</value>
     <value>ROULAGE</value>
     <comment>TAXIING</comment>
   </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>L'abonnement se renouvellera automatiquement jusqu'à son annulation.
+Annulez à tout moment dans le Centre d'abonnement de Google Play.</value>
+  </data>
 </root>

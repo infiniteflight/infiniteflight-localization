@@ -2907,4 +2907,8 @@ Please ask to be assigned via the Scenery Editing forum first."</comment>
   <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
     <value>Akaun Discord anda telah disambungkan. Adakah anda mahu menyertai pelayan Discord Infinite Flight sekarang?</value>
   </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>Langganan akan diperbaharui secara automatik sehingga dibatalkan.
+Batalkan pada bila-bila masa di Pusat Langganan Google Play.</value>
+  </data>
 </root>

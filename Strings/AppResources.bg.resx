@@ -2947,7 +2947,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>БРИФИНГ НА МИСИЯТА</value>
     <comment>MISSION BRIEF</comment>
   </data>
-    <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
+  <data name="SubscriptionMorePlansControl.ChooseAPlan" xml:space="preserve">
     <value>Изберете план</value>
   </data>
   <data name="SubscriptionMorePlansControl.Discount" xml:space="preserve">
@@ -3243,5 +3243,9 @@ PLAYER</comment>
   <data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
     <value>СЕДМИЧНА КЛАСАЦИЯ</value>
     <comment>WEEKLY LEADERBOARD</comment>
+  </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>Абонаментът се подновява автоматично до отмяната му.
+Можете да отмените по всяко време в Центъра за абонаменти на Google Play.</value>
   </data>
 </root>

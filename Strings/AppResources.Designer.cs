@@ -5650,6 +5650,16 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Subscription auto-renews until canceled.
+        ///Cancel anytime in Google Play&apos;s Subscription Center..
+        /// </summary>
+        internal static string SubscriptionControl_GooglePlaySubscriptionInfo {
+            get {
+                return ResourceManager.GetString("SubscriptionControl.GooglePlaySubscriptionInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Choose a plan.
         /// </summary>
         internal static string SubscriptionMorePlansControl_ChooseAPlan {

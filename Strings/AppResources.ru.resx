@@ -2867,4 +2867,8 @@ Check map for more information</comment>
   <data name="FlightPlan.Replace" xml:space="preserve">
       <value>Заменить</value>
   </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>Подписка будет автоматически продлеваться до ее отмены.
+Отменить можно в любое время в Центре подписок Google Play.</value>
+  </data>
 </root>

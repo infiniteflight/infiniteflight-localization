@@ -3062,4 +3062,8 @@ Du kannst diese Sitzung beenden oder eine neue Reise beginnen.</value>
   <data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
     <value>KEIN ZUGRIFF</value>
   </data>
+  <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
+    <value>Das Abonnement verlängert sich automatisch, bis es gekündigt wird.
+Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
+  </data>
 </root>
