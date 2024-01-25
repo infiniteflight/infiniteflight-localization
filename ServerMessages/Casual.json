@@ -10,8 +10,8 @@
     "zh": "本服务器不限等级，允许所有用户进入。ATC无法在本服务器提供服务，飞行员可以自由飞行且不会影响其飞行记录和等级。所有用户仍应礼貌对待其他飞行员。",
     "bg": "Този сървър може да бъде използван от всички рангове. Не е налично РВД и пилотите могат да летят на спокойствие, без да рискуват статистиката и ранга си. Всички пилоти трябва да уважават останалите. \nДопълнителни Изисквания: Няма\n",
     "hu": "Ez a szerver bármilyen fokozattal elérhető. Az ATC nem elérhető, és a pilóták szabadon repülhetnek anélkül, hogy befolyásolnák statisztikájukat vagy besorolásukat. Minden felhasználónak továbbra is tiszteletteljesnek és udvariasnak kell lennie a többi pilótával szemben. \nTovábbi követelmény: Nincs\n",
-    "tr": "Bu sunucuya tüm sınıflar erişebilir. ATC mevcut değildir ve pilotlar, istatistiklerini veya derecelerini etkilemeden serbestçe uçabilirler. Tüm kullanıcılar yine de diğer pilotlara karşı saygılı ve nazik olmalıdır. \nEk Gereksinim: Yok\n"
-  
+    "tr": "Bu sunucuya tüm sınıflar erişebilir. ATC mevcut değildir ve pilotlar, istatistiklerini veya derecelerini etkilemeden serbestçe uçabilirler. Tüm kullanıcılar yine de diğer pilotlara karşı saygılı ve nazik olmalıdır. \nEk Gereksinim: Yok\n",
+    "az": "Bu serverə bütün siniflər daxil ola bilər. ATC mövcud deyil və pilotlar onların statistikasına və ya dərəcəsinə təsir etmədən sərbəst uça bilər. Bütün istifadəçilər yenə də digər pilotlara hörmətli və nəzakətli olmalıdır. \nƏlavə Tələb: Yoxdur\n"
   },
   "welcomeMessages": {
     "en": "Welcome to the Casual Server,\n\nThis is a server where you can fly free of rules and procedures. You're encouraged to be respectful towards others and have fun.\n\nThe live servers are a communal environment dependent upon everyone's participation for an enjoyable experience. Happy flying!\n   ",
@@ -24,6 +24,7 @@
     "zh": "欢迎来到休闲服务器。\n\n在这里你可以不受规章制度限制自由飞行。但我们仍然希望你在享受飞行的同时尊重其他飞行员。\n\n你与其他管制员，飞行员的通信仍将使用英语（航空界的国际通用语言）。\n\n线上服务器是一个公共场合，只有每个人积极参与才能在飞行中获得愉快的体验。享受飞行吧!\n",
     "bg": "Добре дошли в Casual сървъра,\n\nВ този сървър може да летите без правила и процедури. Молим ви да се отнасяте с уважение към останалите и да се забавлявате.\n\nКомуникациите с РВД и другите пилоти се извършват на английски (официалният език на авиацията)\n\nОнлайн сървърите са общи среди, зависещи от участието на всички за приятно преживяване. Приятен полет!\n",
     "hu": "Üdvözlünk a Casual szerveren!\n\nEz egy olyan szerver, ahol szabályoktól és eljárásoktól mentesen repülhetsz. Arra biztatunk, hogy légy tiszteletben másokkal, és érezd jól magad.\n\nAz online szerverek egy közösségi környezet, ahol az élvezetes élmény eléréséhez mindenkinek hozzá kell járulnia. Jó repülést!\n",
-    "tr": "Casual Sunucuya Hoş Geldiniz,\n\nBu, kural ve prosedürlerden bağımsız uçabileceğiniz bir sunucudur. Başkalarına karşı saygılı olmaya ve eğlenmeye teşvik ediliyorsunuz.\n\nATC ve diğer pilotlarla iletişim havacılığın resmi dili İngilizce ile yapılır\n\nCanlı sunucular, keyifli bir deneyim için herkesin katılımına bağlı ortak bir ortamdır. İyi uçuşlar!\n"
+    "tr": "Casual Sunucuya Hoş Geldiniz,\n\nBu, kural ve prosedürlerden bağımsız uçabileceğiniz bir sunucudur. Başkalarına karşı saygılı olmaya ve eğlenmeye teşvik ediliyorsunuz.\n\nATC ve diğer pilotlarla iletişim havacılığın resmi dili İngilizce ile yapılır\n\nCanlı sunucular, keyifli bir deneyim için herkesin katılımına bağlı ortak bir ortamdır. İyi uçuşlar!\n",
+    "az": "Təsadüfi Serverə xoş gəlmisiniz,\n\nBu, qaydalar və prosedurlar olmadan uça biləcəyiniz serverdir. Siz başqalarına hörmətlə yanaşmağa və əylənməyə təşviq olunursunuz.\n\nCanlı serverlər hər kəsin imkanlarından asılı olan kommunal mühitdir. xoş təcrübə üçün iştirak. Xoşbəxt uçuşlar!\n "
   }
 }
