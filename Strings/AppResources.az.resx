@@ -1430,115 +1430,115 @@
     <comment>Airspace Activity</comment>
   </data>
   <data name="ATCJobBoardControl.FIRs" xml:space="preserve">
-    <value>Uçuş Bilgi Bölgeleri</value>
+    <value>Uçuş Məlumatı Regionları</value>
     <comment>Flight Information Regions</comment>
   </data>
   <data name="ATCJobBoardControl.GoTo" xml:space="preserve">
-    <value>{0}'a git</value>
+    <value>{0} ünvanına gedin</value>
     <comment>Go to {0}</comment>
   </data>
   <data name="ATCJobBoardControl.NoFlightsFound" xml:space="preserve">
-    <value>Hiç Uçuş Bulunamadı</value>
+    <value>Uçuş Tapılmadı</value>
     <comment>No Flights Found</comment>
   </data>
   <data name="FlightPlan.AddToCurrentFlightPlanPrompt" xml:space="preserve">
-    <value>Mevcut uçuş planına mı ekle?</value>
+    <value>Mövcud uçuş planına əlavə edilsin?</value>
     <comment>Add to current flight plan?</comment>
   </data>
   <data name="FlightPlan.AddToFlightPlan" xml:space="preserve">
-    <value>Uçuş Planına Ekle</value>
+    <value>Uçuş Planına əlavə edin</value>
     <comment>Add to Flight Plan</comment>
   </data>
   <data name="FlightPlan.ReplaceCurrentFlightPlanPrompt" xml:space="preserve">
-    <value>Mevcut uçuş planını mı değiştir?</value>
+    <value>Mövcud uçuş planı dəyişdirilsin?</value>
     <comment>Replace current flight plan?</comment>
   </data>
   <data name="FlightPlan.ReplaceFlightPlan" xml:space="preserve">
-    <value>Uçuş Planını Değiştir</value>
+    <value>Uçuş Planını dəyişdirin</value>
     <comment>Replace Flight Plan</comment>
   </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
-    <value>Mevcut uçuş planını değiştirmek mi yoksa ona ekleme yapmak mı istiyorsunuz?</value>
+    <value>Mövcud uçuş planını dəyişdirmək və ya əlavə etmək istəyirsiniz?</value>
     <comment>Shown when importing a flight plan FPL file</comment>
   </data>
   <data name="FlightPlan.Replace" xml:space="preserve">
-    <value>Değiştir</value>
+    <value>Dəyişmək</value>
     <comment>Replace</comment>
   </data>
   <data name="FlightPlan.Add" xml:space="preserve">
-    <value>Ekle</value>
+    <value>əlavə et</value>
     <comment>Add</comment>
   </data>
   <data name="Global.Airport" xml:space="preserve">
-    <value>Havaalanı</value>
+    <value>Hava limanı</value>
     <comment>Airport</comment>
   </data>
   <data name="Global.NotQualified" xml:space="preserve">
-    <value>Kalifiye Değil</value>
+    <value>İxtisaslı deyil</value>
     <comment>Not Qualified</comment>
   </data>
   <data name="Global.PleaseWait" xml:space="preserve">
-    <value>Lütfen bekleyin...</value>
+    <value>Zəhmət olmasa, gözləyin...</value>
     <comment>Please wait...</comment>
   </data>
   <data name="Global_FinalApproach" xml:space="preserve">
-    <value>Son Yaklaşma</value>
+    <value>Yekun yanaşma</value>
     <comment>Final Approach</comment>
   </data>
   <data name="Global_Runway" xml:space="preserve">
-    <value>Pist</value>
+    <value>Uçuş zolağı</value>
     <comment>Runway</comment>
   </data>
   <data name="Global_Takeoff" xml:space="preserve">
-    <value>Kalkış</value>
+    <value>Gediş</value>
     <comment>Takeoff</comment>
   </data>
   <data name="Global_Unknown" xml:space="preserve">
-    <value>Bilinmiyor</value>
+    <value>Naməlum</value>
     <comment>Unknown</comment>
   </data>
   <data name="Grade.FlightTimeLongPeriod" xml:space="preserve">
-    <value>Uçuş Süresi (90 gün)</value>
+    <value>Uçuş müddəti (90 gün)</value>
     <comment>Flight Time (90 days)</comment>
   </data>
   <data name="Grade.LandingCountLongPeriod" xml:space="preserve">
-    <value>İnişler (90 gün)</value>
+    <value>enişlər (90 gün)</value>
     <comment>Landings (90 days)</comment>
   </data>
   <data name="Grade.ReportCountMediumPeriod" xml:space="preserve">
-    <value>3. Seviye İhlaller (7 gün)</value>
+    <value>Səviyyə 3 pozuntuları (7 gün)</value>
     <comment>Level 3 Violations (7 days)</comment>
   </data>
   <data name="Grade.Requirements" xml:space="preserve">
-    <value>Gereksinimler</value>
+    <value>Tələblər</value>
     <comment>Requirements</comment>
   </data>
   <data name="Grade.ShowGradeTable" xml:space="preserve">
-    <value>Rütbe Tablosunu Göster</value>
+    <value>Reytinq cədvəlini göstərin</value>
     <comment>Show Grade Table</comment>
   </data>
   <data name="Grade.ShowViolationHistory" xml:space="preserve">
-    <value>İhlal Geçmişini Göster</value>
+    <value>Pozulma Tarixçəsini göstərin</value>
     <comment>Show Violation History</comment>
   </data>
   <data name="Grade.Total12MonthsATCAllReports" xml:space="preserve">
-    <value>Tüm Seviye 2/3 İhlaller (1 yıl)</value>
+    <value>Bütün Səviyyə 2/3 pozuntuları (1 yıl)</value>
     <comment>All Level 2/3 Violations (1 year)</comment>
   </data>
   <data name="Grade.Total12MonthsATCMajorReports" xml:space="preserve">
-    <value>3. Seviye İhlaller (1 yıl)</value>
+    <value>Səviyyə 3 pozuntuları (1 il)</value>
     <comment>Level 3 Violations (1 year)</comment>
   </data>
   <data name="Grade.Total12MonthsATCMinorReports" xml:space="preserve">
-    <value>2. Seviye İhlaller (1 yıl)</value>
+    <value>Səviyyə 2 pozuntuları (1 il)</value>
     <comment>Level 2 Violations (1 year)</comment>
   </data>
   <data name="Grade.TotalFlightTime" xml:space="preserve">
-    <value>Toplam Uçuş Süresi</value>
+    <value>Ümumi Uçuş Vaxtı</value>
     <comment>Total Flight Time</comment>
   </data>
   <data name="Grade.TotalLandings" xml:space="preserve">
-    <value>Toplam İnişler</value>
+    <value>Ümumi enişlər</value>
     <comment>Total Landings</comment>
   </data>
   <data name="Grade.TotalXP" xml:space="preserve">
@@ -1546,79 +1546,79 @@
     <comment>XP</comment>
   </data>
   <data name="Grade.ViolationsByLandingShortPeriod" xml:space="preserve">
-    <value>1. Seviye İhlaller/İniş (12 Ay)</value>
+    <value>Səviyyə 1 Pozulmalar/Eniş (12 Ay)</value>
     <comment>Level 1 Violations/Landing (12 Months)</comment>
   </data>
   <data name="Grade.ViolationsMediumPeriod" xml:space="preserve">
-    <value>1. Seviye İhlaller (7 gün)</value>
+    <value>Səviyyə 1 pozuntuları (7 gün)</value>
     <comment>Level 1 Violations (7 days)</comment>
   </data>
   <data name="Grade.ViolationsShortPeriod" xml:space="preserve">
-    <value>1. Seviye İhlaller (24 saat)</value>
+    <value>Səviyyə 1 pozuntuları (24 saat)</value>
     <comment>Level 1 Violations (24 hours)</comment>
   </data>
   <data name="ItemSearchControl.NoResultsFor" xml:space="preserve">
-    <value>"{0}" için sonuç yok</value>
+    <value>"{0}" üçün nəticə yoxdur</value>
     <comment>No results for "{0}"</comment>
   </data>
   <data name="ItemSearchControl.SearchAirports" xml:space="preserve">
-    <value>Havaalanlarını arayın</value>
+    <value>Hava limanlarını axtarın</value>
     <comment>Search airports</comment>
   </data>
   <data name="ItemSearchControl.SearchAirportsAndWaypoints" xml:space="preserve">
-    <value>Havaalanlarını/yol noktalarını arayın</value>
+    <value>Hava limanlarını/yol nöqtələrini axtarın</value>
     <comment>Search airports/waypoints</comment>
   </data>
   <data name="LocationPage.NoAvailableStartLocations" xml:space="preserve">
-    <value>{0} için mevcut başlangıç konumu yok</value>
+    <value>{0} üçün başlanğıc mövqeyi mövcud deyil</value>
     <comment>No Available start locations for the {0}</comment>
   </data>
   <data name="LocationPage.ResetZoom" xml:space="preserve">
-    <value>Yakınlaştırmayı Sıfırla</value>
+    <value>Zoomu sıfırlayın</value>
     <comment>Reset Zoom</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.Select" xml:space="preserve">
-    <value>Seç</value>
+    <value>seçin</value>
     <comment>Select</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectApproach" xml:space="preserve">
-    <value>Yaklaşım Seçin</value>
+    <value>Yanaşma seçin</value>
     <comment>Select Approach</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectArrival" xml:space="preserve">
-    <value>Varış Seçin</value>
+    <value>Təyinatı seçin</value>
     <comment>Select Arrival</comment>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectDeparture" xml:space="preserve">
-    <value>Kalkış Seçin</value>
+    <value>Gediş seçin</value>
     <comment>Select Departure</comment>
   </data>
   <data name="MenuPageBase.Grade.GradeRequired" xml:space="preserve">
-    <value>Gerekli rütbe: {0}</value>
+    <value>Tələb olunan dərəcə: {0}</value>
     <comment>Grade Required: {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.InsufficientGradePrompt" xml:space="preserve">
-    <value>{0}'da uçmak için gerekli rütbeye sahip değilsiniz</value>
+    <value>{0}-da uçmaq üçün tələb olunan dərəcəniz yoxdur</value>
     <comment>You do not have the required grade to fly on {0}</comment>
   </data>
   <data name="MenuPageBase.Grade.YourGrade" xml:space="preserve">
-    <value>Rütbeniz: {0}</value>
+    <value>Sizin dərəcəniz: {0}</value>
     <comment>Your Grade: {0}</comment>
   </data>
   <data name="MenuPageBase.NoATCAccess" xml:space="preserve">
-    <value>ATC Erişimi Yok</value>
+    <value>ATC girişi yoxdur</value>
     <comment>No ATC Access</comment>
   </data>
   <data name="MenuPageBase.NoATCAccessOn" xml:space="preserve">
-    <value>{0} üzerinde ATC Erişimi Yok</value>
+    <value>{0} üzərində ATC Girişi yoxdur</value>
     <comment>No ATC Access on {0}</comment>
   </data>
   <data name="MenuPageBase.NoProFound" xml:space="preserve">
-    <value>Geçerli Infinite Flight Pro aboneliği bulunamadı</value>
+    <value>Etibarlı Infinite Flight Pro abunəliyi tapılmadı</value>
     <comment>No valid Infinite Flight Pro subscription found</comment>
   </data>
   <data name="MenuPageBase.ProRequired" xml:space="preserve">
-    <value>Bu konumda bir uçuş başlatmak için Infinite Flight Pro gereklidir. Lütfen başlangıç havaalanını değiştirin.</value>
+    <value>Bu məkanda uçuşa başlamaq üçün Infinite Flight Pro tələb olunur. Zəhmət olmasa başlanğıc hava limanını dəyişdirin.</value>
     <comment>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="Time.1Hour" xml:space="preserve">
@@ -1626,19 +1626,19 @@
     <comment>1 hour</comment>
   </data>
   <data name="Time.1HourAgo" xml:space="preserve">
-    <value>1 saat önce</value>
+    <value>1 saat əvvəl</value>
     <comment>1 hour ago</comment>
   </data>
   <data name="Time.1Minute" xml:space="preserve">
-    <value>1 dakika</value>
+    <value>1 dəqiqə</value>
     <comment>1 minute</comment>
   </data>
   <data name="Time.1MinuteAgo" xml:space="preserve">
-    <value>1 dakika önce</value>
+    <value>1 dəqiqə əvvəl</value>
     <comment>1 minute ago</comment>
   </data>
   <data name="Time.1YearAgo" xml:space="preserve">
-    <value>1 yıl önce</value>
+    <value>1 bir il əvvəl</value>
     <comment>1 year ago</comment>
   </data>
   <data name="Time.Days" xml:space="preserve">
@@ -1646,7 +1646,7 @@
     <comment>{0} days</comment>
   </data>
   <data name="Time.DaysAgo" xml:space="preserve">
-    <value>{0} gün önce</value>
+    <value>{0} gün əvvəl</value>
     <comment>{0} days ago</comment>
   </data>
   <data name="Time.Hour" xml:space="preserve">
@@ -1658,7 +1658,7 @@
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HoursAgo" xml:space="preserve">
-    <value>{0} saat önce</value>
+    <value>{0} saat əvvəl</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HourShortForm" xml:space="preserve">
@@ -1670,15 +1670,15 @@
     <comment>hrs</comment>
   </data>
   <data name="Time.In1Hour" xml:space="preserve">
-    <value>1 saat içinde</value>
+    <value>1 saat ərzində</value>
     <comment>In 1 hour</comment>
   </data>
   <data name="Time.In1Minute" xml:space="preserve">
-    <value>1 dakika içinde</value>
+    <value>1 dəqiqə ərzində</value>
     <comment>In a minute</comment>
   </data>
   <data name="Time.InDays" xml:space="preserve">
-    <value>{0} gün içinde</value>
+    <value>{0} günə</value>
     <comment>In {0} days</comment>
   </data>
   <data name="Time.InHours" xml:space="preserve">
@@ -1686,31 +1686,31 @@
     <comment>{0} hours</comment>
   </data>
   <data name="Time.InLessThanAMinute" xml:space="preserve">
-    <value>Bir dakikadan kısa sürede</value>
+    <value>Bir dəqiqədən az müddətdə</value>
     <comment>In less than a minute</comment>
   </data>
   <data name="Time.InMinutes" xml:space="preserve">
-    <value>{0} dakikaya</value>
+    <value>{0} dəqiqə</value>
     <comment>In {0} minutes</comment>
   </data>
   <data name="Time.LessThanAMinute" xml:space="preserve">
-    <value>Bir dakikadan daha kısa</value>
+    <value>dəqiqədən azdır</value>
     <comment>less than a minute</comment>
   </data>
   <data name="Time.LessThanAMinuteAgo" xml:space="preserve">
-    <value>Bir dakikadan daha kısa bir süre önce</value>
+    <value>bir dəqiqədən az əvvəl</value>
     <comment>Less than a minute ago</comment>
   </data>
   <data name="Time.Minute" xml:space="preserve">
-    <value>dakika</value>
+    <value>dəqiqə</value>
     <comment>minute</comment>
   </data>
   <data name="Time.Minutes" xml:space="preserve">
-    <value>{0} dakika</value>
+    <value>{0} dəqiqə</value>
     <comment>{0} minutes</comment>
   </data>
   <data name="Time.MinutesAgo" xml:space="preserve">
-    <value>{0} dakika önce</value>
+    <value>{0} dəqiqə əvvəl</value>
     <comment>{0} minutes ago</comment>
   </data>
   <data name="Time.MinuteShortForm" xml:space="preserve">
@@ -1718,55 +1718,55 @@
     <comment>mn</comment>
   </data>
   <data name="Time.Tomorrow" xml:space="preserve">
-    <value>Yarın</value>
+    <value>Sabah</value>
     <comment>Tomorrow</comment>
   </data>
   <data name="Time.YearsAgo" xml:space="preserve">
-    <value>{0} yıl önce</value>
+    <value>{0} il əvvəl</value>
     <comment>{0} years ago</comment>
   </data>
   <data name="Time.Yesterday" xml:space="preserve">
-    <value>Dün</value>
+    <value>Dünən</value>
     <comment>Yesterday</comment>
   </data>
   <data name="Violation.AerobaticsViolation" xml:space="preserve">
-    <value>Akrobasi İhlali</value>
+    <value>Aerobatika pozuntusu</value>
     <comment>Aerobatics Violation</comment>
   </data>
   <data name="Violation.AirportClass" xml:space="preserve">
-    <value>Havaalnı sınıfı ihlali</value>
+    <value>Hava limanında sinif pozuntusu</value>
     <comment>Airport Class Violation</comment>
   </data>
   <data name="Violation.AirspaceViolation" xml:space="preserve">
-    <value>Hava sahası İhlali</value>
+    <value>Hava məkanının pozulması</value>
     <comment>Airspace Violation</comment>
   </data>
   <data name="Violation.FlightOverspeed" xml:space="preserve">
-    <value>Uçuşta Aşırı Hız</value>
+    <value>Uçuşda həddindən artıq sürət</value>
     <comment>Overspeed in Flight</comment>
   </data>
   <data name="Violation.GroundOverspeed" xml:space="preserve">
-    <value>Yerde Aşırı Hız</value>
+    <value>Yerdə Həddindən artıq Sürət</value>
     <comment>Ground Overspeed</comment>
   </data>
   <data name="Violation.LevelledViolation" xml:space="preserve">
-    <value>Seviye {0} ihlal</value>
+    <value>Səviyyə {0} pozuntusu</value>
     <comment>Level {violationLevel} Violation</comment>
   </data>
   <data name="Violation.RunwayIdle" xml:space="preserve">
-    <value>Pist Boşta</value>
+    <value>Boş uçuş-enmə zolağı</value>
     <comment>Runway Idle</comment>
   </data>
   <data name="Global.Continue" xml:space="preserve">
-    <value>Devam et</value>
+    <value>Davam et</value>
     <comment>Continue</comment>
   </data>
   <data name="Global.Settings" xml:space="preserve">
-    <value>Ayarlar</value>
+    <value>Parametrlər</value>
     <comment>Settings</comment>
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
-    <value>{0}, {2}'deki mevcut {1} başlangıç ​​noktası için çok büyük. Lütfen başlangıç ​​konumunu değiştirin</value>
+    <value>{0}, {2} daxilindəki cari başlanğıc nöqtəsi {1} üçün çox böyükdür. Zəhmət olmasa başlanğıc yerini dəyişdirin</value>
     <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
@@ -1774,43 +1774,43 @@
     <comment>ATC</comment>
   </data>
   <data name="MenuPageBase.CannotConnect" xml:space="preserve">
-    <value>BAĞLANAMIYOR</value>
+    <value>BAĞLANMA OLMAZ</value>
     <comment>CAN'T CONNECT</comment>
   </data>
   <data name="MenuPageBase.CannotConnect.Message" xml:space="preserve">
-    <value>Infinite Flight internet bağlantısı sorunları yaşıyor. Lütfen internet bağlantınızı kontrol edin ve uygulamayı yeniden başlatın veya daha sonra tekrar deneyin.</value>
+    <value>Infinite Flight internet bağlantısı problemləri ilə üzləşir. İnternet bağlantınızı yoxlayın və proqramı yenidən başladın və ya daha sonra yenidən cəhd edin.</value>
     <comment>Infinite Flight is experiencing internet connectivity issues. Please check your internet connection and restart the app or try again later.</comment>
   </data>
   <data name="MenuPageBase.ForumNotConnected" xml:space="preserve">
-    <value>Bir oturum başlatmadan önce Infinite Flight Community profilinizin bağlanması gerekiyor</value>
+    <value>Sessiyaya başlamazdan əvvəl Infinite Flight Community profiliniz qoşulmalıdır</value>
     <comment>Your Infinite Flight Community profile needs to be connected before starting a session</comment>
   </data>
   <data name="MenuPageBase.NoLocationSelected" xml:space="preserve">
-    <value>Konum seçilmedi, lütfen açmak için bir frekans seçin</value>
+    <value>Məkan seçilməyib, lütfən, aktiv etmək üçün tezliyi seçin</value>
     <comment>No location has been selected, please select a frequency to open.</comment>
   </data>
   <data name="MenuPageBase.ProRequiredAircraft" xml:space="preserve">
-    <value>Bu uçağı kullanmak için Infinite Flight Pro gereklidir</value>
+    <value>Bu təyyarəni idarə etmək üçün Infinite Flight Pro tələb olunur</value>
     <comment>Infinite Flight Pro is required to use this aircraft</comment>
   </data>
   <data name="MenuPageBase.ProRequiredStartAirport" xml:space="preserve">
-    <value>Bu konumda uçuş başlatmak için Infinite Flight Pro gereklidir. Lütfen başlangıç ​​havaalanını değiştirin</value>
+    <value>Bu məkanda uçuşa başlamaq üçün Infinite Flight Pro tələb olunur. Zəhmət olmasa başlanğıc hava limanını dəyişdirin</value>
     <comment>Infinite Flight PRO is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="MenuPageBase.ShowUsernameDisabled" xml:space="preserve">
-    <value>Bir oturuma başlamadan önce kullanıcı adınızın görünür olması gerekir. Ayarlarda "{0}" öğesini etkinleştirin</value>
+    <value>Seans başlamazdan əvvəl istifadəçi adınız görünməlidir. Parametrlərdə "{0}" funksiyasını aktiv edin</value>
     <comment>Your username needs to be visible before starting a session. Enable \"Show Username In-Flight\" in settings</comment>
   </data>
   <data name="Notam.Airport" xml:space="preserve">
-    <value>Havalimanı : {0}</value>
+    <value>Hava limanı: {0}</value>
     <comment>Airport</comment>
   </data>
   <data name="Notam.Ceiling" xml:space="preserve">
-    <value>Azami İrtifa : {0}ft</value>
+    <value>Maksimum Qalınlıq: {0}ft</value>
     <comment>Ceiling</comment>
   </data>
   <data name="Notam.Floor" xml:space="preserve">
-    <value>Zemin   : {0}ft</value>
+    <value>Yer   : {0}ft</value>
     <comment>Floor</comment>
   </data>
   <data name="Notam.From" xml:space="preserve">
@@ -1822,39 +1822,39 @@
     <comment>Message</comment>
   </data>
   <data name="Notam.Title" xml:space="preserve">
-    <value>Başlık  : {0}</value>
+    <value>Başlıq  : {0}</value>
     <comment>Title</comment>
   </data>
   <data name="Notam.To" xml:space="preserve">
-    <value>Kadar     : {0} {1}Z</value>
+    <value>Çox     : {0} {1}Z</value>
     <comment>To (Date)</comment>
   </data>
   <data name="Notam.UntilFurtherNotice" xml:space="preserve">
-    <value>Kadar      : Yeni bildiriye kadar</value>
+    <value>Nə qədər: Əlavə bildirişə qədər</value>
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>Seçilen kalkış havalimanı için bir NOTAM (Hava Görevlerine Bildirim) aktiftir. Devam etmeden önce lütfen aşağıdaki NOTAM'ı dikkatlice okuyunuz</value>
+    <value>Seçilmiş uçuş hava limanı üçün NOTAM (Hava tapşırıqlarına bildiriş) aktivdir. Davam etməzdən əvvəl aşağıdakı NOTAM-ı diqqətlə oxuyun.</value>
     <comment>A NOTAM (Notice to Air Missions) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
-    <value>UYARI: AKTİF NOTAM</value>
+    <value>XƏBƏRDARLIQ: AKTİV NOTAM</value>
     <comment>WARNING: ACTIVE NOTAM</comment>
   </data>
   <data name="About.PrivacyPolicy" xml:space="preserve">
-    <value>GİZLİLİK POLİTİKASI</value>
+    <value>GİZLİLİK SİYASƏTİ</value>
     <comment>PRIVACY POLICY</comment>
   </data>
   <data name="About.TermsOfUse" xml:space="preserve">
-    <value>KULLANIM ŞARTLARI</value>
+    <value>İSTİFADƏ QAYDALARI</value>
     <comment>TERMS OF USE</comment>
   </data>
   <data name="Global.Aircraft" xml:space="preserve">
-    <value>Uçak</value>
+    <value>Təyyarə</value>
     <comment>Aircraft</comment>
   </data>
   <data name="Global.Date" xml:space="preserve">
-    <value>Tarih</value>
+    <value>Tarix</value>
     <comment>Date</comment>
   </data>
   <data name="Global.Day" xml:space="preserve">
@@ -1862,19 +1862,19 @@
     <comment>Day</comment>
   </data>
   <data name="Global.Description" xml:space="preserve">
-    <value>Açıklama</value>
+    <value>İzahat</value>
     <comment>Description</comment>
   </data>
   <data name="Global.Night" xml:space="preserve">
-    <value>Akşam</value>
+    <value>Axşam</value>
     <comment>Night</comment>
   </data>
   <data name="Global.Type" xml:space="preserve">
-    <value>Tip</value>
+    <value>Dərman</value>
     <comment>Type</comment>
   </data>
   <data name="Logbook.From" xml:space="preserve">
-    <value>İtibaren</value>
+    <value>From</value>
     <comment>From</comment>
   </data>
   <data name="Logbook.LiveFlights" xml:space="preserve">
@@ -1882,11 +1882,11 @@
     <comment>Live Flights</comment>
   </data>
   <data name="Logbook.Notes" xml:space="preserve">
-    <value>Notlar</value>
+    <value>Qeydlər</value>
     <comment>Notes</comment>
   </data>
   <data name="Logbook.ShowingFlightsOnDevice" xml:space="preserve">
-    <value>Bu cihazda saklanan uçuşlar gösteriliyor</value>
+    <value>Bu cihazda saxlanılan uçuşlar göstərilir</value>
     <comment>Showing flights stored on this device</comment>
   </data>
   <data name="Logbook.SoloFlights" xml:space="preserve">
@@ -1898,15 +1898,15 @@
     <comment>To</comment>
   </data>
   <data name="Logbook.TotalFlightTime" xml:space="preserve">
-    <value>Toplam Uçuş Süresi</value>
+    <value>Ümumi Uçuş Vaxtı</value>
     <comment>Total Flight Time</comment>
   </data>
   <data name="Logbook.TotalTime" xml:space="preserve">
-    <value>Toplam Süre</value>
+    <value>Ümumi vaxt</value>
     <comment>Total Time</comment>
   </data>
   <data name="Global.Details" xml:space="preserve">
-    <value>Detaylar</value>
+    <value>Detal</value>
     <comment>Details</comment>
   </data>
   <data name="Global.Name" xml:space="preserve">
@@ -1914,55 +1914,55 @@
     <comment>Name</comment>
   </data>
   <data name="Global.Report" xml:space="preserve">
-    <value>Uyarı</value>
+    <value>Xəbərdarlıq</value>
     <comment>Report</comment>
   </data>
   <data name="Global.Reports" xml:space="preserve">
-    <value>Uyarılar</value>
+    <value>Xəbərdarlıqlar</value>
     <comment>Reports</comment>
   </data>
   <data name="Global.Violation" xml:space="preserve">
-    <value>İhlal</value>
+    <value>pozulması</value>
     <comment>Violation</comment>
   </data>
   <data name="Global.Violations" xml:space="preserve">
-    <value>İhlaller</value>
+    <value>pozuntular</value>
     <comment>Violations</comment>
   </data>
   <data name="Logbook.ATCReport" xml:space="preserve">
-    <value>ATC Uyarısı</value>
+    <value>ATC Xəbərdarlığı</value>
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>ATC Uyarısı [{0}]\n{1}</value>
+    <value>ATC Xəbərdarlığı [{0}]\n{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
-    <value>Uçuş Detaylarını Gör</value>
+    <value>Uçuş Təfərrüatlarına baxın</value>
     <comment>View Flight Details</comment>
   </data>
   <data name="Replay.Comments" xml:space="preserve">
-    <value>Yorumlar</value>
+    <value>Şərhlər</value>
     <comment>Comments</comment>
   </data>
   <data name="Replay.Delete" xml:space="preserve">
-    <value>SİL</value>
+    <value>SİLİN</value>
     <comment>DELETE</comment>
   </data>
   <data name="Replay.Duration" xml:space="preserve">
-    <value>Süre</value>
+    <value>Müddət</value>
     <comment>Duration</comment>
   </data>
   <data name="Replay.Edit" xml:space="preserve">
-    <value>DÜZENLE</value>
+    <value>tənzimlə</value>
     <comment>EDIT</comment>
   </data>
   <data name="Replay.FileSize" xml:space="preserve">
-    <value>Dosya Boyutu</value>
+    <value>Fayl ölçüsü</value>
     <comment>File Size</comment>
   </data>
   <data name="Replay.Import" xml:space="preserve">
-    <value>İÇERİ AKTAR</value>
+    <value>İDXAL</value>
     <comment>IMPORT</comment>
   </data>
   <data name="Replay.Share" xml:space="preserve">
@@ -1970,11 +1970,11 @@
     <comment>SHARE</comment>
   </data>
   <data name="Logbook.Details" xml:space="preserve">
-    <value>DETAYLAR</value>
+    <value>DETAL</value>
     <comment />
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
-    <value>Atamak için Klavyedeki düğmeye basın</value>
+    <value>Təyin etmək üçün klaviaturadakı düyməni basın</value>
     <comment>Press button on \nKeyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
@@ -1982,71 +1982,71 @@
     <comment>Delete</comment>
   </data>
   <data name="Settings.Controls.MoveAxisPrompt" xml:space="preserve">
-    <value>Atamak için denetleyicide ekseni hareket ettirin</value>
+    <value>Təyin etmək üçün oxu nəzarətçidə hərəkət etdirin</value>
     <comment>Move axis on controller to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
-    <value>Atamak için Denetleyici/Klavye üzerindeki düğmeye basın</value>
+    <value>Təyin etmək üçün Controller/Klaviaturadakı düyməni basın</value>
     <comment>Press button on \nController/Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
-    <value>Atamak için düğmeye basın veya ekseni hareket ettirin</value>
+    <value>Təyin etmək üçün düyməni basın və ya oxu hərəkət etdirin</value>
     <comment>Press button or move axis to assign</comment>
   </data>
   <data name="Settings.Controls.Reset" xml:space="preserve">
-    <value>Sıfırla</value>
+    <value>Sıfırlayın</value>
     <comment>Reset</comment>
   </data>
   <data name="SystemMessaging.Approach.CannotActivate" xml:space="preserve">
-    <value>Yaklaşma Modu Etkinleştirilemez</value>
+    <value>Yanaşma Rejimini Aktivləşdirmək mümkün deyil</value>
     <comment>Approach Mode Cannot Be Enabled</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.AirspeedOutOfRange" xml:space="preserve">
-    <value>Yaklaşma Modu Devre Dışı - Hava hızı menzil dışında (maks. 250kts)</value>
+    <value>Yaxınlaşma Rejimi Qeyri-aktiv - Hava sürəti diapazondan kənarda (maks. 250kts)</value>
     <comment>Approach Mode Disabled - Airspeed out of range (250kts max)</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.BankOutOfRange" xml:space="preserve">
-    <value>Yaklaşma Modu Devre Dışı - Menzil dışında</value>
+    <value>Yanaşma Rejimi Qeyri-aktiv - əhatə dairəsindən kənarda</value>
     <comment>Approach Mode Disabled - Bank out of range</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.LandingWeightOutOfRange" xml:space="preserve">
-    <value>Yaklaşma Modu Devre Dışı - Uçak aşırı ağır</value>
+    <value>Yanaşma Rejimi Deaktivdir - Təyyarə çox ağırdır</value>
     <comment>Approach Mode Disabled - Aircraft is overweight</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSNotEnabled" xml:space="preserve">
-    <value>Yaklaşma Modu Devre DışıYaklaşma Modu etkinken Dikey Hız Modu etkinleştirilmelidir</value>
+    <value>Yanaşma Rejimi Qeyri-aktivdir Şaquli Sürət Rejimi Yanaşma Rejimi aktiv olduqda aktivləşdirilməlidir</value>
     <comment>Approach Mode DisabledVertical Speed Mode must be enabled when Approach Mode is active</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSOutOfRange" xml:space="preserve">
-    <value>Yaklaşma Modu Devre Dışı - VS menzil dışında</value>
+    <value>Yanaşma Rejimi Disabled - VS diapazondan kənarda</value>
     <comment>Approach Mode Disabled - VS out of range</comment>
   </data>
   <data name="SystemMessaging.ATC.TuningTo" xml:space="preserve">
-    <value>Ayarlama {0} {1}</value>
+    <value>Tənzimləmə {0} {1}</value>
     <comment>Tuning to {0} {1}</comment>
   </data>
   <data name="SystemMessaging.Autopilot.Disengaged" xml:space="preserve">
-    <value>OTOPİLOT DEVRE DIŞI</value>
+    <value>AVTOPILOT QƏBUL EDİLDİ</value>
     <comment>AUTOPILOT DISENGAGED</comment>
   </data>
   <data name="SystemMessaging.Autopilot.DisengagedCheckParams" xml:space="preserve">
-    <value>OTOPİLOT DEVRE DIŞI - UÇUŞ PARAMETRELERİNİ KONTROL EDİN</value>
+    <value>AVTOPİLOT QEYDİ - UÇUŞ PARAMETRELƏRİNİ YOXLAYIN</value>
     <comment>AUTOPILOT DISENGAGED - CHECK FLIGHT PARAMETERS</comment>
   </data>
   <data name="SystemMessaging.Autopilot.EngagedWithClimbRate" xml:space="preserve">
-    <value>OTOPİLOT AÇIK - VS: {0:#0} ft/min</value>
+    <value>AVTOPİLOT ON - VS: {0:#0} fut/dəq</value>
     <comment>AUTOPILOT ON - VS: {0:#0} ft/min</comment>
   </data>
   <data name="SystemMessaging.Engine.MasterSwitchPrompt" xml:space="preserve">
-    <value>Motoru çalıştırmadan önce elektrik panosundaki ana şalteri açın</value>
+    <value>Mühərriki işə salmazdan əvvəl elektrik panelindəki əsas açarı yandırın</value>
     <comment>Turn on the master switch in the electrical panel before starting engine</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.Off" xml:space="preserve">
-    <value>UÇUŞ YOLU VEKTÖRÜ KAPALI</value>
+    <value>UÇUŞ YOLU VEKTORU QEYDİ</value>
     <comment>FLIGHT PATH VECTOR OFF</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.On" xml:space="preserve">
-    <value>UÇUŞ YOLU VEKTÖRÜ AÇIK</value>
+    <value>UÇUŞ YOLU VEKTORU AÇIQ</value>
     <comment>FLIGHT PATH VECTOR ON</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.Alt" xml:space="preserve">
@@ -2054,7 +2054,7 @@
     <comment>ALT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.ArrivingAtDestination" xml:space="preserve">
-    <value>VARIŞA ULAŞMAYA &lt; 1dk</value>
+    <value>GƏLƏNİNİZƏ ÇATDIR &lt; 1dk</value>
     <comment>ARRIVING AT DESTINATION in &lt; 1min</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.FlyHdg" xml:space="preserve">
@@ -2066,67 +2066,67 @@
     <comment>FT (feet)</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWpt" xml:space="preserve">
-    <value>SIRADAKİ WPT:</value>
+    <value>NÖVBƏTİ WPT:</value>
     <comment>NEXT WPT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
-    <value>SIRADAKİ WPT &lt; 1 Dk içinde - Turn to HDG</value>
+    <value>NEXT WPT &lt; 1 dəqiqə ərzində - Turn to HDG</value>
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
-    <value>Yakıt boşaltma başlatılamıyor. Minimum yükseklik 7000ft AGL</value>
+    <value>Yanacağın boşaldılmasına başlamaq mümkün deyil. Minimum hündürlük 7000ft AGL</value>
     <comment>Cannot start fuel dump. Min altitude 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelowMLW" xml:space="preserve">
-    <value>Yakıt boşaltma başlatılamıyor. Uçak, Maksimum İniş Ağırlığının altında</value>
+    <value>Yanacağın boşaldılmasına başlamaq mümkün deyil. Təyyarə Maksimum Eniş Çəkisi altındadır</value>
     <comment>Cannot start fuel dump. Aircraft is below Maximum Landing Weight</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.FuelTooLow" xml:space="preserve">
-    <value>Yakıt boşaltma başlatılamıyor. Yakıt seviyesi çok düşük!</value>
+    <value>Yanacağın boşaldılmasına başlamaq mümkün deyil. Yanacaq səviyyəsi çox aşağıdır!</value>
     <comment>Cannot start fuel dump. Fuel level too low!</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Starting" xml:space="preserve">
-    <value>Yakıt Boşalmasını Başlatma - Yakıt Seviyesini İzleyin</value>
+    <value>Yanacağın boşaldılmasına başlamaq - Yanacaq səviyyəsinə nəzarət edin</value>
     <comment>Starting Fuel Dump - Monitor Fuel Level</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelow7000" xml:space="preserve">
-    <value>Yakıt boşaltma durdu. Uçak 7000ft AGL'nin altında</value>
+    <value>Yanacağın boşaldılması dayandı. 7000 fut AGL-dən aşağı olan təyyarə</value>
     <comment>Fuel dump stopped. Aircraft is below 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelowMLW" xml:space="preserve">
-    <value>Yakıt boşaltma durdu. Uçak maksimum iniş ağırlığının altında</value>
+    <value>Yanacağın boşaldılması dayandı. Təyyarə maksimum eniş ağırlığından aşağıdır</value>
     <comment>Fuel dump stopped. Aircraft is below maximum landing weight</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.FuelTooLow" xml:space="preserve">
-    <value>Yakıt boşaltma durdu. Yakıt seviyesi çok düşük</value>
+    <value>Yanacağın boşaldılması dayandı. Yanacaq səviyyəsi çox aşağıdır</value>
     <comment>Fuel dump stopped. Fuel level too low</comment>
   </data>
   <data name="SystemMessaging.Gear.UpWarning" xml:space="preserve">
-    <value>Uyarı, İniş Takımları Devrede</value>
+    <value>Xəbərdarlıq, Eniş Şasisi işə salınıb</value>
     <comment>Warning, Landing Gear is Up</comment>
   </data>
   <data name="SystemMessaging.LowPowerMode.Disabled" xml:space="preserve">
-    <value>Düşük Güç Modu Devre Dışı</value>
+    <value>Aşağı Güc Rejimi Deaktivdir</value>
     <comment>Low Power Mode Disabled</comment>
   </data>
   <data name="SystemMessaging.LowPowerMode.Enabled" xml:space="preserve">
-    <value>Düşük Güç Modu Etkin</value>
+    <value>Aşağı Güc Rejimi Aktivdir</value>
     <comment>Low Power Mode Enabled</comment>
   </data>
   <data name="SystemMessaging.OutOfRegion" xml:space="preserve">
-    <value>Varsayılan bölgelerin dışına uçmak için Infinite Flight Pro gereklidir.Daha fazla bilgi için buraya dokunun</value>
+    <value>Defolt zonalardan kənarda uçmaq üçün Infinite Flight Pro tələb olunur. Ətraflı məlumat üçün bura klikləyin</value>
     <comment>Infinite Flight Pro is required to fly outside of the default regions.Tap here for more information</comment>
   </data>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
-    <value>Aşırı Hız! Maksimum uçak hızının altında yavaşlamak için gazı/gücü azaltın</value>
+    <value>Həddindən artıq sürət! Maksimum hava sürətindən aşağı yavaşlamaq üçün qazı/gücü azaldın</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
-    <value>GERİ İTMEYİ BAŞLATILIYOR</value>
+    <value>PAŞBƏKƏ BAŞLAMA</value>
     <comment>STARTING PUSHBACK</comment>
   </data>
   <data name="SystemMessaging.PushbackStopped" xml:space="preserve">
-    <value>GERİ İTME DURDURULDU</value>
+    <value>GERİ BAXMA DAYANDI</value>
     <comment>PUSHBACK STOPPED</comment>
   </data>
   <data name="SystemMessaging.Refueling.Aerial" xml:space="preserve">
@@ -2134,87 +2134,87 @@
     <comment>Aerial Refueling Started...</comment>
   </data>
   <data name="SystemMessaging.Refueling.Complete" xml:space="preserve">
-    <value>Yakıt ikmali Tamamlandı</value>
+    <value>Yanacaq doldurulması tamamlandı</value>
     <comment>Refueling Complete</comment>
   </data>
   <data name="SystemMessaging.Refueling.Standard" xml:space="preserve">
-    <value>Yakıt ikmali başladı...</value>
+    <value>Yanacaq doldurulmağa başlandı...</value>
     <comment>Refueling Started...</comment>
   </data>
   <data name="SystemMessaging.SpeedMode.CannotActivate" xml:space="preserve">
-    <value>Hız modu etkinleştirilemiyor. Uçak yerde.</value>
+    <value>Sürət rejimi aktivləşdirilə bilməz. Təyyarə yerdədir.</value>
     <comment>Cannot activate speed mode. Airplane is on the ground.</comment>
   </data>
   <data name="SystemMessaging.Stall.Approaching" xml:space="preserve">
-    <value>Yaklaşma Perdovitesi! Kurtarmak için kolu/dümeni ileri itin</value>
+    <value>Perdovite yaxınlaşın! Bərpa etmək üçün sapı/sükanı irəli itələyin</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
   <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>Perdovites! Kurtarmak için kolu/dümeni ileri itin</value>
+    <value>Perdovitlər! Bərpa etmək üçün sapı/sükanı irəli itələyin</value>
     <comment>STALL! Push yoke/stick forward to recover</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
-    <value>Simülasyon zaman ölçeğini değiştirmek için otomatik pilot etkinleştirilmelidir</value>
+    <value>Simulyasiya vaxtı miqyasını dəyişmək üçün avtopilot aktivləşdirilməlidir</value>
     <comment>Autopilot must be activated to change simulation time scale</comment>
   </data>
   <data name="SystemMessaging.TimeScale.FighterJetsWarning" xml:space="preserve">
-    <value>Savaş uçakları için simülasyon zaman ölçeği değiştirilemez.</value>
+    <value>Döyüş təyyarələri üçün simulyasiya vaxtı şkalası dəyişdirilə bilməz.</value>
     <comment>Simulation time scale cannot be changed for fighter jets.</comment>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
-    <value>AKROBATİK UYARISI Havaalanlarının yakınında akrobasi manevraları yasaktır.</value>
+    <value>ACROBATİK XƏBƏRDARLIQ Hava limanlarının yaxınlığında akrobatik manevrlər qadağandır.</value>
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>PİST BOŞTA UYARI\nAktif pistlerde uzun süre kalmak yasaktır.\nİhlal almamak için pistten çıkın veya kalkış yapın</value>
+    <value>Uçuş zolağının BOŞ XƏBƏRDARLIĞI\nAktiv uçuş-enmə zolaqlarında uzun müddət qalmaq qadağandır.\nPozulmaların qarşısını almaq üçün enmə zolağından çıxın və ya qalxın.</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>TAKSİ HIZI UYARISI Taksi yaparken maksimum yer hızı: 35kts. İhlalleri önlemek için yavaşlayın.</value>
+    <value>TAKSİ SÜRƏT XƏBƏRDARLIĞI Taksi sürərkən maksimum yer sürəti: 35 kts. Qanun pozuntularının qarşısını almaq üçün yavaşlayın.</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
-    <value>Tırmanış sırasında VNAV kullanılamaz. Bu işlevsellik yalnızca iniş için kullanılabilir.</value>
+    <value>Qalxma zamanı VNAV istifadə edilə bilməz. Bu funksiya yalnız eniş üçün əlçatandır.</value>
     <comment>VNAV unavailable during climb.\nThis functionality is only available for descent.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
-    <value>VNAV {1:n0}ft irtifasındaki {0} a alçalıyor </value>
+    <value>{1:n0} fut yüksəklikdə {0} səviyyəsinə enən VNAV </value>
     <comment>VNAV Descending to {0} at {1:n0}ft</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
-    <value>VNAV Kullanılamaz\nUçuş Planında herhangi bir ara nokta için yükseklik ayarı yapılmadı</value>
+    <value>VNAV Əlçatan deyil\nUçuş Planında heç bir keçid nöqtəsi üçün hündürlük tənzimlənməsi aparılmayıb</value>
     <comment>VNAV Unavailable\nNo altitude set for any waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
-    <value>VNAV KullanılamazUçuş Planında yol noktası yok</value>
+    <value>VNAV Əlçatmaz Uçuş Planında heç bir keçid nöqtəsi yoxdur</value>
     <comment>VNAV UnavailableNo waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.TargetUpdated" xml:space="preserve">
-    <value>VNAV Hedefi {0} ({2:#0.0}NM) @ {1:n0}ft e güncenllendi</value>
+    <value>VNAV Hədəfi {0} ({2:#0.0}NM) @ {1:n0} fut olaraq yeniləndi</value>
     <comment>VNAV Target updated to {0} ({2:#0.0}NM) @ {1:n0}ft</comment>
   </data>
   <data name="Violations.ExceededDisconnection" xml:space="preserve">
-    <value>Bu mevcut oturum için aşırı ihlal nedeniyle bağlantınız kesildi.</value>
+    <value>Bu cari sessiya üçün həddindən artıq pozuntulara görə əlaqəniz kəsildi.</value>
     <comment>You have been disconnected due to excess violations for this current session.</comment>
   </data>
   <data name="Violations.LimitExceeded" xml:space="preserve">
-    <value>İhlal Limiti Aşıldı</value>
+    <value>Pozulma Limiti Keçdi</value>
     <comment>Violation Limit Exceeded</comment>
   </data>
   <data name="WeightAndBalance.Cargo" xml:space="preserve">
-    <value>Kargo</value>
+    <value>Yük</value>
     <comment>Cargo</comment>
   </data>
   <data name="WeightAndBalance.FlightTime" xml:space="preserve">
-    <value>Tahmini Uçuş Süresi</value>
+    <value>Təxmini Uçuş Müddəti</value>
     <comment>Est. Flight Time</comment>
   </data>
   <data name="WeightAndBalance.FuelBurn" xml:space="preserve">
-    <value>Yakıt Yanması</value>
+    <value>Yanacağın yanması</value>
     <comment>Fuel Burn</comment>
   </data>
   <data name="WeightAndBalance.FuelTanks" xml:space="preserve">
-    <value>Yakıt Tankları</value>
+    <value>Yanacaq Çənləri</value>
     <comment>Fuel Tanks</comment>
   </data>
   <data name="WeightAndBalance.Heavy" xml:space="preserve">
@@ -2222,7 +2222,7 @@
     <comment>Heavy</comment>
   </data>
   <data name="WeightAndBalance.Light" xml:space="preserve">
-    <value>Hafif</value>
+    <value>İşıq</value>
     <comment>Light</comment>
   </data>
   <data name="WeightAndBalance.Normal" xml:space="preserve">
@@ -2230,59 +2230,59 @@
     <comment>Normal</comment>
   </data>
   <data name="WeightAndBalance.Others" xml:space="preserve">
-    <value>Diğerleri</value>
+    <value>Digərləri</value>
     <comment>Others</comment>
   </data>
   <data name="WeightAndBalance.Passengers" xml:space="preserve">
-    <value>Yolcular</value>
+    <value>sərnişinlər</value>
     <comment>Passengers</comment>
   </data>
   <data name="WeightAndBalance.Synchronize" xml:space="preserve">
-    <value>senkronize et</value>
+    <value>sinxronizasiya</value>
     <comment>Synchronize</comment>
   </data>
   <data name="WarningMessageControl.Reported" xml:space="preserve">
-    <value>Uyarıldı</value>
+    <value>xəbərdarlıq etdi</value>
     <comment>Reported</comment>
   </data>
   <data name="WarningMessageControl.TapToDismiss" xml:space="preserve">
-    <value>Kapatmak için dokunun</value>
+    <value>Bağlamaq üçün toxunun</value>
     <comment>Tap to dismiss</comment>
   </data>
   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
-    <value>Devam etmek için dokunun</value>
+    <value>Davam etmək üçün toxunun</value>
     <comment>Tap to continue</comment>
   </data>
   <data name="WarningMessageControl.ViolationsCount" xml:space="preserve">
-    <value>İhlaller: {0}/{1}</value>
+    <value>pozuntular: {0}/{1}</value>
     <comment>Violations: {0}/{1}</comment>
   </data>
   <data name="Multiplayer.GotIt" xml:space="preserve">
-    <value>Anladım!</value>
+    <value>Mən başa düşürəm!</value>
     <comment>Got it!</comment>
   </data>
   <data name="Multiplayer.Welcome" xml:space="preserve">
-    <value>Hoşgeldin</value>
+    <value>Xoş gəldiniz</value>
     <comment>Welcome</comment>
   </data>
   <data name="Tips.Default" xml:space="preserve">
-    <value>Parmağınız dümen kumandasındayken, yerdeki frenleri etkinleştirmek için aşağı kaydırın.</value>
+    <value>Barmağınızı sükan idarəsində tutaraq, yerdə əyləcləri işə salmaq üçün aşağı sürüşdürün.</value>
     <comment>With your finger on the rudder control, slide down to activate the brakes on the ground.</comment>
   </data>
   <data name="FlightRatingPage.CurrentGrade" xml:space="preserve">
-    <value>Rütbe</value>
+    <value>Rütbə</value>
     <comment>Grade</comment>
   </data>
   <data name="FlightRatingPage.FlightRating" xml:space="preserve">
-    <value>UÇUŞ DEĞERLENDİRMESİ</value>
+    <value>UÇUŞUN QİYMƏTLƏNDİRİLMƏSİ</value>
     <comment>FLIGHT RATING</comment>
   </data>
   <data name="FlightRatingPage.FlightTime" xml:space="preserve">
-    <value>Uçuş Süresi</value>
+    <value>Uçuş vaxtı</value>
     <comment>Flight Time</comment>
   </data>
   <data name="FlightRatingPage.Penalty" xml:space="preserve">
-    <value>Ceza</value>
+    <value>Cəza</value>
     <comment>Penalty</comment>
   </data>
   <data name="FlightRatingPage.Reputation" xml:space="preserve">
@@ -2290,135 +2290,135 @@
     <comment>XP</comment>
   </data>
   <data name="FlightRatingPage.ReputationEarned" xml:space="preserve">
-    <value>XP Kazanıldı</value>
+    <value>XP qazandı</value>
     <comment>XP Earned</comment>
   </data>
   <data name="FlightRatingPage.ViolationCount" xml:space="preserve">
-    <value>İhlaller</value>
+    <value>pozuntular</value>
     <comment>Violations</comment>
   </data>
   <data name="Multiplayer.Disconnected" xml:space="preserve">
-    <value>BAĞLANTI KESİLDİ</value>
+    <value>BAĞLANTI KESİDİ</value>
     <comment>DISCONNECTED</comment>
   </data>
   <data name="ReportControl.ContinueOffline" xml:space="preserve">
-    <value>Çevrimdışı Devam Et</value>
+    <value>Oflayn davam edin</value>
     <comment>Continue Offline</comment>
   </data>
   <data name="ReportControl.Reason" xml:space="preserve">
-    <value>Sebep: </value>
+    <value>Səbəb:</value>
     <comment>Reason:</comment>
   </data>
   <data name="ReportControl.ReportedBy" xml:space="preserve">
-    <value>Tarafından Uyarıldınız:  </value>
+    <value>Sizə xəbərdarlıq edilib:</value>
     <comment>Reported By:</comment>
   </data>
   <data name="SplashScreen.LoadingAirport" xml:space="preserve">
-    <value>Havalimanınız Yükleniyor</value>
+    <value>Hava limanınız Yüklənir</value>
     <comment>Loading your Airport</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingAutopilot" xml:space="preserve">
-    <value>Otomatik pilot hızı şu şekilde ayarlanıyor: {0}</value>
+    <value>Avtopilot sürəti {0} olaraq ayarlanıb</value>
     <comment>Setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilers" xml:space="preserve">
-    <value>Hava Frenleri etkinleştiriliyor</value>
+    <value>Hava daşıyıcıları işə buraxılır</value>
     <comment>Enabling spoilers</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilersAndAutopilot" xml:space="preserve">
-    <value>Hava Frenleri etkinleştirip otomatik pilot hızını {0} a ayarlanıyor</value>
+    <value>Hava əyləclərinin aktivləşdirilməsi və avtopilot sürətinin {0}-ə qurulması</value>
     <comment>Enabling spoilers and setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.Issued" xml:space="preserve">
-    <value>Hız İhlal Edildi</value>
+    <value>Sürət pozulub</value>
     <comment>Speed Violation Issued</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnots" xml:space="preserve">
-    <value>İhlalleri engellemek için hızınızı {0}kts altına indirin</value>
+    <value>Pozuntuların qarşısını almaq üçün sürətinizi {0}kts-dən aşağı salın</value>
     <comment>Reduce speed below {0}kts to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnotsBelow10k" xml:space="preserve">
-    <value>İhlalleri önlemek için hızı 10.000 fitin altında {0}kts altına düşürün</value>
+    <value>Pozuntuların qarşısını almaq üçün sürəti {0}kts-dən aşağı, 10.000 futdan aşağı salın</value>
     <comment>Reduce speed below {0}kts below 10000ft to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowMach" xml:space="preserve">
-    <value>İhlalleri önlemek için hızı Mach {0:0.00} altına düşürün</value>
+    <value>Pozuntuların qarşısını almaq üçün sürəti Mach {0:0.00-dan aşağı azaldın</value>
     <comment>Reduce speed below Mach {speed} to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.WarningTitle" xml:space="preserve">
-    <value>HIZ UYARISI</value>
+    <value>SÜRƏT XƏBƏRDARLIĞI</value>
     <comment>SPEED WARNING</comment>
   </data>
   <data name="Violation.Level0Received.Message" xml:space="preserve">
-    <value>Bir denetleyici veya personel tarafından bağlantınız kesildi. Bu bir İhlal değildir ve temyize gerek yoktur.</value>
+    <value>Nəzarətçi və ya əməkdaş tərəfindən əlaqəniz kəsilib. Bu, pozuntu deyil və heç bir şikayət tələb olunmur.</value>
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
-    <value>2. seviye bir ihlal aldınız ve mevcut oturumunuzla bağlantınız kesildi. Hemen başka bir uçuşa başlayabilirsiniz ve toplam ihlal sayınız izin veriyorsa itiraz etmeniz gerekmez. youtube.com/infiniteflight adresindeki uygulanabilir eğitimleri incelemenizi öneririz</value>
+    <value>Siz 2-ci səviyyə pozuntusu aldınız və cari sessiyanızla əlaqəni kəsdiniz. Siz dərhal başqa bir uçuşa başlaya bilərsiniz və pozuntuların ümumi sayı buna imkan verirsə, müraciət etmək lazım deyil. youtube.com/infiniteflight saytında müvafiq dərslikləri nəzərdən keçirməyi tövsiyə edirik</value>
     <comment>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.Level3Received.Message" xml:space="preserve">
-    <value>3. seviye bir ihlal aldınız ve mevcut oturumunuzla bağlantınız kesildi. youtube.com/infiniteflight adresindeki geçerli eğitimleri incelemenizi öneririz</value>
+    <value>Siz 3-cü səviyyə pozuntusu aldınız və cari sessiyanızla əlaqəni kəsdiniz. youtube.com/infiniteflight saytında cari dərsliklərə baxmağı tövsiyə edirik</value>
     <comment>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review and applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.UnspecifiedReason" xml:space="preserve">
-    <value>Belirtilmemiş Neden</value>
+    <value>Müəyyən edilməmiş Səbəb</value>
     <comment>Unspecified Reason</comment>
   </data>
   <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
-    <value>Havalimanlarının yakınında Akrobasi Manevraları yasaktır. 1. seviye ihlal düzenlenmiştir.</value>
+    <value>Hava limanları yaxınlığında akrobatik manevrlər qadağandır. 1-ci səviyyə pozuntusu verildi.</value>
     <comment>Aerobatic Maneuvers prohibited near airports.A level 1 violation has been issued.</comment>
   </data>
   <data name="Violations.AircraftIdle.Message" xml:space="preserve">
-    <value>Uçak aktif pistte çok uzun süre rölantide 1. seviye bir ihlal düzenlendi.</value>
+    <value>Təyyarə aktiv uçuş-enmə zolağında çox uzun müddət boş qaldı və nəticədə 1-ci səviyyə pozuntusu oldu.</value>
     <comment>Aircraft idle on active runway for too longA level 1 violation has been issued</comment>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
-    <value>35kts maksimum yer hızı aşıldı.Seviye 1 ihlali düzenlendi.Daha fazla ihlalden kaçınmak için yavaşlayın.</value>
+    <value>35kts maksimum yer sürəti keçdi. Səviyyə 1 pozuntusu verildi. Daha çox pozuntuların qarşısını almaq üçün yavaşlayın.</value>
     <comment>Exceeded max ground speed of 35kts.A level 1 violation has been issued.Slow down to avoid further violations.</comment>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
-    <value>Frekanslar Alındı</value>
+    <value>Qəbul edilən tezliklər</value>
     <comment>Frequencies Staffed</comment>
   </data>
   <data name="ATCRatingPage.Operations" xml:space="preserve">
-    <value>Oturum İşlemleri</value>
+    <value>Sessiya əməliyyatları</value>
     <comment>Session Operations</comment>
   </data>
   <data name="ATCRatingPage.Reports" xml:space="preserve">
-    <value>Oturum Uyarıları</value>
+    <value>Sessiya Xəbərdarlıqları</value>
     <comment>Session Reports</comment>
   </data>
   <data name="ATCRatingPage.Title" xml:space="preserve">
-    <value>OTURUM ÖZETİ</value>
+    <value>SESSİYANIN XÜLASƏSİ</value>
     <comment>SESSION SUMMARY</comment>
   </data>
   <data name="ATCRatingPage.TotalOperations" xml:space="preserve">
-    <value>Toplam İşlemler</value>
+    <value>Ümumi əməliyyatlar</value>
     <comment>Total Operations</comment>
   </data>
   <data name="ATCRatingPage.TotalTime" xml:space="preserve">
-    <value>Frekanstaki Süre</value>
+    <value>Tezlik üzrə vaxt</value>
     <comment>Time on Frequency</comment>
   </data>
   <data name="SystemMessaging.ATCActive" xml:space="preserve">
-    <value>{0} {1} etkin. Bu frekansa ayarlandınız.</value>
+    <value>{0} {1} aktivdir. Siz bu tezlikə köklənmisiniz.</value>
     <comment>{airport} {position} is active. You have been tuned to this frequency.</comment>
   </data>
   <data name="SystemMessaging.ATCOffline" xml:space="preserve">
-    <value>{0} {1} şu anda çevrimdışı</value>
+    <value>{0} {1} hazırda oflayndır</value>
     <comment>{airport} {position} is now offline</comment>
   </data>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
-    <value>{0} {1} şu anda çevrimdışı. {2} {3} olarak ayarlandınız.</value>
+    <value>{0} {1} hazırda oflayndır. Siz {2} {3} olaraq təyin olundunuz.</value>
     <comment>{airport} {position} is now offline. You have been tuned to {2} {3}.</comment>
   </data>
   <data name="Settings.General.ClearCache" xml:space="preserve">
-    <value>Önbelleği Temizle</value>
+    <value>Keşi təmizləmək</value>
     <comment>Clear Cache</comment>
   </data>
   <data name="Settings.General.NoVoicesFound" xml:space="preserve">
-    <value>ses bulunamadı</value>
+    <value>səs tapılmadı</value>
     <comment>No voices found</comment>
   </data>
   <data name="Settings.Option.FiveSeconds" xml:space="preserve">
@@ -2426,7 +2426,7 @@
     <comment>5 Seconds</comment>
   </data>
   <data name="Settings.Option.Never" xml:space="preserve">
-    <value>Asla</value>
+    <value>Heç vaxt</value>
     <comment>Never</comment>
   </data>
   <data name="Settings.Option.TenSeconds" xml:space="preserve">
@@ -2438,123 +2438,123 @@
     <comment>2 Seconds</comment>
   </data>
   <data name="Commands.ElevatorTrimDown" xml:space="preserve">
-    <value>İrtifa Dümeni Trimi'i aŞağı</value>
+    <value>Hündürlük Sükanını aşağı salın</value>
     <comment>Elevator Trim Down</comment>
   </data>
   <data name="Commands.ElevatorTrimUp" xml:space="preserve">
-    <value>İrtifa Dümeni Trimi'i Yukarı</value>
+    <value>Hündürlük Sükanının Kəsilməsi</value>
     <comment>Elevator Trim Up</comment>
   </data>
   <data name="Commands.ThrottleDown" xml:space="preserve">
-    <value>Güç Kolu AşağI</value>
+    <value>Güc Qolu Aşağı</value>
     <comment>Throttle Down</comment>
   </data>
   <data name="Commands.ThrottleUp" xml:space="preserve">
-    <value>Güç Kolu Yukarı</value>
+    <value>Güc Lever Up</value>
     <comment>Throttle Up</comment>
   </data>
   <data name="Error.NetworkErrorShort" xml:space="preserve">
-    <value>Ağ hatası</value>
+    <value>şəbəkə xətası</value>
     <comment>Network Error</comment>
   </data>
   <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
-    <value>Ek Bilgi Yok</value>
+    <value>Əlavə məlumat yoxdur</value>
     <comment>No Additional Information</comment>
   </data>
   <data name="SystemsStatus.NoInfo" xml:space="preserve">
-    <value>Bilgi Yok</value>
+    <value>İnformasiya yoxdur</value>
     <comment>No Info</comment>
   </data>
   <data name="SystemStatus.Name" xml:space="preserve">
-    <value>Sistem Durumu</value>
+    <value>Sistem Vəziyyəti</value>
     <comment>Systems Status</comment>
   </data>
   <data name="Global.RestorePurchases" xml:space="preserve">
-    <value>Satın Alımları Geri Yükle</value>
+    <value>Satınalmaları bərpa edin</value>
     <comment>Restore Purchases</comment>
   </data>
   <data name="Replay.DeleteAll" xml:space="preserve">
-    <value>Hepsini Sil</value>
+    <value>Hər şeyi silin</value>
     <comment>Delete All</comment>
   </data>
   <data name="Replay.DeleteAll.Message" xml:space="preserve">
-    <value>Bütün Tekrar kayıtları silinsin mi?</value>
+    <value>Bütün Replay qeydləri silinsin?</value>
     <comment>Delete all replay files?</comment>
   </data>
   <data name="Replay.DeleteSelected" xml:space="preserve">
-    <value>Seçilenleri Sil</value>
+    <value>Seçilmişi Sil</value>
     <comment>Delete Selected</comment>
   </data>
   <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
-    <value>Seçilen {0} tekrar dosyası silinsin mi?</value>
+    <value>Seçilmiş {0} təkrar fayl silinsin?</value>
     <comment>Delete {0} selected replay files?</comment>
   </data>
   <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
-    <value>Seçilen tekrar dosyası silinsin mi?</value>
+    <value>Seçilmiş təkrar fayl silinsin?</value>
     <comment>Delete selected replay file?</comment>
   </data>
   <data name="Replay.DeleteUnstarred" xml:space="preserve">
-    <value>Yıldızlanmayanları Sil</value>
+    <value>Ulduzsuz silin</value>
     <comment>Delete Unstarred</comment>
   </data>
   <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
-    <value>Yıldızlanmamış tekrar kayıtları silinsin mi?</value>
+    <value>Ulduzsuz təkrarlar silinsin?</value>
     <comment>Delete unstarred replay files?</comment>
   </data>
   <data name="MapItemInfoControl.Class" xml:space="preserve">
-    <value>Sınıf {0}</value>
+    <value>Sinif {0}</value>
     <comment>Class {0}</comment>
   </data>
   <data name="MapItemInfoControl.Information" xml:space="preserve">
-    <value>Bilgi</value>
+    <value>Məlumat</value>
     <comment>Information</comment>
   </data>
   <data name="WeightAndBalance.Unavailable" xml:space="preserve">
-    <value>Kullanım dışı</value>
+    <value>İstifadədən kənar</value>
     <comment>Unavailable</comment>
   </data>
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
-    <value>Canlı Modda Ağırlık ve Dengede değişiklik yapmak için rampada Park Frenlerini etkinleştirin.</value>
+    <value>Canlı rejimdə Çəki və Balansda dəyişiklik etmək üçün enişdə Dayanacaq Əyləclərini aktivləşdirin.</value>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
-    <value>Bu havaalanında körük yok</value>
+    <value>Bu hava limanında körük yoxdur</value>
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>Bir anlaşma imzalanmadı; bu eylemi gerçekleştirmek için sözleşmeyi imzalamanız gerekir (hata kodu {0})</value>
+    <value>Müqavilə imzalanmadı; bu əməliyyatı yerinə yetirmək üçün müqavilə imzalamalısınız (xəta kodu {0})</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>Seçilen havaalanı mevcut değil (hata kodu {0})</value>
+    <value>Seçilmiş hava limanı mövcud deyil (xəta kodu {0})</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>Çıkış yaptınız ve manuel olarak tekrar giriş yapmanız gerekiyor (hata kodu {0})</value>
+    <value>Siz sistemdən çıxmısınız və əl ilə yenidən daxil olmalısınız (xəta kodu {0})</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>Bu özellik desteklenmiyor (hata kodu {0})</value>
+    <value>Bu funksiya dəstəklənmir (xəta kodu {0})</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>Seçilen sunucu kullanılamıyor (hata kodu {0})</value>
+    <value>Seçilmiş server əlçatan deyil (xəta kodu {0})</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Bu havaalanına atanmadınız. Lütfen bir gözden geçiren veya moderatörle iletişime geçin (hata kodu {0})</value>
+    <value>Siz bu hava limanına təyin olunmursunuz. Rəyçi və ya moderatorla əlaqə saxlayın (xəta kodu {0})</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
-    <value>Değişiklikleri bu havaalanına yükleme izniniz yok. Lütfen önce Scenery Editor forumu aracılığıyla atanmayı isteyin.</value>
+    <value>Dəyişiklikləri bu hava limanına yükləmək icazəniz yoxdur. Əvvəlcə Scenery Editor forumu vasitəsilə tapşırıq tələb edin.</value>
     <comment>You do not have permission to upload changes to this airport.Please ask to be assigned via the Scenery Editing forum first</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
-    <value>Park frenini çekin ve körüğe yanaşmak için tüm motorları kapatın</value>
+    <value>Dayanacaq əyləcini qurun və doka yaxınlaşmaq üçün bütün mühərrikləri söndürün.</value>
     <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
-    <value>Yakınlarda körük yok</value>
+    <value>Yaxınlıqda üfleyici yoxdur</value>
     <comment>No jet bridges available nearby</comment>
   </data>
   <data name="MapItemInfoControl.Contributor" xml:space="preserve">
@@ -2566,7 +2566,7 @@
     <comment>Contributors</comment>
   </data>
   <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
-    <value>{0}{1}yakınında Etkin bir TFR'a girildi, daha fazla bilgi için haritayı kontrol edin</value>
+    <value>{0}{1} yaxınlığında Aktiv TFR daxil edilib, ətraflı məlumat üçün xəritəni yoxlayın</value>
     <comment>Entered an Active TFR at or near {ICAO}{Title}Check map for more information</comment>
   </data>
   <data name="UserAccountControl.Discord" xml:space="preserve">
@@ -2574,75 +2574,75 @@
     <comment>Discord Account</comment>
   </data>
   <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
-    <value>Discord hesabınız bağlandı ve sadece Pro abonelere özel Discord sunucumuza erişiminiz var</value>
+    <value>Discord hesabınız qoşulub və siz yalnız Pro abunəçiləri üçün Discord serverimizə daxil ola bilərsiniz.</value>
     <comment>Your Discord account has been linked and you have access to our Pro-only Discord server</comment>
   </data>
   <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
-    <value>Yalnızca Pro abonelerimize özel sunucumuza erişim elde etmek için bir Discord hesabı bağlayın</value>
+    <value>Yalnız Pro abunəçiləri üçün serverimizə daxil olmaq üçün Discord hesabını birləşdirin</value>
     <comment>Link a Discord account to gain exclusive access to our Pro-only server</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
-    <value>Discord hesabınız bağlandı. Infinite Flight Discord sunucusuna şimdi katılmak ister misiniz?</value>
+    <value>Discord hesabınız qoşulub. Infinite Flight Discord serverinə indi qoşulmaq istəyirsiniz?</value>
     <comment>Your Discord account has been linked. Do you want to join the Infinite Flight Discord server now?</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
-    <value>Şimdi Değil</value>
+    <value>İndi yox</value>
     <comment>Not Now</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
-    <value>Hesap Bağlandı</value>
+    <value>Hesab Bağlandı</value>
     <comment>Account Linked</comment>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
-    <value>Infinite Flight Server'a katılmak için Discord'un App Store'dan yüklenmesi gerekir. Şimdi yüklemek istiyor musunuz?</value>
+    <value>Infinite Flight Serverinə qoşulmaq üçün Discord App Store-dan quraşdırılmalıdır. İndi quraşdırmaq istəyirsiniz?</value>
     <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
-    <value>Discord Yüklenmedi</value>
+    <value>Discord Quraşdırılmayıb</value>
     <comment>Discord Not Installed</comment>
   </data>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
-    <value>Yer hizmetleri, Park Frenlerinin AÇIK, Tepe Lambalarının KAPALI ve Motorların KAPALI olmasını gerektirir.</value>
+    <value>Yerlə işləmək üçün Dayanacaq Əyləclərinin AÇILIŞI, İşıq İşıqlarının SÖNDÜRÜLMƏSİ və Mühərriklərin Söndürülməsi tələb olunur.</value>
     <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
-    <value>En son gelişmeleri yansıtmayan eski uçakları gösterin (yüksek kaliteli sanal kokpitler, enstrümanlar, vb...)</value>
+    <value>Ən son inkişafları əks etdirməyən köhnə təyyarələri göstərin (yüksək keyfiyyətli virtual kokpitlər, alətlər və s...)</value>
     <comment />
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
-    <value>Eski uçaklar, Infinite Flight'ın eski sürümlerinin ekstralarıdır ve aynı kalitede değildir. Yine de onlara gösterilsin mi?</value>
+    <value>Köhnə təyyarələr Infinite Flight-ın köhnə versiyalarının əlavələridir və eyni keyfiyyətdə deyillər. Onsuz da onlara göstərilməlidirmi?</value>
     <comment />
   </data>
   <data name="Settings.General.Legacy" xml:space="preserve">
-    <value>Eski</value>
+    <value>Köhnə</value>
     <comment>Legacy</comment>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
-    <value>Uyarı: Bu uçak eski bir versiyondan ekstradır ve yeni uçağımızla aynı kalitede değildir</value>
+    <value>Qeyd: Bu təyyarə köhnə versiyadan əlavədir və yeni təyyarəmizlə eyni keyfiyyət deyil</value>
     <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
-    <value>Lütfen önünüzdeki uçakla güvenli bir mesafe bırakın</value>
+    <value>Zəhmət olmasa, qarşınızdakı təyyarə ilə təhlükəsiz məsafə saxlayın</value>
     <comment>Please maintain a safe distance with the aircraft ahead</comment>
   </data>
   <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
-    <value>Hesabınızı bulduk ancak onunla ilişkilendirilmiş aktif bir abonelik yok.</value>
+    <value>Hesabınızı tapdıq, lakin onunla əlaqəli aktiv abunə yoxdur.</value>
     <comment>We found your account but there is no active subscription associated to it.</comment>
   </data>
   <data name="IntroPage.Home" xml:space="preserve">
-    <value>ANA SAYFA</value>
+    <value>ANA SƏHİFƏ</value>
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>Bu bağlantıyı açabilecek tarayıcı yok. Yüklü bir tarayıcınız olduğundan emin olun ve sorun devam ederse destekle iletişime geçin (hata kodu {0})</value>
+    <value>Bu linki aça biləcək heç bir brauzer yoxdur. Quraşdırılmış brauzerinizin olduğundan əmin olun və problem davam edərsə, dəstək xidməti ilə əlaqə saxlayın (xəta kodu {0})</value>
     <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>Sunucuya bağlanılamadı, internet bağlantınızı kontrol edin (hata kodu {0})</value>
+    <value>Serverə qoşulmaq mümkün olmadı, internet bağlantınızı yoxlayın (xəta kodu {0})</value>
     <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
   </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
-    <value>Kullanılabilir Sunucu Yok</value>
+    <value>Serverlər Mövcud deyil</value>
     <comment>No Available Server</comment>
   </data>
   <data name="LoginSubscriptionPage.Pricing12Months" xml:space="preserve">
@@ -2654,91 +2654,91 @@
     <comment>{0} / 6 months</comment>
   </data>
   <data name="AircraftProfileImageControl.ImageUnavailable" xml:space="preserve">
-    <value>Resim Mevcut Değil</value>
+    <value>Şəkil mövcud deyil</value>
   </data>
   <data name="ATC.Center" xml:space="preserve">
-    <value>Merkez</value>
+    <value>Mərkəz</value>
   </data>
   <data name="CallSignSelectionPage.CallsignsNotAvailable" xml:space="preserve">
-    <value>Çağrı adları şu anda mevcut değil, lütfen daha sonra tekrar deneyin</value>
+    <value>Zəng işarələri hazırda mövcud deyil, sonra yenidən cəhd edin</value>
   </data>
   <data name="Commands.ReverseThrust" xml:space="preserve">
-    <value>Geri İtme</value>
+    <value>dəf etmək</value>
   </data>
   <data name="Commands.RollAxis" xml:space="preserve">
-    <value> Yatış</value>
+    <value> qəbul</value>
   </data>
   <data name="Commands.YaxAxis" xml:space="preserve">
-    <value>Sapma</value>
+    <value>əyilmə</value>
   </data>
   <data name="DefaultMission.AfterLanding" xml:space="preserve">
-    <value>{0}'a hoş geldiniz. Bu görevi tamamlamak için park yerine taksi yapın ve uçağı kapatın</value>
+    <value>{0}-a xoş gəlmisiniz. Dayanacağa taksi ilə get və bu missiyanı yerinə yetirmək üçün təyyarəni söndür</value>
   </data>
   <data name="DefaultMission.Congratulation" xml:space="preserve">
-    <value>{0}'a bu uçuşu tamamladığınız için tebrikler!
-Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolculuğa çıkabilirsiniz. Yakında Infinite Flight göklerinde görüşmek üzere!</value>
+    <value>{0} reysini tamamladığınız üçün sizi təbrik edirik!
+Siz bu sessiyadan çıxa və ya yeni təyinat yerinə başqa səyahətə çıxa bilərsiniz. Tezliklə Infinite Flight səmasında görüşənədək!</value>
   </data>
   <data name="DefaultMission.Congratulation2" xml:space="preserve">
-    <value>{0}'a olan bu uçuşu tamamladığınız için tebrikler!
-Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolculuğa çıkabilirsiniz.</value>
+    <value>{0} reysini tamamladığınız üçün sizi təbrik edirik!
+Siz bu sessiyadan çıxa və ya yeni təyinat yerinə başqa səyahətə çıxa bilərsiniz.</value>
   </data>
   <data name="DefaultMission.HaveAGoodFlight" xml:space="preserve">
-    <value>{0}'a iyi uçuşlar</value>
+    <value>{0} şəhərinə yaxşı uçuşlar</value>
   </data>
   <data name="DefaultMission.HaveAGoodFlightTaxi" xml:space="preserve">
-    <value>Şimdi taksi yapmaya hazırsınız, {0}'a iyi uçuşlar</value>
+    <value>İndi taksi sürməyə hazırsınız, {0} yerə gözəl uçuşunuz olsun</value>
   </data>
   <data name="DefaultMission.MissionBriefWindow" xml:space="preserve">
-    <value>Bu sizin görev özeti pencereniz. Ne yapmanız gerektiğini görmek için istediğiniz zaman buraya geri dönebilirsiniz. Bu pencere, sağdaki "GÖREV ÖZETİ" düğmesine dokunarak açılıp kapatılabilir</value>
+    <value>Bu, missiyanızın xülasəsi pəncərəsidir. Nə etməli olduğunuzu görmək üçün istənilən vaxt buraya qayıda bilərsiniz. Bu pəncərəni sağdakı "TASK XÜLASƏSİ" düyməsinə toxunmaqla açmaq və ya bağlamaq olar</value>
   </data>
   <data name="DefaultMission.PushbackEnd" xml:space="preserve">
-    <value>Geri itme durdurulmuştur. Römorkörü uçaktan ayırmak için "YER HİZMETLERİ" menüsünde " RÖMORKÖRÜ AYIR" düğmesine basın</value>
+    <value>Pushback dayandırıldı. Yedəkləyicini təyyarədən ayırmaq üçün "YER XİDMƏTLƏRİ" menyusunda "YERDƏNDİRMƏSİ AYIR" düyməsini sıxın.</value>
   </data>
   <data name="DefaultMission.PushbackEndPrompt" xml:space="preserve">
-    <value>İşiniz bittiğinde, durdurmak için "PUSH" düğmesine tekrar basın.</value>
+    <value>Bitirdikdən sonra dayandırmaq üçün yenidən "PUSH" düyməsini basın.</value>
   </data>
   <data name="DefaultMission.PushbackStart" xml:space="preserve">
-    <value>Artık park frenleri serbest bırakıldığına göre, geri itmeyi başlatmak için " GROUND SERVICES" menüsündeki "PUSH" düğmesine dokunmanız yeterlidir.</value>
+    <value>Dayanacaq əyləcləri buraxıldıqdan sonra geri itələməyə başlamaq üçün sadəcə olaraq "YERİNDƏN XİDMƏTLƏR" menyusunda "TƏSİL" düyməsinə toxunun.</value>
   </data>
   <data name="DefaultMission.PushbackSteering" xml:space="preserve">
-    <value>Geri itme başladı, uçağı istediğiniz yöne yönlendirmek için sağ alttaki "RUD BRAKES" kaydırıcısını kullanın.</value>
+    <value>Geri itələmə başladı, təyyarəni istədiyiniz istiqamətə yönləndirmək üçün aşağı sağdakı "RUD BRAKES" slayderindən istifadə edin.</value>
   </data>
   <data name="DefaultMission.ReadyForPushback" xml:space="preserve">
-    <value>Geri itme için hazırız, sağdaki "GROUND SERVICES" menüsünü açın, "PUSHBACK" bölümüne kaydırın ve "ATTACH TUG" üzerine dokunun</value>
+    <value>Biz geri çəkilməyə hazırıq, sağda "YER XİDMƏTLƏRİ" menyusunu açın, "GERİ TƏKİL" bölməsinə keçin və "YÜKLƏMƏYİ BAĞLA" üzərinə klikləyin.</value>
   </data>
   <data name="DefaultMission.ReleaseBrakes" xml:space="preserve">
-    <value>Geri itmeye başlamaya hazırsanız, sol alttaki " PARK BRAKES" düğmesine dokunarak park frenlerinin serbest bırakılması gerekir</value>
+    <value>Əgər siz geriyə itələməyə hazırsınızsa, sol alt tərəfdəki "PARKING BRAKES" düyməsinə toxunaraq park əyləclərini buraxmalısınız.</value>
   </data>
   <data name="DefaultMission.StartEngine" xml:space="preserve">
-    <value>Motorlar henüz çalıştırılmadıysa şimdi çalıştırabiliriz. Sağdaki "SYSTEMS" menüsünü açın ve motorları çalıştırmak ve uçağı taksiye hazır hale getirmek için "AUTO START" üzerine dokunun</value>
+    <value>Mühərriklər hələ işə salınmayıbsa, biz onları indi işə sala bilərik. Sağdakı "SİSTEMLER" menyusunu açın və mühərrikləri işə salmaq və təyyarəni taksiyə hazırlamaq üçün "AVTO BAŞLAT" üzərinə klikləyin</value>
   </data>
   <data name="DefaultMission.TapToContinue" xml:space="preserve">
-    <value>Devam etmek için buraya dokunun</value>
+    <value>Davam etmək üçün bura klikləyin</value>
   </data>
   <data name="DefaultMission.Welcome" xml:space="preserve">
-    <value>Infinite Flight'a hoş geldiniz! Başlamak ve görev brifingi ile talimatları görmek için bu pencereye dokunun</value>
+    <value>Infinite Flight'a xoş gəlmisiniz! Başlamaq üçün bu pəncərəyə toxunun və missiya brifinqi və təlimatlarına baxın</value>
   </data>
   <data name="DefaultMission.YourMissionBrief" xml:space="preserve">
-    <value>Bugünkü göreviniz:
+    <value>Bugünkü vəzifəniz:
 {0}</value>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-    <value>Bu oturumun başlangıç ve bitiş zamanları geçerli değil (hata kodu {0})</value>
+    <value>Bu sessiya üçün başlanğıc və bitmə vaxtları etibarlı deyil (xəta kodu {0})</value>
   </data>
   <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
-    <value>{0} havaalanı ICAO'sudur</value>
+    <value>{0} ICAO hava limanıdır</value>
   </data>
   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
-    <value>UÇAĞI DEĞİŞTİR</value>
+    <value>TƏYYƏRƏNİ DƏYİŞİN</value>
   </data>
   <data name="FlightFreeControl.ImageNotFoundUpper" xml:space="preserve">
-    <value>GÖRÜNTÜ BULUNAMADI</value>
+    <value>ŞƏKİL TAPILMADI</value>
   </data>
   <data name="FlightFreeControl.NewFlightUpper" xml:space="preserve">
     <value>YENİ UÇUŞ</value>
   </data>
   <data name="FlightFreeControl.UnavailableUpper" xml:space="preserve">
-    <value>MEVCUT DEĞİL</value>
+    <value>MÖVCUD DEYİL</value>
   </data>
   <data name="FlightFreeControl.WeatherUpper" xml:space="preserve">
     <value>HAVA DURUMU</value>
@@ -2747,43 +2747,43 @@ Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolc
     <value>ALTİMETRE</value>
   </data>
   <data name="FlightMenu.ApproxDurationUpper" xml:space="preserve">
-    <value>YAKLAŞIK SÜRE</value>
+    <value>TƏXMİN MÜDDƏT</value>
   </data>
   <data name="FlightMenu.CloudsUpper" xml:space="preserve">
-    <value>BULUTLAR</value>
+    <value>BULUDLAR</value>
   </data>
   <data name="FlightMenu.DistanceUpper" xml:space="preserve">
-    <value>MESAFE</value>
+    <value>DIRANCE</value>
   </data>
   <data name="FlightMenu.FlightSchoolDescription" xml:space="preserve">
-    <value>İnteraktif eğitimlerle pilotluk becerilerinizde ustalaşın</value>
+    <value>İnteraktiv təlimlə pilotluq bacarıqlarınızı mənimsəyin</value>
   </data>
   <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
-    <value>UÇUŞ EĞİTİMİ</value>
+    <value>UÇUŞ TƏLİMİ</value>
   </data>
   <data name="FlightMenu.FreeFlightDescription" xml:space="preserve">
-    <value>Uçağınızı ve havaalanınızı seçin, uçuş planınızı özelleştirin ve kendi hızınızda sürükleyici bir uçuş deneyiminin tadını çıkarın</value>
+    <value>Təyyarənizi və hava limanınızı seçin, uçuş planınızı fərdiləşdirin və öz sürətinizdə immersiv uçuş təcrübəsindən həzz alın</value>
   </data>
   <data name="FlightMenu.FreeFlightUpper" xml:space="preserve">
-    <value>SERBEST UÇUŞ</value>
+    <value>PULSUZ Uçuş</value>
   </data>
   <data name="FlightMenu.GenericFlightUpper" xml:space="preserve">
-    <value>JENERİK UÇUŞ</value>
+    <value>ÜMUMİ UÇUŞ</value>
   </data>
   <data name="FlightMenu.LatestMetarUpper" xml:space="preserve">
     <value>SON METAR</value>
   </data>
   <data name="FlightMenu.MissionsDescription" xml:space="preserve">
-    <value>Trafik ve ATC'ye dayalı olarak önerilen havayolu ve charter rotaları ile doğrudan aksiyona geçin</value>
+    <value>Trafik və ATC əsasında tövsiyə olunan aviaşirkət və çarter marşrutları ilə birbaşa hərəkətə keçin</value>
   </data>
   <data name="FlightMenu.MissionsUpper" xml:space="preserve">
-    <value>GÖREVLER</value>
+    <value>VƏZİFƏLƏR</value>
   </data>
   <data name="FlightMenu.ParkingUpper" xml:space="preserve">
     <value>PARK</value>
   </data>
   <data name="FlightMenu.TemperatureUpper" xml:space="preserve">
-    <value>SICAKLIK</value>
+    <value>İSTİQ</value>
   </data>
   <data name="FlightMenu.TimeUpper" xml:space="preserve">
     <value>ZAMAN</value>
@@ -2798,7 +2798,7 @@ Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolc
     <value>{0:#000}° {1} kts'de</value>
   </data>
   <data name="FlightMenu.WindCalm" xml:space="preserve">
-    <value>Sakin</value>
+    <value>Ehtiyatlı</value>
   </data>
   <data name="FlightMenu.WindUpper" xml:space="preserve">
     <value>RÜZGAR</value>
@@ -2810,31 +2810,31 @@ Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolc
     <value>DÜNYA</value>
   </data>
   <data name="FlightMissionControl.FeaturedMissionUpper" xml:space="preserve">
-    <value>ÖNE ÇIKAN GÖREV</value>
+    <value>SEÇİLƏN SUAL</value>
   </data>
   <data name="FlightMissionControl.LongHaulUpper" xml:space="preserve">
     <value>UZUN UÇUŞ</value>
   </data>
   <data name="FlightMissionControl.MediumHaulUpper" xml:space="preserve">
-    <value>ORTA UZUNLUKTA UÇUŞ</value>
+    <value>ORTA UZUNLUQLU UÇUŞ</value>
   </data>
   <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
-    <value>GÖREV BULUNAMAMIŞTIR</value>
+    <value>Tapşırıq TAPILMADI</value>
   </data>
   <data name="FlightMissionControl.ShortHaulUpper" xml:space="preserve">
-    <value>KISA UÇUŞ</value>
+    <value>QISA UÇUŞ</value>
   </data>
   <data name="FlightMissionControl.UltraLongHaulUpper" xml:space="preserve">
-    <value>ÇOK UZUN UÇUŞ</value>
+    <value>ÇOX UZUN UÇUŞ</value>
   </data>
   <data name="FlightSchoolControl.AircraftUpper" xml:space="preserve">
-    <value>UÇAK</value>
+    <value>Təyyarə</value>
   </data>
   <data name="FlightSchoolControl.NoEntrySelected" xml:space="preserve">
-    <value>SEÇİLİ GİRİŞ YOK</value>
+    <value>SEÇİLMİŞ GİRİŞ YOXDUR</value>
   </data>
   <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
-    <value>DERS BULUNAMADI</value>
+    <value>KURS TAPILMADI</value>
   </data>
   <data name="GamePage.WaitCanvas.ReadyToFlyUpper" xml:space="preserve">
     <value>UÇUŞA HAZIR</value>
@@ -2846,73 +2846,73 @@ Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolc
     <value>N/A</value>
   </data>
   <data name="Global.You" xml:space="preserve">
-    <value>Sen</value>
+    <value>Sən</value>
   </data>
   <data name="InputAssignmentControl.AreYouSureToResetAllControls" xml:space="preserve">
-    <value>Tüm kontrolleri varsayılana sıfırlamak istediğinizden emin misiniz?</value>
+    <value>Bütün nəzarətləri defolta sıfırlamaq istədiyinizə əminsiniz?</value>
   </data>
   <data name="LeaderboardsControl.Landings" xml:space="preserve">
-    <value>İnişler</value>
+    <value>enişlər</value>
   </data>
   <data name="LeaderboardsControl.Pilots" xml:space="preserve">
     <value>Pilotlar</value>
   </data>
   <data name="LogbookControl.AircraftUpper" xml:space="preserve">
-    <value>UÇAK</value>
+    <value>Təyyarə</value>
   </data>
   <data name="LogbookControl.AllUpper" xml:space="preserve">
-    <value>TÜMÜ</value>
+    <value>HAMISI</value>
   </data>
   <data name="LogbookControl.AtcUpper" xml:space="preserve">
     <value>ATC</value>
   </data>
   <data name="LogbookControl.DistanceUpper" xml:space="preserve">
-    <value>MESAFE</value>
+    <value>DIRANCE</value>
   </data>
   <data name="LogbookControl.DurationUpper" xml:space="preserve">
     <value>SÜRE</value>
   </data>
   <data name="LogbookControl.ExportErrorMessage" xml:space="preserve">
-    <value>Yeniden oynatma dosyası dışa aktarılırken hata oluştu. Yeterli depolama alanınız olup olmadığını kontrol edin</value>
+    <value>Təkrar faylı ixrac edərkən xəta baş verdi. Kifayət qədər saxlama yeriniz olub olmadığını yoxlayın</value>
   </data>
   <data name="LogbookControl.ExportingUpper" xml:space="preserve">
-    <value>DIŞARI AKTARILIYOR</value>
+    <value>DAŞINMA</value>
   </data>
   <data name="LogbookControl.FileSizeUpper" xml:space="preserve">
-    <value>DOSYA BOYUTU</value>
+    <value>FAYL ÖLÇÜSÜ</value>
   </data>
   <data name="LogbookControl.MultiplayerUpper" xml:space="preserve">
-    <value>ÇOK OYUNCULU</value>
+    <value>MULTIPLAYER</value>
   </data>
   <data name="LogbookControl.NoEntrySelected" xml:space="preserve">
-    <value>SEÇİLİ GİRİŞ YOK</value>
+    <value>SEÇİLMİŞ GİRİŞ YOXDUR</value>
   </data>
   <data name="LogbookControl.NoItemsFound" xml:space="preserve">
-    <value>HİÇBİR EŞYA BULUNAMADI</value>
+    <value>HEÇ BİR EŞYA TAPILMADI</value>
   </data>
   <data name="LogbookControl.NoReplayFileUpper" xml:space="preserve">
-    <value>TEKRAR DOSYASI YOK</value>
+    <value>TEKRAR FAYL YOXDUR</value>
   </data>
   <data name="LogbookControl.OnlyReplaysUpper" xml:space="preserve">
-    <value>SADECE TEKRARLAR</value>
+    <value>YALNIZ TƏKRAR</value>
   </data>
   <data name="LogbookControl.ServerUpper" xml:space="preserve">
-    <value>SUNUCU</value>
+    <value>server</value>
   </data>
   <data name="LogbookControl.SoloUpper" xml:space="preserve">
     <value>SOLO</value>
   </data>
   <data name="LogbookControl.XpEarnedUpper" xml:space="preserve">
-    <value>KAZANILAN XP</value>
+    <value>XP QAZANILDI</value>
   </data>
   <data name="LogbookControl.YourLogbook" xml:space="preserve">
-    <value>KAYIT DEFTERİNİZ</value>
+    <value>QEYDİYYAT KİTABINIZ</value>
   </data>
   <data name="MainMenuPage.AirTrafficControlUpper" xml:space="preserve">
-    <value>HAVA TRAFİK KONTROLÜ</value>
+    <value>HAVA HƏRƏKİYYƏTİNƏ NƏZARƏT</value>
   </data>
   <data name="MainMenuPage.ControlButtonUpper" xml:space="preserve">
-    <value>KONTROL</value>
+    <value>NƏZARƏT</value>
   </data>
   <data name="MainMenuPage.FlightUpper" xml:space="preserve">
     <value>UÇUŞ</value>
@@ -2921,73 +2921,73 @@ Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolc
     <value>UÇ</value>
   </data>
   <data name="MainMenuPage.OpenButtonUpper" xml:space="preserve">
-    <value>AÇ</value>
+    <value>AC</value>
   </data>
   <data name="MainMenuPage.ReplayButtonUpper" xml:space="preserve">
-    <value>TEKRARLAMA</value>
+    <value>TƏKRARLAMAQ</value>
   </data>
   <data name="MainMenuPage.UnableToPlayReplay" xml:space="preserve">
-    <value>Tekrar oynatma dosyası oynatılamıyor</value>
+    <value>Təkrar faylı oxutmaq mümkün deyil</value>
   </data>
   <data name="MenuAtcControl.ChangeAirportUpper" xml:space="preserve">
-    <value>HAVAALANI'NI DEĞİŞTİR</value>
+    <value>Aeroportu DƏYİŞTİRİN</value>
   </data>
   <data name="MenuAtcControl.Duration" xml:space="preserve">
-    <value>Süre</value>
+    <value>Müddət</value>
   </data>
   <data name="MenuAtcControl.Frequencies" xml:space="preserve">
-    <value>Frekanslar</value>
+    <value>tezliklər</value>
   </data>
   <data name="MenuAtcControl.MultipleFrequencies" xml:space="preserve">
-    <value>Birden Fazla Frekans</value>
+    <value>Çoxsaylı Tezliklər</value>
   </data>
   <data name="MenuAtcControl.NewAtcSessionUpper" xml:space="preserve">
-    <value>YENİ ATC OTURUMU</value>
+    <value>YENİ ATC SESSİYASI</value>
   </data>
   <data name="MenuAtcControl.NoSessionsFoundUpper" xml:space="preserve">
-    <value>OTURUM BULUNAMADI</value>
+    <value>SESSİYA TAPILMADI</value>
   </data>
   <data name="MenuAtcControl.ResumeAtcSessionQuestion" xml:space="preserve">
-    <value>ATC oturumuna devam mı?</value>
+    <value>ATC sessiyası davam etdirilsin?</value>
   </data>
   <data name="MenuAtcControl.UnableToRestartUserNotSame" xml:space="preserve">
-    <value>Bu oturum hesabınıza bağlı olmadığı için yeniden başlatılamıyor</value>
+    <value>Hesabınızla əlaqələndirilmədiyi üçün bu sessiya yenidən başlana bilməz</value>
   </data>
   <data name="Mission.MissionBrief" xml:space="preserve">
-    <value>GÖREV BRİFİNGİ</value>
+    <value>MİSYON Brifinqi</value>
   </data>
   <data name="MissionStatusControl.ObjectivesUpper" xml:space="preserve">
-    <value>HEDEFLER</value>
+    <value>MƏQSƏDLƏR</value>
   </data>
   <data name="MissionStatusControl.TapHereToContinueUpper" xml:space="preserve">
-    <value>DEVAM ETMEK İÇİN BURAYA DOKUNUN</value>
+    <value>DAVAM ETMƏK ÜÇÜN BURAYA TOKUNUN</value>
   </data>
   <data name="NavigationControl.Leaderboards" xml:space="preserve">
-    <value>Liderlik Tabloları</value>
+    <value>Liderlər lövhələri</value>
   </data>
   <data name="NewsControl.Announcement" xml:space="preserve">
-    <value>Duyuru</value>
+    <value>Elan</value>
   </data>
   <data name="NewsControl.CommunityTopic" xml:space="preserve">
-    <value>Topluluk Konusu</value>
+    <value>İcma mövzusu</value>
   </data>
   <data name="NewsControl.Event" xml:space="preserve">
-    <value>Etkinlik</value>
+    <value>Fəaliyyət</value>
   </data>
   <data name="NewsControl.Mission" xml:space="preserve">
-    <value>Görev</value>
+    <value>Vəzifə</value>
   </data>
   <data name="NewsControl.News" xml:space="preserve">
-    <value>Haberler</value>
+    <value>Xəbərlər</value>
   </data>
   <data name="NewsControl.StartFlightQuestion" xml:space="preserve">
-    <value>Uçuşa başlayalım mı?</value>
+    <value>Uçmağa başlayaq?</value>
   </data>
   <data name="NewsControl.Timeline" xml:space="preserve">
-    <value>Zaman Çizelgesi</value>
+    <value>Zaman qrafiki</value>
   </data>
   <data name="NewsControl.Tutorial" xml:space="preserve">
-    <value>Öğretici</value>
+    <value>ibrətamiz</value>
   </data>
   <data name="NewsControl.Video" xml:space="preserve">
     <value>Video</value>
@@ -2996,30 +2996,30 @@ Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolc
     <value>{0}{1:0.00}/ay</value>
   </data>
   <data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
-    <value>SOLO İÇİN MEVCUT DEĞİL</value>
+    <value>SOLO ÜÇÜN MEVCUT DEYİL</value>
   </data>
   <data name="World.SoloDescription" xml:space="preserve">
-    <value>Kendi uçağınızı ve rotanızı seçin, pilotluk becerilerinizi test edin ve kurallar veya diğer pilotlar olmadan güzel manzaraları keşfedin.</value>
+    <value>Öz təyyarənizi və marşrutunuzu seçin, pilotluq bacarıqlarınızı sınayın və qaydalar və ya digər pilotlar olmadan gözəl mənzərələri araşdırın.</value>
   </data>
   <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
-    <value>ATC MEVCUT DEĞIL</value>
+    <value>ATC Mövcud DEYİL</value>
   </data>
   <data name="WorldModeModalControl.GradeThreeRequired" xml:space="preserve">
-    <value>3. RÜTBE GEREKLİ</value>
+    <value>DƏRƏCƏ 3 TƏLƏB OLUNUR</value>
   </data>
   <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
-    <value>DAHA FAZLA
-SUNUCULAR</value>
+    <value>DAHA ÇOX
+SERVERLER</value>
   </data>
   <data name="WorldModeModalControl.MultiPlayer" xml:space="preserve">
-    <value>ÇOK
-OYUNCULU</value>
+    <value>ÇOX
+OYUNCU İLƏ</value>
   </data>
   <data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
-    <value>ERİŞİM YOK</value>
+    <value>ƏLAQƏ YOXDUR</value>
   </data>
   <data name="WorldModeModalControl.ProDescription" xml:space="preserve">
-    <value>Tüm çok oyunculu sunucuların kilidini açmak ve dünya çapında binlerce diğer pilotla uçmak için Infinite Flight Pro'yu edinin.</value>
+    <value>Bütün multiplayer serverlərinin kilidini açmaq və dünyada minlərlə digər pilotla uçmaq üçün Infinite Flight Pro əldə edin.</value>
   </data>
   <data name="WorldModeModalControl.SinglePlayer" xml:space="preserve">
     <value>TEK
@@ -3029,10 +3029,10 @@ OYUNCULU</value>
     <value>TEK OYUNCULU</value>
   </data>
   <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
-    <value>YALNIZ UÇMAKTAN BIKTINIZ MI?</value>
+    <value>TEK UÇMAQDAN yoruldunuz?</value>
   </data>
   <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
-    <value>Abonelik iptal edilene kadar otomatik olarak yenilenecektir.
-Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
+    <value>Abunəlik ləğv edilənə qədər avtomatik yenilənəcək.
+İstənilən vaxt Google Play Abunəlik Mərkəzində ləğv edə bilərsiniz.</value>
   </data>
 </root>
