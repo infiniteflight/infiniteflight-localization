@@ -10,6 +10,7 @@
       "es": "Tu Primer Vuelo",
       "ms": "Memulakan Pemakaian",
       "zh": "入门教程",
+      "hu": "Kezdő lépések",
       "tr": "Başlarken"
     },
     "description": {
@@ -22,6 +23,7 @@
       "es": "¡Aprende los conceptos básicos de Infinite Flight aquí!",
       "ms": "Pelajari asas-asas Infinite Flight di sini!",
       "zh": "一起学习《无限飞行》的基本操作吧！",
+      "hu": "Tanuld meg az Infinite Flight kezelésének alapjait itt",
       "tr": "Infinite Flight'ın temellerini buradan öğrenin!"
     }
   },
