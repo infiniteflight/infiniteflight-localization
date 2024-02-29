@@ -2811,4 +2811,134 @@ JOUEUR</value>
     <value>L'abonnement se renouvellera automatiquement jusqu'à son annulation.
 Annulez à tout moment dans le Centre d'abonnement de Google Play.</value>
   </data>
+  <data name="FlightScenarioControl.FailedToLoadScenarioInfo" xml:space="preserve">
+    <value>Échec du chargement des infos de scénario ({0})</value>
+  </data>
+  <data name="FlightScenarioControl.LoadingScenario" xml:space="preserve">
+    <value>Chargement du Scénario</value>
+  </data>
+  <data name="GameSelectionModalControl.AtcUnavailableInSingleplayer" xml:space="preserve">
+    <value>Le contrôle aérien n'est pas disponible en mode solo.</value>
+  </data>
+  <data name="GameSelectionModalControl.AtcUnavailableOnWorld" xml:space="preserve">
+    <value>Le contrôle aérien n'est pas disponible sur {0}.</value>
+  </data>
+  <data name="GameSelectionModalControl.Close" xml:space="preserve">
+    <value>Fermer</value>
+  </data>
+  <data name="GameSelectionModalControl.DemoSingleplayerOnly" xml:space="preserve">
+    <value>La démo est uniquement accessible en mode solo.</value>
+  </data>
+  <data name="GameSelectionModalControl.FailedToOpenUrl" xml:space="preserve">
+    <value>Échec d'ouverture du lien URL.</value>
+  </data>
+  <data name="GameSelectionModalControl.FlightTrainingSingleplayerOnly" xml:space="preserve">
+    <value>L'école de pilotage au vol est uniquement disponible en mode solo.</value>
+  </data>
+  <data name="GameSelectionModalControl.GradeTooLowIFATC" xml:space="preserve">
+    <value>Votre grade est trop bas. Les contrôleurs IFATC peuvent seuleument aller au mode ATC à tout moment.</value>
+  </data>
+  <data name="GameSelectionModalControl.Join" xml:space="preserve">
+    <value>Rejoindre</value>
+  </data>
+  <data name="GameSelectionModalControl.JoinIFATC" xml:space="preserve">
+    <value>Rejoignez l'équipe IFATC pour accéder au contrôle aérien en Expert.</value>
+  </data>
+  <data name="GameSelectionModalControl.MultiplayerUnavailable" xml:space="preserve">
+    <value>Le mode multijoueur n'est pas disponible actuellement.</value>
+  </data>
+  <data name="GameSelectionModalControl.NoProReturnSolo" xml:space="preserve">
+    <value>Aucun abonnement Infinite Flight Pro valide trouvé. Retour au mode solo.</value>
+  </data>
+  <data name="GameSelectionModalControl.SceneryEditorSingleplayerOnly" xml:space="preserve">
+    <value>L'Éditeur de Scène est uniquement disponible en mode solo.</value>
+  </data>
+  <data name="GameSelectionModesControl.AirTrafficControlShortDescription" xml:space="preserve">
+    <value>Prenez le contrôle aérien ! C'est dynamique et rapide, intensifiant votre aventure aéronautique</value>
+  </data>
+  <data name="GameSelectionModesControl.FlightMissionsShortDescription" xml:space="preserve">
+    <value>Choisissez parmi une liste sélectionnée de vols, du transport de passagers au transport de marchandises</value>
+  </data>
+  <data name="GameSelectionModesControl.FlightScenarioShortDescription" xml:space="preserve">
+    <value>Affinez vos compétences avec nos scénarios personnalisés</value>
+  </data>
+  <data name="GameSelectionModesControl.FreeFlightShortDescription" xml:space="preserve">
+    <value>Choisissez votre aventure et explorez les cieux d'Infinite Flight</value>
+  </data>
+  <data name="GameSelectionModesControl.SceneryEditorShortDescription" xml:space="preserve">
+    <value>Plongez-vous dans la conception des aéroports</value>
+  </data>
+  <data name="GameSelectionModesControl.TrainingUpper" xml:space="preserve">
+    <value>ENTRAÎNEMENT</value>
+  </data>
+  <data name="GameSelectionProvidersControl.NoScenarioProvidersFoundUpper" xml:space="preserve">
+    <value>AUCUN AUTEUR DE SCÉNARIOS TROUVÉ</value>
+  </data>
+  <data name="GameSelectionScenariosControl.NoScenariosFoundUpper" xml:space="preserve">
+    <value>AUCUN SCÉNARIO TROUVÉ</value>
+  </data>
+  <data name="GameSelectionScenarioUnavailableControl.Description" xml:space="preserve">
+    <value>Scénario indisponible ou invisible</value>
+  </data>
+  <data name="GameSelectionScenarioUnavailableControl.Title" xml:space="preserve">
+    <value>Scénario non trouvé</value>
+  </data>
+  <data name="LogbookControl.AutoDeleteInformation" xml:space="preserve">
+    <value>La suppression automatique conserve les 10 dernièrs replays supprimables. Vous pouvez conserver les replays plus longtemps en les verrouillant ou en les exportant.</value>
+  </data>
+  <data name="LogbookControl.AutoDeleteReplaysMultilineUpper" xml:space="preserve">
+    <value>AUTO-SUPPRESSION 
+DES REPLAYS</value>
+  </data>
+  <data name="LogbookControl.FailedReplayDeleteUnknownReason" xml:space="preserve">
+    <value>Échec de la suppression du replay. Raison inconnue : {0}</value>
+  </data>
+  <data name="LogbookControl.LockUpper" xml:space="preserve">
+    <value>VERROUILLER</value>
+  </data>
+  <data name="LogbookControl.NeedToUnlockReplay" xml:space="preserve">
+    <value>Vous devez déverrouiller ce replay avant de le supprimer.</value>
+  </data>
+  <data name="LogbookControl.ReplayATCProtected" xml:space="preserve">
+    <value>Ce replay est protégé par les règles ATC et ne peut pas être supprimé dans les 7 jours suivant l'enregistrement.</value>
+  </data>
+  <data name="LogbookControl.UnlockReplayWarning" xml:space="preserve">
+    <value>Déverrouiller ce replay supprimera les anciennes rediffusions au prochain lancement de l'application.</value>
+  </data>
+  <data name="LogbookControl.UnlockUpper" xml:space="preserve">
+    <value>DÉVERROUILLER</value>
+  </data>
+  <data name="MainMenuPage.AutoDeleteNotice" xml:space="preserve">
+    <value>Libérez de l'espace de stockage en activant la suppression automatique des replays. Elle conserve les 10 dernièrs replays supprimables. Souhaitez-vous l'activer ?</value>
+  </data>
+  <data name="TimeInfoControl.LocationNotSet" xml:space="preserve">
+    <value>Emplacement non défini. Impossible de calculer l'heure locale.</value>
+  </data>
+  <data name="TimeInfoControl.SunriseNotAvailable" xml:space="preserve">
+    <value>Le lever de soleil n'est pas disponible pour cet emplacement en cette période de l'année.</value>
+  </data>
+  <data name="TimeInfoControl.SunsetNotAvailable" xml:space="preserve">
+    <value>Le coucher de soleil n'est pas disponible pour cet emplacement en cette période de l'année.</value>
+  </data>
+  <data name="TimeInfoControl.TimeHeader" xml:space="preserve">
+    <value>TEMPS</value>
+  </data>
+  <data name="UserAccountControl.DeleteAccount" xml:space="preserve">
+    <value>Supprimer Compte</value>
+  </data>
+  <data name="UserAccountControl.DeleteAccountDescription" xml:space="preserve">
+    <value>Supprime définitivement votre compte Infinite Flight et vos statistiques.</value>
+  </data>
+  <data name="UserAccountControl.DeleteAccountMessage" xml:space="preserve">
+    <value>Cela supprimera votre compte Infinite Flight. CECI N'EST PAS RÉVERSIBLE. Êtes-vous sûr de vouloir supprimer le compte ?</value>
+  </data>
+  <data name="UserAccountControl.JoinServer" xml:space="preserve">
+    <value>Rejoindre Serveur</value>
+  </data>
+  <data name="WeatherInfoControl.CloudAtAltitudeFeet" xml:space="preserve">
+    <value>{0} à {1} ft</value>
+  </data>
+  <data name="WeatherInfoControl.ManuallySetUpper" xml:space="preserve">
+    <value>CONFIG. MANUELLE</value>
+  </data>
 </root>
