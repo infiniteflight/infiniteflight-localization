@@ -79,6 +79,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to NEW ACHIEVEMENTS EARNED!.
+        /// </summary>
+        internal static string AchievementsControl_NewAchievementsEarnedUpper {
+            get {
+                return ResourceManager.GetString("AchievementsControl.NewAchievementsEarnedUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No Achievements Found.
+        /// </summary>
+        internal static string AchievementsControl_NoAchievementsFound {
+            get {
+                return ResourceManager.GetString("AchievementsControl.NoAchievementsFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Warning: This aircraft is an extra included from an old version and is not of the same quality as our newer aircraft.
         /// </summary>
         internal static string AircraftPage_LegacyAircraftWarning {
@@ -1846,6 +1864,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Failed to load scenario info ({0}).
+        /// </summary>
+        internal static string FlightScenarioControl_FailedToLoadScenarioInfo {
+            get {
+                return ResourceManager.GetString("FlightScenarioControl.FailedToLoadScenarioInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Loading Scenario.
+        /// </summary>
+        internal static string FlightScenarioControl_LoadingScenario {
+            get {
+                return ResourceManager.GetString("FlightScenarioControl.LoadingScenario", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to AIRCRAFT.
         /// </summary>
         internal static string FlightSchoolControl_AircraftUpper {
@@ -2139,6 +2175,204 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string GamePage_WaitCanvas_ReadyToFlyUpper {
             get {
                 return ResourceManager.GetString("GamePage.WaitCanvas.ReadyToFlyUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ATC is unavailable in singleplayer..
+        /// </summary>
+        internal static string GameSelectionModalControl_AtcUnavailableInSingleplayer {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.AtcUnavailableInSingleplayer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ATC is unavailable on {0}..
+        /// </summary>
+        internal static string GameSelectionModalControl_AtcUnavailableOnWorld {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.AtcUnavailableOnWorld", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Close.
+        /// </summary>
+        internal static string GameSelectionModalControl_Close {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.Close", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Demo is only available in singleplayer..
+        /// </summary>
+        internal static string GameSelectionModalControl_DemoSingleplayerOnly {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.DemoSingleplayerOnly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Failed to open url link..
+        /// </summary>
+        internal static string GameSelectionModalControl_FailedToOpenUrl {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.FailedToOpenUrl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight Training is only available in singleplayer..
+        /// </summary>
+        internal static string GameSelectionModalControl_FlightTrainingSingleplayerOnly {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.FlightTrainingSingleplayerOnly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Grade is too low. IFATC can only go to ATC at all times..
+        /// </summary>
+        internal static string GameSelectionModalControl_GradeTooLowIFATC {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.GradeTooLowIFATC", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Join.
+        /// </summary>
+        internal static string GameSelectionModalControl_Join {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.Join", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Join the IFATC team to access ATC in Expert..
+        /// </summary>
+        internal static string GameSelectionModalControl_JoinIFATC {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.JoinIFATC", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Multiplayer is unavailable at this time..
+        /// </summary>
+        internal static string GameSelectionModalControl_MultiplayerUnavailable {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.MultiplayerUnavailable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No valid Infinite Flight Pro subscription found. Returning to singleplayer..
+        /// </summary>
+        internal static string GameSelectionModalControl_NoProReturnSolo {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.NoProReturnSolo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scenery Editor is only available in singleplayer..
+        /// </summary>
+        internal static string GameSelectionModalControl_SceneryEditorSingleplayerOnly {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.SceneryEditorSingleplayerOnly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Take control of the skies! It&apos;s dynamic and fast-paced, enhancing your aviation adventure.
+        /// </summary>
+        internal static string GameSelectionModesControl_AirTrafficControlShortDescription {
+            get {
+                return ResourceManager.GetString("GameSelectionModesControl.AirTrafficControlShortDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select from a curated list of flights from passenger to cargo.
+        /// </summary>
+        internal static string GameSelectionModesControl_FlightMissionsShortDescription {
+            get {
+                return ResourceManager.GetString("GameSelectionModesControl.FlightMissionsShortDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hone your skills with our custom training scenarios.
+        /// </summary>
+        internal static string GameSelectionModesControl_FlightScenarioShortDescription {
+            get {
+                return ResourceManager.GetString("GameSelectionModesControl.FlightScenarioShortDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Choose your adventure and explore the Infinite Flight skies.
+        /// </summary>
+        internal static string GameSelectionModesControl_FreeFlightShortDescription {
+            get {
+                return ResourceManager.GetString("GameSelectionModesControl.FreeFlightShortDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Immerse yourself in authentically designing airports.
+        /// </summary>
+        internal static string GameSelectionModesControl_SceneryEditorShortDescription {
+            get {
+                return ResourceManager.GetString("GameSelectionModesControl.SceneryEditorShortDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TRAINING.
+        /// </summary>
+        internal static string GameSelectionModesControl_TrainingUpper {
+            get {
+                return ResourceManager.GetString("GameSelectionModesControl.TrainingUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NO SCENARIO PROVIDERS FOUND.
+        /// </summary>
+        internal static string GameSelectionProvidersControl_NoScenarioProvidersFoundUpper {
+            get {
+                return ResourceManager.GetString("GameSelectionProvidersControl.NoScenarioProvidersFoundUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NO SCENARIOS FOUND.
+        /// </summary>
+        internal static string GameSelectionScenariosControl_NoScenariosFoundUpper {
+            get {
+                return ResourceManager.GetString("GameSelectionScenariosControl.NoScenariosFoundUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scenario is unavaible or hidden..
+        /// </summary>
+        internal static string GameSelectionScenarioUnavailableControl_Description {
+            get {
+                return ResourceManager.GetString("GameSelectionScenarioUnavailableControl.Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scenario Not Found.
+        /// </summary>
+        internal static string GameSelectionScenarioUnavailableControl_Title {
+            get {
+                return ResourceManager.GetString("GameSelectionScenarioUnavailableControl.Title", resourceCulture);
             }
         }
         
@@ -3053,6 +3287,25 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Auto-delete keeps the latest 10 deletable replays. You can save replays for longer by locking or exporting them..
+        /// </summary>
+        internal static string LogbookControl_AutoDeleteInformation {
+            get {
+                return ResourceManager.GetString("LogbookControl.AutoDeleteInformation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to AUTO-DELETE
+        ///REPLAYS.
+        /// </summary>
+        internal static string LogbookControl_AutoDeleteReplaysMultilineUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.AutoDeleteReplaysMultilineUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Could not import replay file, please check available storage space..
         /// </summary>
         internal static string LogbookControl_CouldNotImportReplayStorageError {
@@ -3098,6 +3351,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Failed to delete the replay file. Unknown Reason: {0}.
+        /// </summary>
+        internal static string LogbookControl_FailedReplayDeleteUnknownReason {
+            get {
+                return ResourceManager.GetString("LogbookControl.FailedReplayDeleteUnknownReason", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to FILE SIZE.
         /// </summary>
         internal static string LogbookControl_FileSizeUpper {
@@ -3107,11 +3369,29 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to LOCK.
+        /// </summary>
+        internal static string LogbookControl_LockUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.LockUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to MULTIPLAYER.
         /// </summary>
         internal static string LogbookControl_MultiplayerUpper {
             get {
                 return ResourceManager.GetString("LogbookControl.MultiplayerUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You need to unlock this replay before deleting it..
+        /// </summary>
+        internal static string LogbookControl_NeedToUnlockReplay {
+            get {
+                return ResourceManager.GetString("LogbookControl.NeedToUnlockReplay", resourceCulture);
             }
         }
         
@@ -3152,6 +3432,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to This replay is protected by ATC rules and cannot be deleted within 7 days of the recording..
+        /// </summary>
+        internal static string LogbookControl_ReplayATCProtected {
+            get {
+                return ResourceManager.GetString("LogbookControl.ReplayATCProtected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to SERVER.
         /// </summary>
         internal static string LogbookControl_ServerUpper {
@@ -3166,6 +3455,24 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string LogbookControl_SoloUpper {
             get {
                 return ResourceManager.GetString("LogbookControl.SoloUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unlocking this replay will delete old replays the next time the app launches..
+        /// </summary>
+        internal static string LogbookControl_UnlockReplayWarning {
+            get {
+                return ResourceManager.GetString("LogbookControl.UnlockReplayWarning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to UPPER.
+        /// </summary>
+        internal static string LogbookControl_UnlockUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.UnlockUpper", resourceCulture);
             }
         }
         
@@ -3346,6 +3653,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string MainMenuPage_AirTrafficControlUpper {
             get {
                 return ResourceManager.GetString("MainMenuPage.AirTrafficControlUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Free up storage by activating auto-delete for replays. It keeps the latest 10 deletable replays. Would you like to enable it?.
+        /// </summary>
+        internal static string MainMenuPage_AutoDeleteNotice {
+            get {
+                return ResourceManager.GetString("MainMenuPage.AutoDeleteNotice", resourceCulture);
             }
         }
         
@@ -3778,6 +4094,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Multiplayer_Welcome {
             get {
                 return ResourceManager.GetString("Multiplayer.Welcome", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ACHIEVEMENTS.
+        /// </summary>
+        internal static string NavigationControl_AchievementsUpper {
+            get {
+                return ResourceManager.GetString("NavigationControl.AchievementsUpper", resourceCulture);
             }
         }
         
@@ -6635,6 +6960,42 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Location not set. Unable to compute local time..
+        /// </summary>
+        internal static string TimeInfoControl_LocationNotSet {
+            get {
+                return ResourceManager.GetString("TimeInfoControl.LocationNotSet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sunrise is not available for this location at this time of the year..
+        /// </summary>
+        internal static string TimeInfoControl_SunriseNotAvailable {
+            get {
+                return ResourceManager.GetString("TimeInfoControl.SunriseNotAvailable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sunset is not available for this location at this time of the year..
+        /// </summary>
+        internal static string TimeInfoControl_SunsetNotAvailable {
+            get {
+                return ResourceManager.GetString("TimeInfoControl.SunsetNotAvailable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TIME.
+        /// </summary>
+        internal static string TimeInfoControl_TimeHeader {
+            get {
+                return ResourceManager.GetString("TimeInfoControl.TimeHeader", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Current Time.
         /// </summary>
         internal static string TimePage_CurrentTime {
@@ -6685,6 +7046,33 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Tips_Default {
             get {
                 return ResourceManager.GetString("Tips.Default", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete Account.
+        /// </summary>
+        internal static string UserAccountControl_DeleteAccount {
+            get {
+                return ResourceManager.GetString("UserAccountControl.DeleteAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Permanently deletes your Infinite Flight account and stats..
+        /// </summary>
+        internal static string UserAccountControl_DeleteAccountDescription {
+            get {
+                return ResourceManager.GetString("UserAccountControl.DeleteAccountDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This will delete your Infinite Flight account. THIS IS NOT REVERSIBLE. Are you sure you want to delete the account?.
+        /// </summary>
+        internal static string UserAccountControl_DeleteAccountMessage {
+            get {
+                return ResourceManager.GetString("UserAccountControl.DeleteAccountMessage", resourceCulture);
             }
         }
         
@@ -6757,6 +7145,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string UserAccountControl_DiscordLinked_Title {
             get {
                 return ResourceManager.GetString("UserAccountControl.DiscordLinked.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Join Server.
+        /// </summary>
+        internal static string UserAccountControl_JoinServer {
+            get {
+                return ResourceManager.GetString("UserAccountControl.JoinServer", resourceCulture);
             }
         }
         
@@ -6950,6 +7347,24 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string WarningMessageControl_ViolationsCount {
             get {
                 return ResourceManager.GetString("WarningMessageControl.ViolationsCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} at {1} ft.
+        /// </summary>
+        internal static string WeatherInfoControl_CloudAtAltitudeFeet {
+            get {
+                return ResourceManager.GetString("WeatherInfoControl.CloudAtAltitudeFeet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MANUALLY SET.
+        /// </summary>
+        internal static string WeatherInfoControl_ManuallySetUpper {
+            get {
+                return ResourceManager.GetString("WeatherInfoControl.ManuallySetUpper", resourceCulture);
             }
         }
         

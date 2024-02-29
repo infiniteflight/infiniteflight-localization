@@ -3367,4 +3367,190 @@ Cancel anytime in Google Play's Subscription Center.</value>
     <comment>Subscription auto-renews until canceled.
 Cancel anytime in Google Play's Subscription Center.</comment>
   </data>
+  <data name="AchievementsControl.NewAchievementsEarnedUpper" xml:space="preserve">
+    <value>NEW ACHIEVEMENTS EARNED!</value>
+    <comment>NEW ACHIEVEMENTS EARNED!</comment>
+  </data>
+  <data name="AchievementsControl.NoAchievementsFound" xml:space="preserve">
+    <value>No Achievements Found</value>
+    <comment>No Achievements Found</comment>
+  </data>
+  <data name="FlightScenarioControl.FailedToLoadScenarioInfo" xml:space="preserve">
+    <value>Failed to load scenario info ({0})</value>
+    <comment>Failed to load scenario info ({0})</comment>
+  </data>
+  <data name="FlightScenarioControl.LoadingScenario" xml:space="preserve">
+    <value>Loading Scenario</value>
+    <comment>Loading Scenario</comment>
+  </data>
+  <data name="GameSelectionModalControl.AtcUnavailableInSingleplayer" xml:space="preserve">
+    <value>ATC is unavailable in singleplayer.</value>
+    <comment>ATC is unavailable in singleplayer.</comment>
+  </data>
+  <data name="GameSelectionModalControl.AtcUnavailableOnWorld" xml:space="preserve">
+    <value>ATC is unavailable on {0}.</value>
+    <comment>ATC is unavailable on {0}.</comment>
+  </data>
+  <data name="GameSelectionModalControl.Close" xml:space="preserve">
+    <value>Close</value>
+    <comment>Close</comment>
+  </data>
+  <data name="GameSelectionModalControl.DemoSingleplayerOnly" xml:space="preserve">
+    <value>Demo is only available in singleplayer.</value>
+    <comment>Demo is only available in singleplayer.</comment>
+  </data>
+  <data name="GameSelectionModalControl.FailedToOpenUrl" xml:space="preserve">
+    <value>Failed to open url link.</value>
+    <comment>Failed to open url link.</comment>
+  </data>
+  <data name="GameSelectionModalControl.FlightTrainingSingleplayerOnly" xml:space="preserve">
+    <value>Flight Training is only available in singleplayer.</value>
+    <comment>Flight Training is only available in singleplayer.</comment>
+  </data>
+  <data name="GameSelectionModalControl.GradeTooLowIFATC" xml:space="preserve">
+    <value>Grade is too low. IFATC can only go to ATC at all times.</value>
+    <comment>Grade is too low. IFATC can only go to ATC at all times.</comment>
+  </data>
+  <data name="GameSelectionModalControl.Join" xml:space="preserve">
+    <value>Join</value>
+    <comment>Join</comment>
+  </data>
+  <data name="GameSelectionModalControl.JoinIFATC" xml:space="preserve">
+    <value>Join the IFATC team to access ATC in Expert.</value>
+    <comment>Join the IFATC team to access ATC in Expert.</comment>
+  </data>
+  <data name="GameSelectionModalControl.MultiplayerUnavailable" xml:space="preserve">
+    <value>Multiplayer is unavailable at this time.</value>
+    <comment>Multiplayer is unavailable at this time.</comment>
+  </data>
+  <data name="GameSelectionModalControl.NoProReturnSolo" xml:space="preserve">
+    <value>No valid Infinite Flight Pro subscription found. Returning to singleplayer.</value>
+    <comment>No valid Infinite Flight Pro subscription found. Returning to singleplayer.</comment>
+  </data>
+  <data name="GameSelectionModalControl.SceneryEditorSingleplayerOnly" xml:space="preserve">
+    <value>Scenery Editor is only available in singleplayer.</value>
+    <comment>Scenery Editor is only available in singleplayer.</comment>
+  </data>
+  <data name="GameSelectionModesControl.AirTrafficControlShortDescription" xml:space="preserve">
+    <value>Take control of the skies! It's dynamic and fast-paced, enhancing your aviation adventure</value>
+    <comment>Take control of the skies! It's dynamic and fast-paced, enhancing your aviation adventure</comment>
+  </data>
+  <data name="GameSelectionModesControl.FlightMissionsShortDescription" xml:space="preserve">
+    <value>Select from a curated list of flights from passenger to cargo</value>
+    <comment>Select from a curated list of flights from passenger to cargo</comment>
+  </data>
+  <data name="GameSelectionModesControl.FlightScenarioShortDescription" xml:space="preserve">
+    <value>Hone your skills with our custom training scenarios</value>
+    <comment>Hone your skills with our custom training scenarios</comment>
+  </data>
+  <data name="GameSelectionModesControl.FreeFlightShortDescription" xml:space="preserve">
+    <value>Choose your adventure and explore the Infinite Flight skies</value>
+    <comment>Choose your adventure and explore the Infinite Flight skies</comment>
+  </data>
+  <data name="GameSelectionModesControl.SceneryEditorShortDescription" xml:space="preserve">
+    <value>Immerse yourself in authentically designing airports</value>
+    <comment>Immerse yourself in authentically designing airports</comment>
+  </data>
+  <data name="GameSelectionModesControl.TrainingUpper" xml:space="preserve">
+    <value>TRAINING</value>
+    <comment>TRAINING</comment>
+  </data>
+  <data name="GameSelectionProvidersControl.NoScenarioProvidersFoundUpper" xml:space="preserve">
+    <value>NO SCENARIO PROVIDERS FOUND</value>
+    <comment>NO SCENARIO PROVIDERS FOUND</comment>
+  </data>
+  <data name="GameSelectionScenariosControl.NoScenariosFoundUpper" xml:space="preserve">
+    <value>NO SCENARIOS FOUND</value>
+    <comment>NO SCENARIOS FOUND</comment>
+  </data>
+  <data name="GameSelectionScenarioUnavailableControl.Description" xml:space="preserve">
+    <value>Scenario is unavailable or hidden.</value>
+    <comment>Scenario is unavailable or hidden.</comment>
+  </data>
+  <data name="GameSelectionScenarioUnavailableControl.Title" xml:space="preserve">
+    <value>Scenario Not Found</value>
+    <comment>Scenario Not Found</comment>
+  </data>
+  <data name="LogbookControl.AutoDeleteInformation" xml:space="preserve">
+    <value>Auto-delete keeps the latest 10 deletable replays. You can save replays for longer by locking or exporting them.</value>
+    <comment>Auto-delete keeps the latest 10 deletable replays. You can save replays for longer by locking or exporting them.</comment>
+  </data>
+  <data name="LogbookControl.AutoDeleteReplaysMultilineUpper" xml:space="preserve">
+    <value>AUTO-DELETE
+REPLAYS</value>
+    <comment>AUTO-DELETE
+REPLAYS</comment>
+  </data>
+  <data name="LogbookControl.FailedReplayDeleteUnknownReason" xml:space="preserve">
+    <value>Failed to delete the replay file. Unknown Reason: {0}</value>
+    <comment>Failed to delete the replay file. Unknown Reason: {0}</comment>
+  </data>
+  <data name="LogbookControl.LockUpper" xml:space="preserve">
+    <value>LOCK</value>
+    <comment>LOCK</comment>
+  </data>
+  <data name="LogbookControl.NeedToUnlockReplay" xml:space="preserve">
+    <value>You need to unlock this replay before deleting it.</value>
+    <comment>You need to unlock this replay before deleting it.</comment>
+  </data>
+  <data name="LogbookControl.ReplayATCProtected" xml:space="preserve">
+    <value>This replay is protected by ATC rules and cannot be deleted within 7 days of the recording.</value>
+    <comment>This replay is protected by ATC rules and cannot be deleted within 7 days of the recording.</comment>
+  </data>
+  <data name="LogbookControl.UnlockReplayWarning" xml:space="preserve">
+    <value>Unlocking this replay will delete old replays the next time the app launches.</value>
+    <comment>Unlocking this replay will delete old replays the next time the app launches.</comment>
+  </data>
+  <data name="LogbookControl.UnlockUpper" xml:space="preserve">
+    <value>UNLOCK</value>
+    <comment>UNLOCK</comment>
+  </data>
+  <data name="MainMenuPage.AutoDeleteNotice" xml:space="preserve">
+    <value>Free up storage by activating auto-delete for replays. It keeps the latest 10 deletable replays. Would you like to enable it?</value>
+    <comment>Free up storage by activating auto-delete for replays. It keeps the latest 10 deletable replays. Would you like to enable it?</comment>
+  </data>
+  <data name="NavigationControl.AchievementsUpper" xml:space="preserve">
+    <value>ACHIEVEMENTS</value>
+    <comment>ACHIEVEMENTS</comment>
+  </data>
+  <data name="TimeInfoControl.LocationNotSet" xml:space="preserve">
+    <value>Location not set. Unable to compute local time.</value>
+    <comment>Location not set. Unable to compute local time.</comment>
+  </data>
+  <data name="TimeInfoControl.SunriseNotAvailable" xml:space="preserve">
+    <value>Sunrise is not available for this location at this time of the year.</value>
+    <comment>Sunrise is not available for this location at this time of the year.</comment>
+  </data>
+  <data name="TimeInfoControl.SunsetNotAvailable" xml:space="preserve">
+    <value>Sunset is not available for this location at this time of the year.</value>
+    <comment>Sunset is not available for this location at this time of the year.</comment>
+  </data>
+  <data name="TimeInfoControl.TimeHeader" xml:space="preserve">
+    <value>TIME</value>
+    <comment>TIME</comment>
+  </data>
+  <data name="UserAccountControl.DeleteAccount" xml:space="preserve">
+    <value>Delete Account</value>
+    <comment>Delete Account</comment>
+  </data>
+  <data name="UserAccountControl.DeleteAccountDescription" xml:space="preserve">
+    <value>Permanently deletes your Infinite Flight account and stats.</value>
+    <comment>Permanently deletes your Infinite Flight account and stats.</comment>
+  </data>
+  <data name="UserAccountControl.DeleteAccountMessage" xml:space="preserve">
+    <value>This will delete your Infinite Flight account. THIS IS NOT REVERSIBLE. Are you sure you want to delete the account?</value>
+    <comment>This will delete your Infinite Flight account. THIS IS NOT REVERSIBLE. Are you sure you want to delete the account?</comment>
+  </data>
+  <data name="UserAccountControl.JoinServer" xml:space="preserve">
+    <value>Join Server</value>
+    <comment>Join Server</comment>
+  </data>
+  <data name="WeatherInfoControl.CloudAtAltitudeFeet" xml:space="preserve">
+    <value>{0} at {1} ft</value>
+    <comment>{0} at {1} ft</comment>
+  </data>
+  <data name="WeatherInfoControl.ManuallySetUpper" xml:space="preserve">
+    <value>MANUALLY SET</value>
+    <comment>MANUALLY SET</comment>
+  </data>
 </root>
