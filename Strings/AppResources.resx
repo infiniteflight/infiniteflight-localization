@@ -3408,7 +3408,7 @@ Cancel anytime in Google Play's Subscription Center.</comment>
     <comment>Flight Training is only available in singleplayer.</comment>
   </data>
   <data name="GameSelectionModalControl.GradeTooLowIFATC" xml:space="preserve">
-    <value>Grade is too low. IFATC can only go to ATC at all times.</value>
+    <value>Grade is too low. Only IFATC can access ATC without grade restrictions.</value>
     <comment>Grade is too low. IFATC can only go to ATC at all times.</comment>
   </data>
   <data name="GameSelectionModalControl.Join" xml:space="preserve">
