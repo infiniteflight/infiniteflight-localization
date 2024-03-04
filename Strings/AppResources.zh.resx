@@ -1786,7 +1786,7 @@
     <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
-    <value>航空管制</value>
+    <value>ATC</value>
     <comment>ATC</comment>
   </data>
   <data name="MenuPageBase.CannotConnect" xml:space="preserve">
