@@ -2233,7 +2233,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Grade is too low. IFATC can only go to ATC at all times..
+        ///   Looks up a localized string similar to Grade is too low. Only IFATC can access ATC without grade restrictions..
         /// </summary>
         internal static string GameSelectionModalControl_GradeTooLowIFATC {
             get {
@@ -2359,7 +2359,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Scenario is unavaible or hidden..
+        ///   Looks up a localized string similar to Scenario is unavailable or hidden..
         /// </summary>
         internal static string GameSelectionScenarioUnavailableControl_Description {
             get {
@@ -3468,7 +3468,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to UPPER.
+        ///   Looks up a localized string similar to UNLOCK.
         /// </summary>
         internal static string LogbookControl_UnlockUpper {
             get {
@@ -7050,6 +7050,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to To confirm, type DELETE below.
+        /// </summary>
+        internal static string UserAccount_DeleteAccountConfirmationMessage {
+            get {
+                return ResourceManager.GetString("UserAccount.DeleteAccountConfirmationMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DELETE.
+        /// </summary>
+        internal static string UserAccount_DeleteAccountConfirmationTextToType {
+            get {
+                return ResourceManager.GetString("UserAccount.DeleteAccountConfirmationTextToType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Delete Account.
         /// </summary>
         internal static string UserAccountControl_DeleteAccount {
@@ -7059,7 +7077,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Permanently deletes your Infinite Flight account and stats..
+        ///   Looks up a localized string similar to Removes your personal information, stats and linked accounts. Your subscription will still be available via a new, anonymous account..
         /// </summary>
         internal static string UserAccountControl_DeleteAccountDescription {
             get {
@@ -7068,7 +7086,9 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This will delete your Infinite Flight account. THIS IS NOT REVERSIBLE. Are you sure you want to delete the account?.
+        ///   Looks up a localized string similar to This will delete your current Infinite Flight account, removing your stats and any linked accounts. THIS IS NOT REVERSIBLE. Your subscription will still be available via a new anonymous account.
+        ///
+        ///Are you sure you want to delete the account?.
         /// </summary>
         internal static string UserAccountControl_DeleteAccountMessage {
             get {
