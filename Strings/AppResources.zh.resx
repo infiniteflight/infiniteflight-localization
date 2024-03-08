@@ -3436,12 +3436,13 @@ REPLAYS</comment>
     <comment>Delete Account</comment>
   </data>
   <data name="UserAccountControl.DeleteAccountDescription" xml:space="preserve">
-    <value>永久删除你的无限飞行账号和数据</value>
-    <comment>Permanently deletes your Infinite Flight account and stats.</comment>
+    <value>删除你的个人信息，统计数据和绑定的账号。你的订阅将继承到一个新的匿名账号中。</value>
+    <comment>Removes your personal information, stats and linked accounts. Your subscription will still be available via a new, anonymous account</comment>
   </data>
   <data name="UserAccountControl.DeleteAccountMessage" xml:space="preserve">
-    <value>此操作将删除你的无限飞行账号。注意：此操作不可撤销！你确定要删除账号吗？</value>
-    <comment>This will delete your Infinite Flight account. THIS IS NOT REVERSIBLE. Are you sure you want to delete the account?</comment>
+    <value>此操作将删除你当前的无限飞行账号，包括所有统计数据和绑定的账号。注意：此操作不可撤销！你仍然可以在一个新的匿名账号中访问你的订阅。
+
+你确定要删除账号吗？</value>
   </data>
   <data name="UserAccountControl.JoinServer" xml:space="preserve">
     <value>加入服务器</value>
@@ -3454,5 +3455,12 @@ REPLAYS</comment>
   <data name="WeatherInfoControl.ManuallySetUpper" xml:space="preserve">
     <value>自定义</value>
     <comment>MANUALLY SET</comment>
+  </data>
+  <data name="UserAccount.DeleteAccountConfirmationMessage" xml:space="preserve">
+    <value>请用中文输入“删除我的账号”以确认操作</value>
+  </data>
+  <data name="UserAccount.DeleteAccountConfirmationTextToType" xml:space="preserve">
+    <value>删除我的账号</value>
+    <comment>User needs to type this to confirm they want their account deleted</comment>
   </data>
 </root>
