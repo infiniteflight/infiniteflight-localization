@@ -454,7 +454,7 @@
     <comment>Sounds (tab title)</comment>
   </data>
   <data name="Global.Confirm" xml:space="preserve">
-    <value>Подтвърди</value>
+    <value>Потвърди</value>
     <comment>Confirm</comment>
   </data>
   <data name="Global.Warning" xml:space="preserve">
@@ -3415,11 +3415,13 @@ REPLAYS</comment>
     <comment>Delete Account</comment>
   </data>
   <data name="UserAccountControl.DeleteAccountDescription" xml:space="preserve">
-    <value>Изтрива Вашият Infinite Flight акаунт и статистиките му завинаги.</value>
+    <value>Изтрива Вашите лични данни, статистики и свързаните акаунти. Абонаметнът Ви ще е достъпен през нов анонимен акаунт.</value>
     <comment>Permanently deletes your Infinite Flight account and stats.</comment>
   </data>
   <data name="UserAccountControl.DeleteAccountMessage" xml:space="preserve">
-    <value>Това ще изтрие Вашият акаунт в Infinite Flight. ТОВА ДЕЙСТВИЕ Е НЕОБРАТИМО. Сигурни ли сте, че искате да изтриете акаунта си?</value>
+    <value>Това ще изтрие Вашият акаунт в Infinite Flight, личните Ви данни, статистиките Ви и свързаните акаунти. ТОВА ДЕЙСТВИЕ Е НЕОБРАТИМО. Абонаментът Ви ще е достъпен през нов анонимен акаунт
+    
+    Сигурни ли сте, че искате да изтриете акаунта си?</value>
     <comment>This will delete your Infinite Flight account. THIS IS NOT REVERSIBLE. Are you sure you want to delete the account?</comment>
   </data>
   <data name="UserAccountControl.JoinServer" xml:space="preserve">
@@ -3433,5 +3435,12 @@ REPLAYS</comment>
   <data name="WeatherInfoControl.ManuallySetUpper" xml:space="preserve">
     <value>РЪЧНО НАСТРОЕНО</value>
     <comment>MANUALLY SET</comment>
+  </data>
+  <data name="UserAccount.DeleteAccountConfirmationMessage" xml:space="preserve">
+    <value>Напишете DELETE по-долу, за да потвърдите</value>
+  </data>
+  <data name="UserAccount.DeleteAccountConfirmationTextToType" xml:space="preserve">
+    <value>DELETE</value>
+    <comment>User needs to type this to confirm they want their account deleted</comment>
   </data>
 </root>
