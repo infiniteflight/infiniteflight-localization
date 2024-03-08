@@ -2927,10 +2927,11 @@ DES REPLAYS</value>
     <value>Supprimer Compte</value>
   </data>
   <data name="UserAccountControl.DeleteAccountDescription" xml:space="preserve">
-    <value>Supprime définitivement votre compte Infinite Flight et vos statistiques.</value>
+    <value>Supprime vos informations, statistiques et comptes liés. Votre abonnement restera accessible via un compte anonyme.</value>
   </data>
   <data name="UserAccountControl.DeleteAccountMessage" xml:space="preserve">
-    <value>Cela supprimera votre compte Infinite Flight. CECI N'EST PAS RÉVERSIBLE. Êtes-vous sûr de vouloir supprimer le compte ?</value>
+    <value>Cela effacera votre compte Infinite Flight actuel, statistiques et comptes associés inclus. Action irréversible. L'abonnement sera préservé dans un nouveau compte anonyme.
+Confirmez-vous la suppression du compte ?</value>
   </data>
   <data name="UserAccountControl.JoinServer" xml:space="preserve">
     <value>Rejoindre Serveur</value>
@@ -2940,5 +2941,11 @@ DES REPLAYS</value>
   </data>
   <data name="WeatherInfoControl.ManuallySetUpper" xml:space="preserve">
     <value>CONFIG. MANUELLE</value>
+  </data>
+  <data name="UserAccount.DeleteAccountConfirmationMessage" xml:space="preserve">
+    <value>Pour confirmer, tapez "DELETE" ci-dessous</value>
+  </data>
+  <data name="UserAccount.DeleteAccountConfirmationTextToType" xml:space="preserve">
+    <value>DELETE</value>
   </data>
 </root>

@@ -2975,10 +2975,12 @@ REPLAYS</value>
     <value>Borrar Cuenta</value>
   </data>
   <data name="UserAccountControl.DeleteAccountDescription" xml:space="preserve">
-    <value>Elimina permanentemente tu cuenta de Infinite Flight y tus estadísticas.</value>
+    <value>Elimina tu información personal, tus estadisticas y cuentas enlazadas. Tu suscripción estará disponible en una cuenta anónima nueva.</value>
   </data>
   <data name="UserAccountControl.DeleteAccountMessage" xml:space="preserve">
-    <value>Eliminará tu cuenta de Infinite Flight. NO SE PUEDE REVERTIR. ¿Estás seguro de que quieres eliminar la cuenta?</value>
+    <value>Eliminará tu cuenta de Infinite Flight, borrando tus estadisticas y cuentas enlazadas. NO SE PUEDE REVERTIR. Tu suscripción estará disponible en una cuenta anónima nueva.
+
+¿Estás seguro de que quieres eliminar la cuenta?</value>
   </data>
   <data name="UserAccountControl.JoinServer" xml:space="preserve">
     <value>Únete al Servidor</value>
@@ -2997,5 +2999,11 @@ REPLAYS</value>
   </data>
   <data name="AchievementsControl.NewAchievementsEarnedUpper" xml:space="preserve">
     <value>¡NUEVOS LOGROS OBTENIDOS!</value>
+  </data>
+  <data name="UserAccount.DeleteAccountConfirmationMessage" xml:space="preserve">
+    <value>Para confirmar, escribe "DELETE" aquí</value>
+  </data>
+  <data name="UserAccount.DeleteAccountConfirmationTextToType" xml:space="preserve">
+    <value>DELETE</value>
   </data>
 </root>
