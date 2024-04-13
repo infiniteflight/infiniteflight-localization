@@ -3562,4 +3562,24 @@ Are you sure you want to delete the account?</value>
     <value>DELETE</value>
     <comment>User needs to type this to confirm they want their account deleted</comment>
   </data>
+  <data name="LogbookControl.EntriesUpper" xml:space="preserve">
+    <value>ENTRIES</value>
+    <comment>ENTRIES</comment>
+  </data>
+  <data name="LogbookControl.FailedRetrieveStartingAirport" xml:space="preserve">
+    <value>Failed to retrieve the starting airport</value>
+    <comment>Failed to retrieve the starting airport</comment>
+  </data>
+  <data name="LogbookControl.FailedToRetrieveReplay" xml:space="preserve">
+    <value>Failed to retrieve replay</value>
+    <comment>Failed to retrieve replay</comment>
+  </data>
+  <data name="LogbookControl.NoLogbookEntrySelected" xml:space="preserve">
+    <value>No logbook entry selected</value>
+    <comment>No logbook entry selected</comment>
+  </data>
+  <data name="LogbookControl.NoReplayLinkedLogbookEntry" xml:space="preserve">
+    <value>No replay linked to logbook entry</value>
+    <comment>No replay linked to logbook entry</comment>
+  </data>
 </root>
