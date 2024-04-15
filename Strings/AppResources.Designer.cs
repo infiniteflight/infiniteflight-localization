@@ -3333,6 +3333,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ENTRIES.
+        /// </summary>
+        internal static string LogbookControl_EntriesUpper {
+            get {
+                return ResourceManager.GetString("LogbookControl.EntriesUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Error exporting the replay file. Check that you have enough storage space available.
         /// </summary>
         internal static string LogbookControl_ExportErrorMessage {
@@ -3356,6 +3365,24 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string LogbookControl_FailedReplayDeleteUnknownReason {
             get {
                 return ResourceManager.GetString("LogbookControl.FailedReplayDeleteUnknownReason", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Failed to retrieve the starting airport.
+        /// </summary>
+        internal static string LogbookControl_FailedRetrieveStartingAirport {
+            get {
+                return ResourceManager.GetString("LogbookControl.FailedRetrieveStartingAirport", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Failed to retrieve replay.
+        /// </summary>
+        internal static string LogbookControl_FailedToRetrieveReplay {
+            get {
+                return ResourceManager.GetString("LogbookControl.FailedToRetrieveReplay", resourceCulture);
             }
         }
         
@@ -3414,11 +3441,29 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to No logbook entry selected.
+        /// </summary>
+        internal static string LogbookControl_NoLogbookEntrySelected {
+            get {
+                return ResourceManager.GetString("LogbookControl.NoLogbookEntrySelected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to NO REPLAY FILE.
         /// </summary>
         internal static string LogbookControl_NoReplayFileUpper {
             get {
                 return ResourceManager.GetString("LogbookControl.NoReplayFileUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No replay linked to logbook entry.
+        /// </summary>
+        internal static string LogbookControl_NoReplayLinkedLogbookEntry {
+            get {
+                return ResourceManager.GetString("LogbookControl.NoReplayLinkedLogbookEntry", resourceCulture);
             }
         }
         

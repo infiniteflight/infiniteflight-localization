@@ -2948,4 +2948,19 @@ Confirmez-vous la suppression du compte ?</value>
   <data name="UserAccount.DeleteAccountConfirmationTextToType" xml:space="preserve">
     <value>DELETE</value>
   </data>
+  <data name="LogbookControl.EntriesUpper" xml:space="preserve">
+    <value>ENTRÉES</value>
+  </data>
+  <data name="LogbookControl.FailedRetrieveStartingAirport" xml:space="preserve">
+    <value>Échec de la récupération de l'aéroport de départ</value>
+  </data>
+  <data name="LogbookControl.FailedToRetrieveReplay" xml:space="preserve">
+    <value>Échec de la récupération du replay</value>
+  </data>
+  <data name="LogbookControl.NoLogbookEntrySelected" xml:space="preserve">
+    <value>Aucune entrée du carnet de vol sélectionnée</value>
+  </data>
+  <data name="LogbookControl.NoReplayLinkedLogbookEntry" xml:space="preserve">
+    <value>Aucun replay lié à l'entrée du carnet de vol</value>
+  </data>
 </root>
