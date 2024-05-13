@@ -3582,4 +3582,13 @@ Are you sure you want to delete the account?</value>
     <value>No replay linked to logbook entry</value>
     <comment>No replay linked to logbook entry</comment>
   </data>
+  <data name="Error.AircraftLimitReached" xml:space="preserve">
+    <value>Aircraft Limit Reached</value>
+  </data>
+  <data name="Error.InsufficientStorage" xml:space="preserve">
+    <value>Your device is running low on storage. Please free up space and try again.</value>
+  </data>
+  <data name="Error.SimbriefApiScopeMissing" xml:space="preserve">
+    <value>Your Navigraph account is linked, but does not have SimBrief permission. Sign in again and ensure SimBrief is checked</value>
+  </data>
 </root>

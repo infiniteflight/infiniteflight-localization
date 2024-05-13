@@ -1171,6 +1171,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Aircraft Limit Reached.
+        /// </summary>
+        internal static string Error_AircraftLimitReached {
+            get {
+                return ResourceManager.GetString("Error.AircraftLimitReached", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The selected airport is not available (error code {0}).
         /// </summary>
         internal static string Error_AirportNotFound {
@@ -1288,6 +1297,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your device is running low on storage. Please free up space and try again..
+        /// </summary>
+        internal static string Error_InsufficientStorage {
+            get {
+                return ResourceManager.GetString("Error.InsufficientStorage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The value you are updating isn&apos;t valid (error code {0}).
         /// </summary>
         internal static string Error_InvalidInput {
@@ -1365,6 +1383,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Error_ServerNotFound {
             get {
                 return ResourceManager.GetString("Error.ServerNotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your Navigraph account is linked, but does not have SimBrief permission. Sign in again and ensure SimBrief is checked.
+        /// </summary>
+        internal static string Error_SimbriefApiScopeMissing {
+            get {
+                return ResourceManager.GetString("Error.SimbriefApiScopeMissing", resourceCulture);
             }
         }
         
