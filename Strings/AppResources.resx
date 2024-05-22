@@ -3591,4 +3591,12 @@ Are you sure you want to delete the account?</value>
   <data name="Error.SimbriefApiScopeMissing" xml:space="preserve">
     <value>Your Navigraph account is linked, but does not have SimBrief permission. Sign in again and ensure SimBrief is checked</value>
   </data>
+  <data name="Global.UpdatedTimeFormat" xml:space="preserve">
+    <value>Updated {0}</value>
+    <comment>Updated {0}</comment>
+  </data>
+  <data name="FlightScenarioControl.FailedToLoadScenario" xml:space="preserve">
+    <value>Failed to load scenario ({0})</value>
+    <comment>Failed to load scenario ({0})</comment>
+  </data>
 </root>
