@@ -2963,4 +2963,19 @@ Confirmez-vous la suppression du compte ?</value>
   <data name="LogbookControl.NoReplayLinkedLogbookEntry" xml:space="preserve">
     <value>Aucun replay lié à l'entrée du carnet de vol</value>
   </data>
+  <data name="Error.AircraftLimitReached" xml:space="preserve">
+    <value>Limite d'avions atteinte</value>
+  </data>
+  <data name="Error.InsufficientStorage" xml:space="preserve">
+    <value>Votre appareil manque d'espace de stockage. Veuillez libérer de l'espace et réessayer.</value>
+  </data>
+  <data name="Error.SimbriefApiScopeMissing" xml:space="preserve">
+    <value>Votre compte Navigraph est lié, mais Infinite Flight n'a pas la permission à SimBrief. Veuillez vous reconnecter et vous assurer que SimBrief est accessible.</value>
+  </data>
+  <data name="FlightScenarioControl.FailedToLoadScenario" xml:space="preserve">
+    <value>Échec du chargement du scénario ({0})</value>
+  </data>
+  <data name="Global.UpdatedTimeFormat" xml:space="preserve">
+    <value>Modifié  {0}</value>
+  </data>
 </root>

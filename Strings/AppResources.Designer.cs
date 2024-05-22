@@ -1891,6 +1891,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Failed to load scenario ({0}).
+        /// </summary>
+        internal static string FlightScenarioControl_FailedToLoadScenario {
+            get {
+                return ResourceManager.GetString("FlightScenarioControl.FailedToLoadScenario", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Failed to load scenario info ({0}).
         /// </summary>
         internal static string FlightScenarioControl_FailedToLoadScenarioInfo {
@@ -2832,6 +2841,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Global_Unknown {
             get {
                 return ResourceManager.GetString("Global_Unknown", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Updated {0}.
+        /// </summary>
+        internal static string Global_UpdatedTimeFormat {
+            get {
+                return ResourceManager.GetString("Global.UpdatedTimeFormat", resourceCulture);
             }
         }
         
