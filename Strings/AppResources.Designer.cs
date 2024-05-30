@@ -1531,6 +1531,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Free Flight.
+        /// </summary>
+        internal static string FlightMenu_FreeFlight {
+            get {
+                return ResourceManager.GetString("FlightMenu.FreeFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Choose your aircraft and airport, customize your flight plan, and enjoy an immersive flying experience at your own pace.
         /// </summary>
         internal static string FlightMenu_FreeFlightDescription {
@@ -2409,6 +2418,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string GameSelectionScenarioUnavailableControl_Title {
             get {
                 return ResourceManager.GetString("GameSelectionScenarioUnavailableControl.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to START.
+        /// </summary>
+        internal static string GameWaitCanvas_StartUpper {
+            get {
+                return ResourceManager.GetString("GameWaitCanvas.StartUpper", resourceCulture);
             }
         }
         
