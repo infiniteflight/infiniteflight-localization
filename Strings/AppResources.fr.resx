@@ -2978,4 +2978,12 @@ Confirmez-vous la suppression du compte ?</value>
   <data name="Global.UpdatedTimeFormat" xml:space="preserve">
     <value>Modifié  {0}</value>
   </data>
+  <data name="FlightMenu.FreeFlight" xml:space="preserve">
+    <value>Vol Libre</value>
+    <comment>Free Flight</comment>
+  </data>
+  <data name="GameWaitCanvas.StartUpper" xml:space="preserve">
+    <value>LANCER</value>
+    <comment>START</comment>
+  </data>
 </root>

@@ -3599,4 +3599,12 @@ Are you sure you want to delete the account?</value>
     <value>Failed to load scenario ({0})</value>
     <comment>Failed to load scenario ({0})</comment>
   </data>
+  <data name="FlightMenu.FreeFlight" xml:space="preserve">
+    <value>Free Flight</value>
+    <comment>Free Flight</comment>
+  </data>
+  <data name="GameWaitCanvas.StartUpper" xml:space="preserve">
+    <value>START</value>
+    <comment>START</comment>
+  </data>
 </root>
