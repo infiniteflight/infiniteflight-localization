@@ -2986,4 +2986,76 @@ Confirmez-vous la suppression du compte ?</value>
     <value>LANCER</value>
     <comment>START</comment>
   </data>
+  <data name="AtcInfoControl.AtcOperations" xml:space="preserve">
+    <value>Opérations</value>
+    <comment>ATC Operations</comment>
+  </data>
+  <data name="AtcInfoControl.AtcRank" xml:space="preserve">
+    <value>Rang</value>
+    <comment>ATC Rank</comment>
+  </data>
+  <data name="FlightInfoControl.OnlineFlights" xml:space="preserve">
+    <value>Vols en Ligne</value>
+    <comment>Online Flights</comment>
+  </data>
+  <data name="GeneralInfoControl.MemberSince" xml:space="preserve">
+    <value>Membre Depuis</value>
+    <comment>Member Since</comment>
+  </data>
+  <data name="GeneralInfoControl.OnlineInSessionsCountUpper" xml:space="preserve">
+    <value>ACTIF SUR {0} SESSIONS</value>
+    <comment>ONLINE IN {0} SESSIONS</comment>
+  </data>
+  <data name="GeneralInfoControl.OnlineUpper" xml:space="preserve">
+    <value>EN LIGNE</value>
+    <comment>ONLINE</comment>
+  </data>
+  <data name="SocialNetworkControl.Follow" xml:space="preserve">
+    <value>Suivre</value>
+    <comment>Follow</comment>
+  </data>
+  <data name="SocialNetworkControl.FollowBack" xml:space="preserve">
+    <value>Suivre en Retour</value>
+    <comment>Follow Back</comment>
+  </data>
+  <data name="SocialNetworkControl.Unfollow" xml:space="preserve">
+    <value>Désabonner</value>
+    <comment>Unfollow</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.FollowersCount" xml:space="preserve">
+    <value>{0} abonnés</value>
+    <comment>{0} followers</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.FollowingCount" xml:space="preserve">
+    <value>{0} abonnements</value>
+    <comment>{0} following</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.ModeratorUpper" xml:space="preserve">
+    <value>MODÉRATEUR</value>
+    <comment>MODERATOR</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.StaffUpper" xml:space="preserve">
+    <value>STAFF</value>
+    <comment>STAFF</comment>
+  </data>
+  <data name="SocialNetworkSearchUsersListControl.NoUsersFound" xml:space="preserve">
+    <value>Aucun Utilisateur Trouvé</value>
+    <comment>No Users Found</comment>
+  </data>
+  <data name="SocialNetworkSummaryFailedControl.FailedToLoadUsersProfile" xml:space="preserve">
+    <value>Échec du chargement du profil de l'utilisateur.</value>
+    <comment>Failed to load the user's profile.</comment>
+  </data>
+  <data name="SocialNetworkSummaryFailedControl.ProfileNotFound" xml:space="preserve">
+    <value>Profil Non Trouvé</value>
+    <comment>Profile Not Found</comment>
+  </data>
+  <data name="UserActiveSessionsControl.AtcActiveOnWorld" xml:space="preserve">
+    <value>Actif sur {0}</value>
+    <comment>Active on {0}</comment>
+  </data>
+  <data name="SocialNetworkControl.SearchUsers" xml:space="preserve">
+    <value>Rechercher des utilisateurs</value>
+    <comment>Search Users</comment>
+  </data>
 </root>

@@ -232,6 +232,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ATC Operations.
+        /// </summary>
+        internal static string AtcInfoControl_AtcOperations {
+            get {
+                return ResourceManager.GetString("AtcInfoControl.AtcOperations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ATC Rank.
+        /// </summary>
+        internal static string AtcInfoControl_AtcRank {
+            get {
+                return ResourceManager.GetString("AtcInfoControl.AtcRank", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Arrivals.
         /// </summary>
         internal static string ATCJobBoard_Header_Arrivals {
@@ -1477,6 +1495,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Online Flights.
+        /// </summary>
+        internal static string FlightInfoControl_OnlineFlights {
+            get {
+                return ResourceManager.GetString("FlightInfoControl.OnlineFlights", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to ALTIMETER.
         /// </summary>
         internal static string FlightMenu_AltimeterUpper {
@@ -2278,6 +2305,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your grade is too low for {0}.
+        /// </summary>
+        internal static string GameSelectionModalControl_GradeIsTooLowCloseError {
+            get {
+                return ResourceManager.GetString("GameSelectionModalControl.GradeIsTooLowCloseError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Grade is too low. Only IFATC can access ATC without grade restrictions..
         /// </summary>
         internal static string GameSelectionModalControl_GradeTooLowIFATC {
@@ -2427,6 +2463,33 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string GameWaitCanvas_StartUpper {
             get {
                 return ResourceManager.GetString("GameWaitCanvas.StartUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Member Since.
+        /// </summary>
+        internal static string GeneralInfoControl_MemberSince {
+            get {
+                return ResourceManager.GetString("GeneralInfoControl.MemberSince", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ONLINE IN {0} SESSIONS.
+        /// </summary>
+        internal static string GeneralInfoControl_OnlineInSessionsCountUpper {
+            get {
+                return ResourceManager.GetString("GeneralInfoControl.OnlineInSessionsCountUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ONLINE.
+        /// </summary>
+        internal static string GeneralInfoControl_OnlineUpper {
+            get {
+                return ResourceManager.GetString("GeneralInfoControl.OnlineUpper", resourceCulture);
             }
         }
         
@@ -6011,6 +6074,105 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Follow.
+        /// </summary>
+        internal static string SocialNetworkControl_Follow {
+            get {
+                return ResourceManager.GetString("SocialNetworkControl.Follow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Follow Back.
+        /// </summary>
+        internal static string SocialNetworkControl_FollowBack {
+            get {
+                return ResourceManager.GetString("SocialNetworkControl.FollowBack", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search Users.
+        /// </summary>
+        internal static string SocialNetworkControl_SearchUsers {
+            get {
+                return ResourceManager.GetString("SocialNetworkControl.SearchUsers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unfollow.
+        /// </summary>
+        internal static string SocialNetworkControl_Unfollow {
+            get {
+                return ResourceManager.GetString("SocialNetworkControl.Unfollow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} followers.
+        /// </summary>
+        internal static string SocialNetworkProfileCardControl_FollowersCount {
+            get {
+                return ResourceManager.GetString("SocialNetworkProfileCardControl.FollowersCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} following.
+        /// </summary>
+        internal static string SocialNetworkProfileCardControl_FollowingCount {
+            get {
+                return ResourceManager.GetString("SocialNetworkProfileCardControl.FollowingCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MODERATOR.
+        /// </summary>
+        internal static string SocialNetworkProfileCardControl_ModeratorUpper {
+            get {
+                return ResourceManager.GetString("SocialNetworkProfileCardControl.ModeratorUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to STAFF.
+        /// </summary>
+        internal static string SocialNetworkProfileCardControl_StaffUpper {
+            get {
+                return ResourceManager.GetString("SocialNetworkProfileCardControl.StaffUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No Users Found.
+        /// </summary>
+        internal static string SocialNetworkSearchUsersListControl_NoUsersFound {
+            get {
+                return ResourceManager.GetString("SocialNetworkSearchUsersListControl.NoUsersFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Failed to load the user&apos;s profile..
+        /// </summary>
+        internal static string SocialNetworkSummaryFailedControl_FailedToLoadUsersProfile {
+            get {
+                return ResourceManager.GetString("SocialNetworkSummaryFailedControl.FailedToLoadUsersProfile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Profile Not Found.
+        /// </summary>
+        internal static string SocialNetworkSummaryFailedControl_ProfileNotFound {
+            get {
+                return ResourceManager.GetString("SocialNetworkSummaryFailedControl.ProfileNotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Downloading Aircraft {0}%.
         /// </summary>
         internal static string SplashScreen_DownloadingAircraft {
@@ -7291,6 +7453,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string UserAccountControl_YourAccount {
             get {
                 return ResourceManager.GetString("UserAccountControl.YourAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Active on {0}.
+        /// </summary>
+        internal static string UserActiveSessionsControl_AtcActiveOnWorld {
+            get {
+                return ResourceManager.GetString("UserActiveSessionsControl.AtcActiveOnWorld", resourceCulture);
             }
         }
         
