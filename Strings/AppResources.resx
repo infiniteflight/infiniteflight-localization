@@ -3607,4 +3607,80 @@ Are you sure you want to delete the account?</value>
     <value>START</value>
     <comment>START</comment>
   </data>
+  <data name="GameSelectionModalControl.GradeIsTooLowCloseError" xml:space="preserve">
+    <value>Your grade is too low for {0}</value>
+    <comment>Your grade is too low for {0}</comment>
+  </data>
+  <data name="AtcInfoControl.AtcOperations" xml:space="preserve">
+    <value>Operations</value>
+    <comment>Operations</comment>
+  </data>
+  <data name="AtcInfoControl.AtcRank" xml:space="preserve">
+    <value>Rank</value>
+    <comment>Rank</comment>
+  </data>
+  <data name="FlightInfoControl.OnlineFlights" xml:space="preserve">
+    <value>Online Flights</value>
+    <comment>Online Flights</comment>
+  </data>
+  <data name="GeneralInfoControl.MemberSince" xml:space="preserve">
+    <value>Member Since</value>
+    <comment>Member Since</comment>
+  </data>
+  <data name="GeneralInfoControl.OnlineInSessionsCountUpper" xml:space="preserve">
+    <value>ONLINE IN {0} SESSIONS</value>
+    <comment>ONLINE IN {0} SESSIONS</comment>
+  </data>
+  <data name="GeneralInfoControl.OnlineUpper" xml:space="preserve">
+    <value>ONLINE</value>
+    <comment>ONLINE</comment>
+  </data>
+  <data name="SocialNetworkControl.Follow" xml:space="preserve">
+    <value>Follow</value>
+    <comment>Follow</comment>
+  </data>
+  <data name="SocialNetworkControl.FollowBack" xml:space="preserve">
+    <value>Follow Back</value>
+    <comment>Follow Back</comment>
+  </data>
+  <data name="SocialNetworkControl.Unfollow" xml:space="preserve">
+    <value>Unfollow</value>
+    <comment>Unfollow</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.FollowersCount" xml:space="preserve">
+    <value>{0} followers</value>
+    <comment>{0} followers</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.FollowingCount" xml:space="preserve">
+    <value>{0} following</value>
+    <comment>{0} following</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.ModeratorUpper" xml:space="preserve">
+    <value>MODERATOR</value>
+    <comment>MODERATOR</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.StaffUpper" xml:space="preserve">
+    <value>STAFF</value>
+    <comment>STAFF</comment>
+  </data>
+  <data name="SocialNetworkSearchUsersListControl.NoUsersFound" xml:space="preserve">
+    <value>No Users Found</value>
+    <comment>No Users Found</comment>
+  </data>
+  <data name="SocialNetworkSummaryFailedControl.FailedToLoadUsersProfile" xml:space="preserve">
+    <value>Failed to load the user's profile.</value>
+    <comment>Failed to load the user's profile.</comment>
+  </data>
+  <data name="SocialNetworkSummaryFailedControl.ProfileNotFound" xml:space="preserve">
+    <value>Profile Not Found</value>
+    <comment>Profile Not Found</comment>
+  </data>
+  <data name="UserActiveSessionsControl.AtcActiveOnWorld" xml:space="preserve">
+    <value>Active on {0}</value>
+    <comment>Active on {0}</comment>
+  </data>
+  <data name="SocialNetworkControl.SearchUsers" xml:space="preserve">
+    <value>Search Users</value>
+    <comment>Search Users</comment>
+  </data>
 </root>
