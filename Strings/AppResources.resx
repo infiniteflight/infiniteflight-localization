@@ -3683,4 +3683,60 @@ Are you sure you want to delete the account?</value>
     <value>Search Users</value>
     <comment>Search Users</comment>
   </data>
+  <data name="SocialNetworkControl.LinkUpper" xml:space="preserve">
+    <value>LINK</value>
+    <comment>LINK</comment>
+  </data>
+  <data name="SocialNetworkControl.JoinDiscordServerMessage" xml:space="preserve">
+    <value>Would you like to join the official Infinite Flight discord server?</value>
+    <comment>Would you like to join the official Infinite Flight discord server?</comment>
+  </data>
+  <data name="SocialNetworkControl.EnterConfirmation" xml:space="preserve">
+    <value>Enter Confirmation</value>
+    <comment>Enter Confirmation</comment>
+  </data>
+  <data name="SocialNetworkDeleteAccountLoadingModal.DeletingAccountUpper" xml:space="preserve">
+    <value>DELETING ACCOUNT</value>
+    <comment>DELETING ACCOUNT</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkCommunityControl.OpenForum" xml:space="preserve">
+    <value>Open Forum</value>
+    <comment>Open Forum</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkCommunityControl.UnlinkError" xml:space="preserve">
+    <value>No linked community account was found</value>
+    <comment>No linked community account was found</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.ConnectionsUpper" xml:space="preserve">
+    <value>CONNECTIONS</value>
+    <comment>CONNECTIONS</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.SimBriefDescription" xml:space="preserve">
+    <value>Link your Navigraph account to access your SimBrief Flight Plans</value>
+    <comment>Link your Navigraph account to access your SimBrief Flight Plans</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.SimBriefTitle" xml:space="preserve">
+    <value>Navigraph (SimBrief) Account</value>
+    <comment>Navigraph (SimBrief) Account</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.UnlinkedUpper" xml:space="preserve">
+    <value>UNLINKED</value>
+    <comment>UNLINKED</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkDiscordControl.UnlinkError" xml:space="preserve">
+    <value>No linked Discord account was found</value>
+    <comment>No linked discord account was found</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkSimbriefControl.OpenSimBrief" xml:space="preserve">
+    <value>Open SimBrief</value>
+    <comment>Open SimBrief</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkSimbriefControl.UnlinkError" xml:space="preserve">
+    <value>No linked Navigraph account was found</value>
+    <comment>No linked Navigraph account was found</comment>
+  </data>
+  <data name="SocialNetworkSettingsMiscControl.MiscUpper" xml:space="preserve">
+    <value>MISCELLANEOUS</value>
+    <comment>MISCELLANEOUS</comment>
+  </data>
 </root>
