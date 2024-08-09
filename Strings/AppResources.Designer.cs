@@ -232,7 +232,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ATC Operations.
+        ///   Looks up a localized string similar to Operations.
         /// </summary>
         internal static string AtcInfoControl_AtcOperations {
             get {
@@ -241,7 +241,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ATC Rank.
+        ///   Looks up a localized string similar to Rank.
         /// </summary>
         internal static string AtcInfoControl_AtcRank {
             get {
@@ -1860,6 +1860,69 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string FlightPlan_Title {
             get {
                 return ResourceManager.GetString("FlightPlan.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Load From SimBrief.
+        /// </summary>
+        internal static string FlightPlanControl_LoadFromSimBrief {
+            get {
+                return ResourceManager.GetString("FlightPlanControl.LoadFromSimBrief", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Open Flight Plan.
+        /// </summary>
+        internal static string FlightPlanControl_OpenFlightPlan {
+            get {
+                return ResourceManager.GetString("FlightPlanControl.OpenFlightPlan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reset All Altitudes.
+        /// </summary>
+        internal static string FlightPlanControl_ResetAllAltitudes {
+            get {
+                return ResourceManager.GetString("FlightPlanControl.ResetAllAltitudes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reset Altitude.
+        /// </summary>
+        internal static string FlightPlanControl_ResetAltitude {
+            get {
+                return ResourceManager.GetString("FlightPlanControl.ResetAltitude", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Set Altitude.
+        /// </summary>
+        internal static string FlightPlanControl_SetAltitude {
+            get {
+                return ResourceManager.GetString("FlightPlanControl.SetAltitude", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Set Autopilot ALT.
+        /// </summary>
+        internal static string FlightPlanControl_SetAutopilotAlt {
+            get {
+                return ResourceManager.GetString("FlightPlanControl.SetAutopilotAlt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Share.
+        /// </summary>
+        internal static string FlightPlanControl_Share {
+            get {
+                return ResourceManager.GetString("FlightPlanControl.Share", resourceCulture);
             }
         }
         

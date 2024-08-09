@@ -3739,4 +3739,32 @@ Are you sure you want to delete the account?</value>
     <value>MISCELLANEOUS</value>
     <comment>MISCELLANEOUS</comment>
   </data>
+  <data name="FlightPlanControl.LoadFromSimBrief" xml:space="preserve">
+    <value>Load From SimBrief</value>
+    <comment>Load From SimBrief</comment>
+  </data>
+  <data name="FlightPlanControl.OpenFlightPlan" xml:space="preserve">
+    <value>Open Flight Plan</value>
+    <comment>Open Flight Plan</comment>
+  </data>
+  <data name="FlightPlanControl.ResetAllAltitudes" xml:space="preserve">
+    <value>Reset All Altitudes</value>
+    <comment>Reset All Altitudes</comment>
+  </data>
+  <data name="FlightPlanControl.ResetAltitude" xml:space="preserve">
+    <value>Reset Altitude</value>
+    <comment>Reset Altitude</comment>
+  </data>
+  <data name="FlightPlanControl.SetAltitude" xml:space="preserve">
+    <value>Set Altitude</value>
+    <comment>Set Altitude</comment>
+  </data>
+  <data name="FlightPlanControl.SetAutopilotAlt" xml:space="preserve">
+    <value>Set Autopilot ALT</value>
+    <comment>Set Autopilot ALT</comment>
+  </data>
+  <data name="FlightPlanControl.Share" xml:space="preserve">
+    <value>Share</value>
+    <comment>Share</comment>
+  </data>
 </root>
