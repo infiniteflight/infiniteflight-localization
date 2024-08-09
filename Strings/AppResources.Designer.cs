@@ -6074,6 +6074,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Enter Confirmation.
+        /// </summary>
+        internal static string SocialNetworkControl_EnterConfirmation {
+            get {
+                return ResourceManager.GetString("SocialNetworkControl.EnterConfirmation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Follow.
         /// </summary>
         internal static string SocialNetworkControl_Follow {
@@ -6092,6 +6101,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Would you like to join the official Infinite Flight discord server?.
+        /// </summary>
+        internal static string SocialNetworkControl_JoinDiscordServerMessage {
+            get {
+                return ResourceManager.GetString("SocialNetworkControl.JoinDiscordServerMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LINK.
+        /// </summary>
+        internal static string SocialNetworkControl_LinkUpper {
+            get {
+                return ResourceManager.GetString("SocialNetworkControl.LinkUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Search Users.
         /// </summary>
         internal static string SocialNetworkControl_SearchUsers {
@@ -6106,6 +6133,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string SocialNetworkControl_Unfollow {
             get {
                 return ResourceManager.GetString("SocialNetworkControl.Unfollow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DELETING ACCOUNT.
+        /// </summary>
+        internal static string SocialNetworkDeleteAccountLoadingModal_DeletingAccountUpper {
+            get {
+                return ResourceManager.GetString("SocialNetworkDeleteAccountLoadingModal.DeletingAccountUpper", resourceCulture);
             }
         }
         
@@ -6151,6 +6187,96 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string SocialNetworkSearchUsersListControl_NoUsersFound {
             get {
                 return ResourceManager.GetString("SocialNetworkSearchUsersListControl.NoUsersFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Open Forum.
+        /// </summary>
+        internal static string SocialNetworkSettingsLinkCommunityControl_OpenForum {
+            get {
+                return ResourceManager.GetString("SocialNetworkSettingsLinkCommunityControl.OpenForum", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No linked community account was found.
+        /// </summary>
+        internal static string SocialNetworkSettingsLinkCommunityControl_UnlinkError {
+            get {
+                return ResourceManager.GetString("SocialNetworkSettingsLinkCommunityControl.UnlinkError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CONNECTIONS.
+        /// </summary>
+        internal static string SocialNetworkSettingsLinkControl_ConnectionsUpper {
+            get {
+                return ResourceManager.GetString("SocialNetworkSettingsLinkControl.ConnectionsUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Link your Navigraph account to access your SimBrief Flight Plans.
+        /// </summary>
+        internal static string SocialNetworkSettingsLinkControl_SimBriefDescription {
+            get {
+                return ResourceManager.GetString("SocialNetworkSettingsLinkControl.SimBriefDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Navigraph (SimBrief) Account.
+        /// </summary>
+        internal static string SocialNetworkSettingsLinkControl_SimBriefTitle {
+            get {
+                return ResourceManager.GetString("SocialNetworkSettingsLinkControl.SimBriefTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to UNLINKED.
+        /// </summary>
+        internal static string SocialNetworkSettingsLinkControl_UnlinkedUpper {
+            get {
+                return ResourceManager.GetString("SocialNetworkSettingsLinkControl.UnlinkedUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No linked Discord account was found.
+        /// </summary>
+        internal static string SocialNetworkSettingsLinkDiscordControl_UnlinkError {
+            get {
+                return ResourceManager.GetString("SocialNetworkSettingsLinkDiscordControl.UnlinkError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Open SimBrief.
+        /// </summary>
+        internal static string SocialNetworkSettingsLinkSimbriefControl_OpenSimBrief {
+            get {
+                return ResourceManager.GetString("SocialNetworkSettingsLinkSimbriefControl.OpenSimBrief", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No linked Navigraph account was found.
+        /// </summary>
+        internal static string SocialNetworkSettingsLinkSimbriefControl_UnlinkError {
+            get {
+                return ResourceManager.GetString("SocialNetworkSettingsLinkSimbriefControl.UnlinkError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MISCELLANEOUS.
+        /// </summary>
+        internal static string SocialNetworkSettingsMiscControl_MiscUpper {
+            get {
+                return ResourceManager.GetString("SocialNetworkSettingsMiscControl.MiscUpper", resourceCulture);
             }
         }
         
