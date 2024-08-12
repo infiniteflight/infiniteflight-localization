@@ -3748,11 +3748,11 @@ Are you sure you want to delete the account?</value>
     <comment>Open Flight Plan</comment>
   </data>
   <data name="FlightPlanControl.ResetAllAltitudes" xml:space="preserve">
-    <value>Reset All Altitudes</value>
+    <value>Delete All Altitudes</value>
     <comment>Reset All Altitudes</comment>
   </data>
   <data name="FlightPlanControl.ResetAltitude" xml:space="preserve">
-    <value>Reset Altitude</value>
+    <value>Delete Altitude</value>
     <comment>Reset Altitude</comment>
   </data>
   <data name="FlightPlanControl.SetAltitude" xml:space="preserve">

@@ -1882,7 +1882,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reset All Altitudes.
+        ///   Looks up a localized string similar to Delete All Altitudes.
         /// </summary>
         internal static string FlightPlanControl_ResetAllAltitudes {
             get {
@@ -1891,7 +1891,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reset Altitude.
+        ///   Looks up a localized string similar to Delete Altitude.
         /// </summary>
         internal static string FlightPlanControl_ResetAltitude {
             get {
