@@ -1341,7 +1341,7 @@
     <value>Heftig</value>
     <comment>Severe</comment>
   </data>
-  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+  <data name="Settings.ClearCacheSceneryAlert.Message" xml:space="preserve">
     <value>Möchtest du den Szenerie-Cache wirklich leeren?</value>
     <comment>Are you sure you want to clear the scenery cache?</comment>
   </data>

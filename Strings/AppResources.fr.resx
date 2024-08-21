@@ -1347,7 +1347,7 @@ We recommend keeping this setting to 30fps.</comment>
   <data name="About.PrivacyPolicy" xml:space="preserve">
     <value>POLITIQUE DE CONFIDENTIALITÉ</value>
   </data>
-  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+  <data name="Settings.ClearCacheSceneryAlert.Message" xml:space="preserve">
     <value>Voulez-vous vraiment vider le cache ?</value>
   </data>
   <data name="Settings.DisabledInFlight" xml:space="preserve">

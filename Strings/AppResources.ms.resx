@@ -1341,7 +1341,7 @@
     <value>Teruk</value>
     <comment>Severe</comment>
   </data>
-  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+  <data name="Settings.ClearCacheSceneryAlert.Message" xml:space="preserve">
     <value>Adakah anda pasti mahu mengosongkan cache pemandangan?</value>
     <comment>Are you sure you want to clear the scenery cache?</comment>
   </data>

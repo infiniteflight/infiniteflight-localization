@@ -1341,7 +1341,7 @@
     <value>Erős</value>
     <comment>Severe</comment>
   </data>
-  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+  <data name="Settings.ClearCacheSceneryAlert.Message" xml:space="preserve">
     <value>Biztosan törlöd a helyi tárhelyen tárolt térképadatokat?</value>
     <comment>Are you sure you want to clear the scenery cache?</comment>
   </data>

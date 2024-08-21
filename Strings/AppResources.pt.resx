@@ -1017,7 +1017,7 @@
   <data name="Settings.Account.ViewStats" xml:space="preserve">
     <value>Ver Estatísticas</value>
   </data>
-  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+  <data name="Settings.ClearCacheSceneryAlert.Message" xml:space="preserve">
     <value>Tem certeza de que deseja limpar o cache de cenário?</value>
   </data>
   <data name="Settings.Controls" xml:space="preserve">
