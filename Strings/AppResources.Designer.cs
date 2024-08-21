@@ -4919,11 +4919,20 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Are you sure you want to clear the scenery cache?.
+        ///   Looks up a localized string similar to Are you sure you want to clear the cache?.
         /// </summary>
         internal static string Settings_ClearCacheAlert_Message {
             get {
                 return ResourceManager.GetString("Settings.ClearCacheAlert.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to clear the scenery cache?.
+        /// </summary>
+        internal static string Settings_ClearCacheSceneryAlert_Message {
+            get {
+                return ResourceManager.GetString("Settings.ClearCacheSceneryAlert.Message", resourceCulture);
             }
         }
         
@@ -5314,6 +5323,24 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Settings_General_ClearCache {
             get {
                 return ResourceManager.GetString("Settings.General.ClearCache", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Clear data cached on local storage.
+        /// </summary>
+        internal static string Settings_General_ClearCache_Subtitle {
+            get {
+                return ResourceManager.GetString("Settings.General.ClearCache.Subtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Clear Cache.
+        /// </summary>
+        internal static string Settings_General_ClearCache_Title {
+            get {
+                return ResourceManager.GetString("Settings.General.ClearCache.Title", resourceCulture);
             }
         }
         

@@ -765,7 +765,7 @@
     <value>Ver Estadísticas</value>
     <comment>View Stats</comment>
   </data>
-  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+  <data name="Settings.ClearCacheSceneryAlert.Message" xml:space="preserve">
     <value>¿Estás seguro/a que quieres borrar el caché?</value>
     <comment>Are you sure you want to clear the scenery cache?</comment>
   </data>

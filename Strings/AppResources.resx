@@ -495,6 +495,14 @@ Click on the \"Send Log\" button, thanks!</comment>
     <value>Clear Scenery Cache</value>
     <comment>Clear Scenery Cache</comment>
   </data>
+  <data name="Settings.General.ClearCache.Subtitle" xml:space="preserve">
+    <value>Clear data cached on local storage</value>
+  <comment>Clear data cached on local storage</comment>
+  </data>
+  <data name="Settings.General.ClearCache.Title" xml:space="preserve">
+    <value>Clear Cache</value>
+  <comment>Clear Cache</comment>
+  </data>
   <data name="Settings.General.Connect.Subtitle" xml:space="preserve">
     <value>Enable Infinite Flight Connect API System (Experimental)</value>
     <comment>Enable Infinite Flight Connect API System (Experimental)</comment>
@@ -1344,9 +1352,13 @@ We recommend keeping this setting to 30fps.</comment>
     <value>Severe</value>
     <comment>Severe</comment>
   </data>
-  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+  <data name="Settings.ClearCacheSceneryAlert.Message" xml:space="preserve">
     <value>Are you sure you want to clear the scenery cache?</value>
     <comment>Are you sure you want to clear the scenery cache?</comment>
+  </data>
+  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+    <value>Are you sure you want to clear the cache?</value>
+    <comment>Are you sure you want to clear the cache?</comment>
   </data>
   <data name="Settings.DisabledInFlight" xml:space="preserve">
     <value>can't be changed while in-flight</value>
