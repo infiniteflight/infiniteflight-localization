@@ -1864,6 +1864,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to delete all altitudes?.
+        /// </summary>
+        internal static string FlightPlanControl_DeleteAllAltitudesConfirmation {
+            get {
+                return ResourceManager.GetString("FlightPlanControl.DeleteAllAltitudesConfirmation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Load From SimBrief.
         /// </summary>
         internal static string FlightPlanControl_LoadFromSimBrief {
@@ -1873,11 +1882,29 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to There is no flight plan to share..
+        /// </summary>
+        internal static string FlightPlanControl_NoFlightPlanShare {
+            get {
+                return ResourceManager.GetString("FlightPlanControl.NoFlightPlanShare", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Open Flight Plan.
         /// </summary>
         internal static string FlightPlanControl_OpenFlightPlan {
             get {
                 return ResourceManager.GetString("FlightPlanControl.OpenFlightPlan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This feature requires an Infinite Flight Pro subscription..
+        /// </summary>
+        internal static string FlightPlanControl_ProRequiredGenericMessage {
+            get {
+                return ResourceManager.GetString("FlightPlanControl.ProRequiredGenericMessage", resourceCulture);
             }
         }
         
@@ -2494,6 +2521,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CHECKING SCENARIO.
+        /// </summary>
+        internal static string GameSelectionScenarioCheckerControl_CheckingScenarioUpper {
+            get {
+                return ResourceManager.GetString("GameSelectionScenarioCheckerControl.CheckingScenarioUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scenario is unavailable in the selected world..
+        /// </summary>
+        internal static string GameSelectionScenarioCheckerControl_ScenarioUnavailableInWorld {
+            get {
+                return ResourceManager.GetString("GameSelectionScenarioCheckerControl.ScenarioUnavailableInWorld", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to NO SCENARIOS FOUND.
         /// </summary>
         internal static string GameSelectionScenariosControl_NoScenariosFoundUpper {
@@ -2724,6 +2769,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Global_InFlight {
             get {
                 return ResourceManager.GetString("Global.InFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Link.
+        /// </summary>
+        internal static string Global_Link {
+            get {
+                return ResourceManager.GetString("Global.Link", resourceCulture);
             }
         }
         

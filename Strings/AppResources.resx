@@ -497,11 +497,11 @@ Click on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.General.ClearCache.Subtitle" xml:space="preserve">
     <value>Clear data cached on local storage</value>
-  <comment>Clear data cached on local storage</comment>
+    <comment>Clear data cached on local storage</comment>
   </data>
   <data name="Settings.General.ClearCache.Title" xml:space="preserve">
     <value>Clear Cache</value>
-  <comment>Clear Cache</comment>
+    <comment>Clear Cache</comment>
   </data>
   <data name="Settings.General.Connect.Subtitle" xml:space="preserve">
     <value>Enable Infinite Flight Connect API System (Experimental)</value>
@@ -3778,5 +3778,29 @@ Are you sure you want to delete the account?</value>
   <data name="FlightPlanControl.Share" xml:space="preserve">
     <value>Share</value>
     <comment>Share</comment>
+  </data>
+  <data name="GameSelectionScenarioCheckerControl.ScenarioUnavailableInWorld" xml:space="preserve">
+    <value>Scenario is unavailable in the selected world.</value>
+    <comment>Scenario is unavailable in the selected world.</comment>
+  </data>
+  <data name="GameSelectionScenarioCheckerControl.CheckingScenarioUpper" xml:space="preserve">
+    <value>CHECKING SCENARIO</value>
+    <comment>CHECKING SCENARIO</comment>
+  </data>
+  <data name="FlightPlanControl.ProRequiredGenericMessage" xml:space="preserve">
+    <value>This feature requires an Infinite Flight Pro subscription.</value>
+    <comment>This feature requires an Infinite Flight Pro subscription.</comment>
+  </data>
+  <data name="Global.Link" xml:space="preserve">
+    <value>Link</value>
+    <comment>Link</comment>
+  </data>
+  <data name="FlightPlanControl.DeleteAllAltitudesConfirmation" xml:space="preserve">
+    <value>Are you sure you want to delete all altitudes?</value>
+    <comment>Are you sure you want to delete all altitudes?</comment>
+  </data>
+  <data name="FlightPlanControl.NoFlightPlanShare" xml:space="preserve">
+    <value>There is no flight plan to share.</value>
+    <comment>There is no flight plan to share.</comment>
   </data>
 </root>
