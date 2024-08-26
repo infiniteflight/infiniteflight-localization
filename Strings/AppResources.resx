@@ -3700,7 +3700,7 @@ Are you sure you want to delete the account?</value>
     <comment>LINK</comment>
   </data>
   <data name="SocialNetworkControl.JoinDiscordServerMessage" xml:space="preserve">
-    <value>Would you like to join the official Infinite Flight discord server?</value>
+    <value>Would you like to join the official Infinite Flight Discord server?</value>
     <comment>Would you like to join the official Infinite Flight discord server?</comment>
   </data>
   <data name="SocialNetworkControl.EnterConfirmation" xml:space="preserve">

@@ -3006,4 +3006,187 @@ REPLAYS</value>
   <data name="UserAccount.DeleteAccountConfirmationTextToType" xml:space="preserve">
     <value>DELETE</value>
   </data>
+  <data name="Settings.General.ClearCache.Title" xml:space="preserve">
+    <value>Limpiar Caché</value>
+  </data>
+  <data name="Settings.General.ClearCache.Subtitle" xml:space="preserve">
+    <value>Limpiar caché en almacenamiento local</value>
+  </data>
+  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+    <value>¿Estás seguro de que quieres limpiar la caché?</value>
+  </data>
+  <data name="LogbookControl.EntriesUpper" xml:space="preserve">
+    <value>ENTRADAS</value>
+  </data>
+  <data name="LogbookControl.FailedRetrieveStartingAirport" xml:space="preserve">
+    <value>No se pudo obtener el aeropuerto de partida</value>
+  </data>
+  <data name="LogbookControl.FailedToRetrieveReplay" xml:space="preserve">
+    <value>No se pudo obtener el replay</value>
+  </data>
+  <data name="LogbookControl.NoLogbookEntrySelected" xml:space="preserve">
+    <value>No se ha seleccionado ninguna entrada</value>
+  </data>
+  <data name="LogbookControl.NoReplayLinkedLogbookEntry" xml:space="preserve">
+    <value>No hay replay enlazado con la entrada</value>
+  </data>
+  <data name="Error.AircraftLimitReached" xml:space="preserve">
+    <value>Limite de Aviones Alcanzado</value>
+  </data>
+  <data name="Error.InsufficientStorage" xml:space="preserve">
+    <value>Tu dispositivo tiene poco espacio de almacenamiento. Por favor, libera espacio e inténtalo de nuevo.</value>
+  </data>
+  <data name="Error.SimbriefApiScopeMissing" xml:space="preserve">
+    <value>Tu cuenta de Navigraph está vinculada, pero no tiene permiso para SimBrief. Inicia sesión de nuevo y asegúrate de que SimBrief esté marcado</value>
+  </data>
+  <data name="Global.UpdatedTimeFormat" xml:space="preserve">
+    <value>Actualizado {0}</value>
+  </data>
+  <data name="FlightScenarioControl.FailedToLoadScenario" xml:space="preserve">
+    <value>No se pudo cargar el scenario ({0})</value>
+  </data>
+  <data name="FlightMenu.FreeFlight" xml:space="preserve">
+    <value>Vuelo Libre</value>
+  </data>
+  <data name="GameWaitCanvas.StartUpper" xml:space="preserve">
+    <value>EMPEZAR</value>
+  </data>
+  <data name="GameSelectionModalControl.GradeIsTooLowCloseError" xml:space="preserve">
+    <value>Tu grado es demasiado bajo para {0}</value>
+  </data>
+  <data name="AtcInfoControl.AtcOperations" xml:space="preserve">
+    <value>Operaciones</value>
+  </data>
+  <data name="AtcInfoControl.AtcRank" xml:space="preserve">
+    <value>Rango</value>
+  </data>
+  <data name="FlightInfoControl.OnlineFlights" xml:space="preserve">
+    <value>Vuelos Online</value>
+  </data>
+  <data name="GeneralInfoControl.MemberSince" xml:space="preserve">
+    <value>Miembro Desde</value>
+  </data>
+  <data name="GeneralInfoControl.OnlineInSessionsCountUpper" xml:space="preserve">
+    <value>ONLINE EN {0} SESSIONES</value>
+  </data>
+  <data name="GeneralInfoControl.OnlineUpper" xml:space="preserve">
+    <value>ONLINE</value>
+  </data>
+  <data name="SocialNetworkControl.Follow" xml:space="preserve">
+    <value>Seguir</value>
+  </data>
+  <data name="SocialNetworkControl.FollowBack" xml:space="preserve">
+    <value>Seguir de vuelta</value>
+  </data>
+  <data name="SocialNetworkControl.Unfollow" xml:space="preserve">
+    <value>Dejar de seguir</value>
+  </data>
+  <data name="SocialNetworkProfileCardControl.FollowersCount" xml:space="preserve">
+    <value>{0} seguidores</value>
+  </data>
+  <data name="SocialNetworkProfileCardControl.FollowingCount" xml:space="preserve">
+    <value>{0} siguiendo</value>
+  </data>
+  <data name="SocialNetworkProfileCardControl.ModeratorUpper" xml:space="preserve">
+    <value>MODERADOR</value>
+  </data>
+  <data name="SocialNetworkProfileCardControl.StaffUpper" xml:space="preserve">
+    <value>STAFF</value>
+  </data>
+  <data name="SocialNetworkSearchUsersListControl.NoUsersFound" xml:space="preserve">
+    <value>No se encontraron usuarios</value>
+  </data>
+  <data name="SocialNetworkSummaryFailedControl.FailedToLoadUsersProfile" xml:space="preserve">
+    <value>No se pudo cargar el perfil del usuario.</value>
+  </data>
+  <data name="SocialNetworkSummaryFailedControl.ProfileNotFound" xml:space="preserve">
+    <value>Perfil No Encontrado</value>
+  </data>
+  <data name="UserActiveSessionsControl.AtcActiveOnWorld" xml:space="preserve">
+    <value>Activo en {0}</value>
+  </data>
+  <data name="SocialNetworkControl.SearchUsers" xml:space="preserve">
+    <value>Buscar Usuarios</value>
+  </data>
+  <data name="SocialNetworkControl.LinkUpper" xml:space="preserve">
+    <value>VINCULAR</value>
+  </data>
+  <data name="SocialNetworkControl.JoinDiscordServerMessage" xml:space="preserve">
+    <value>¿Quieres unirte al servidor oficial de Discord de Infinite Flight?</value>
+  </data>
+  <data name="SocialNetworkControl.EnterConfirmation" xml:space="preserve">
+    <value>Introduce la confirmación</value>
+  </data>
+  <data name="SocialNetworkDeleteAccountLoadingModal.DeletingAccountUpper" xml:space="preserve">
+    <value>BORRANDO CUENTA</value>
+  </data>
+  <data name="SocialNetworkSettingsLinkCommunityControl.OpenForum" xml:space="preserve">
+    <value>Abrir Foro</value>
+  </data>
+  <data name="SocialNetworkSettingsLinkCommunityControl.UnlinkError" xml:space="preserve">
+    <value>No hay cuenta de la comunidad enlazada</value>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.ConnectionsUpper" xml:space="preserve">
+    <value>CONEXIONES</value>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.SimBriefDescription" xml:space="preserve">
+    <value>Vincula tu cuenta de Navigraph para acceder a tus planes de vuelo de SimBrief</value>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.SimBriefTitle" xml:space="preserve">
+    <value>Cuenta de Navigraph (SimBrief)</value>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.UnlinkedUpper" xml:space="preserve">
+    <value>NO VINCULADA</value>
+  </data>
+  <data name="SocialNetworkSettingsLinkDiscordControl.UnlinkError" xml:space="preserve">
+    <value>No hay cuenta de Discord enlazada</value>
+  </data>
+  <data name="SocialNetworkSettingsLinkSimbriefControl.OpenSimBrief" xml:space="preserve">
+    <value>Abrir SimBrief</value>
+  </data>
+  <data name="SocialNetworkSettingsLinkSimbriefControl.UnlinkError" xml:space="preserve">
+    <value>No hay cuenta de Navigraph enlazada</value>
+  </data>
+  <data name="SocialNetworkSettingsMiscControl.MiscUpper" xml:space="preserve">
+    <value>VARIOS</value>
+  </data>
+  <data name="FlightPlanControl.LoadFromSimBrief" xml:space="preserve">
+    <value>Cargar de SimBrief</value>
+  </data>
+  <data name="FlightPlanControl.OpenFlightPlan" xml:space="preserve">
+    <value>Abrir Plan de Vuelo</value>
+  </data>
+  <data name="FlightPlanControl.ResetAllAltitudes" xml:space="preserve">
+    <value>Eliminar Todas Altitudes</value>
+  </data>
+  <data name="FlightPlanControl.ResetAltitude" xml:space="preserve">
+    <value>Eliminar Altitud</value>
+  </data>
+  <data name="FlightPlanControl.SetAltitude" xml:space="preserve">
+    <value>Establecer Altitud</value>
+  </data>
+  <data name="FlightPlanControl.SetAutopilotAlt" xml:space="preserve">
+    <value>Establecer Altitud Autopiloto</value>
+  </data>
+  <data name="FlightPlanControl.Share" xml:space="preserve">
+    <value>Compartir</value>
+  </data>
+  <data name="GameSelectionScenarioCheckerControl.ScenarioUnavailableInWorld" xml:space="preserve">
+    <value>El escenario no está disponible en el mundo seleccionado.</value>
+  </data>
+  <data name="GameSelectionScenarioCheckerControl.CheckingScenarioUpper" xml:space="preserve">
+    <value>COMPROBANDO SCENARIO</value>
+  </data>
+  <data name="Global.Link" xml:space="preserve">
+    <value>Enlazar</value>
+  </data>
+  <data name="FlightPlanControl.ProRequiredGenericMessage" xml:space="preserve">
+    <value>Esta función requiere una suscripción a Infinite Flight Pro.</value>
+  </data>
+  <data name="FlightPlanControl.DeleteAllAltitudesConfirmation" xml:space="preserve">
+    <value>¿Estás seguro de que quieres eliminar todas las altitudes?</value>
+  </data>
+  <data name="FlightPlanControl.NoFlightPlanShare" xml:space="preserve">
+    <value>No hay un plan de vuelo para compartir.</value>
+  </data>
 </root>
