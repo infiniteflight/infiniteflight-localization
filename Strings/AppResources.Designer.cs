@@ -2044,6 +2044,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Scenario is set to an unknown world.
+        /// </summary>
+        internal static string FlightScenarioControl_ScenarioUnknownWorld {
+            get {
+                return ResourceManager.GetString("FlightScenarioControl.ScenarioUnknownWorld", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to AIRCRAFT.
         /// </summary>
         internal static string FlightSchoolControl_AircraftUpper {
@@ -6245,7 +6254,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Would you like to join the official Infinite Flight discord server?.
+        ///   Looks up a localized string similar to Would you like to join the official Infinite Flight Discord server?.
         /// </summary>
         internal static string SocialNetworkControl_JoinDiscordServerMessage {
             get {
