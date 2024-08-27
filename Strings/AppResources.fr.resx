@@ -3058,4 +3058,8 @@ Confirmez-vous la suppression du compte ?</value>
     <value>Rechercher des utilisateurs</value>
     <comment>Search Users</comment>
   </data>
+  <data name="FlightScenarioControl.ScenarioUnknownWorld" xml:space="preserve">
+    <value>Le scénario est défini dans un monde inconnu</value>
+    <comment>Scenario is set to an unknown world</comment>
+  </data>
 </root>

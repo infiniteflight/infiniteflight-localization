@@ -3803,4 +3803,8 @@ Are you sure you want to delete the account?</value>
     <value>There is no flight plan to share.</value>
     <comment>There is no flight plan to share.</comment>
   </data>
+  <data name="FlightScenarioControl.ScenarioUnknownWorld" xml:space="preserve">
+    <value>Scenario is set to an unknown world</value>
+    <comment>Scenario is set to an unknown world</comment>
+  </data>
 </root>
