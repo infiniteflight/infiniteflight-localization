@@ -182,7 +182,7 @@
     <comment>Replays</comment>
   </data>
   <data name="IntroPage.SceneryEditor" xml:space="preserve">
-    <value>地景编辑器</value>
+    <value>地景编辑</value>
     <comment>Scenery Editor</comment>
   </data>
   <data name="LiveMapControl.LiveData" xml:space="preserve">
@@ -1578,11 +1578,11 @@
     <comment>No results for "{0}"</comment>
   </data>
   <data name="ItemSearchControl.SearchAirports" xml:space="preserve">
-    <value>搜索机场</value>
+    <value>搜索机场...</value>
     <comment>Search airports</comment>
   </data>
   <data name="ItemSearchControl.SearchAirportsAndWaypoints" xml:space="preserve">
-    <value>搜索机场/航路点</value>
+    <value>搜索机场/航路点...</value>
     <comment>Search airports/waypoints</comment>
   </data>
   <data name="LocationPage.NoAvailableStartLocations" xml:space="preserve">
@@ -3462,5 +3462,238 @@ REPLAYS</comment>
   <data name="UserAccount.DeleteAccountConfirmationTextToType" xml:space="preserve">
     <value>删除我的账号</value>
     <comment>User needs to type this to confirm they want their account deleted</comment>
+  </data>
+ <data name="LogbookControl.EntriesUpper" xml:space="preserve">
+    <value>飞行记录</value>
+    <comment>ENTRIES</comment>
+  </data>
+  <data name="LogbookControl.FailedRetrieveStartingAirport" xml:space="preserve">
+    <value>获取出发机场时出错</value>
+    <comment>Failed to retrieve the starting airport</comment>
+  </data>
+  <data name="LogbookControl.FailedToRetrieveReplay" xml:space="preserve">
+    <value>获取回放时出错</value>
+    <comment>Failed to retrieve replay</comment>
+  </data>
+  <data name="LogbookControl.NoLogbookEntrySelected" xml:space="preserve">
+    <value>未选中记录条目</value>
+    <comment>No logbook entry selected</comment>
+  </data>
+  <data name="LogbookControl.NoReplayLinkedLogbookEntry" xml:space="preserve">
+    <value>该记录条目没有对应回放</value>
+    <comment>No replay linked to logbook entry</comment>
+  </data>
+  <data name="Error.AircraftLimitReached" xml:space="preserve">
+    <value>Aircraft Limit Reached</value>
+  </data>
+  <data name="Error.InsufficientStorage" xml:space="preserve">
+    <value>你的设备剩余存储空间不足，请清理存储空间后重试。</value>
+  </data>
+  <data name="Error.SimbriefApiScopeMissing" xml:space="preserve">
+    <value>你的Navigraph账号已绑定，但是没有授予Simbrief许可。请重新登录并确保"Simbrief"处于勾选状态。</value>
+  </data>
+  <data name="Global.UpdatedTimeFormat" xml:space="preserve">
+    <value>更新于 {0}</value>
+    <comment>Updated {0}</comment>
+  </data>
+  <data name="FlightScenarioControl.FailedToLoadScenario" xml:space="preserve">
+    <value>加载情景时出错 ({0})</value>
+    <comment>Failed to load scenario ({0})</comment>
+  </data>
+  <data name="FlightMenu.FreeFlight" xml:space="preserve">
+    <value>自由飞行</value>
+    <comment>Free Flight</comment>
+  </data>
+  <data name="GameWaitCanvas.StartUpper" xml:space="preserve">
+    <value>开始飞行！</value>
+    <comment>START</comment>
+  </data>
+  <data name="GameSelectionModalControl.GradeIsTooLowCloseError" xml:space="preserve">
+    <value>你的等级太低，无法进入{0}</value>
+    <comment>Your grade is too low for {0}</comment>
+  </data>
+  <data name="AtcInfoControl.AtcOperations" xml:space="preserve">
+    <value>有效指令数</value>
+    <comment>Operations</comment>
+  </data>
+  <data name="AtcInfoControl.AtcRank" xml:space="preserve">
+    <value>等级</value>
+    <comment>Rank</comment>
+  </data>
+  <data name="FlightInfoControl.OnlineFlights" xml:space="preserve">
+    <value>连线飞行数</value>
+    <comment>Online Flights</comment>
+  </data>
+  <data name="GeneralInfoControl.MemberSince" xml:space="preserve">
+    <value>注册时间</value>
+    <comment>Member Since</comment>
+  </data>
+  <data name="GeneralInfoControl.OnlineInSessionsCountUpper" xml:space="preserve">
+    <value>正在同时进行{0}个飞行</value>
+    <comment>ONLINE IN {0} SESSIONS</comment>
+  </data>
+  <data name="GeneralInfoControl.OnlineUpper" xml:space="preserve">
+    <value>在线</value>
+    <comment>ONLINE</comment>
+  </data>
+  <data name="SocialNetworkControl.Follow" xml:space="preserve">
+    <value>关注</value>
+    <comment>Follow</comment>
+  </data>
+  <data name="SocialNetworkControl.FollowBack" xml:space="preserve">
+    <value>回关</value>
+    <comment>Follow Back</comment>
+  </data>
+  <data name="SocialNetworkControl.Unfollow" xml:space="preserve">
+    <value>取消关注</value>
+    <comment>Unfollow</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.FollowersCount" xml:space="preserve">
+    <value>{0}个粉丝</value>
+    <comment>{0} followers</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.FollowingCount" xml:space="preserve">
+    <value>已关注{0}人</value>
+    <comment>{0} following</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.ModeratorUpper" xml:space="preserve">
+    <value>社区版主</value>
+    <comment>MODERATOR</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.StaffUpper" xml:space="preserve">
+    <value>官方成员</value>
+    <comment>STAFF</comment>
+  </data>
+  <data name="SocialNetworkSearchUsersListControl.NoUsersFound" xml:space="preserve">
+    <value>未找到用户</value>
+    <comment>No Users Found</comment>
+  </data>
+  <data name="SocialNetworkSummaryFailedControl.FailedToLoadUsersProfile" xml:space="preserve">
+    <value>加载用户名片时出错</value>
+    <comment>Failed to load the user's profile.</comment>
+  </data>
+  <data name="SocialNetworkSummaryFailedControl.ProfileNotFound" xml:space="preserve">
+    <value>未找到名片</value>
+    <comment>Profile Not Found</comment>
+  </data>
+  <data name="UserActiveSessionsControl.AtcActiveOnWorld" xml:space="preserve">
+    <value>正在 {0} 担当管制</value>
+    <comment>Active on {0}</comment>
+  </data>
+  <data name="SocialNetworkControl.SearchUsers" xml:space="preserve">
+    <value>搜索用户...</value>
+    <comment>Search Users</comment>
+  </data>
+  <data name="SocialNetworkControl.LinkUpper" xml:space="preserve">
+    <value>绑定</value>
+    <comment>LINK</comment>
+  </data>
+  <data name="SocialNetworkControl.JoinDiscordServerMessage" xml:space="preserve">
+    <value>你想加入Infinite Flight官方的Discord服务器吗？</value>
+    <comment>Would you like to join the official Infinite Flight discord server?</comment>
+  </data>
+  <data name="SocialNetworkControl.EnterConfirmation" xml:space="preserve">
+    <value>输入“删除我的账号”</value>
+    <comment>Enter Confirmation</comment>
+  </data>
+  <data name="SocialNetworkDeleteAccountLoadingModal.DeletingAccountUpper" xml:space="preserve">
+    <value>删除账号</value>
+    <comment>DELETING ACCOUNT</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkCommunityControl.OpenForum" xml:space="preserve">
+    <value>打开论坛</value>
+    <comment>Open Forum</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkCommunityControl.UnlinkError" xml:space="preserve">
+    <value>未找到绑定的社区账号</value>
+    <comment>No linked community account was found</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.ConnectionsUpper" xml:space="preserve">
+    <value>账号绑定</value>
+    <comment>CONNECTIONS</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.SimBriefDescription" xml:space="preserve">
+    <value>绑定你的Navigraph账号，即可获取你在Simbrief上生成的飞行计划</value>
+    <comment>Link your Navigraph account to access your SimBrief Flight Plans</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.SimBriefTitle" xml:space="preserve">
+    <value>Navigraph (SimBrief) 账号</value>
+    <comment>Navigraph (SimBrief) Account</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.UnlinkedUpper" xml:space="preserve">
+    <value>未绑定</value>
+    <comment>UNLINKED</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkDiscordControl.UnlinkError" xml:space="preserve">
+    <value>未找到绑定的Discord账号</value>
+    <comment>No linked discord account was found</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkSimbriefControl.OpenSimBrief" xml:space="preserve">
+    <value>转到SimBrief</value>
+    <comment>Open SimBrief</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkSimbriefControl.UnlinkError" xml:space="preserve">
+    <value>未找到绑定的Navigraph账号</value>
+    <comment>No linked Navigraph account was found</comment>
+  </data>
+  <data name="SocialNetworkSettingsMiscControl.MiscUpper" xml:space="preserve">
+    <value>其他选项</value>
+    <comment>MISCELLANEOUS</comment>
+  </data>
+  <data name="FlightPlanControl.LoadFromSimBrief" xml:space="preserve">
+    <value>从Simbrief中导入</value>
+    <comment>Load From SimBrief</comment>
+  </data>
+  <data name="FlightPlanControl.OpenFlightPlan" xml:space="preserve">
+    <value>打开飞行计划</value>
+    <comment>Open Flight Plan</comment>
+  </data>
+  <data name="FlightPlanControl.ResetAllAltitudes" xml:space="preserve">
+    <value>删除所有航点高度</value>
+    <comment>Reset All Altitudes</comment>
+  </data>
+  <data name="FlightPlanControl.ResetAltitude" xml:space="preserve">
+    <value>删除航点高度</value>
+    <comment>Reset Altitude</comment>
+  </data>
+  <data name="FlightPlanControl.SetAltitude" xml:space="preserve">
+    <value>设置航点高度</value>
+    <comment>Set Altitude</comment>
+  </data>
+  <data name="FlightPlanControl.SetAutopilotAlt" xml:space="preserve">
+    <value>设为自动驾驶高度</value>
+    <comment>Set Autopilot ALT</comment>
+  </data>
+  <data name="FlightPlanControl.Share" xml:space="preserve">
+    <value>分享</value>
+    <comment>Share</comment>
+  </data>
+  <data name="GameSelectionScenarioCheckerControl.ScenarioUnavailableInWorld" xml:space="preserve">
+    <value>该模式下此情景不可用</value>
+    <comment>Scenario is unavailable in the selected world.</comment>
+  </data>
+  <data name="GameSelectionScenarioCheckerControl.CheckingScenarioUpper" xml:space="preserve">
+    <value>检查情景中</value>
+    <comment>CHECKING SCENARIO</comment>
+  </data>
+  <data name="FlightPlanControl.ProRequiredGenericMessage" xml:space="preserve">
+    <value>该内容需要Infinite Flight Pro订阅</value>
+    <comment>This feature requires an Infinite Flight Pro subscription.</comment>
+  </data>
+  <data name="Global.Link" xml:space="preserve">
+    <value>绑定</value>
+    <comment>Link</comment>
+  </data>
+  <data name="FlightPlanControl.DeleteAllAltitudesConfirmation" xml:space="preserve">
+    <value>确定删除所有航点高度？</value>
+    <comment>Are you sure you want to delete all altitudes?</comment>
+  </data>
+  <data name="FlightPlanControl.NoFlightPlanShare" xml:space="preserve">
+    <value>当前没有飞行计划可供分享。</value>
+    <comment>There is no flight plan to share.</comment>
+  </data>
+  <data name="FlightScenarioControl.ScenarioUnknownWorld" xml:space="preserve">
+    <value>情景被设置在未知的模式中</value>
+    <comment>Scenario is set to an unknown world</comment>
   </data>
 </root>
