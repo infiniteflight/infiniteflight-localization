@@ -3443,4 +3443,237 @@ REPLAYS</comment>
     <value>DELETE</value>
     <comment>User needs to type this to confirm they want their account deleted</comment>
   </data>
+  <data name="LogbookControl.EntriesUpper" xml:space="preserve">
+    <value>ЗАПИСИ</value>
+    <comment>ENTRIES</comment>
+  </data>
+  <data name="LogbookControl.FailedRetrieveStartingAirport" xml:space="preserve">
+    <value>Неуспешно извличане на началното летище</value>
+    <comment>Failed to retrieve the starting airport</comment>
+  </data>
+  <data name="LogbookControl.FailedToRetrieveReplay" xml:space="preserve">
+    <value>Неуспешно извличане на записа</value>
+    <comment>Failed to retrieve replay</comment>
+  </data>
+  <data name="LogbookControl.NoLogbookEntrySelected" xml:space="preserve">
+    <value>Не е избран запис от дневника</value>
+    <comment>No logbook entry selected</comment>
+  </data>
+  <data name="LogbookControl.NoReplayLinkedLogbookEntry" xml:space="preserve">
+    <value>Няма запис, свързан с този запис от дневника</value>
+    <comment>No replay linked to logbook entry</comment>
+  </data>
+  <data name="Error.AircraftLimitReached" xml:space="preserve">
+    <value>достигнат лимит на самолети</value>
+  </data>
+  <data name="Error.InsufficientStorage" xml:space="preserve">
+    <value>Устройството Ви няма достатъчно свободно пространство в хранилището. Моля, освободете място и опитайте отново.</value>
+  </data>
+  <data name="Error.SimbriefApiScopeMissing" xml:space="preserve">
+    <value>Акаунтът Ви в Navigraph е свързан, но няма достъп до SimBrief. Влезте в акаунта си отново и се уверете, че имате достъп до SimBrief</value>
+  </data>
+  <data name="Global.UpdatedTimeFormat" xml:space="preserve">
+    <value>Обновен {0}</value>
+    <comment>Updated {0}</comment>
+  </data>
+  <data name="FlightScenarioControl.FailedToLoadScenario" xml:space="preserve">
+    <value>Неуспешно зареждане на сценарий ({0})</value>
+    <comment>Failed to load scenario ({0})</comment>
+  </data>
+  <data name="FlightMenu.FreeFlight" xml:space="preserve">
+    <value>Свободен полет</value>
+    <comment>Free Flight</comment>
+  </data>
+  <data name="GameWaitCanvas.StartUpper" xml:space="preserve">
+    <value>СТАРТ</value>
+    <comment>START</comment>
+  </data>
+  <data name="GameSelectionModalControl.GradeIsTooLowCloseError" xml:space="preserve">
+    <value>Вашият ранг е прекалено нисък за {0}</value>
+    <comment>Your grade is too low for {0}</comment>
+  </data>
+  <data name="AtcInfoControl.AtcOperations" xml:space="preserve">
+    <value>Операции</value>
+    <comment>Operations</comment>
+  </data>
+  <data name="AtcInfoControl.AtcRank" xml:space="preserve">
+    <value>Ранк</value>
+    <comment>Rank</comment>
+  </data>
+  <data name="FlightInfoControl.OnlineFlights" xml:space="preserve">
+    <value>Онлайн полети</value>
+    <comment>Online Flights</comment>
+  </data>
+  <data name="GeneralInfoControl.MemberSince" xml:space="preserve">
+    <value>Член от</value>
+    <comment>Member Since</comment>
+  </data>
+  <data name="GeneralInfoControl.OnlineInSessionsCountUpper" xml:space="preserve">
+    <value>ОНЛАЙН В {0} СЕСИИ</value>
+    <comment>ONLINE IN {0} SESSIONS</comment>
+  </data>
+  <data name="GeneralInfoControl.OnlineUpper" xml:space="preserve">
+    <value>ОНЛАЙН</value>
+    <comment>ONLINE</comment>
+  </data>
+  <data name="SocialNetworkControl.Follow" xml:space="preserve">
+    <value>Последване</value>
+    <comment>Follow</comment>
+  </data>
+  <data name="SocialNetworkControl.FollowBack" xml:space="preserve">
+    <value>Обратно последване</value>
+    <comment>Follow Back</comment>
+  </data>
+  <data name="SocialNetworkControl.Unfollow" xml:space="preserve">
+    <value>Спиране на следването</value>
+    <comment>Unfollow</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.FollowersCount" xml:space="preserve">
+    <value>{0} последователи</value>
+    <comment>{0} followers</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.FollowingCount" xml:space="preserve">
+    <value>{0} последвани</value>
+    <comment>{0} following</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.ModeratorUpper" xml:space="preserve">
+    <value>МОДЕРАТОР</value>
+    <comment>MODERATOR</comment>
+  </data>
+  <data name="SocialNetworkProfileCardControl.StaffUpper" xml:space="preserve">
+    <value>ПЕРСОНАЛ</value>
+    <comment>STAFF</comment>
+  </data>
+  <data name="SocialNetworkSearchUsersListControl.NoUsersFound" xml:space="preserve">
+    <value>Няма намерени потребители</value>
+    <comment>No Users Found</comment>
+  </data>
+  <data name="SocialNetworkSummaryFailedControl.FailedToLoadUsersProfile" xml:space="preserve">
+    <value>Неуспешно зареждане на профила на този потребител.</value>
+    <comment>Failed to load the user's profile.</comment>
+  </data>
+  <data name="SocialNetworkSummaryFailedControl.ProfileNotFound" xml:space="preserve">
+    <value>Профилът не е намерен</value>
+    <comment>Profile Not Found</comment>
+  </data>
+  <data name="UserActiveSessionsControl.AtcActiveOnWorld" xml:space="preserve">
+    <value>Активен на {0}</value>
+    <comment>Active on {0}</comment>
+  </data>
+  <data name="SocialNetworkControl.SearchUsers" xml:space="preserve">
+    <value>Търсене на потребители</value>
+    <comment>Search Users</comment>
+  </data>
+  <data name="SocialNetworkControl.LinkUpper" xml:space="preserve">
+    <value>СВРЪЗВАНЕ</value>
+    <comment>LINK</comment>
+  </data>
+  <data name="SocialNetworkControl.JoinDiscordServerMessage" xml:space="preserve">
+    <value>Желаете ли да се присъедините към официалния Discord сървър на Infinite Flight?</value>
+    <comment>Would you like to join the official Infinite Flight discord server?</comment>
+  </data>
+  <data name="SocialNetworkControl.EnterConfirmation" xml:space="preserve">
+    <value>Въведете потвърждение</value>
+    <comment>Enter Confirmation</comment>
+  </data>
+  <data name="SocialNetworkDeleteAccountLoadingModal.DeletingAccountUpper" xml:space="preserve">
+    <value>ИЗТРИВАНЕ НА АКАУНТ</value>
+    <comment>DELETING ACCOUNT</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkCommunityControl.OpenForum" xml:space="preserve">
+    <value>Отвори форума</value>
+    <comment>Open Forum</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkCommunityControl.UnlinkError" xml:space="preserve">
+    <value>Не е намерен свързан профил във форума</value>
+    <comment>No linked community account was found</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.ConnectionsUpper" xml:space="preserve">
+    <value>ВРЪЗКИ</value>
+    <comment>CONNECTIONS</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.SimBriefDescription" xml:space="preserve">
+    <value>Свържете своя Navigraph акаунт, за да получите достъп до своите полетни планове в SimBrief</value>
+    <comment>Link your Navigraph account to access your SimBrief Flight Plans</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.SimBriefTitle" xml:space="preserve">
+    <value>Navigraph (SimBrief) акаунт</value>
+    <comment>Navigraph (SimBrief) Account</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkControl.UnlinkedUpper" xml:space="preserve">
+    <value>НЕСВЪРЗАН</value>
+    <comment>UNLINKED</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkDiscordControl.UnlinkError" xml:space="preserve">
+    <value>Не е намерен свързан профил в Discord</value>
+    <comment>No linked discord account was found</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkSimbriefControl.OpenSimBrief" xml:space="preserve">
+    <value>Отвори SimBrief</value>
+    <comment>Open SimBrief</comment>
+  </data>
+  <data name="SocialNetworkSettingsLinkSimbriefControl.UnlinkError" xml:space="preserve">
+    <value>Не е намерен свръзан акаунт в Navigraph</value>
+    <comment>No linked Navigraph account was found</comment>
+  </data>
+  <data name="SocialNetworkSettingsMiscControl.MiscUpper" xml:space="preserve">
+    <value>РАЗНИ</value>
+    <comment>MISCELLANEOUS</comment>
+  </data>
+  <data name="FlightPlanControl.LoadFromSimBrief" xml:space="preserve">
+    <value>Зареждане чрез SimBrief</value>
+    <comment>Load From SimBrief</comment>
+  </data>
+  <data name="FlightPlanControl.OpenFlightPlan" xml:space="preserve">
+    <value>Отвори полетния план</value>
+    <comment>Open Flight Plan</comment>
+  </data>
+  <data name="FlightPlanControl.ResetAllAltitudes" xml:space="preserve">
+    <value>Изтриване на всички зададени височини</value>
+    <comment>Reset All Altitudes</comment>
+  </data>
+  <data name="FlightPlanControl.ResetAltitude" xml:space="preserve">
+    <value>Изтриване на зададена височина</value>
+    <comment>Reset Altitude</comment>
+  </data>
+  <data name="FlightPlanControl.SetAltitude" xml:space="preserve">
+    <value>Задаване на височина</value>
+    <comment>Set Altitude</comment>
+  </data>
+  <data name="FlightPlanControl.SetAutopilotAlt" xml:space="preserve">
+    <value>Задаване на височината в автопилота</value>
+    <comment>Set Autopilot ALT</comment>
+  </data>
+  <data name="FlightPlanControl.Share" xml:space="preserve">
+    <value>Споделяне</value>
+    <comment>Share</comment>
+  </data>
+  <data name="GameSelectionScenarioCheckerControl.ScenarioUnavailableInWorld" xml:space="preserve">
+    <value>Сценарият не е наличен в избрания свят.</value>
+    <comment>Scenario is unavailable in the selected world.</comment>
+  </data>
+  <data name="GameSelectionScenarioCheckerControl.CheckingScenarioUpper" xml:space="preserve">
+    <value>ПРОВЕРКА НА СЦЕНАРИЯ</value>
+    <comment>CHECKING SCENARIO</comment>
+  </data>
+  <data name="FlightPlanControl.ProRequiredGenericMessage" xml:space="preserve">
+    <value>Тази функция изисква активен Infinite Flight Pro абонамент.</value>
+    <comment>This feature requires an Infinite Flight Pro subscription.</comment>
+  </data>
+  <data name="Global.Link" xml:space="preserve">
+    <value>Свръзване</value>
+    <comment>Link</comment>
+  </data>
+  <data name="FlightPlanControl.DeleteAllAltitudesConfirmation" xml:space="preserve">
+    <value>Сигурни ли сте, че искате да изтриете всички зададени височини?</value>
+    <comment>Are you sure you want to delete all altitudes?</comment>
+  </data>
+  <data name="FlightPlanControl.NoFlightPlanShare" xml:space="preserve">
+    <value>Не е наличен полетен план за споделяне.</value>
+    <comment>There is no flight plan to share.</comment>
+  </data>
+  <data name="FlightScenarioControl.ScenarioUnknownWorld" xml:space="preserve">
+    <value>Сценарият е зададен за неизвестен свят</value>
+    <comment>Scenario is set to an unknown world</comment>
+  </data>
 </root>
