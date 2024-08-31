@@ -3469,11 +3469,11 @@ Cancel anytime in Google Play's Subscription Center.</comment>
   </data>
   <data name="GameSelectionProvidersControl.NoScenarioProvidersFoundUpper" xml:space="preserve">
     <value>NO SCENARIO PROVIDERS FOUND</value>
-    <comment>NO SCENARIO PROVIDERS FOUND</comment>
+    <comment>NO SCENARIOS AVAILABLE</comment>
   </data>
   <data name="GameSelectionScenariosControl.NoScenariosFoundUpper" xml:space="preserve">
     <value>NO SCENARIOS FOUND</value>
-    <comment>NO SCENARIOS FOUND</comment>
+    <comment>NO SCENARIOS AVAILABLE</comment>
   </data>
   <data name="GameSelectionScenarioUnavailableControl.Description" xml:space="preserve">
     <value>Scenario is unavailable or hidden.</value>
