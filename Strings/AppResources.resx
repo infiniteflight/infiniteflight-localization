@@ -3807,4 +3807,8 @@ Are you sure you want to delete the account?</value>
     <value>Scenario is set to an unknown world</value>
     <comment>Scenario is set to an unknown world</comment>
   </data>
+  <data name="Error.SimbriefOfpNotFiled" xml:space="preserve">
+    <value>Your SimBrief account does not have any active flight plans. Visit the SimBrief Dispatcher to file a new flight plan.</value>
+    <comment>Your SimBrief account does not have any active flight plans. Visit the SimBrief Dispatcher to file a new flight plan.</comment>
+  </data>
 </root>

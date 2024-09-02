@@ -1414,6 +1414,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your SimBrief account does not have any active flight plans. Visit the SimBrief Dispatcher to file a new flight plan..
+        /// </summary>
+        internal static string Error_SimbriefOfpNotFiled {
+            get {
+                return ResourceManager.GetString("Error.SimbriefOfpNotFiled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Global Server streaming has failed because your device storage is full.
         /// </summary>
         internal static string Error_TileSystemDiskFull {
