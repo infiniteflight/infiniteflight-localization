@@ -3811,4 +3811,84 @@ Are you sure you want to delete the account?</value>
     <value>Your SimBrief account does not have any active flight plans. Visit the SimBrief Dispatcher to file a new flight plan.</value>
     <comment>Your SimBrief account does not have any active flight plans. Visit the SimBrief Dispatcher to file a new flight plan.</comment>
   </data>
+  <data name="Simbrief.Aircraft" xml:space="preserve">
+    <value>Aircraft</value>
+    <comment>Aircraft</comment>
+  </data>
+  <data name="Simbrief.AircraftNotMatchingImportMessage" xml:space="preserve">
+    <value>The SimBrief flight plan has been imported, but the aircraft type in the flight plan does not match the current aircraft</value>
+    <comment>The SimBrief flight plan has been imported, but the aircraft type in the flight plan does not match the current aircraft</comment>
+  </data>
+  <data name="Simbrief.AircraftTypeNotFoundImportMessage" xml:space="preserve">
+    <value>The SimBrief flight plan has been imported, but the aircraft type was not found in the flight plan.</value>
+    <comment>The SimBrief flight plan has been imported, but the aircraft type was not found in the flight plan.</comment>
+  </data>
+  <data name="Simbrief.Bags" xml:space="preserve">
+    <value>Bags</value>
+    <comment>Bags</comment>
+  </data>
+  <data name="Simbrief.Cargo" xml:space="preserve">
+    <value>Cargo</value>
+    <comment>Cargo</comment>
+  </data>
+  <data name="Simbrief.CurrentAircraftType" xml:space="preserve">
+    <value>Current Aircraft Type</value>
+    <comment>Current Aircraft Type</comment>
+  </data>
+  <data name="Simbrief.Destination" xml:space="preserve">
+    <value>Destination</value>
+    <comment>Destination</comment>
+  </data>
+  <data name="Simbrief.EnsureAircraftTypeInFlightPlanMessage" xml:space="preserve">
+    <value>Please ensure that the aircraft type is included in the flight plan.</value>
+    <comment>Please ensure that the aircraft type is included in the flight plan.</comment>
+  </data>
+  <data name="Simbrief.EnsureAircraftTypeMessage" xml:space="preserve">
+    <value>Please ensure that the aircraft type in the flight plan matches the current aircraft type in Infinite Flight.</value>
+    <comment>Please ensure that the aircraft type in the flight plan matches the current aircraft type in Infinite Flight.</comment>
+  </data>
+  <data name="Simbrief.EnsureParkedMessage" xml:space="preserve">
+    <value>Please ensure that the aircraft is parked to apply fuel and passenger configuration.</value>
+    <comment>Please ensure that the aircraft is parked to apply fuel and passenger configuration.</comment>
+  </data>
+  <data name="Simbrief.FlightPlanAircraftType" xml:space="preserve">
+    <value>Flight Plan Aircraft Type</value>
+    <comment>Flight Plan Aircraft Type</comment>
+  </data>
+  <data name="Simbrief.FlightPlanWaypoints" xml:space="preserve">
+    <value>Flight Plan Waypoints</value>
+    <comment>Flight Plan Waypoints</comment>
+  </data>
+  <data name="Simbrief.Fuel" xml:space="preserve">
+    <value>Fuel</value>
+    <comment>Fuel</comment>
+  </data>
+  <data name="Simbrief.ImportedTitle" xml:space="preserve">
+    <value>SimBrief Flight Plan Imported</value>
+    <comment>SimBrief Flight Plan Imported</comment>
+  </data>
+  <data name="Simbrief.NotApplied" xml:space="preserve">
+    <value>Not Applied</value>
+    <comment>Not Applied</comment>
+  </data>
+  <data name="Simbrief.NotParkedImportMessage" xml:space="preserve">
+    <value>The SimBrief flight plan has been imported, but the fuel and passenger configuration was not imported because aircraft is not parked.</value>
+    <comment>The SimBrief flight plan has been imported, but the fuel and passenger configuration was not imported because aircraft is not parked.</comment>
+  </data>
+  <data name="Simbrief.Origin" xml:space="preserve">
+    <value>Origin</value>
+    <comment>Origin</comment>
+  </data>
+  <data name="Simbrief.Passengers" xml:space="preserve">
+    <value>Passengers</value>
+    <comment>Passengers</comment>
+  </data>
+  <data name="Simbrief.SuccessfulImportMessage" xml:space="preserve">
+    <value>The SimBrief flight plan has been successfully imported with the following details:</value>
+    <comment>The SimBrief flight plan has been successfully imported with the following details:</comment>
+  </data>
+  <data name="Simbrief.WeightAndBalanceUpdated" xml:space="preserve">
+    <value>The aircraft weight and balance has been updated with the passenger and cargo weights from the OFP.</value>
+    <comment>The aircraft weight and balance has been updated with the passenger and cargo weights from the OFP.</comment>
+  </data>
 </root>

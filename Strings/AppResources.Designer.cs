@@ -6236,6 +6236,204 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Aircraft.
+        /// </summary>
+        internal static string Simbrief_Aircraft {
+            get {
+                return ResourceManager.GetString("Simbrief.Aircraft", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The SimBrief flight plan has been imported, but the aircraft type in the flight plan does not match the current aircraft.
+        /// </summary>
+        internal static string Simbrief_AircraftNotMatchingImportMessage {
+            get {
+                return ResourceManager.GetString("Simbrief.AircraftNotMatchingImportMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The SimBrief flight plan has been imported, but the aircraft type was not found in the flight plan..
+        /// </summary>
+        internal static string Simbrief_AircraftTypeNotFoundImportMessage {
+            get {
+                return ResourceManager.GetString("Simbrief.AircraftTypeNotFoundImportMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bags.
+        /// </summary>
+        internal static string Simbrief_Bags {
+            get {
+                return ResourceManager.GetString("Simbrief.Bags", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cargo.
+        /// </summary>
+        internal static string Simbrief_Cargo {
+            get {
+                return ResourceManager.GetString("Simbrief.Cargo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Current Aircraft Type.
+        /// </summary>
+        internal static string Simbrief_CurrentAircraftType {
+            get {
+                return ResourceManager.GetString("Simbrief.CurrentAircraftType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Destination.
+        /// </summary>
+        internal static string Simbrief_Destination {
+            get {
+                return ResourceManager.GetString("Simbrief.Destination", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please ensure that the aircraft type is included in the flight plan..
+        /// </summary>
+        internal static string Simbrief_EnsureAircraftTypeInFlightPlanMessage {
+            get {
+                return ResourceManager.GetString("Simbrief.EnsureAircraftTypeInFlightPlanMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please ensure that the aircraft type in the flight plan matches the current aircraft type in Infinite Flight..
+        /// </summary>
+        internal static string Simbrief_EnsureAircraftTypeMessage {
+            get {
+                return ResourceManager.GetString("Simbrief.EnsureAircraftTypeMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please ensure that the aircraft is parked to apply fuel and passenger configuration..
+        /// </summary>
+        internal static string Simbrief_EnsureParkedMessage {
+            get {
+                return ResourceManager.GetString("Simbrief.EnsureParkedMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight Plan Aircraft Type.
+        /// </summary>
+        internal static string Simbrief_FlightPlanAircraftType {
+            get {
+                return ResourceManager.GetString("Simbrief.FlightPlanAircraftType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight Plan Waypoints.
+        /// </summary>
+        internal static string Simbrief_FlightPlanWaypoints {
+            get {
+                return ResourceManager.GetString("Simbrief.FlightPlanWaypoints", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fuel.
+        /// </summary>
+        internal static string Simbrief_Fuel {
+            get {
+                return ResourceManager.GetString("Simbrief.Fuel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SimBrief Flight Plan Imported.
+        /// </summary>
+        internal static string Simbrief_ImportedTitle {
+            get {
+                return ResourceManager.GetString("Simbrief.ImportedTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Simbrief_Mismatch {
+            get {
+                return ResourceManager.GetString("Simbrief.Mismatch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not Applied.
+        /// </summary>
+        internal static string Simbrief_NotApplied {
+            get {
+                return ResourceManager.GetString("Simbrief.NotApplied", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Not found.
+        /// </summary>
+        internal static string Simbrief_NotFound {
+            get {
+                return ResourceManager.GetString("Simbrief.NotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The SimBrief flight plan has been imported, but the fuel and passenger configuration was not imported because aircraft is not parked..
+        /// </summary>
+        internal static string Simbrief_NotParkedImportMessage {
+            get {
+                return ResourceManager.GetString("Simbrief.NotParkedImportMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Origin.
+        /// </summary>
+        internal static string Simbrief_Origin {
+            get {
+                return ResourceManager.GetString("Simbrief.Origin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Passengers.
+        /// </summary>
+        internal static string Simbrief_Passengers {
+            get {
+                return ResourceManager.GetString("Simbrief.Passengers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The SimBrief flight plan has been successfully imported with the following details:.
+        /// </summary>
+        internal static string Simbrief_SuccessfulImportMessage {
+            get {
+                return ResourceManager.GetString("Simbrief.SuccessfulImportMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The aircraft weight and balance has been updated with the passenger and cargo weights from the OFP..
+        /// </summary>
+        internal static string Simbrief_WeightAndBalanceUpdated {
+            get {
+                return ResourceManager.GetString("Simbrief.WeightAndBalanceUpdated", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Enter Confirmation.
         /// </summary>
         internal static string SocialNetworkControl_EnterConfirmation {
