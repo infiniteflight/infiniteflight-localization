@@ -3867,9 +3867,17 @@ Are you sure you want to delete the account?</value>
     <value>SimBrief Flight Plan Imported</value>
     <comment>SimBrief Flight Plan Imported</comment>
   </data>
+  <data name="Simbrief.Mismatch" xml:space="preserve">
+    <value>Mismatch</value>
+    <comment>Mismatch</comment>
+  </data>
   <data name="Simbrief.NotApplied" xml:space="preserve">
     <value>Not Applied</value>
     <comment>Not Applied</comment>
+  </data>
+  <data name="Simbrief.NotFound" xml:space="preserve">
+    <value>Not found</value>
+    <comment>Not found</comment>
   </data>
   <data name="Simbrief.NotParkedImportMessage" xml:space="preserve">
     <value>The SimBrief flight plan has been imported, but the fuel and passenger configuration was not imported because aircraft is not parked.</value>

@@ -6362,7 +6362,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Mismatch.
         /// </summary>
         internal static string Simbrief_Mismatch {
             get {
