@@ -3676,4 +3676,96 @@ REPLAYS</comment>
     <value>Сценарият е зададен за неизвестен свят</value>
     <comment>Scenario is set to an unknown world</comment>
   </data>
+  <data name="Error.SimbriefOfpNotFiled" xml:space="preserve">
+    <value>Вашият SimBrief акаунт няма активен полетен план. Отворете SimBrief Dispatcher, за да генерирате нов полетен план.</value>
+    <comment>Your SimBrief account does not have any active flight plans. Visit the SimBrief Dispatcher to file a new flight plan.</comment>
+  </data>
+  <data name="Simbrief.Aircraft" xml:space="preserve">
+    <value>Самолет</value>
+    <comment>Aircraft</comment>
+  </data>
+  <data name="Simbrief.AircraftNotMatchingImportMessage" xml:space="preserve">
+    <value>Полетният план от SimBrief е импортиран успешно, но типът самолет в полетния план не съвпада с текущия самолет</value>
+    <comment>The SimBrief flight plan has been imported, but the aircraft type in the flight plan does not match the current aircraft</comment>
+  </data>
+  <data name="Simbrief.AircraftTypeNotFoundImportMessage" xml:space="preserve">
+    <value>Полетният план от SimBrief е импортиран успешно, но типът самоелт не е намерен в полетния план</value>
+    <comment>The SimBrief flight plan has been imported, but the aircraft type was not found in the flight plan.</comment>
+  </data>
+  <data name="Simbrief.Bags" xml:space="preserve">
+    <value>Куфари</value>
+    <comment>Bags</comment>
+  </data>
+  <data name="Simbrief.Cargo" xml:space="preserve">
+    <value>Карго</value>
+    <comment>Cargo</comment>
+  </data>
+  <data name="Simbrief.CurrentAircraftType" xml:space="preserve">
+    <value>Текущ тип самолет</value>
+    <comment>Current Aircraft Type</comment>
+  </data>
+  <data name="Simbrief.Destination" xml:space="preserve">
+    <value>Дестинация</value>
+    <comment>Destination</comment>
+  </data>
+  <data name="Simbrief.EnsureAircraftTypeInFlightPlanMessage" xml:space="preserve">
+    <value>Моля, уверете се, че типът самолет е включен в полетния план.</value>
+    <comment>Please ensure that the aircraft type is included in the flight plan.</comment>
+  </data>
+  <data name="Simbrief.EnsureAircraftTypeMessage" xml:space="preserve">
+    <value>Моля, уверете се, че типът самолет в полетния план съвпада с текущия самолет в Infinite Flight.</value>
+    <comment>Please ensure that the aircraft type in the flight plan matches the current aircraft type in Infinite Flight.</comment>
+  </data>
+  <data name="Simbrief.EnsureParkedMessage" xml:space="preserve">
+    <value>Моля, уверете се, че самолетът е паркиран, за да бъдат приложени промените в конфигурацията на пътници и гориво.</value>
+    <comment>Please ensure that the aircraft is parked to apply fuel and passenger configuration.</comment>
+  </data>
+  <data name="Simbrief.FlightPlanAircraftType" xml:space="preserve">
+    <value>Тип самолет според полетния план</value>
+    <comment>Flight Plan Aircraft Type</comment>
+  </data>
+  <data name="Simbrief.FlightPlanWaypoints" xml:space="preserve">
+    <value>Навигационни точки в полетния план</value>
+    <comment>Flight Plan Waypoints</comment>
+  </data>
+  <data name="Simbrief.Fuel" xml:space="preserve">
+    <value>Гориво</value>
+    <comment>Fuel</comment>
+  </data>
+  <data name="Simbrief.ImportedTitle" xml:space="preserve">
+    <value>Полетният план от SimBrief е импортиран</value>
+    <comment>SimBrief Flight Plan Imported</comment>
+  </data>
+  <data name="Simbrief.Mismatch" xml:space="preserve">
+    <value>Несъответствие</value>
+    <comment>Mismatch</comment>
+  </data>
+  <data name="Simbrief.NotApplied" xml:space="preserve">
+    <value>Не е приложено</value>
+    <comment>Not Applied</comment>
+  </data>
+  <data name="Simbrief.NotFound" xml:space="preserve">
+    <value>Не е намерено</value>
+    <comment>Not found</comment>
+  </data>
+  <data name="Simbrief.NotParkedImportMessage" xml:space="preserve">
+    <value>Полетният план от SimBrief е импортиран успешно, но конфигурацията на пътници и гориво не е приложена, защото самолетът не е паркиран.</value>
+    <comment>The SimBrief flight plan has been imported, but the fuel and passenger configuration was not imported because aircraft is not parked.</comment>
+  </data>
+  <data name="Simbrief.Origin" xml:space="preserve">
+    <value>Начално летище</value>
+    <comment>Origin</comment>
+  </data>
+  <data name="Simbrief.Passengers" xml:space="preserve">
+    <value>Пътници</value>
+    <comment>Passengers</comment>
+  </data>
+  <data name="Simbrief.SuccessfulImportMessage" xml:space="preserve">
+    <value>Полетният план от SimBrief е импортиран успешно със следните параметри:</value>
+    <comment>The SimBrief flight plan has been successfully imported with the following details:</comment>
+  </data>
+  <data name="Simbrief.WeightAndBalanceUpdated" xml:space="preserve">
+    <value>Конфигурацията на пътници и карго е приложена в съотвествие с оперативния полетен план.</value>
+    <comment>The aircraft weight and balance has been updated with the passenger and cargo weights from the OFP.</comment>
+  </data>
 </root>
