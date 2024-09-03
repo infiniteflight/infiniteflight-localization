@@ -1930,19 +1930,19 @@
     <comment>Name</comment>
   </data>
   <data name="Global.Report" xml:space="preserve">
-    <value>次违规报告</value>
+    <value>违规报告</value>
     <comment>Report</comment>
   </data>
   <data name="Global.Reports" xml:space="preserve">
-    <value>次违规报告</value>
+    <value>违规报告</value>
     <comment>Reports</comment>
   </data>
   <data name="Global.Violation" xml:space="preserve">
-    <value>次违规</value>
+    <value>违规</value>
     <comment>Violation</comment>
   </data>
   <data name="Global.Violations" xml:space="preserve">
-    <value>次违规</value>
+    <value>违规</value>
     <comment>Violations</comment>
   </data>
   <data name="Logbook.ATCReport" xml:space="preserve">
@@ -3695,5 +3695,97 @@ REPLAYS</comment>
   <data name="FlightScenarioControl.ScenarioUnknownWorld" xml:space="preserve">
     <value>情景被设置在未知的模式中</value>
     <comment>Scenario is set to an unknown world</comment>
+  </data>
+<data name="Error.SimbriefOfpNotFiled" xml:space="preserve">
+    <value>你还没有在Simbrief里生成任何飞行计划。现在就前往Simbrief生成一个吧！</value>
+    <comment>Your SimBrief account does not have any active flight plans. Visit the SimBrief Dispatcher to file a new flight plan.</comment>
+  </data>
+  <data name="Simbrief.Aircraft" xml:space="preserve">
+    <value>机型</value>
+    <comment>Aircraft</comment>
+  </data>
+  <data name="Simbrief.AircraftNotMatchingImportMessage" xml:space="preserve">
+    <value>Simbrief飞行计划已导入，但是当前机型和计划机型不匹配</value>
+    <comment>The SimBrief flight plan has been imported, but the aircraft type in the flight plan does not match the current aircraft</comment>
+  </data>
+  <data name="Simbrief.AircraftTypeNotFoundImportMessage" xml:space="preserve">
+    <value>Simbrief飞行计划已导入，但是没有在飞行计划中找到机型信息</value>
+    <comment>The SimBrief flight plan has been imported, but the aircraft type was not found in the flight plan.</comment>
+  </data>
+  <data name="Simbrief.Bags" xml:space="preserve">
+    <value>手提行李</value>
+    <comment>Bags</comment>
+  </data>
+  <data name="Simbrief.Cargo" xml:space="preserve">
+    <value>货物</value>
+    <comment>Cargo</comment>
+  </data>
+  <data name="Simbrief.CurrentAircraftType" xml:space="preserve">
+    <value>当前机型</value>
+    <comment>Current Aircraft Type</comment>
+  </data>
+  <data name="Simbrief.Destination" xml:space="preserve">
+    <value>目的地</value>
+    <comment>Destination</comment>
+  </data>
+  <data name="Simbrief.EnsureAircraftTypeInFlightPlanMessage" xml:space="preserve">
+    <value>请确保飞行计划中包含机型信息</value>
+    <comment>Please ensure that the aircraft type is included in the flight plan.</comment>
+  </data>
+  <data name="Simbrief.EnsureAircraftTypeMessage" xml:space="preserve">
+    <value>请确保生成的飞行计划中的机型和你在IF中选择的机型一致</value>
+    <comment>Please ensure that the aircraft type in the flight plan matches the current aircraft type in Infinite Flight.</comment>
+  </data>
+  <data name="Simbrief.EnsureParkedMessage" xml:space="preserve">
+    <value>请确保飞机已经停好，然后才能导入燃油和乘客配置</value>
+    <comment>Please ensure that the aircraft is parked to apply fuel and passenger configuration.</comment>
+  </data>
+  <data name="Simbrief.FlightPlanAircraftType" xml:space="preserve">
+    <value>飞行计划机型</value>
+    <comment>Flight Plan Aircraft Type</comment>
+  </data>
+  <data name="Simbrief.FlightPlanWaypoints" xml:space="preserve">
+    <value>飞行计划航路点数量</value>
+    <comment>Flight Plan Waypoints</comment>
+  </data>
+  <data name="Simbrief.Fuel" xml:space="preserve">
+    <value>燃油</value>
+    <comment>Fuel</comment>
+  </data>
+  <data name="Simbrief.ImportedTitle" xml:space="preserve">
+    <value>Simbrief飞行计划导入成功</value>
+    <comment>SimBrief Flight Plan Imported</comment>
+  </data>
+  <data name="Simbrief.Mismatch" xml:space="preserve">
+    <value>不匹配</value>
+    <comment>Mismatch</comment>
+  </data>
+  <data name="Simbrief.NotApplied" xml:space="preserve">
+    <value>未应用</value>
+    <comment>Not Applied</comment>
+  </data>
+  <data name="Simbrief.NotFound" xml:space="preserve">
+    <value>未找到</value>
+    <comment>Not found</comment>
+  </data>
+  <data name="Simbrief.NotParkedImportMessage" xml:space="preserve">
+    <value>Simbrief飞行计划已导入，但是燃油和乘客配置没有导入，因为飞机没有停好。</value>
+    <comment>The SimBrief flight plan has been imported, but the fuel and passenger configuration was not imported because aircraft is not parked.</comment>
+  </data>
+  <data name="Simbrief.Origin" xml:space="preserve">
+    <value>出发地</value>
+    <comment>Origin</comment>
+  </data>
+  <data name="Simbrief.Passengers" xml:space="preserve">
+    <value>乘客</value>
+    <comment>Passengers</comment>
+  </data>
+  <data name="Simbrief.SuccessfulImportMessage" xml:space="preserve">
+    <value>你的Simbrief飞行计划已成功导入，具体参数如下：</value>
+    <comment>The SimBrief flight plan has been successfully imported with the following details:</comment>
+  </data>
+  <data name="Simbrief.WeightAndBalanceUpdated" xml:space="preserve">
+    <value>飞机的重量与配载已经根据飞行计划中的乘客和货物重量更新完成。</value>
+    <comment>The aircraft weight and balance has been updated with the passenger and cargo weights from the OFP.</comment>
   </data>
 </root>
