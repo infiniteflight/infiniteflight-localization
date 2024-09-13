@@ -618,7 +618,7 @@
     <comment>Texture Quality</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Subtitle" xml:space="preserve">
-    <value>设置你与atc交流的声音</value>
+    <value>设置你与ATC交流的声音</value>
     <comment>Select voice for your ATC communications</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Title" xml:space="preserve">
