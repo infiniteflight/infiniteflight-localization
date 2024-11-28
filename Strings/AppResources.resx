@@ -3899,4 +3899,13 @@ Are you sure you want to delete the account?</value>
     <value>The aircraft weight and balance has been updated with the passenger and cargo weights from the OFP.</value>
     <comment>The aircraft weight and balance has been updated with the passenger and cargo weights from the OFP.</comment>
   </data>
+  <data name="Error.ConnectedOnOtherDevice" xml:space="preserve">
+    <value>Already connected on another device</value>
+  </data>
+  <data name="Error.MultiplayerAtcAlreadyActive" xml:space="preserve">
+    <value>You are already connected to this multiplayer server on another device (error code {0})</value>
+  </data>
+  <data name="Error.MultiplayerFlightAlreadyActive" xml:space="preserve">
+    <value>You are already connected to this multiplayer server on another device (error code {0})</value>
+  </data>
 </root>

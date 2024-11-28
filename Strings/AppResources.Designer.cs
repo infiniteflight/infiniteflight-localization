@@ -1243,6 +1243,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Already connected on another device.
+        /// </summary>
+        internal static string Error_ConnectedOnOtherDevice {
+            get {
+                return ResourceManager.GetString("Error.ConnectedOnOtherDevice", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Could not connect to the server, check your internet connection (error code {0}).
         /// </summary>
         internal static string Error_CouldNotGetFileSize {
@@ -1365,6 +1374,24 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Error_MissingRequestParameters {
             get {
                 return ResourceManager.GetString("Error.MissingRequestParameters", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You are already connected to this multiplayer server on another device (error code {0}).
+        /// </summary>
+        internal static string Error_MultiplayerAtcAlreadyActive {
+            get {
+                return ResourceManager.GetString("Error.MultiplayerAtcAlreadyActive", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You are already connected to this multiplayer server on another device (error code {0}).
+        /// </summary>
+        internal static string Error_MultiplayerFlightAlreadyActive {
+            get {
+                return ResourceManager.GetString("Error.MultiplayerFlightAlreadyActive", resourceCulture);
             }
         }
         
