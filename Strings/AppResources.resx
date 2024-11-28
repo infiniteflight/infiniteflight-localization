@@ -3908,4 +3908,7 @@ Are you sure you want to delete the account?</value>
   <data name="Error.MultiplayerFlightAlreadyActive" xml:space="preserve">
     <value>You are already connected to this multiplayer server on another device (error code {0})</value>
   </data>
+  <data name="NewsControl.Partnership" xml:space="preserve">
+    <value>Partnership</value>
+  </data>
 </root>

@@ -4494,6 +4494,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Partnership.
+        /// </summary>
+        internal static string NewsControl_Partnership {
+            get {
+                return ResourceManager.GetString("NewsControl.Partnership", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Start Flight?.
         /// </summary>
         internal static string NewsControl_StartFlightQuestion {
