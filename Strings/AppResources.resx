@@ -3911,4 +3911,322 @@ Are you sure you want to delete the account?</value>
   <data name="NewsControl.Partnership" xml:space="preserve">
     <value>Partnership</value>
   </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableAirport" xml:space="preserve">
+    <value>Auto Pushback is not available for {0} at this time.</value>
+    <comment>Auto Pushback is not available for {0} at this time.</comment>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableLocation" xml:space="preserve">
+    <value>Auto Pushback is not available at this location.</value>
+    <comment>Auto Pushback is not available at this location.</comment>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableParking" xml:space="preserve">
+    <value>Auto Pushback unavailable at this time.
+Move aircraft to a parking stand or use manual pushback.</value>
+    <comment>Auto Pushback unavailable at this time.
+Move aircraft to a parking stand or use manual pushback.</comment>
+  </data>
+  <data name="PushbackSystem.ChooseAnotherPointMessage" xml:space="preserve">
+    <value>Choose another point to pull the plane to, or tap start to begin pushback sequence.</value>
+    <comment>Choose another point to pull the plane to, or tap start to begin pushback sequence.</comment>
+  </data>
+  <data name="PushbackSystem.ChooseFirstPointMessage" xml:space="preserve">
+    <value>Tap on a taxiway line to choose the first end point.</value>
+    <comment>Tap on a taxiway line to choose the first end point.</comment>
+  </data>
+  <data name="PushbackSystem.MaxTwoPointsAllowed" xml:space="preserve">
+    <value>Maximum of two points allowed.</value>
+    <comment>Maximum of two points allowed.</comment>
+  </data>
+  <data name="PushbackSystem.PathTooLong" xml:space="preserve">
+    <value>Path is too long. Please choose a closer point.</value>
+    <comment>Path is too long. Please choose a closer point.</comment>
+  </data>
+  <data name="PushbackSystem.PathTooShort" xml:space="preserve">
+    <value>Path is too short. Please choose a further point.</value>
+    <comment>Path is too short. Please choose a further point.</comment>
+  </data>
+  <data name="PushbackSystem.StartedPleaseWait" xml:space="preserve">
+    <value>Pushback started. Please wait.</value>
+    <comment>Pushback started. Please wait.</comment>
+  </data>
+  <data name="PushbackSystem.TapStartToBeginMessage" xml:space="preserve">
+    <value>Tap start to begin pushback sequence.</value>
+    <comment>Tap start to begin pushback sequence.</comment>
+  </data>
+  <data name="PushbackSystem.UnableGroundServices" xml:space="preserve">
+    <value>Unable to pushback.
+Disconnect all ground services to start pushback.</value>
+    <comment>Unable to pushback.
+Disconnect all ground services to start pushback.</comment>
+  </data>
+  <data name="PushbackSystem.UnableGroundServicesAndParkingBrake" xml:space="preserve">
+    <value>Unable to pushback.
+Disconnect all ground services and set PARK BRAKES to OFF to start pushback.</value>
+    <comment>Unable to pushback.
+Disconnect all ground services and set PARK BRAKES to OFF to start pushback.</comment>
+  </data>
+  <data name="PushbackSystem.UnableParkingBrake" xml:space="preserve">
+    <value>Unable to pushback.
+Set PARK BRAKES to OFF to start pushback.</value>
+    <comment>Unable to pushback.
+Set PARK BRAKES to OFF to start pushback.</comment>
+  </data>
+  <data name="PushbackSystem.UnableToStartMessage" xml:space="preserve">
+    <value>Unable to start auto pushback.
+Disconnect all ground services prior to starting pushback.</value>
+    <comment>Unable to start auto pushback.
+Disconnect all ground services prior to starting pushback.</comment>
+  </data>
+  <data name="AirportEditorFileManager.AirportSubmitDraftUploaded" xml:space="preserve">
+    <value>Your draft airport has been uploaded!</value>
+    <comment>Your draft airport has been uploaded!</comment>
+  </data>
+  <data name="AirportEditorFileManager.AirportSubmitReviewUploaded" xml:space="preserve">
+    <value>Your airport has been uploaded and is waiting for review.
+
+Please check the airport's forum thread for feedback from the Official Review team.</value>
+    <comment>Your airport has been uploaded and is waiting for review.
+
+Please check the airport's forum thread for feedback from the Official Review team.</comment>
+  </data>
+  <data name="ATCManager.ReportUserNoIFCLink" xml:space="preserve">
+    <value>You need to connect your Infinite Flight Community profile in settings to report a user</value>
+    <comment>You need to connect your Infinite Flight Community profile in settings to report a user</comment>
+  </data>
+  <data name="Autopilot.IASModeDeactivated" xml:space="preserve">
+    <value>IAS Mode Deactivated</value>
+    <comment>IAS Mode Deactivated</comment>
+  </data>
+  <data name="Autopilot.LNAVUnavailable" xml:space="preserve">
+    <value>LNAV Unavailable: Flight plan missing or NAV1 not tuned.</value>
+    <comment>LNAV Unavailable: Flight plan missing or NAV1 not tuned.</comment>
+  </data>
+  <data name="Autopilot.SimulationTimeScaleResetAircraftTooFast" xml:space="preserve">
+    <value>Simulation time scale reset to 1x.
+Aircraft speed too high. (&gt; M1.0)</value>
+    <comment>Simulation time scale reset to 1x.
+Aircraft speed too high. (&gt; M1.0)</comment>
+  </data>
+  <data name="Autopilot.SimulationTimeScaleResetAutopilotDisconnected" xml:space="preserve">
+    <value>Simulation time scale reset to 1x.
+Autopilot Disconnected</value>
+    <comment>Simulation time scale reset to 1x.
+Autopilot Disconnected</comment>
+  </data>
+  <data name="FlightPlanControl.FPLNotValid" xml:space="preserve">
+    <value>The flight plan file isn't valid</value>
+    <comment>The flight plan file isn't valid</comment>
+  </data>
+  <data name="GameSelectionControl.AtcUnavailable" xml:space="preserve">
+    <value>ATC is unavailable</value>
+    <comment>ATC is unavailable</comment>
+  </data>
+  <data name="GameSelectionControl.LowGradeUpper" xml:space="preserve">
+    <value>LOW GRADE</value>
+    <comment>LOW GRADE</comment>
+  </data>
+  <data name="GameSelectionJoinIfatcControl.JoinIfatcUpper" xml:space="preserve">
+    <value>JOIN IFATC</value>
+    <comment>JOIN IFATC</comment>
+  </data>
+  <data name="MainMenuPage.WorldIsUnknown" xml:space="preserve">
+    <value>World is unknown</value>
+    <comment>World is unknown</comment>
+  </data>
+  <data name="MapItemInfoControl.AirportDestinationCannotAccomodateAircraft" xml:space="preserve">
+    <value>{0} cannot accomodate a {1}.
+Select a different destination airport</value>
+    <comment>{0} cannot accomodate a {1}.
+Select a different destination airport</comment>
+  </data>
+  <data name="MapItemInfoControl.ILSOutOfRange" xml:space="preserve">
+    <value>ILS is out of range</value>
+    <comment>ILS is out of range</comment>
+  </data>
+  <data name="MapItemInfoControl.UnableSetILSAirportNotFound" xml:space="preserve">
+    <value>Unable to set ILS, airport not found</value>
+    <comment>Unable to set ILS, airport not found</comment>
+  </data>
+  <data name="Replay.UploadSuccess" xml:space="preserve">
+    <value>Replay uploaded successfully</value>
+    <comment>Replay uploaded successfully</comment>
+  </data>
+  <data name="WeightBalanceControl.Load" xml:space="preserve">
+    <value>Load</value>
+    <comment>Load</comment>
+  </data>
+  <data name="AboutControl.AboutTitle" xml:space="preserve">
+    <value>About</value>
+    <comment>About</comment>
+  </data>
+  <data name="AboutControl.CreditsTitle" xml:space="preserve">
+    <value>Credits</value>
+    <comment>Credits</comment>
+  </data>
+  <data name="CallsignSelectionPage.CallsignCannotBeBlank" xml:space="preserve">
+    <value>Your callsign cannot be blank</value>
+    <comment>Your callsign cannot be blank</comment>
+  </data>
+  <data name="CallsignSelectionPage.CallsignNotValid" xml:space="preserve">
+    <value>Your callsign isn't valid</value>
+    <comment>Your callsign isn't valid</comment>
+  </data>
+  <data name="CallsignSelectionPage.GACallsignNotValidCountry" xml:space="preserve">
+    <value>Your callsign isn't valid. Make sure a valid country registration is selected</value>
+    <comment>Your callsign isn't valid. Make sure a valid country registration is selected</comment>
+  </data>
+  <data name="CallsignSelectionPage.GACallsignTooLong" xml:space="preserve">
+    <value>Your callsign is too long for this country's format</value>
+    <comment>Your callsign is too long for this country's format</comment>
+  </data>
+  <data name="CallsignSelectionPage.IdentifierOnlyNumberTwoSuffixLetters" xml:space="preserve">
+    <value>Identifier can only contain numbers and two suffix letters</value>
+    <comment>Identifier can only contain numbers and two suffix letters</comment>
+  </data>
+  <data name="CallsignSelectionPage.IdentifierTooLong" xml:space="preserve">
+    <value>Your identifier is too long, 5 characters maximum</value>
+    <comment>Your identifier is too long, 5 characters maximum</comment>
+  </data>
+  <data name="CallsignSelectionPage.InvalidCallsignNotMatchedFormat" xml:space="preserve">
+    <value>Your callsign is invalid. Make sure it matches the available format</value>
+    <comment>Your callsign is invalid. Make sure it matches the available format</comment>
+  </data>
+  <data name="CreditsControl.SpecialThanks" xml:space="preserve">
+    <value>Special Thanks</value>
+    <comment>Special Thanks</comment>
+  </data>
+  <data name="GamePage.ErrorRestartApp" xml:space="preserve">
+    <value>An error has occured. Please restart the application</value>
+    <comment>An error has occured. Please restart the application</comment>
+  </data>
+  <data name="MainMenuPage.ATCLocalRadarNotAllowed" xml:space="preserve">
+    <value>In order to provide excellent Air Traffic Control service, being on duty at a Tower/Ground and Approach/Departure/Center simultaneously is not allowed. Please change your selection.</value>
+    <comment>In order to provide excellent Air Traffic Control service, being on duty at a Tower/Ground and Approach/Departure/Center simultaneously is not allowed. Please change your selection.</comment>
+  </data>
+  <data name="MainMenuPage.ATCRadarCenterNotAllowed" xml:space="preserve">
+    <value>In order to provide excellent Air Traffic Control service, being on duty at an Approach/Departure and Center simultaneously is not allowed. Please change your selection.</value>
+    <comment>In order to provide excellent Air Traffic Control service, being on duty at an Approach/Departure and Center simultaneously is not allowed. Please change your selection.</comment>
+  </data>
+  <data name="MainMenuPage.ExpertATCLocalLargeAirportDurationTooLow" xml:space="preserve">
+    <value>In order to provide excellent Air Traffic Control service on Expert, being on duty at a Tower/Ground frequency at a large airport for less than an hour is not allowed. Please change the duration.</value>
+    <comment>In order to provide excellent Air Traffic Control service on Expert, being on duty at a Tower/Ground frequency at a large airport for less than an hour is not allowed. Please change the duration.</comment>
+  </data>
+  <data name="MainMenuPage.ExpertATCRadarDurationTooLow" xml:space="preserve">
+    <value>In order to provide excellent Air Traffic Control service on Expert, being on duty at an Approach/Departure/Center frequency for less than an hour is not allowed. Please change the duration.</value>
+    <comment>In order to provide excellent Air Traffic Control service on Expert, being on duty at an Approach/Departure/Center frequency for less than an hour is not allowed. Please change the duration.</comment>
+  </data>
+  <data name="MainMenuPage.ScenarioStartLocationInvalid" xml:space="preserve">
+    <value>The scenario start location is invalid</value>
+    <comment>The scenario start location is invalid</comment>
+  </data>
+  <data name="SocialNetworkSummaryExtendedViolations.LevelFormat" xml:space="preserve">
+    <value>Level {0}</value>
+    <comment>Level {0}</comment>
+  </data>
+  <data name="AircraftPage.IncludesGlobalAndMultiplayer" xml:space="preserve">
+    <value>Includes Global &amp; Multiplayer</value>
+    <comment>Includes Global &amp; Multiplayer</comment>
+  </data>
+  <data name="AircraftPage.RentLiveryUpper" xml:space="preserve">
+    <value>RENT LIVERY</value>
+    <comment>RENT LIVERY</comment>
+  </data>
+  <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">
+    <value>Please disconnect ground services before requesting taxi</value>
+    <comment>Please disconnect ground services before requesting taxi</comment>
+  </data>
+  <data name="ATCIncomingFlightsControl.IncomingAirplanes" xml:space="preserve">
+    <value>Incoming Airplanes</value>
+    <comment>Incoming Airplanes</comment>
+  </data>
+  <data name="ATCIncomingFlightsControl.IncomingAirplanesToFormat" xml:space="preserve">
+    <value>Incoming Airplanes to {0}</value>
+    <comment>Incoming Airplanes to {0}</comment>
+  </data>
+  <data name="ATCWorld.Disconnected" xml:space="preserve">
+    <value>Disconnected</value>
+    <comment>Disconnected</comment>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.FrequencyAlreadyInUse" xml:space="preserve">
+    <value>One or more of the selected frequencies is unavailable.</value>
+    <comment>One or more of the selected frequencies is unavailable.</comment>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.TooManyUsers" xml:space="preserve">
+    <value>The server is currently full. Please try again later.</value>
+    <comment>The server is currently full. Please try again later.</comment>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.UserAlreadyConnected" xml:space="preserve">
+    <value>There is already an active connection with this user account.</value>
+    <comment>There is already an active connection with this user account.</comment>
+  </data>
+  <data name="CallsignSelectionPage.NoCallsignsFound" xml:space="preserve">
+    <value>No callsigns found!</value>
+    <comment>No callsigns found!</comment>
+  </data>
+  <data name="Game.UnableToStartScenarioWhileFlying" xml:space="preserve">
+    <value>Unable to start scenario while a flight is in progress.
+Exit curent flight and try again.</value>
+    <comment>Unable to start scenario while a flight is in progress.
+Exit curent flight and try again.</comment>
+  </data>
+  <data name="GameControlsKeySetup2.ButtonUpper" xml:space="preserve">
+    <value>BUTTON</value>
+    <comment>BUTTON</comment>
+  </data>
+  <data name="GameControlsKeySetup2.MoveAxisOrPressButtonToAssignUpper" xml:space="preserve">
+    <value>MOVE AXIS OR PRESS BUTTON TO ASSIGN</value>
+    <comment>MOVE AXIS OR PRESS BUTTON TO ASSIGN</comment>
+  </data>
+  <data name="GameControlsKeySetup2.PressButtonToAssignUpper" xml:space="preserve">
+    <value>PRESS BUTTON TO ASSIGN</value>
+    <comment>PRESS BUTTON TO ASSIGN</comment>
+  </data>
+  <data name="GamePage.NoAirportFoundVicinity" xml:space="preserve">
+    <value>No airport was found in your vicinity</value>
+    <comment>No airport was found in your vicinity</comment>
+  </data>
+  <data name="InputAssignmentControl.AssignedUpper" xml:space="preserve">
+    <value>ASSIGNED</value>
+    <comment>ASSIGNED</comment>
+  </data>
+  <data name="InputAssignmentControl.FilterFormat" xml:space="preserve">
+    <value>FILTER: {0}</value>
+    <comment>FILTER: {0}</comment>
+  </data>
+  <data name="MenuAtcControl.NoScenarioSelected" xml:space="preserve">
+    <value>No scenario selected</value>
+    <comment>No scenario selected</comment>
+  </data>
+  <data name="MenuPage.UnableToStartScenario" xml:space="preserve">
+    <value>Unable to start scenario.</value>
+    <comment>Unable to start scenario.</comment>
+  </data>
+  <data name="MissionStatusControl.Waypoint" xml:space="preserve">
+    <value>Waypoint</value>
+    <comment>Waypoint</comment>
+  </data>
+  <data name="SimbriefImporter.NetworkFailed" xml:space="preserve">
+    <value>An error occurred while importing the SimBrief OFP. Check your internet connection and try again.</value>
+    <comment>An error occurred while importing the SimBrief OFP. Check your internet connection and try again.</comment>
+  </data>
+  <data name="SimbriefImporter.ParseFailed" xml:space="preserve">
+    <value>An error occurred while importing the SimBrief OFP. Please ensure that the file is a valid SimBrief OFP file and try again.</value>
+    <comment>An error occurred while importing the SimBrief OFP. Please ensure that the file is a valid SimBrief OFP file and try again.</comment>
+  </data>
+  <data name="Time_InMonths" xml:space="preserve">
+    <value>{0} months</value>
+    <comment>{0} months</comment>
+  </data>
+  <data name="WarningMessageControl.NoMessages" xml:space="preserve">
+    <value>No Messages</value>
+    <comment>No Messages</comment>
+  </data>
+  <data name="WeatherState.Clouds.Overcast" xml:space="preserve">
+    <value>Overcast</value>
+    <comment>Overcast</comment>
+  </data>
+  <data name="WorldSelectionControl.NoWorldsAvailable" xml:space="preserve">
+    <value>No worlds available</value>
+    <comment>No worlds available</comment>
+  </data>
 </root>
