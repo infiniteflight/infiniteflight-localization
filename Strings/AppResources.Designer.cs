@@ -5094,6 +5094,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Replay.
+        /// </summary>
+        internal static string PauseControl_World_Replay {
+            get {
+                return ResourceManager.GetString("PauseControl.World.Replay", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Auto Pushback is not available for {0} at this time..
         /// </summary>
         internal static string PushbackSystem_AutoPushbackNotAvailableAirport {
