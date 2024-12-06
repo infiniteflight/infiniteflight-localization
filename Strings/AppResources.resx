@@ -4233,4 +4233,8 @@ Exit curent flight and try again.</comment>
     <value>Replay</value>
     <comment>Replay</comment>
   </data>
+  <data name="AircraftPage.ExpiresIn" xml:space="preserve">
+    <value>Expires in</value>
+    <comment>Expire in</comment>
+  </data>
 </root>

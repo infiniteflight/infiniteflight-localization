@@ -115,6 +115,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Expires in.
+        /// </summary>
+        internal static string AircraftPage_ExpiresIn {
+            get {
+                return ResourceManager.GetString("AircraftPage.ExpiresIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Includes Global &amp; Multiplayer.
         /// </summary>
         internal static string AircraftPage_IncludesGlobalAndMultiplayer {
