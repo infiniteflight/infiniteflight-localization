@@ -169,11 +169,47 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to RENT LIVERY.
+        ///   Looks up a localized string similar to RENT AIRCRAFT.
         /// </summary>
-        internal static string AircraftPage_RentLiveryUpper {
+        internal static string AircraftPage_RentAircraftUpper {
             get {
-                return ResourceManager.GetString("AircraftPage.RentLiveryUpper", resourceCulture);
+                return ResourceManager.GetString("AircraftPage.RentAircraftUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rental will begin on your next flight.
+        /// </summary>
+        internal static string AircraftPage_RentalBeginsNextFlight {
+            get {
+                return ResourceManager.GetString("AircraftPage.RentalBeginsNextFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Expires in {0}.
+        /// </summary>
+        internal static string AircraftPage_RentalExpiresIn {
+            get {
+                return ResourceManager.GetString("AircraftPage.RentalExpiresIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rental was cancelled.
+        /// </summary>
+        internal static string AircraftPage_RentalPaymentCancelled {
+            get {
+                return ResourceManager.GetString("AircraftPage.RentalPaymentCancelled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Payment pending.
+        /// </summary>
+        internal static string AircraftPage_RentalPaymentPending {
+            get {
+                return ResourceManager.GetString("AircraftPage.RentalPaymentPending", resourceCulture);
             }
         }
         

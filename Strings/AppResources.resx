@@ -4127,9 +4127,9 @@ Select a different destination airport</comment>
     <value>Includes Global &amp; Multiplayer</value>
     <comment>Includes Global &amp; Multiplayer</comment>
   </data>
-  <data name="AircraftPage.RentLiveryUpper" xml:space="preserve">
-    <value>RENT LIVERY</value>
-    <comment>RENT LIVERY</comment>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>RENT AIRCRAFT</value>
+    <comment>RENT AIRCRAFT</comment>
   </data>
   <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">
     <value>Please disconnect ground services before requesting taxi</value>
@@ -4236,5 +4236,17 @@ Exit curent flight and try again.</comment>
   <data name="AircraftPage.ExpiresIn" xml:space="preserve">
     <value>Expires in</value>
     <comment>Expire in</comment>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>Rental will begin on your next flight</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Expires in {0}</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>Rental was cancelled</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Payment pending</value>
   </data>
 </root>
