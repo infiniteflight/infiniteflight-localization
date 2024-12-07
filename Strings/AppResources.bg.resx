@@ -190,7 +190,7 @@
     <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Акаунтът ви е прекратен (код на грешката {0})</value>
+    <value>Акаунтът Ви е прекратен (код на грешката {0})</value>
     <comment>Your account has been suspended (error code {0})</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
@@ -210,7 +210,7 @@
     <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Акаунтът ви няма права да извърши това действие, моля, свържете се с поддръжката (код на грешката {0})</value>
+    <value>Акаунтът Ви няма права да извърши това действие, моля, свържете се с поддръжката (код на грешката {0})</value>
     <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
@@ -242,7 +242,7 @@
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
-    <value>Стриймингът на глобалния сървър е неуспешен, защото паметта на устройството ви е пълна</value>
+    <value>Стриймингът на глобалния сървър е неуспешен, защото паметта на устройството Ви е пълна</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
@@ -570,7 +570,7 @@
     <comment>Frame rate limit</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
-    <value>Задаването на кадрите в секунда на 60fps може да накара устройството ви да прегрее. За да предотврати щети, устройството ви може да забави работата си, което може да накара Infinite Flight да работи бавно. Препоръчваме да оставите тази настройка на 30fps.</value>
+    <value>Задаването на кадрите в секунда на 60fps може да накара устройството Ви да прегрее. За да предотврати щети, устройството Ви може да забави работата си, което може да накара Infinite Flight да работи бавно. Препоръчваме да оставите тази настройка на 30fps.</value>
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
@@ -666,11 +666,11 @@
     <comment>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Subtitle" xml:space="preserve">
-    <value>Показване на името ви по време на полет. Премахнете отметката, за да останете анонимни</value>
+    <value>Показване на името Ви по време на полет. Премахнете отметката, за да останете анонимни</value>
     <comment>Display your username in-flight. Uncheck to remain anonymous</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Title" xml:space="preserve">
-    <value>Показване на името ви в полет</value>
+    <value>Показване на името Ви в полет</value>
     <comment>Show Username In-Flight</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Subtitle" xml:space="preserve">
@@ -870,7 +870,7 @@
     <comment>Community Forum Account</comment>
   </data>
   <data name="Settings.Account.Forum.UnlinkedAccount" xml:space="preserve">
-    <value>Свържете Infinite Flight Community профил, за да виждате името си по време на полет. Свързването ви позволява и да се впишете от устройство на друга платформа.</value>
+    <value>Свържете Infinite Flight Community профил, за да виждате името си по време на полет. Свързването Ви позволява и да се впишете от устройство на друга платформа.</value>
     <comment>Connect an Infinite Flight Community profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription" xml:space="preserve">
@@ -878,7 +878,7 @@
     <comment>Manage Subscription</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Android" xml:space="preserve">
-    <value>Абонаментът ви е закупен от друга платформа и не може да бъде управляван от това устройство.</value>
+    <value>Абонаментът Ви е закупен от друга платформа и не може да бъде управляван от това устройство.</value>
     <comment>Your subscription was purchased on a different platform and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Error" xml:space="preserve">
@@ -886,7 +886,7 @@
     <comment>Can't connect to the store. You can manage your subscription by going to the store's subscriptions page.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.iOS" xml:space="preserve">
-    <value>Абонаментът ви е закупен от iOS и не може да бъде управляван от това устройство.</value>
+    <value>Абонаментът Ви е закупен от iOS и не може да бъде управляван от това устройство.</value>
     <comment>Your subscription was purchased on iOS and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.NotSubscribed" xml:space="preserve">
@@ -894,7 +894,7 @@
     <comment>You are not subscribed to Infinite Flight Pro</comment>
   </data>
   <data name="Settings.Account.Stats.Subtitle" xml:space="preserve">
-    <value>Вижте вашия ранг и история на нарушенията ви. Тези статистики определят нивото ви на достъп за мултиплейър сървъри</value>
+    <value>Вижте вашия ранг и история на нарушенията ви. Тези статистики определят нивото Ви на достъп за мултиплейър сървъри</value>
     <comment>See your grade level and violation history. These stats determine multiplayer server level eligibility</comment>
   </data>
   <data name="Settings.Account.Stats.Title" xml:space="preserve">
@@ -914,7 +914,7 @@
     <comment>You are subscribed to {0} which expires on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
-    <value>Подновяването на абонамента ви беше неуспешно. Натиснете "Управление на абонамента", за да проверите платежната информация преди {0}</value>
+    <value>Подновяването на абонамента Ви беше неуспешно. Натиснете "Управление на абонамента", за да проверите платежната информация преди {0}</value>
     <comment>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</comment>
   </data>
   <data name="Settings.Account.Subscription.Title" xml:space="preserve">
@@ -1802,15 +1802,15 @@
     <comment>No location has been selected, please select a frequency to open.</comment>
   </data>
   <data name="MenuPageBase.ProRequiredAircraft" xml:space="preserve">
-    <value>Нужен ви е Infinite Flight Pro абонамент, за да използвате този самолет</value>
+    <value>Нужен Ви е Infinite Flight Pro абонамент, за да използвате този самолет</value>
     <comment>Infinite Flight Pro is required to use this aircraft</comment>
   </data>
   <data name="MenuPageBase.ProRequiredStartAirport" xml:space="preserve">
-    <value>Нужен ви е Infinite Flight Pro абонамент, за да започнете полет на тази локация. Моля, променете началното летище.</value>
+    <value>Нужен Ви е Infinite Flight Pro абонамент, за да започнете полет на тази локация. Моля, променете началното летище.</value>
     <comment>Infinite Flight PRO is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="MenuPageBase.ShowUsernameDisabled" xml:space="preserve">
-    <value>Името ви трябва да е видимо преди да започнете сесия. Включете "{0}" в настройките.</value>
+    <value>Името Ви трябва да е видимо преди да започнете сесия. Включете "{0}" в настройките.</value>
     <comment>Your username needs to be visible before starting a session. Enable \"Show Username In-Flight\" in settings</comment>
   </data>
   <data name="Notam.Airport" xml:space="preserve">
@@ -2274,7 +2274,7 @@
     <comment>Welcome</comment>
   </data>
   <data name="Tips.Default" xml:space="preserve">
-    <value>Когато пръстът ви е на контрола на руля, теглете надолу за да активирате спирачките на земята.</value>
+    <value>Когато пръстът Ви е на контрола на руля, теглете надолу за да активирате спирачките на земята.</value>
     <comment>With your finger on the rudder control, slide down to activate the brakes on the ground.</comment>
   </data>
   <data name="FlightRatingPage.CurrentGrade" xml:space="preserve">
@@ -2362,11 +2362,11 @@
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
-    <value>Вие получихте нарушение ниво 2 и бяхте изключени от сесията си. Можете да започнете друг полет веднага и не е нужно обжалване, ако общият ви брой на нарушенията го позволява. Съветваме ви да прегледате приложимите уроци на youtube.com/infiniteflight</value>
+    <value>Вие получихте нарушение ниво 2 и бяхте изключени от сесията си. Можете да започнете друг полет веднага и не е нужно обжалване, ако общият Ви брой на нарушенията го позволява. Съветваме Ви да прегледате приложимите уроци на youtube.com/infiniteflight</value>
     <comment>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.Level3Received.Message" xml:space="preserve">
-    <value>Вие получихте нарушение ниво 3 и бяхте изключени от сесията си. Съветваме ви да прегледате приложимите уроци на youtube.com/infiniteflight</value>
+    <value>Вие получихте нарушение ниво 3 и бяхте изключени от сесията си. Съветваме Ви да прегледате приложимите уроци на youtube.com/infiniteflight</value>
     <comment>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review and applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.UnspecifiedReason" xml:space="preserve">
@@ -2382,7 +2382,7 @@
     <comment>Aircraft idle on active runway for too longA level 1 violation has been issued</comment>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
-    <value>Превишихте максималната наземна скорост от 35 възела. Издадено ви е нарушение ниво 1. Намалете скоростта, за да избегнете допълнителни нарушения.</value>
+    <value>Превишихте максималната наземна скорост от 35 възела. Издадено Ви е нарушение ниво 1. Намалете скоростта, за да избегнете допълнителни нарушения.</value>
     <comment>Exceeded max ground speed of 35kts.A level 1 violation has been issued.Slow down to avoid further violations.</comment>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
@@ -2938,7 +2938,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <comment>Welcome to Infinite Flight! Tap this window to get started and see the mission briefing and instructions</comment>
   </data>
   <data name="DefaultMission.YourMissionBrief" xml:space="preserve">
-    <value>Мисията ви днес е:
+    <value>Мисията Ви днес е:
 {0}</value>
     <comment>Your mission today is:
 {0}</comment>
@@ -3289,7 +3289,7 @@ PLAYER</comment>
     <comment>Flight Training is only available in singleplayer.</comment>
   </data>
   <data name="GameSelectionModalControl.GradeTooLowIFATC" xml:space="preserve">
-    <value>Рангът ви е прекалено нисък. Членове на IFATC имат достъп до РВД по всяко време.</value>
+    <value>Рангът Ви е прекалено нисък. Членове на IFATC имат достъп до РВД по всяко време.</value>
     <comment>Grade is too low. IFATC can only go to ATC at all times.</comment>
   </data>
   <data name="GameSelectionModalControl.Join" xml:space="preserve">
@@ -3767,5 +3767,355 @@ REPLAYS</comment>
   <data name="Simbrief.WeightAndBalanceUpdated" xml:space="preserve">
     <value>Конфигурацията на пътници и карго е приложена в съотвествие с оперативния полетен план.</value>
     <comment>The aircraft weight and balance has been updated with the passenger and cargo weights from the OFP.</comment>
+  </data>
+<data name="Error.ConnectedOnOtherDevice" xml:space="preserve">
+    <value>Вече сте свързани на друго устройство</value>
+  </data>
+  <data name="Error.MultiplayerAtcAlreadyActive" xml:space="preserve">
+    <value>Вече сте свързани към този сървър на друго устройство (код на грешката {0})</value>
+  </data>
+  <data name="Error.MultiplayerFlightAlreadyActive" xml:space="preserve">
+    <value>Вече сте свързани към този сървър на друго устройство (код на грешката {0})</value>
+  </data>
+  <data name="NewsControl.Partnership" xml:space="preserve">
+    <value>Партньорство</value>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableAirport" xml:space="preserve">
+    <value>Автоматичното буксиране не е възможно за {0} в момента.</value>
+    <comment>Auto Pushback is not available for {0} at this time.</comment>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableLocation" xml:space="preserve">
+    <value>Автоматичното буксиране не е възможно на това местоположение.</value>
+    <comment>Auto Pushback is not available at this location.</comment>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableParking" xml:space="preserve">
+    <value>Автоматичното буксиране не е възможно в момента.
+Преместете самолета до стоянка за паркиране или използвайте ръчно буксиране.</value>
+    <comment>Auto Pushback unavailable at this time.
+Move aircraft to a parking stand or use manual pushback.</comment>
+  </data>
+  <data name="PushbackSystem.ChooseAnotherPointMessage" xml:space="preserve">
+    <value>Изберете друга точка, към която да издърпате самолета, или натиснете "START", за да започнете буксирането.</value>
+    <comment>Choose another point to pull the plane to, or tap start to begin pushback sequence.</comment>
+  </data>
+  <data name="PushbackSystem.ChooseFirstPointMessage" xml:space="preserve">
+    <value>Натиснете върху рульожка, за да изберете първата крайна точка.</value>
+    <comment>Tap on a taxiway line to choose the first end point.</comment>
+  </data>
+  <data name="PushbackSystem.MaxTwoPointsAllowed" xml:space="preserve">
+    <value>Не е разрешено поставянето на повече от 2 точки.</value>
+    <comment>Maximum of two points allowed.</comment>
+  </data>
+  <data name="PushbackSystem.PathTooLong" xml:space="preserve">
+    <value>Маршрутът е прекалено дълъг. Моля, изберете по-близка точка.</value>
+    <comment>Path is too long. Please choose a closer point.</comment>
+  </data>
+  <data name="PushbackSystem.PathTooShort" xml:space="preserve">
+    <value>Маршрутът е прекалено къс. Моля, изберете по-далечна точка.</value>
+    <comment>Path is too short. Please choose a further point.</comment>
+  </data>
+  <data name="PushbackSystem.StartedPleaseWait" xml:space="preserve">
+    <value>Буксирането започна. Моля, изчакайте.</value>
+    <comment>Pushback started. Please wait.</comment>
+  </data>
+  <data name="PushbackSystem.TapStartToBeginMessage" xml:space="preserve">
+    <value>Натиснете "START", за да започнете буксирането.</value>
+    <comment>Tap start to begin pushback sequence.</comment>
+  </data>
+  <data name="PushbackSystem.UnableGroundServices" xml:space="preserve">
+    <value>Буксирането не е възможно.
+Изключете всички наземни услуги, за да започнете буксирането.</value>
+    <comment>Unable to pushback.
+Disconnect all ground services to start pushback.</comment>
+  </data>
+  <data name="PushbackSystem.UnableGroundServicesAndParkingBrake" xml:space="preserve">
+    <value>Буксирането не е възможно.
+Изключете всички наземни услуги и ръчната спирачка, за да започнете буксирането.</value>
+    <comment>Unable to pushback.
+Disconnect all ground services and set PARK BRAKES to OFF to start pushback.</comment>
+  </data>
+  <data name="PushbackSystem.UnableParkingBrake" xml:space="preserve">
+    <value>Буксирането не е възможно.
+Изключете ръчната спирачка, за да започнете буксирането.</value>
+    <comment>Unable to pushback.
+Set PARK BRAKES to OFF to start pushback.</comment>
+  </data>
+  <data name="PushbackSystem.UnableToStartMessage" xml:space="preserve">
+    <value>Автоматичното буксиране не е възможно.
+Изключете всички наземни услуги преди да започнете буксирането.</value>
+    <comment>Unable to start auto pushback.
+Disconnect all ground services prior to starting pushback.</comment>
+  </data>
+  <data name="AirportEditorFileManager.AirportSubmitDraftUploaded" xml:space="preserve">
+    <value>Черновата на вашето летище е качена!</value>
+    <comment>Your draft airport has been uploaded!</comment>
+  </data>
+  <data name="AirportEditorFileManager.AirportSubmitReviewUploaded" xml:space="preserve">
+    <value>Вашето летище е качено и в изчакване за разглеждане.
+
+Моля, проверете публикацията на летището във форума за рецензия от екипа за официално разглеждане.</value>
+    <comment>Your airport has been uploaded and is waiting for review.
+
+Please check the airport's forum thread for feedback from the Official Review team.</comment>
+  </data>
+  <data name="ATCManager.ReportUserNoIFCLink" xml:space="preserve">
+    <value>Трябва да свържете вашия профил във форума в настройките, за да докладвате друг ползвател</value>
+    <comment>You need to connect your Infinite Flight Community profile in settings to report a user</comment>
+  </data>
+  <data name="Autopilot.IASModeDeactivated" xml:space="preserve">
+    <value>Режимът на ПВС е изключен</value>
+    <comment>IAS Mode Deactivated</comment>
+  </data>
+  <data name="Autopilot.LNAVUnavailable" xml:space="preserve">
+    <value>LNAV не е наличнен: Липсва полетен план или честота NAV1 не е настроена.</value>
+    <comment>LNAV Unavailable: Flight plan missing or NAV1 not tuned.</comment>
+  </data>
+  <data name="Autopilot.SimulationTimeScaleResetAircraftTooFast" xml:space="preserve">
+    <value>Времевата скала на симулация е нулирана към 1x.
+Скоростта на самолета е прекалено висока. (&gt; M1.0)</value>
+    <comment>Simulation time scale reset to 1x.
+Aircraft speed too high. (&gt; M1.0)</comment>
+  </data>
+  <data name="Autopilot.SimulationTimeScaleResetAutopilotDisconnected" xml:space="preserve">
+    <value>Времевата скала на симулация е нулирана към 1x.
+Автопилотът е изключен</value>
+    <comment>Simulation time scale reset to 1x.
+Autopilot Disconnected</comment>
+  </data>
+  <data name="FlightPlanControl.FPLNotValid" xml:space="preserve">
+    <value>Полетния план не е валиден</value>
+    <comment>The flight plan file isn't valid</comment>
+  </data>
+  <data name="GameSelectionControl.AtcUnavailable" xml:space="preserve">
+    <value>РВД не е налично</value>
+    <comment>ATC is unavailable</comment>
+  </data>
+  <data name="GameSelectionControl.LowGradeUpper" xml:space="preserve">
+    <value>НИСЪК РАНГ</value>
+    <comment>LOW GRADE</comment>
+  </data>
+  <data name="GameSelectionJoinIfatcControl.JoinIfatcUpper" xml:space="preserve">
+    <value>ПРИСЪЕДИНЯВАНЕ КЪМ IFATC</value>
+    <comment>JOIN IFATC</comment>
+  </data>
+  <data name="MainMenuPage.WorldIsUnknown" xml:space="preserve">
+    <value>Светът не е наличен</value>
+    <comment>World is unknown</comment>
+  </data>
+  <data name="MapItemInfoControl.AirportDestinationCannotAccomodateAircraft" xml:space="preserve">
+    <value>{0} не е пригодно летище за {1}.
+Изберете различна дестинация</value>
+    <comment>{0} cannot accomodate a {1}.
+Select a different destination airport</comment>
+  </data>
+  <data name="MapItemInfoControl.ILSOutOfRange" xml:space="preserve">
+    <value>ILS системата е извън обсег</value>
+    <comment>ILS is out of range</comment>
+  </data>
+  <data name="MapItemInfoControl.UnableSetILSAirportNotFound" xml:space="preserve">
+    <value>Неуспешно задаване на ILS, летището не е намерено</value>
+    <comment>Unable to set ILS, airport not found</comment>
+  </data>
+  <data name="Replay.UploadSuccess" xml:space="preserve">
+    <value>Успешно качване на записа</value>
+    <comment>Replay uploaded successfully</comment>
+  </data>
+  <data name="WeightBalanceControl.Load" xml:space="preserve">
+    <value>Товар</value>
+    <comment>Load</comment>
+  </data>
+  <data name="AboutControl.AboutTitle" xml:space="preserve">
+    <value>Относно</value>
+    <comment>About</comment>
+  </data>
+  <data name="AboutControl.CreditsTitle" xml:space="preserve">
+    <value>Заслуги</value>
+    <comment>Credits</comment>
+  </data>
+  <data name="CallsignSelectionPage.CallsignCannotBeBlank" xml:space="preserve">
+    <value>Позивната Ви не може да е празна</value>
+    <comment>Your callsign cannot be blank</comment>
+  </data>
+  <data name="CallsignSelectionPage.CallsignNotValid" xml:space="preserve">
+    <value>Позивната Ви не е валидна</value>
+    <comment>Your callsign isn't valid</comment>
+  </data>
+  <data name="CallsignSelectionPage.GACallsignNotValidCountry" xml:space="preserve">
+    <value>Позивната Ви не е валидна. Уверете се, че е избрана валидна регистрация на държава</value>
+    <comment>Your callsign isn't valid. Make sure a valid country registration is selected</comment>
+  </data>
+  <data name="CallsignSelectionPage.GACallsignTooLong" xml:space="preserve">
+    <value>Позивната Ви е прекалено дълга за формата на тази държава</value>
+    <comment>Your callsign is too long for this country's format</comment>
+  </data>
+  <data name="CallsignSelectionPage.IdentifierOnlyNumberTwoSuffixLetters" xml:space="preserve">
+    <value>Идентификаторът може да съдържа само числа и 2 букви</value>
+    <comment>Identifier can only contain numbers and two suffix letters</comment>
+  </data>
+  <data name="CallsignSelectionPage.IdentifierTooLong" xml:space="preserve">
+    <value>Идентификаторът Ви е прекалено дълъг - разрешени са до 5 символа</value>
+    <comment>Your identifier is too long, 5 characters maximum</comment>
+  </data>
+  <data name="CallsignSelectionPage.InvalidCallsignNotMatchedFormat" xml:space="preserve">
+    <value>Позивната Ви не е валидна. Уверете се, че отговаря на формата</value>
+    <comment>Your callsign is invalid. Make sure it matches the available format</comment>
+  </data>
+  <data name="CreditsControl.SpecialThanks" xml:space="preserve">
+    <value>Специални благодарности</value>
+    <comment>Special Thanks</comment>
+  </data>
+  <data name="GamePage.ErrorRestartApp" xml:space="preserve">
+    <value>Възникна грешка. Моля, рестартирайте приложението</value>
+    <comment>An error has occured. Please restart the application</comment>
+  </data>
+  <data name="MainMenuPage.ATCLocalRadarNotAllowed" xml:space="preserve">
+    <value>С цел поддържане на високо качество на услугите като РВД, обслужването на Земя/Кула и Отлитане/Подход/Център едновременно не е разрешено. Моля, променете избора си.</value>
+    <comment>In order to provide excellent Air Traffic Control service, being on duty at a Tower/Ground and Approach/Departure/Center simultaneously is not allowed. Please change your selection.</comment>
+  </data>
+  <data name="MainMenuPage.ATCRadarCenterNotAllowed" xml:space="preserve">
+    <value>С цел поддържане на високо качество на услугите като РВД, обслужването на Отлитане/Подход и Център едновременно не е разрешено. Моля, променете избора си.</value>
+    <comment>In order to provide excellent Air Traffic Control service, being on duty at an Approach/Departure and Center simultaneously is not allowed. Please change your selection.</comment>
+  </data>
+  <data name="MainMenuPage.ExpertATCLocalLargeAirportDurationTooLow" xml:space="preserve">
+    <value>С цел поддържане на високо качество на услугите като РВД, обслужването на Земя/Кула на голямо летище за по-малко от 1 час не е разрешено. Моля, променете продължителността.</value>
+    <comment>In order to provide excellent Air Traffic Control service on Expert, being on duty at a Tower/Ground frequency at a large airport for less than an hour is not allowed. Please change the duration.</comment>
+  </data>
+  <data name="MainMenuPage.ExpertATCRadarDurationTooLow" xml:space="preserve">
+    <value>С цел поддържане на високо качество на услугите като РВД, обслужването на Отлитане/Подход/Център на голямо летище за по-малко от 1 час не е разрешено. Моля, променете продължителността.</value>
+    <comment>In order to provide excellent Air Traffic Control service on Expert, being on duty at an Approach/Departure/Center frequency for less than an hour is not allowed. Please change the duration.</comment>
+  </data>
+  <data name="MainMenuPage.ScenarioStartLocationInvalid" xml:space="preserve">
+    <value>Началната точка на сценария не е валидна</value>
+    <comment>The scenario start location is invalid</comment>
+  </data>
+  <data name="SocialNetworkSummaryExtendedViolations.LevelFormat" xml:space="preserve">
+    <value>Ниво {0}</value>
+    <comment>Level {0}</comment>
+  </data>
+  <data name="AircraftPage.IncludesGlobalAndMultiplayer" xml:space="preserve">
+    <value>Включва глобален достъп и мултиплейър</value>
+    <comment>Includes Global &amp; Multiplayer</comment>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>НАЕМ НА САМОЛЕТ</value>
+    <comment>RENT AIRCRAFT</comment>
+  </data>
+  <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">
+    <value>Моля, изключете наземните услуги преди да поискате рулиране</value>
+    <comment>Please disconnect ground services before requesting taxi</comment>
+  </data>
+  <data name="ATCIncomingFlightsControl.IncomingAirplanes" xml:space="preserve">
+    <value>Пристигащи самолети</value>
+    <comment>Incoming Airplanes</comment>
+  </data>
+  <data name="ATCIncomingFlightsControl.IncomingAirplanesToFormat" xml:space="preserve">
+    <value>Пристигащи самолети до {0}</value>
+    <comment>Incoming Airplanes to {0}</comment>
+  </data>
+  <data name="ATCWorld.Disconnected" xml:space="preserve">
+    <value>Изключен</value>
+    <comment>Disconnected</comment>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.FrequencyAlreadyInUse" xml:space="preserve">
+    <value>Една или повече от избраните честоти не е налична.</value>
+    <comment>One or more of the selected frequencies is unavailable.</comment>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.TooManyUsers" xml:space="preserve">
+    <value>Сървърът е пълен в моменат. Опитайте отново по-късно.</value>
+    <comment>The server is currently full. Please try again later.</comment>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.UserAlreadyConnected" xml:space="preserve">
+    <value>Вече им активна връзка със сървъра с този акаунт.</value>
+    <comment>There is already an active connection with this user account.</comment>
+  </data>
+  <data name="CallsignSelectionPage.NoCallsignsFound" xml:space="preserve">
+    <value>Няма намерени позивни!</value>
+    <comment>No callsigns found!</comment>
+  </data>
+  <data name="Game.UnableToStartScenarioWhileFlying" xml:space="preserve">
+    <value>Започването на сценарий докато друг полет е в прогрес не е възможно.
+Прекратете сегашния си полет и опитайте отново.</value>
+    <comment>Unable to start scenario while a flight is in progress.
+Exit curent flight and try again.</comment>
+  </data>
+  <data name="GameControlsKeySetup2.ButtonUpper" xml:space="preserve">
+    <value>БУТОН</value>
+    <comment>BUTTON</comment>
+  </data>
+  <data name="GameControlsKeySetup2.MoveAxisOrPressButtonToAssignUpper" xml:space="preserve">
+    <value>РАЗДВИЖЕТЕ ОС ИЛИ НАТИСНЕТЕ БУТОН, ЗА ДА ЗАДАДЕТЕ</value>
+    <comment>MOVE AXIS OR PRESS BUTTON TO ASSIGN</comment>
+  </data>
+  <data name="GameControlsKeySetup2.PressButtonToAssignUpper" xml:space="preserve">
+    <value>НАТИСНЕТЕ БУТОН, ЗА ДА ГО ЗАДАДЕТЕ</value>
+    <comment>PRESS BUTTON TO ASSIGN</comment>
+  </data>
+  <data name="GamePage.NoAirportFoundVicinity" xml:space="preserve">
+    <value>Не е намерено летище в близост до вас</value>
+    <comment>No airport was found in your vicinity</comment>
+  </data>
+  <data name="InputAssignmentControl.AssignedUpper" xml:space="preserve">
+    <value>ЗАДАДЕНО</value>
+    <comment>ASSIGNED</comment>
+  </data>
+  <data name="InputAssignmentControl.FilterFormat" xml:space="preserve">
+    <value>ФИЛТЪТ: {0}</value>
+    <comment>FILTER: {0}</comment>
+  </data>
+  <data name="MenuAtcControl.NoScenarioSelected" xml:space="preserve">
+    <value>Не е избран сценарий</value>
+    <comment>No scenario selected</comment>
+  </data>
+  <data name="MenuPage.UnableToStartScenario" xml:space="preserve">
+    <value>Сценарият не може да бъде започнат</value>
+    <comment>Unable to start scenario.</comment>
+  </data>
+  <data name="MissionStatusControl.Waypoint" xml:space="preserve">
+    <value>Точка</value>
+    <comment>Waypoint</comment>
+  </data>
+  <data name="SimbriefImporter.NetworkFailed" xml:space="preserve">
+    <value>Възникна грешка при внасянето на полетния план от SimBrief. Проверете интернет връзката си и опитайте отново.</value>
+    <comment>An error occurred while importing the SimBrief OFP. Check your internet connection and try again.</comment>
+  </data>
+  <data name="SimbriefImporter.ParseFailed" xml:space="preserve">
+    <value>Възникна грешка при внасянето на полетния план от SimBrief. Уверете се, че файлът е валиден полетен план от SimBrief OFP и опитайте отново.</value>
+    <comment>An error occurred while importing the SimBrief OFP. Please ensure that the file is a valid SimBrief OFP file and try again.</comment>
+  </data>
+  <data name="Time_InMonths" xml:space="preserve">
+    <value>{0} месеца</value>
+    <comment>{0} months</comment>
+  </data>
+  <data name="WarningMessageControl.NoMessages" xml:space="preserve">
+    <value>Няма съобщения</value>
+    <comment>No Messages</comment>
+  </data>
+  <data name="WeatherState.Clouds.Overcast" xml:space="preserve">
+    <value>Преобладаващи</value>
+    <comment>Overcast</comment>
+  </data>
+  <data name="WorldSelectionControl.NoWorldsAvailable" xml:space="preserve">
+    <value>Няма налични светове</value>
+    <comment>No worlds available</comment>
+  </data>
+  <data name="PauseControl.World.Replay" xml:space="preserve">
+    <value>Запис</value>
+    <comment>Replay</comment>
+  </data>
+  <data name="AircraftPage.ExpiresIn" xml:space="preserve">
+    <value>Изтича след</value>
+    <comment>Expire in</comment>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>Времето за наем ще започне да тече при следващия Ви полет</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Изтича след {0}</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>Наемът е отменен</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Изчаква се плащане</value>
   </data>
 </root>
