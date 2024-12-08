@@ -3788,4 +3788,352 @@ REPLAYS</comment>
     <value>飞机的重量与配载已经根据飞行计划中的乘客和货物重量更新完成。</value>
     <comment>The aircraft weight and balance has been updated with the passenger and cargo weights from the OFP.</comment>
   </data>
+  <data name="Error.ConnectedOnOtherDevice" xml:space="preserve">
+    <value>当前已在另一设备上连接</value>
+  </data>
+  <data name="Error.MultiplayerAtcAlreadyActive" xml:space="preserve">
+    <value>你当前在另一设备上已经连入此连飞服务器（错误代码{0}）</value>
+  </data>
+  <data name="Error.MultiplayerFlightAlreadyActive" xml:space="preserve">
+    <value>你当前在另一设备上已经连入此连飞服务器（错误代码{0}）</value>
+  </data>
+  <data name="NewsControl.Partnership" xml:space="preserve">
+    <value>合作</value>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableAirport" xml:space="preserve">
+    <value>{0}机场暂时不能使用自动后推</value>
+    <comment>Auto Pushback is not available for {0} at this time.</comment>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableLocation" xml:space="preserve">
+    <value>当前位置不能使用自动后推</value>
+    <comment>Auto Pushback is not available at this location.</comment>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableParking" xml:space="preserve">
+    <value>自动后推暂时不可用。
+请先将飞机移动到停机位，或使用手动后推。</value>
+    <comment>Auto Pushback unavailable at this time.
+Move aircraft to a parking stand or use manual pushback.</comment>
+  </data>
+  <data name="PushbackSystem.ChooseAnotherPointMessage" xml:space="preserve">
+    <value>选取另一个点来将飞机进一步牵引到该点，或点击Start直接开始后推。</value>
+    <comment>Choose another point to pull the plane to, or tap start to begin pushback sequence.</comment>
+  </data>
+  <data name="PushbackSystem.ChooseFirstPointMessage" xml:space="preserve">
+    <value>点击滑行道选择后推的第一个停止点。</value>
+    <comment>Tap on a taxiway line to choose the first end point.</comment>
+  </data>
+  <data name="PushbackSystem.MaxTwoPointsAllowed" xml:space="preserve">
+    <value>最多只能选择两个点。</value>
+    <comment>Maximum of two points allowed.</comment>
+  </data>
+  <data name="PushbackSystem.PathTooLong" xml:space="preserve">
+    <value>路径太长，请选择近一些的点。</value>
+    <comment>Path is too long. Please choose a closer point.</comment>
+  </data>
+  <data name="PushbackSystem.PathTooShort" xml:space="preserve">
+    <value>路径太短，请选择远一些的点。</value>
+    <comment>Path is too short. Please choose a further point.</comment>
+  </data>
+  <data name="PushbackSystem.StartedPleaseWait" xml:space="preserve">
+    <value>后推已开始。请稍候。</value>
+    <comment>Pushback started. Please wait.</comment>
+  </data>
+  <data name="PushbackSystem.TapStartToBeginMessage" xml:space="preserve">
+    <value>点击Start开始后推。</value>
+    <comment>Tap start to begin pushback sequence.</comment>
+  </data>
+  <data name="PushbackSystem.UnableGroundServices" xml:space="preserve">
+    <value>无法后推。
+后推前请断开所有地勤设备。</value>
+    <comment>Unable to pushback.
+Disconnect all ground services to start pushback.</comment>
+  </data>
+  <data name="PushbackSystem.UnableGroundServicesAndParkingBrake" xml:space="preserve">
+    <value>无法后推。
+后推前请断开所有地勤设备并松开停机刹车。</value>
+    <comment>Unable to pushback.
+Disconnect all ground services and set PARK BRAKES to OFF to start pushback.</comment>
+  </data>
+  <data name="PushbackSystem.UnableParkingBrake" xml:space="preserve">
+    <value>无法后推。
+后推前请松开停机刹车。</value>
+    <comment>Unable to pushback.
+Set PARK BRAKES to OFF to start pushback.</comment>
+  </data>
+  <data name="PushbackSystem.UnableToStartMessage" xml:space="preserve">
+    <value>无法自动后推。
+后推前请断开所有地勤设备。</value>
+    <comment>Unable to start auto pushback.
+Disconnect all ground services prior to starting pushback.</comment>
+  </data>
+  <data name="AirportEditorFileManager.AirportSubmitDraftUploaded" xml:space="preserve">
+    <value>机场草稿上传成功！</value>
+    <comment>Your draft airport has been uploaded!</comment>
+  </data>
+  <data name="AirportEditorFileManager.AirportSubmitReviewUploaded" xml:space="preserve">
+    <value>机场送审成功，正在等待审核。
+
+请关注此机场的社区帖子查收审核团队的修改意见。</value>
+    <comment>Your airport has been uploaded and is waiting for review.
+
+Please check the airport's forum thread for feedback from the Official Review team.</comment>
+  </data>
+  <data name="ATCManager.ReportUserNoIFCLink" xml:space="preserve">
+    <value>你需要绑定你的Infinite Flight Community个人档案，然后才能开罚单</value>
+    <comment>You need to connect your Infinite Flight Community profile in settings to report a user</comment>
+  </data>
+  <data name="Autopilot.IASModeDeactivated" xml:space="preserve">
+    <value>速度模式脱开</value>
+    <comment>IAS Mode Deactivated</comment>
+  </data>
+  <data name="Autopilot.LNAVUnavailable" xml:space="preserve">
+    <value>水平导航不可用：未设置飞行计划或未调整至NAV1模式</value>
+    <comment>LNAV Unavailable: Flight plan missing or NAV1 not tuned.</comment>
+  </data>
+  <data name="Autopilot.SimulationTimeScaleResetAircraftTooFast" xml:space="preserve">
+    <value>时间流速回归正常倍速（飞机速度过大）(&gt; M1.0)</value>
+    <comment>Simulation time scale reset to 1x.
+Aircraft speed too high. (&gt; M1.0)</comment>
+  </data>
+  <data name="Autopilot.SimulationTimeScaleResetAutopilotDisconnected" xml:space="preserve">
+    <value>时间流速回归正常倍速（自动驾驶脱开）</value>
+    <comment>Simulation time scale reset to 1x.
+Autopilot Disconnected</comment>
+  </data>
+  <data name="FlightPlanControl.FPLNotValid" xml:space="preserve">
+    <value>飞行计划文件无效</value>
+    <comment>The flight plan file isn't valid</comment>
+  </data>
+  <data name="GameSelectionControl.AtcUnavailable" xml:space="preserve">
+    <value>ATC不可用</value>
+    <comment>ATC is unavailable</comment>
+  </data>
+  <data name="GameSelectionControl.LowGradeUpper" xml:space="preserve">
+    <value>等级低</value>
+    <comment>LOW GRADE</comment>
+  </data>
+  <data name="GameSelectionJoinIfatcControl.JoinIfatcUpper" xml:space="preserve">
+    <value>加入IFATC</value>
+    <comment>JOIN IFATC</comment>
+  </data>
+  <data name="MainMenuPage.WorldIsUnknown" xml:space="preserve">
+    <value>模式未知</value>
+    <comment>World is unknown</comment>
+  </data>
+  <data name="MapItemInfoControl.AirportDestinationCannotAccomodateAircraft" xml:space="preserve">
+    <value>{0} 机场太小，不能保障 {1}.
+请选择其他合适的目的地机场。</value>
+    <comment>{0} cannot accomodate a {1}.
+Select a different destination airport</comment>
+  </data>
+  <data name="MapItemInfoControl.ILSOutOfRange" xml:space="preserve">
+    <value>超出ILS接收范围</value>
+    <comment>ILS is out of range</comment>
+  </data>
+  <data name="MapItemInfoControl.UnableSetILSAirportNotFound" xml:space="preserve">
+    <value>无法设置ILS，未找到机场</value>
+    <comment>Unable to set ILS, airport not found</comment>
+  </data>
+  <data name="Replay.UploadSuccess" xml:space="preserve">
+    <value>回放上传成功</value>
+    <comment>Replay uploaded successfully</comment>
+  </data>
+  <data name="WeightBalanceControl.Load" xml:space="preserve">
+    <value>装载设置</value>
+    <comment>Load</comment>
+  </data>
+  <data name="AboutControl.AboutTitle" xml:space="preserve">
+    <value>关于</value>
+    <comment>About</comment>
+  </data>
+  <data name="AboutControl.CreditsTitle" xml:space="preserve">
+    <value>制作人员</value>
+    <comment>Credits</comment>
+  </data>
+  <data name="CallsignSelectionPage.CallsignCannotBeBlank" xml:space="preserve">
+    <value>呼号不可为空</value>
+    <comment>Your callsign cannot be blank</comment>
+  </data>
+  <data name="CallsignSelectionPage.CallsignNotValid" xml:space="preserve">
+    <value>你的呼号无效</value>
+    <comment>Your callsign isn't valid</comment>
+  </data>
+  <data name="CallsignSelectionPage.GACallsignNotValidCountry" xml:space="preserve">
+    <value>你的呼号无效，请确保选择了有效的国籍标志</value>
+    <comment>Your callsign isn't valid. Make sure a valid country registration is selected</comment>
+  </data>
+  <data name="CallsignSelectionPage.GACallsignTooLong" xml:space="preserve">
+    <value>你的呼号超出了该国籍标志规定的注册号长度</value>
+    <comment>Your callsign is too long for this country's format</comment>
+  </data>
+  <data name="CallsignSelectionPage.IdentifierOnlyNumberTwoSuffixLetters" xml:space="preserve">
+    <value>呼号只能包含数字和两个后缀字母</value>
+    <comment>Identifier can only contain numbers and two suffix letters</comment>
+  </data>
+  <data name="CallsignSelectionPage.IdentifierTooLong" xml:space="preserve">
+    <value>你的呼号过长，最多5个字符</value>
+    <comment>Your identifier is too long, 5 characters maximum</comment>
+  </data>
+  <data name="CallsignSelectionPage.InvalidCallsignNotMatchedFormat" xml:space="preserve">
+    <value>你的呼号无效，请确保符合规定格式：</value>
+    <comment>Your callsign is invalid. Make sure it matches the available format</comment>
+  </data>
+  <data name="CreditsControl.SpecialThanks" xml:space="preserve">
+    <value>特别致谢</value>
+    <comment>Special Thanks</comment>
+  </data>
+  <data name="GamePage.ErrorRestartApp" xml:space="preserve">
+    <value>发生错误，请重启应用</value>
+    <comment>An error has occured. Please restart the application</comment>
+  </data>
+  <data name="MainMenuPage.ATCLocalRadarNotAllowed" xml:space="preserve">
+    <value>为确保高质量管制服务，不允许同时担任机场管制（塔台/地面）和雷达管制（进近/离场/区域）席位。请重新选择席位。</value>
+    <comment>In order to provide excellent Air Traffic Control service, being on duty at a Tower/Ground and Approach/Departure/Center simultaneously is not allowed. Please change your selection.</comment>
+  </data>
+  <data name="MainMenuPage.ATCRadarCenterNotAllowed" xml:space="preserve">
+    <value>为确保高质量管制服务，不允许同时担任进近/离场和区域席位。请重新选择席位。</value>
+    <comment>In order to provide excellent Air Traffic Control service, being on duty at an Approach/Departure and Center simultaneously is not allowed. Please change your selection.</comment>
+  </data>
+  <data name="MainMenuPage.ExpertATCLocalLargeAirportDurationTooLow" xml:space="preserve">
+    <value>为确保高质量管制服务，在大型机场担任机场管制时长不应低于一小时。请更改管制时长。</value>
+    <comment>In order to provide excellent Air Traffic Control service on Expert, being on duty at a Tower/Ground frequency at a large airport for less than an hour is not allowed. Please change the duration.</comment>
+  </data>
+  <data name="MainMenuPage.ExpertATCRadarDurationTooLow" xml:space="preserve">
+    <value>为确保高质量管制服务，在大型机场担任雷达管制时长不应低于一小时。请更改管制时长。</value>
+    <comment>In order to provide excellent Air Traffic Control service on Expert, being on duty at an Approach/Departure/Center frequency for less than an hour is not allowed. Please change the duration.</comment>
+  </data>
+  <data name="MainMenuPage.ScenarioStartLocationInvalid" xml:space="preserve">
+    <value>该场景的出发地点无效</value>
+    <comment>The scenario start location is invalid</comment>
+  </data>
+  <data name="SocialNetworkSummaryExtendedViolations.LevelFormat" xml:space="preserve">
+    <value>{0}级</value>
+    <comment>Level {0}</comment>
+  </data>
+  <data name="AircraftPage.IncludesGlobalAndMultiplayer" xml:space="preserve">
+    <value>包括全球地景和连飞模式</value>
+    <comment>Includes Global &amp; Multiplayer</comment>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>租借该机型</value>
+    <comment>RENT AIRCRAFT</comment>
+  </data>
+  <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">
+    <value>申请滑行前请断开所有地勤设备</value>
+    <comment>Please disconnect ground services before requesting taxi</comment>
+  </data>
+  <data name="ATCIncomingFlightsControl.IncomingAirplanes" xml:space="preserve">
+    <value>即将到港</value>
+    <comment>Incoming Airplanes</comment>
+  </data>
+  <data name="ATCIncomingFlightsControl.IncomingAirplanesToFormat" xml:space="preserve">
+    <value>即将到达 {0}</value>
+    <comment>Incoming Airplanes to {0}</comment>
+  </data>
+  <data name="ATCWorld.Disconnected" xml:space="preserve">
+    <value>已断开连接</value>
+    <comment>Disconnected</comment>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.FrequencyAlreadyInUse" xml:space="preserve">
+    <value>一个或多个选择的频率不可用</value>
+    <comment>One or more of the selected frequencies is unavailable.</comment>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.TooManyUsers" xml:space="preserve">
+    <value>服务器当前满员，请稍后再试。</value>
+    <comment>The server is currently full. Please try again later.</comment>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.UserAlreadyConnected" xml:space="preserve">
+    <value>当前账户已经连入服务器</value>
+    <comment>There is already an active connection with this user account.</comment>
+  </data>
+  <data name="CallsignSelectionPage.NoCallsignsFound" xml:space="preserve">
+    <value>未找到呼号！</value>
+    <comment>No callsigns found!</comment>
+  </data>
+  <data name="Game.UnableToStartScenarioWhileFlying" xml:space="preserve">
+    <value>当前有飞行正在进行中，无法开始场景。
+请退出飞行后重试。</value>
+    <comment>Unable to start scenario while a flight is in progress.
+Exit curent flight and try again.</comment>
+  </data>
+  <data name="GameControlsKeySetup2.ButtonUpper" xml:space="preserve">
+    <value>按键</value>
+    <comment>BUTTON</comment>
+  </data>
+  <data name="GameControlsKeySetup2.MoveAxisOrPressButtonToAssignUpper" xml:space="preserve">
+    <value>移动轴或按下按键来绑定</value>
+    <comment>MOVE AXIS OR PRESS BUTTON TO ASSIGN</comment>
+  </data>
+  <data name="GameControlsKeySetup2.PressButtonToAssignUpper" xml:space="preserve">
+    <value>按下按键来绑定</value>
+    <comment>PRESS BUTTON TO ASSIGN</comment>
+  </data>
+  <data name="GamePage.NoAirportFoundVicinity" xml:space="preserve">
+    <value>你附近没有找到机场</value>
+    <comment>No airport was found in your vicinity</comment>
+  </data>
+  <data name="InputAssignmentControl.AssignedUpper" xml:space="preserve">
+    <value>已绑定</value>
+    <comment>ASSIGNED</comment>
+  </data>
+  <data name="InputAssignmentControl.FilterFormat" xml:space="preserve">
+    <value>筛选: {0}</value>
+    <comment>FILTER: {0}</comment>
+  </data>
+  <data name="MenuAtcControl.NoScenarioSelected" xml:space="preserve">
+    <value>未选择场景</value>
+    <comment>No scenario selected</comment>
+  </data>
+  <data name="MenuPage.UnableToStartScenario" xml:space="preserve">
+    <value>无法开始场景</value>
+    <comment>Unable to start scenario.</comment>
+  </data>
+  <data name="MissionStatusControl.Waypoint" xml:space="preserve">
+    <value>路径点</value>
+    <comment>Waypoint</comment>
+  </data>
+  <data name="SimbriefImporter.NetworkFailed" xml:space="preserve">
+    <value>导入Simbrief飞行计划时出错。请检查网络连接并重试。</value>
+    <comment>An error occurred while importing the SimBrief OFP. Check your internet connection and try again.</comment>
+  </data>
+  <data name="SimbriefImporter.ParseFailed" xml:space="preserve">
+    <value>导入Simbrief飞行计划时出错。请确保文件是有效的Simbrief飞行计划。</value>
+    <comment>An error occurred while importing the SimBrief OFP. Please ensure that the file is a valid SimBrief OFP file and try again.</comment>
+  </data>
+  <data name="Time_InMonths" xml:space="preserve">
+    <value>{0}个月</value>
+    <comment>{0} months</comment>
+  </data>
+  <data name="WarningMessageControl.NoMessages" xml:space="preserve">
+    <value>无信息</value>
+    <comment>No Messages</comment>
+  </data>
+  <data name="WeatherState.Clouds.Overcast" xml:space="preserve">
+    <value>阴天</value>
+    <comment>Overcast</comment>
+  </data>
+  <data name="WorldSelectionControl.NoWorldsAvailable" xml:space="preserve">
+    <value>无可用模式</value>
+    <comment>No worlds available</comment>
+  </data>
+  <data name="PauseControl.World.Replay" xml:space="preserve">
+    <value>回放</value>
+    <comment>Replay</comment>
+  </data>
+  <data name="AircraftPage.ExpiresIn" xml:space="preserve">
+    <value>剩余时间</value>
+    <comment>Expire in</comment>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>租赁期将从下次飞行开始计算</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>剩余时间：{0}</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>租赁已取消</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>等待支付</value>
+  </data>
 </root>
