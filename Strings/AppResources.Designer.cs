@@ -5139,6 +5139,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to MAIN MENU.
+        /// </summary>
+        internal static string PauseControl_MainMenuUpper {
+            get {
+                return ResourceManager.GetString("PauseControl.MainMenuUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Replay.
         /// </summary>
         internal static string PauseControl_World_Replay {

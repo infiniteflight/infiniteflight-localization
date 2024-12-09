@@ -3268,4 +3268,8 @@ Quittez le vol actuel et réessayez.</value>
   <data name="AircraftPage.ExpiresIn" xml:space="preserve">
     <value>Expire dans</value>
   </data>
+  <data name="PauseControl.MainMenuUpper" xml:space="preserve">
+    <value>MENU</value>
+    <comment>MENU</comment>
+  </data>
 </root>
