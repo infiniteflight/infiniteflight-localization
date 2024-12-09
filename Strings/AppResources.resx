@@ -4165,9 +4165,9 @@ Select a different destination airport</comment>
   </data>
   <data name="Game.UnableToStartScenarioWhileFlying" xml:space="preserve">
     <value>Unable to start scenario while a flight is in progress.
-Exit curent flight and try again.</value>
+Exit current flight and try again.</value>
     <comment>Unable to start scenario while a flight is in progress.
-Exit curent flight and try again.</comment>
+Exit current flight and try again.</comment>
   </data>
   <data name="GameControlsKeySetup2.ButtonUpper" xml:space="preserve">
     <value>BUTTON</value>
