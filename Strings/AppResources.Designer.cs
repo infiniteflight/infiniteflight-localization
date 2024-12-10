@@ -2418,7 +2418,7 @@ namespace Fds.Framework.EmbeddedResources {
         
         /// <summary>
         ///   Looks up a localized string similar to Unable to start scenario while a flight is in progress.
-        ///Exit curent flight and try again..
+        ///Exit current flight and try again..
         /// </summary>
         internal static string Game_UnableToStartScenarioWhileFlying {
             get {
@@ -5135,6 +5135,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Notam_WarningTitle {
             get {
                 return ResourceManager.GetString("Notam.WarningTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to BACK TO MAIN MENU.
+        /// </summary>
+        internal static string PauseControl_BackToMainMenuUpper {
+            get {
+                return ResourceManager.GetString("PauseControl.BackToMainMenuUpper", resourceCulture);
             }
         }
         

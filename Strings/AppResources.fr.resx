@@ -3272,4 +3272,8 @@ Quittez le vol actuel et réessayez.</value>
     <value>MENU</value>
     <comment>MENU</comment>
   </data>
+  <data name="PauseControl.BackToMainMenuUpper" xml:space="preserve">
+    <value>RETOUR VERS LE MENU</value>
+    <comment>RETOUR VERS LE MENU</comment>
+  </data>
 </root>

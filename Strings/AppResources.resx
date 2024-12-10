@@ -4253,4 +4253,8 @@ Exit current flight and try again.</comment>
     <value>MAIN MENU</value>
     <comment>MAIN MENU</comment>
   </data>
+  <data name="PauseControl.BackToMainMenuUpper" xml:space="preserve">
+    <value>BACK TO MAIN MENU</value>
+    <comment>BACK TO MAIN MENU</comment>
+  </data>
 </root>
