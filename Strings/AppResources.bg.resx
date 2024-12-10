@@ -4118,4 +4118,12 @@ Exit curent flight and try again.</comment>
   <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
     <value>Изчаква се плащане</value>
   </data>
+  <data name="PauseControl.MainMenuUpper" xml:space="preserve">
+    <value>ГЛАВНО МЕНЮ</value>
+    <comment>MAIN MENU</comment>
+  </data>
+  <data name="PauseControl.BackToMainMenuUpper" xml:space="preserve">
+    <value>ВРЪЩАНЕ КЪМ ГЛАВНОТО МЕНЮ</value>
+    <comment>BACK TO MAIN MENU</comment>
+  </data>
 </root>
