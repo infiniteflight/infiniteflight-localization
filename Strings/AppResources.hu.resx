@@ -2893,9 +2893,6 @@ Check map for more information</comment>
   <data name="World.SoloDescription" xml:space="preserve">
     <value>Válassz saját repülőgépet és útvonalat, teszteld a pilóta képességeidet és fedezd fel a gyönyörű tájakat szabályok vagy más pilóták nélkül.</value>
   </data>
-  <data name="LogbookControl.LogbookControl.NoEntrySelected">
-    <value>NINCS KIVÁLASZTOTT BEJEGYZÉS</value>
-  </data>
   <data name="Error.InvalidTimeSpan">
     <value>A kezdő és befejező időpontok nem érvényesek (hiba kód: {0})</value>
   </data>

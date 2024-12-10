@@ -2855,9 +2855,6 @@ Check map for more information</comment>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
       <value>Отсутствует доступный браузер для открытия данной ссылки. Убедитесь, что у вас установлен браузер. Если проблема не исчезает, обратитесь в службу поддержки (код ошибки {0})</value>
   </data>
-  <data name="FlightSchoolControl.NoLessonsFoundUpper_Duplicate[1]" xml:space="preserve">
-      <value>НЕ НАЙДЕНО УРОКОВ</value>
-  </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
       <value>Не удалось подключиться к серверу. Проверьте подключение к интернету (код ошибки {0})</value>
   </data>

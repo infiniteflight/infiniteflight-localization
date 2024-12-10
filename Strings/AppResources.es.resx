@@ -3189,4 +3189,335 @@ REPLAYS</value>
   <data name="FlightPlanControl.NoFlightPlanShare" xml:space="preserve">
     <value>No hay un plan de vuelo para compartir.</value>
   </data>
+  <data name="AboutControl.AboutTitle" xml:space="preserve">
+    <value>Acerca de</value>
+  </data>
+  <data name="AboutControl.CreditsTitle" xml:space="preserve">
+    <value>Créditos</value>
+  </data>
+  <data name="AircraftPage.ExpiresIn" xml:space="preserve">
+    <value>Expira en</value>
+  </data>
+  <data name="AircraftPage.IncludesGlobalAndMultiplayer" xml:space="preserve">
+    <value>Incluye acceso a global y multijugador</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>ALQUILAR AVIÓN</value>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>El alquiler comenzará en tu próximo vuelo</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Caduca en {0}</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>El alquiler fue cancelado</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Esperando pago</value>
+  </data>
+  <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">
+    <value>Por favor, desconecta los servicios antes de solicitar el rodaje</value>
+  </data>
+  <data name="AirportEditorFileManager.AirportSubmitDraftUploaded" xml:space="preserve">
+    <value>¡Tu borrador de aeropuerto ha sido subido!</value>
+  </data>
+  <data name="AirportEditorFileManager.AirportSubmitReviewUploaded" xml:space="preserve">
+    <value>Tu aeropuerto ha sido subido y está esperando revisión. Consulta el hilo del foro para obtener comentarios del equipo de revisión oficial.</value>
+  </data>
+  <data name="ATCIncomingFlightsControl.IncomingAirplanes" xml:space="preserve">
+    <value>Aviones entrantes</value>
+  </data>
+  <data name="ATCIncomingFlightsControl.IncomingAirplanesToFormat" xml:space="preserve">
+    <value>Aviones entrantes a {0}</value>
+  </data>
+  <data name="ATCManager.ReportUserNoIFCLink" xml:space="preserve">
+    <value>Necesitas conectar tu perfil de Infinite Flight Community en la configuración para reportar a un usuario</value>
+  </data>
+  <data name="ATCWorld.Disconnected" xml:space="preserve">
+    <value>Desconectado</value>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.FrequencyAlreadyInUse" xml:space="preserve">
+    <value>Una o más de las frecuencias seleccionadas no están disponibles.</value>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.TooManyUsers" xml:space="preserve">
+    <value>El servidor está lleno. Intenta más tarde.</value>
+  </data>
+  <data name="ATCWorld.DisconnectionReason.UserAlreadyConnected" xml:space="preserve">
+    <value>Ya hay una conexión activa con esta cuenta de usuario.</value>
+  </data>
+  <data name="Autopilot.IASModeDeactivated" xml:space="preserve">
+    <value>Modo IAS desactivado</value>
+  </data>
+  <data name="Autopilot.LNAVUnavailable" xml:space="preserve">
+    <value>LNAV no disponible: Plan de vuelo faltante o NAV1 no sintonizado.</value>
+  </data>
+  <data name="Autopilot.SimulationTimeScaleResetAircraftTooFast" xml:space="preserve">
+    <value>La escala de tiempo de simulación se ha restablecido a 1x. La velocidad del avión es demasiado alta. (&gt; M1.0)</value>
+  </data>
+  <data name="Autopilot.SimulationTimeScaleResetAutopilotDisconnected" xml:space="preserve">
+    <value>La escala de tiempo de simulación se ha restablecido a 1x.El autopiloto se ha desconectado</value>
+  </data>
+  <data name="CallsignSelectionPage.CallsignCannotBeBlank" xml:space="preserve">
+    <value>Tu indicativo no puede estar en blanco</value>
+  </data>
+  <data name="CallsignSelectionPage.CallsignNotValid" xml:space="preserve">
+    <value>Tu indicativo no es válido</value>
+  </data>
+  <data name="CallsignSelectionPage.GACallsignNotValidCountry" xml:space="preserve">
+    <value>Tu indicativo no es válido. Asegúrate de haber seleccionado un país de registro válido</value>
+  </data>
+  <data name="CallsignSelectionPage.GACallsignTooLong" xml:space="preserve">
+    <value>Tu indicativo es demasiado largo para el formato de este país</value>
+  </data>
+  <data name="CallsignSelectionPage.IdentifierOnlyNumberTwoSuffixLetters" xml:space="preserve">
+    <value>El identificador solo puede contener números y dos letras de sufijo</value>
+  </data>
+  <data name="CallsignSelectionPage.IdentifierTooLong" xml:space="preserve">
+    <value>Tu identificador es demasiado largo, máximo 5 caracteres</value>
+  </data>
+  <data name="CallsignSelectionPage.InvalidCallsignNotMatchedFormat" xml:space="preserve">
+    <value>Tu indicativo no es válido. Asegúrate de que coincide con el formato disponible</value>
+  </data>
+  <data name="CallsignSelectionPage.NoCallsignsFound" xml:space="preserve">
+    <value>¡No se encontraron indicativos!</value>
+  </data>
+  <data name="CreditsControl.SpecialThanks" xml:space="preserve">
+    <value>Agradecimientos especiales</value>
+  </data>
+  <data name="Error.ConnectedOnOtherDevice" xml:space="preserve">
+    <value>Ya estás conectado en otro dispositivo</value>
+  </data>
+  <data name="Error.MultiplayerAtcAlreadyActive" xml:space="preserve">
+    <value>Ya estás conectado a este servidor multijugador en otro dispositivo (código de error {0})</value>
+  </data>
+  <data name="Error.MultiplayerFlightAlreadyActive" xml:space="preserve">
+    <value>Ya estás conectado a este servidor multijugador en otro dispositivo (código de error {0})</value>
+  </data>
+  <data name="Error.SimbriefOfpNotFiled" xml:space="preserve">
+    <value>Tu cuenta de SimBrief no tiene planes de vuelo activos. Visita el despachador de SimBrief para presentar un nuevo plan de vuelo.</value>
+  </data>
+  <data name="FlightPlanControl.FPLNotValid" xml:space="preserve">
+    <value>El archivo del plan de vuelo no es válido</value>
+  </data>
+  <data name="FlightScenarioControl.ScenarioUnknownWorld" xml:space="preserve">
+    <value>El escenario está configurado en un mundo desconocido</value>
+  </data>
+  <data name="Game.UnableToStartScenarioWhileFlying" xml:space="preserve">
+    <value>No se puede iniciar el escenario mientras un vuelo esté en curso.
+Sal del vuelo actual e intenta de nuevo.</value>
+  </data>
+  <data name="GameControlsKeySetup2.ButtonUpper" xml:space="preserve">
+    <value>BOTÓN</value>
+  </data>
+  <data name="GameControlsKeySetup2.MoveAxisOrPressButtonToAssignUpper" xml:space="preserve">
+    <value>Mueve el eje o presiona el botón para asignar</value>
+  </data>
+  <data name="GameControlsKeySetup2.PressButtonToAssignUpper" xml:space="preserve">
+    <value>Presiona el botón para asignar</value>
+  </data>
+  <data name="GamePage.ErrorRestartApp" xml:space="preserve">
+    <value>Ha ocurrido un error. Por favor, reinicia la aplicación</value>
+  </data>
+  <data name="GamePage.NoAirportFoundVicinity" xml:space="preserve">
+    <value>No se encontró ningún aeropuerto cerca de ti</value>
+  </data>
+  <data name="GameSelectionControl.AtcUnavailable" xml:space="preserve">
+    <value>ATC no disponible</value>
+  </data>
+  <data name="GameSelectionControl.LowGradeUpper" xml:space="preserve">
+    <value>GRADO BAJO</value>
+  </data>
+  <data name="GameSelectionJoinIfatcControl.JoinIfatcUpper" xml:space="preserve">
+    <value>UNIRSE A IFATC</value>
+  </data>
+  <data name="InputAssignmentControl.AssignedUpper" xml:space="preserve">
+    <value>ASIGNADO</value>
+  </data>
+  <data name="InputAssignmentControl.FilterFormat" xml:space="preserve">
+    <value>FILTRO: {0}</value>
+  </data>
+  <data name="MainMenuPage.ATCLocalRadarNotAllowed" xml:space="preserve">
+    <value>Para ofrecer un excelente servicio de control de tráfico aéreo, no se permite estar de servicio simultáneamente en una frecuencia de Torre/Suelo y de Aproximación/Salida/Centro. Cambia tu selección.</value>
+  </data>
+  <data name="MainMenuPage.ATCRadarCenterNotAllowed" xml:space="preserve">
+    <value>Para ofrecer un excelente servicio de control de tráfico aéreo, no se permite estar de servicio simultáneamente en una frecuencia de Aproximación/Salida y de Centro. Cambia tu selección.</value>
+  </data>
+  <data name="MainMenuPage.ExpertATCLocalLargeAirportDurationTooLow" xml:space="preserve">
+    <value>Para ofrecer un excelente servicio de control de tráfico aéreo en Expert, no se permite estar de servicio en una frecuencia de Torre/Suelo en un aeropuerto grande por menos de una hora. Cambia la duración.</value>
+  </data>
+  <data name="MainMenuPage.ExpertATCRadarDurationTooLow" xml:space="preserve">
+    <value>Para ofrecer un excelente servicio de control de tráfico aéreo en Expert, no se permite estar de servicio en una frecuencia de Aproximación/Salida/Centro en un aeropuerto grande por menos de una hora. Cambia la duración.</value>
+  </data>
+  <data name="MainMenuPage.ScenarioStartLocationInvalid" xml:space="preserve">
+    <value>La ubicación de inicio del escenario no es válida</value>
+  </data>
+  <data name="MainMenuPage.WorldIsUnknown" xml:space="preserve">
+    <value>El mundo es desconocido</value>
+  </data>
+  <data name="MapItemInfoControl.AirportDestinationCannotAccomodateAircraft" xml:space="preserve">
+    <value>{0} no puede acomodar un {1}. Selecciona otro aeropuerto de destino</value>
+  </data>
+  <data name="MapItemInfoControl.ILSOutOfRange" xml:space="preserve">
+    <value>ILS fuera de alcance</value>
+  </data>
+  <data name="MapItemInfoControl.UnableSetILSAirportNotFound" xml:space="preserve">
+    <value>No se pudo configurar ILS, aeropuerto no encontrado</value>
+  </data>
+  <data name="MenuAtcControl.NoScenarioSelected" xml:space="preserve">
+    <value>No se seleccionó ningún escenario</value>
+  </data>
+  <data name="MenuPage.UnableToStartScenario" xml:space="preserve">
+    <value>No se puede iniciar el escenario.</value>
+  </data>
+  <data name="MissionStatusControl.Waypoint" xml:space="preserve">
+    <value>Punto de ruta</value>
+  </data>
+  <data name="NewsControl.Partnership" xml:space="preserve">
+    <value>Asociación</value>
+  </data>
+  <data name="PauseControl.BackToMainMenuUpper" xml:space="preserve">
+    <value>VOLVER AL MENÚ PRINCIPAL</value>
+  </data>
+  <data name="PauseControl.MainMenuUpper" xml:space="preserve">
+    <value>MENÚ PRINCIPAL</value>
+  </data>
+  <data name="PauseControl.World.Replay" xml:space="preserve">
+    <value>Repetir</value>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableAirport" xml:space="preserve">
+    <value>El empuje automático no está disponible para {0} en este momento.</value>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableLocation" xml:space="preserve">
+    <value>El empuje automático no está disponible en esta ubicación.</value>
+  </data>
+  <data name="PushbackSystem.AutoPushbackNotAvailableParking" xml:space="preserve">
+    <value>El empuje automático no está disponible en este momento. Mueve el avión a un puesto de estacionamiento o usa el empuje manual.</value>
+  </data>
+  <data name="PushbackSystem.ChooseAnotherPointMessage" xml:space="preserve">
+    <value>Elige otro punto para tirar el avión o toca ‘Iniciar’ para comenzar la secuencia de empuje.</value>
+  </data>
+  <data name="PushbackSystem.ChooseFirstPointMessage" xml:space="preserve">
+    <value>Toca una línea de pista de rodaje para elegir el primer punto de parada.</value>
+  </data>
+  <data name="PushbackSystem.MaxTwoPointsAllowed" xml:space="preserve">
+    <value>Se permiten un máximo de dos puntos.</value>
+  </data>
+  <data name="PushbackSystem.PathTooLong" xml:space="preserve">
+    <value>La ruta es demasiado larga. Elige un punto más cercano.</value>
+  </data>
+  <data name="PushbackSystem.PathTooShort" xml:space="preserve">
+    <value>La ruta es demasiado corta. Elige un punto más alejado.</value>
+  </data>
+  <data name="PushbackSystem.StartedPleaseWait" xml:space="preserve">
+    <value>Empuje iniciado. Por favor, espera.</value>
+  </data>
+  <data name="PushbackSystem.TapStartToBeginMessage" xml:space="preserve">
+    <value>Toca ‘Iniciar’ para comenzar la secuencia de empuje.</value>
+  </data>
+  <data name="PushbackSystem.UnableGroundServices" xml:space="preserve">
+    <value>No se puede hacer el empuje. Desconecta todos los servicios terrestres para iniciar el empuje.</value>
+  </data>
+  <data name="PushbackSystem.UnableGroundServicesAndParkingBrake" xml:space="preserve">
+    <value>No se puede hacer el empuje. Desconecta todos los servicios terrestres y desactiva los frenos de estacionamiento para iniciar el empuje.</value>
+  </data>
+  <data name="PushbackSystem.UnableParkingBrake" xml:space="preserve">
+    <value>No se puede hacer el empuje. Desactiva los frenos de estacionamiento para iniciar el empuje.</value>
+  </data>
+  <data name="PushbackSystem.UnableToStartMessage" xml:space="preserve">
+    <value>No se puede iniciar el empuje automático. Desconecta todos los servicios terrestres antes de iniciar el empuje.</value>
+  </data>
+  <data name="Replay.UploadSuccess" xml:space="preserve">
+    <value>Repetición subida correctamente</value>
+  </data>
+  <data name="Simbrief.Aircraft" xml:space="preserve">
+    <value>Avión</value>
+  </data>
+  <data name="Simbrief.AircraftNotMatchingImportMessage" xml:space="preserve">
+    <value>El plan de vuelo de SimBrief ha sido importado, pero el tipo de avión en el plan de vuelo no coincide con el avión actual</value>
+  </data>
+  <data name="Simbrief.AircraftTypeNotFoundImportMessage" xml:space="preserve">
+    <value>El plan de vuelo de SimBrief ha sido importado, pero el tipo de avión no se encontró en el plan de vuelo.</value>
+  </data>
+  <data name="Simbrief.Bags" xml:space="preserve">
+    <value>Equipaje</value>
+  </data>
+  <data name="Simbrief.Cargo" xml:space="preserve">
+    <value>Carga</value>
+  </data>
+  <data name="Simbrief.CurrentAircraftType" xml:space="preserve">
+    <value>Tipo de avión actual</value>
+  </data>
+  <data name="Simbrief.Destination" xml:space="preserve">
+    <value>Destino</value>
+  </data>
+  <data name="Simbrief.EnsureAircraftTypeInFlightPlanMessage" xml:space="preserve">
+    <value>Asegúrate de que el tipo de avión esté incluido en el plan de vuelo.</value>
+  </data>
+  <data name="Simbrief.EnsureAircraftTypeMessage" xml:space="preserve">
+    <value>Asegúrate de que el tipo de avión en el plan de vuelo coincida con el tipo de avión actual en Infinite Flight.</value>
+  </data>
+  <data name="Simbrief.EnsureParkedMessage" xml:space="preserve">
+    <value>Asegúrate de que el avión esté estacionado para aplicar la configuración de combustible y pasajeros.</value>
+  </data>
+  <data name="Simbrief.FlightPlanAircraftType" xml:space="preserve">
+    <value>Tipo de avión según el plan de vuelo</value>
+  </data>
+  <data name="Simbrief.FlightPlanWaypoints" xml:space="preserve">
+    <value>Puntos de navegación en el plan de vuelo</value>
+  </data>
+  <data name="Simbrief.Fuel" xml:space="preserve">
+    <value>Combustible</value>
+  </data>
+  <data name="Simbrief.ImportedTitle" xml:space="preserve">
+    <value>Plan de vuelo de SimBrief importado</value>
+  </data>
+  <data name="Simbrief.Mismatch" xml:space="preserve">
+    <value>Desajuste</value>
+  </data>
+  <data name="Simbrief.NotApplied" xml:space="preserve">
+    <value>No aplicado</value>
+  </data>
+  <data name="Simbrief.NotFound" xml:space="preserve">
+    <value>No encontrado</value>
+  </data>
+  <data name="Simbrief.NotParkedImportMessage" xml:space="preserve">
+    <value>El plan de vuelo de SimBrief ha sido importado, pero la configuración de combustible y pasajeros no se importó porque el avión no está estacionado.</value>
+  </data>
+  <data name="Simbrief.Origin" xml:space="preserve">
+    <value>Aeropuerto de origen</value>
+  </data>
+  <data name="Simbrief.Passengers" xml:space="preserve">
+    <value>Pasajeros</value>
+  </data>
+  <data name="Simbrief.SuccessfulImportMessage" xml:space="preserve">
+    <value>El plan de vuelo de SimBrief se ha importado correctamente con los siguientes detalles:</value>
+  </data>
+  <data name="Simbrief.WeightAndBalanceUpdated" xml:space="preserve">
+    <value>El peso y balance del avión se ha actualizado con los pesos de pasajeros y carga del plan de vuelo.</value>
+  </data>
+  <data name="SimbriefImporter.NetworkFailed" xml:space="preserve">
+    <value>Ocurrió un error al importar el OFP de SimBrief. Revisa tu conexión a internet y vuelve a intentarlo.</value>
+  </data>
+  <data name="SimbriefImporter.ParseFailed" xml:space="preserve">
+    <value>Ocurrió un error al importar el OFP de SimBrief. Asegúrate de que el archivo sea un archivo válido de SimBrief OFP y vuelve a intentarlo.</value>
+  </data>
+  <data name="SocialNetworkSummaryExtendedViolations.LevelFormat" xml:space="preserve">
+    <value>Nivel {0}</value>
+  </data>
+  <data name="Time_InMonths" xml:space="preserve">
+    <value>{0} meses</value>
+  </data>
+  <data name="WarningMessageControl.NoMessages" xml:space="preserve">
+    <value>No hay mensajes</value>
+  </data>
+  <data name="WeatherState.Clouds.Overcast" xml:space="preserve">
+    <value>Nublado</value>
+  </data>
+  <data name="WeightBalanceControl.Load" xml:space="preserve">
+    <value>Carga</value>
+  </data>
+  <data name="WorldSelectionControl.NoWorldsAvailable" xml:space="preserve">
+    <value>No hay mundos disponibles</value>
+  </data>
 </root>

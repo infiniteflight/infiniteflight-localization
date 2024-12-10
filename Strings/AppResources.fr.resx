@@ -2732,18 +2732,6 @@
   <data name="GameControlsAxisSetupControl.TapToAssignUpper" xml:space="preserve">
     <value>TOUCHEZ POUR ASSIGNER</value>
   </data>
-  <data name="GamePage.AutoSaveUpper" xml:space="preserve">
-    <value>SAUVEGARDE AUTOMATIQUE</value>
-  </data>
-  <data name="GamePage.ConditionsUpper" xml:space="preserve">
-    <value>CONDITIONS</value>
-  </data>
-  <data name="GamePage.FlightNotSavedUpper" xml:space="preserve">
-    <value>VOL NON SAUVEGARDÉ</value>
-  </data>
-  <data name="GamePage.LastSavedUpper" xml:space="preserve">
-    <value>DERNIÈRE SAUVEGARDE</value>
-  </data>
   <data name="LogbookControl.CouldNotImportReplayStorageError" xml:space="preserve">
     <value>Impossible d'importer le fichier replay. Veuillez vérifier l'espace de stockage disponible.</value>
   </data>
@@ -3185,9 +3173,6 @@ Sélectionnez un autre aéroport de destination.</value>
   </data>
   <data name="AircraftPage.IncludesGlobalAndMultiplayer" xml:space="preserve">
     <value>Comprend Global &amp; Multijoueur</value>
-  </data>
-  <data name="AircraftPage.RentLiveryUpper" xml:space="preserve">
-    <value>LOUER UNE LIVRÉE</value>
   </data>
   <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">
     <value>Veuillez déconnecter les services au sol avant de demander à rouler</value>

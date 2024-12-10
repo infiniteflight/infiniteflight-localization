@@ -2607,9 +2607,6 @@ Slow down to avoid further violations.</comment>
   <data name="LogbookControl.MultiplayerUpper" xml:space="preserve">
     <value>MULTIPLAYER</value>
   </data>
-  <data name="LogbookControl.LogbookControl.NoEntrySelected" xml:space="preserve">
-    <value>TIDAK ADA ENTRI YANG DIPILIH</value>
-  </data>
   <data name="LogbookControl.NoItemsFound" xml:space="preserve">
     <value>TIDAK ADA ITEM DITEMUKAN</value>
   </data>

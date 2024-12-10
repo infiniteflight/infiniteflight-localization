@@ -2813,9 +2813,6 @@ Check map for more information</comment>
   <data name="LogbookControl.MultiplayerUpper" xml:space="preserve">
       <value>连线飞行</value>
   </data>
-  <data name="LogbookControl.LogbookControl.NoEntrySelected" xml:space="preserve">
-      <value>未选择任何项目</value>
-  </data>
   <data name="LogbookControl.NoItemsFound" xml:space="preserve">
       <value>未找到任何记录</value>
   </data>
@@ -3269,7 +3266,7 @@ PLAYER</comment>
     <value>订阅将自动续订，直至取消。
 可随时在Google Play的订阅中心取消。</value>
   </data>
-<data name="AchievementsControl.NewAchievementsEarnedUpper" xml:space="preserve">
+  <data name="AchievementsControl.NewAchievementsEarnedUpper" xml:space="preserve">
     <value>新成就达成！</value>
     <comment>NEW ACHIEVEMENTS EARNED!</comment>
   </data>
@@ -3463,7 +3460,7 @@ REPLAYS</comment>
     <value>删除我的账号</value>
     <comment>User needs to type this to confirm they want their account deleted</comment>
   </data>
- <data name="LogbookControl.EntriesUpper" xml:space="preserve">
+  <data name="LogbookControl.EntriesUpper" xml:space="preserve">
     <value>飞行记录</value>
     <comment>ENTRIES</comment>
   </data>
@@ -3696,7 +3693,7 @@ REPLAYS</comment>
     <value>情景被设置在未知的模式中</value>
     <comment>Scenario is set to an unknown world</comment>
   </data>
-<data name="Error.SimbriefOfpNotFiled" xml:space="preserve">
+  <data name="Error.SimbriefOfpNotFiled" xml:space="preserve">
     <value>你还没有在Simbrief里生成任何飞行计划。现在就前往Simbrief生成一个吧！</value>
     <comment>Your SimBrief account does not have any active flight plans. Visit the SimBrief Dispatcher to file a new flight plan.</comment>
   </data>
