@@ -4136,4 +4136,8 @@ Exit curent flight and try again.</comment>
   <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
     <value>等待支付</value>
   </data>
+  <data name="PauseControl.MainMenuUpper" xml:space="preserve">
+    <value>主菜单</value>
+    <comment>MAIN MENU</comment>
+  </data>
 </root>
