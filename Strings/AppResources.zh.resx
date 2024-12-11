@@ -4137,4 +4137,8 @@ Exit curent flight and try again.</comment>
     <value>主菜单</value>
     <comment>MAIN MENU</comment>
   </data>
+  <data name="PauseControl.BackToMainMenuUpper" xml:space="preserve">
+    <value>返回主菜单</value>
+    <comment>BACK TO MAIN MENU</comment>
+  </data>
 </root>
