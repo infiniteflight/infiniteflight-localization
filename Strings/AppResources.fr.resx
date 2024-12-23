@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
+  <!--
+    Microsoft ResX Schema
+
     Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
     associated with the data types.
-    
+
     Example:
-    
+
     ... ado.net/XML headers & schema ...
     <resheader name="resmimetype">text/microsoft-resx</resheader>
     <resheader name="version">2.0</resheader>
@@ -26,79 +26,79 @@
         <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
         <comment>This is a comment</comment>
     </data>
-                
-    There are any number of "resheader" rows that contain simple 
+
+    There are any number of "resheader" rows that contain simple
     name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
     mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
     extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
     read any of the formats listed below.
-    
+
     mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
-    
+
     mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
+    value   : The object must be serialized with
             : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
+    value   : The object must be serialized into a byte array
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -126,11 +126,11 @@
     <comment>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle2" xml:space="preserve">
-    <value>DECOUVREZ LE MONDE</value>
+    <value>DÉCOUVREZ LE MONDE</value>
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>Plus de 20,000 aéroports, 400+ aeroports en 3D, imagerie satellite à 15m/px et plus encore.</value>
+    <value>Plus de 20,000 aéroports, 400+ aéroports en 3D, imagerie satellite à 15m/px et plus encore.</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
@@ -138,7 +138,7 @@
     <comment>Fly with friends! Join thousands of other pilots for an immersive, global, multiplayer experience.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText4" xml:space="preserve">
-    <value>Pilotez avec des controlleurs aériens entrainés sur notre serveur expert ou montez dans les classements pour devenir vous-mème controlleur!</value>
+    <value>Pilotez avec des contrôleurs aériens entraînés sur notre serveur expert ou montez dans les classements pour devenir vous-même contrôleur!</value>
     <comment>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle3" xml:space="preserve">
@@ -146,7 +146,7 @@
     <comment>MULTIPLAYER</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle4" xml:space="preserve">
-    <value>CONTROLLEURS AERIENS</value>
+    <value>CONTRÔLEURS AÉRIENS</value>
     <comment>HUMAN ATC</comment>
   </data>
   <data name="Global.Back" xml:space="preserve">
@@ -178,7 +178,7 @@
     <comment>Replays</comment>
   </data>
   <data name="IntroPage.SceneryEditor" xml:space="preserve">
-    <value>ÉDITEUR DE SCENES</value>
+    <value>ÉDITEUR DE SCÈNES</value>
     <comment>Scenery Editor</comment>
   </data>
   <data name="LiveMapControl.LiveData" xml:space="preserve">
@@ -214,7 +214,7 @@
     <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Nos serveurs ne peuvent pas traiter cette requète. Réessayez dans quelques instants (Erreur {0})</value>
+    <value>Nos serveurs ne peuvent pas traiter cette requête. Réessayez dans quelques instants (Erreur {0})</value>
     <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
@@ -242,11 +242,11 @@
     <comment>Infinite Flight can't connect to the server (error code {0})</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
-    <value>Votre appareil n'a pas assez de memoire disponible pour les telechargements</value>
+    <value>Votre appareil n'a pas assez de mémoire disponible pour les téléchargements</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Ce compte n'est pas lie a un abonnement a Infinite Flight Pro (Erreur {0})</value>
+    <value>Ce compte n'est pas lié à un abonnement Infinite Flight Pro (Erreur {0})</value>
     <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
@@ -310,7 +310,7 @@
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.Click on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
-    <value>Redémarrez votre appareil et reproduisez le problème ou le bogue. Revenez ensuite sur cette page et cliquez sur le bouton « Envoyer le log», merci !</value>
+    <value>Redémarrez votre appareil et reproduisez le problème ou le bug. Revenez ensuite sur cette page et cliquez sur le bouton « Envoyer le log», merci !</value>
     <comment>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeWarning" xml:space="preserve">
@@ -586,7 +586,7 @@
     <comment>Controls the density of objects at airports</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Title" xml:space="preserve">
-    <value>Densité d'objet 3D</value>
+    <value>Densité des objets 3D</value>
     <comment>3D Object Density</comment>
   </data>
   <data name="Settings.Graphics.RenderingQuality.Subtitle" xml:space="preserve">
@@ -1018,7 +1018,7 @@
     <comment>SFX Volume</comment>
   </data>
   <data name="Commands.AutoStartEngines" xml:space="preserve">
-    <value>Demarrage Automatique</value>
+    <value>Démarrage Automatique</value>
     <comment>Auto Start Engine(s)</comment>
   </data>
   <data name="Commands.CockpitCamera" xml:space="preserve">
@@ -1110,11 +1110,11 @@
     <comment>Stop Specified Engine</comment>
   </data>
   <data name="Commands.ToggleATCWindow" xml:space="preserve">
-    <value>Basculer la fenetre ATC</value>
+    <value>Basculer la fenêtre ATC</value>
     <comment>Toggle ATC Window</comment>
   </data>
   <data name="Commands.ToggleAutopilot" xml:space="preserve">
-    <value>Engager/Disengager le pilots automatique</value>
+    <value>Engager/Désengager le pilots automatique</value>
     <comment>Engage/Disengage Autopilot</comment>
   </data>
   <data name="Commands.ToggleFlightPathVector" xml:space="preserve">
@@ -1170,7 +1170,7 @@
     <comment>End Session (ATC)</comment>
   </data>
   <data name="GameMenu.Paused" xml:space="preserve">
-    <value>PAUSÉ</value>
+    <value>EN PAUSE</value>
     <comment>PAUSED</comment>
   </data>
   <data name="GameMenu.Resume" xml:space="preserve">
@@ -1343,831 +1343,1107 @@
   </data>
   <data name="About.PrivacyPolicy" xml:space="preserve">
     <value>POLITIQUE DE CONFIDENTIALITÉ</value>
+    <comment/>
   </data>
   <data name="Settings.ClearCacheSceneryAlert.Message" xml:space="preserve">
     <value>Voulez-vous vraiment vider le cache ?</value>
+    <comment/>
   </data>
   <data name="Settings.DisabledInFlight" xml:space="preserve">
     <value>ne peut pas être modifié en vol</value>
+    <comment/>
   </data>
   <data name="Settings.DisabledUnlinkedAccount" xml:space="preserve">
     <value>le compte doit être lié à IFC</value>
+    <comment/>
   </data>
   <data name="Settings.NoVoicesAlert.Message" xml:space="preserve">
     <value>Aucune voix n'a été trouvée sur l'appareil, voulez-vous visiter les paramètres Android Text to Speech ? (Vous rencontrez toujours des problèmes ? Assurez-vous que Google Speech Engine est sélectionné)</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.Control" xml:space="preserve">
     <value>Contrôle</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.Fly" xml:space="preserve">
     <value>Voler</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.Open" xml:space="preserve">
     <value>Ouvrir</value>
+    <comment/>
   </data>
   <data name="Global.Loading" xml:space="preserve">
     <value>Chargement en cours...</value>
+    <comment/>
   </data>
   <data name="Settings.Option.Normal" xml:space="preserve">
     <value>Normal</value>
+    <comment/>
   </data>
   <data name="SplashScreen.LoadingSession" xml:space="preserve">
     <value>Chargement de votre session</value>
+    <comment/>
   </data>
   <data name="AircraftPage.LiveryWillBeDownloaded" xml:space="preserve">
     <value>La livrée sera téléchargée au début du vol.</value>
+    <comment/>
   </data>
   <data name="AircraftPage.RecentlyReleased" xml:space="preserve">
     <value>Récemment publiés</value>
+    <comment/>
   </data>
   <data name="AircraftPage.ReleaseInfo" xml:space="preserve">
     <value>Publié ou mis à jour en {0}</value>
+    <comment/>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Title" xml:space="preserve">
     <value>Afficher les avions des anciennes versions.</value>
+    <comment/>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
     <value>Afficher les avions PRO</value>
+    <comment/>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
     <value>Approche</value>
+    <comment/>
   </data>
   <data name="ATC.ATIS" xml:space="preserve">
     <value>ATIS</value>
+    <comment/>
   </data>
   <data name="ATC.Departure" xml:space="preserve">
     <value>Départ</value>
+    <comment/>
   </data>
   <data name="ATC.Ground" xml:space="preserve">
     <value>Terrain</value>
+    <comment/>
   </data>
   <data name="ATC.Station" xml:space="preserve">
     <value>Station</value>
+    <comment/>
   </data>
   <data name="ATC.Stations" xml:space="preserve">
     <value>Stations</value>
+    <comment/>
   </data>
   <data name="ATC.Tower" xml:space="preserve">
     <value>Tour</value>
+    <comment/>
   </data>
   <data name="ATCJobBoard.Header.Arrivals" xml:space="preserve">
     <value>Arrivées</value>
+    <comment/>
   </data>
   <data name="ATCJobBoardControl.ActiveFIRs" xml:space="preserve">
     <value>{0} Régions Actives</value>
+    <comment/>
   </data>
   <data name="ATCJobBoardControl.AirspaceActivity" xml:space="preserve">
     <value>Activité l'espace aérien</value>
+    <comment/>
   </data>
   <data name="ATCJobBoardControl.FIRs" xml:space="preserve">
     <value>Régions d'information de vol</value>
+    <comment/>
   </data>
   <data name="ATCJobBoardControl.GoTo" xml:space="preserve">
     <value>Aller à {0}</value>
+    <comment/>
   </data>
   <data name="ATCJobBoardControl.NoFlightsFound" xml:space="preserve">
     <value>Aucun vol trouvé</value>
+    <comment/>
   </data>
   <data name="FlightPlan.AddToCurrentFlightPlanPrompt" xml:space="preserve">
     <value>Ajouter au plan de vol actuel ?</value>
+    <comment/>
   </data>
   <data name="FlightPlan.AddToFlightPlan" xml:space="preserve">
     <value>Ajouter au plan de vol</value>
+    <comment/>
   </data>
   <data name="FlightPlan.ReplaceCurrentFlightPlanPrompt" xml:space="preserve">
     <value>Remplacer le plan de vol actuel ?</value>
+    <comment/>
   </data>
   <data name="FlightPlan.ReplaceFlightPlan" xml:space="preserve">
     <value>Remplacer le plan de vol</value>
+    <comment/>
   </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
-    <value>Voulez vous remplacer ou ajouter au plan de vol?</value>
+    <value>Voulez-vous remplacer ou ajouter au plan de vol?</value>
+    <comment/>
   </data>
   <data name="FlightPlan.Replace" xml:space="preserve">
     <value>Remplacer</value>
+    <comment/>
   </data>
   <data name="FlightPlan.Add" xml:space="preserve">
     <value>Ajouter</value>
+    <comment/>
   </data>
   <data name="Global.Airport" xml:space="preserve">
     <value>Aéroport</value>
+    <comment/>
   </data>
   <data name="Global.NotQualified" xml:space="preserve">
     <value>Non qualifié</value>
+    <comment/>
   </data>
   <data name="Global.PleaseWait" xml:space="preserve">
     <value>Patientez...</value>
+    <comment/>
   </data>
   <data name="Global_FinalApproach" xml:space="preserve">
     <value>Approche finale</value>
+    <comment/>
   </data>
   <data name="Global_Runway" xml:space="preserve">
     <value>Piste</value>
+    <comment/>
   </data>
   <data name="Global_Takeoff" xml:space="preserve">
     <value>Décollage</value>
+    <comment/>
   </data>
   <data name="Global_Unknown" xml:space="preserve">
     <value>Inconnu</value>
+    <comment/>
   </data>
   <data name="Grade.FlightTimeLongPeriod" xml:space="preserve">
     <value>Temps de vol (90 jours)</value>
+    <comment/>
   </data>
   <data name="Grade.LandingCountLongPeriod" xml:space="preserve">
     <value>Atterrissages (90 jours)</value>
+    <comment/>
   </data>
   <data name="Grade.ReportCountMediumPeriod" xml:space="preserve">
     <value>Violations de niveau 3 (7 jours)</value>
+    <comment/>
   </data>
   <data name="Grade.Requirements" xml:space="preserve">
     <value>Conditions</value>
+    <comment/>
   </data>
   <data name="Grade.ShowGradeTable" xml:space="preserve">
     <value>Afficher le tableau des Grades</value>
+    <comment/>
   </data>
   <data name="Grade.ShowViolationHistory" xml:space="preserve">
     <value>Afficher l'historique</value>
+    <comment/>
   </data>
   <data name="Grade.Total12MonthsATCAllReports" xml:space="preserve">
     <value>Toutes les violations de niveau 2/3 (1 an)</value>
+    <comment/>
   </data>
   <data name="Grade.Total12MonthsATCMajorReports" xml:space="preserve">
     <value>Violations de niveau 3 (1 an)</value>
+    <comment/>
   </data>
   <data name="Grade.Total12MonthsATCMinorReports" xml:space="preserve">
     <value>Violations de niveau 2 (1 an)</value>
+    <comment/>
   </data>
   <data name="Grade.TotalFlightTime" xml:space="preserve">
     <value>Temps de vol total</value>
+    <comment/>
   </data>
   <data name="Grade.TotalLandings" xml:space="preserve">
     <value>Atterrissages</value>
+    <comment/>
   </data>
   <data name="Grade.TotalXP" xml:space="preserve">
     <value>XP</value>
+    <comment/>
   </data>
   <data name="Grade.ViolationsByLandingShortPeriod" xml:space="preserve">
     <value>Violations de niveau 1/Atterrissage 1 (12 mois)</value>
+    <comment/>
   </data>
   <data name="Grade.ViolationsMediumPeriod" xml:space="preserve">
     <value>Violations de niveau 1 (7 jours)</value>
+    <comment/>
   </data>
   <data name="Grade.ViolationsShortPeriod" xml:space="preserve">
     <value>Violations de niveau 1 (24 heures)</value>
+    <comment/>
   </data>
   <data name="ItemSearchControl.NoResultsFor" xml:space="preserve">
     <value>Aucun résultat pour "{0}"</value>
+    <comment/>
   </data>
   <data name="ItemSearchControl.SearchAirports" xml:space="preserve">
     <value>Rechercher des aéroports</value>
+    <comment/>
   </data>
   <data name="ItemSearchControl.SearchAirportsAndWaypoints" xml:space="preserve">
     <value>Rechercher des aéroports/points</value>
+    <comment/>
   </data>
   <data name="LocationPage.NoAvailableStartLocations" xml:space="preserve">
     <value>Aucun point de départ disponible pour le {0}</value>
+    <comment/>
   </data>
   <data name="LocationPage.ResetZoom" xml:space="preserve">
     <value>Réinitialiser le zoom</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.Procedures.Select" xml:space="preserve">
     <value>Sélectionner</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectApproach" xml:space="preserve">
     <value>Sélectionnez l'approche</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectArrival" xml:space="preserve">
     <value>Sélectionnez Arrivée</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.Procedures.SelectDeparture" xml:space="preserve">
     <value>Sélectionnez le départ</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.Grade.GradeRequired" xml:space="preserve">
     <value>Grade requise : {0}</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.Grade.InsufficientGradePrompt" xml:space="preserve">
     <value>Vous n'avez pas le grade requis pour voler sur {0}</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.Grade.YourGrade" xml:space="preserve">
     <value>Votre grade : {0}</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.NoATCAccess" xml:space="preserve">
     <value>Pas d'accès ATC</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.NoATCAccessOn" xml:space="preserve">
     <value>Pas d'accès ATC le/la {0}</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.NoProFound" xml:space="preserve">
     <value>Aucun abonnement Infinite Flight Pro valide n'a été trouvé</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.ProRequired" xml:space="preserve">
     <value>Infinite Flight Pro est requis pour démarrer un vol à cet endroit. Veuillez changer l'aéroport de départ.</value>
+    <comment/>
   </data>
   <data name="Time.1Hour" xml:space="preserve">
     <value>1 heure</value>
+    <comment/>
   </data>
   <data name="Time.1HourAgo" xml:space="preserve">
     <value>Il y a 1 heure</value>
+    <comment/>
   </data>
   <data name="Time.1Minute" xml:space="preserve">
     <value>1 minute</value>
+    <comment/>
   </data>
   <data name="Time.1MinuteAgo" xml:space="preserve">
     <value>il y a 1 minute</value>
+    <comment/>
   </data>
   <data name="Time.1YearAgo" xml:space="preserve">
     <value>il y a 1 an</value>
+    <comment/>
   </data>
   <data name="Time.Days" xml:space="preserve">
     <value>{0} jours</value>
+    <comment/>
   </data>
   <data name="Time.DaysAgo" xml:space="preserve">
     <value>il y a {0} jours</value>
+    <comment/>
   </data>
   <data name="Time.Hour" xml:space="preserve">
     <value>heure</value>
+    <comment/>
   </data>
   <data name="Time.Hours" xml:space="preserve">
     <value>{0} heures</value>
+    <comment/>
   </data>
   <data name="Time.HoursAgo" xml:space="preserve">
     <value>il y a {0} heures</value>
+    <comment/>
   </data>
   <data name="Time.HourShortForm" xml:space="preserve">
     <value>heure</value>
+    <comment/>
   </data>
   <data name="Time.HoursShortForm" xml:space="preserve">
     <value>heures</value>
+    <comment/>
   </data>
   <data name="Time.In1Hour" xml:space="preserve">
     <value>Dans une heure</value>
+    <comment/>
   </data>
   <data name="Time.In1Minute" xml:space="preserve">
     <value>Dans une minute</value>
+    <comment/>
   </data>
   <data name="Time.InDays" xml:space="preserve">
     <value>Dans {0} jours</value>
+    <comment/>
   </data>
   <data name="Time.InHours" xml:space="preserve">
     <value>Dans {0} heures</value>
+    <comment/>
   </data>
   <data name="Time.InLessThanAMinute" xml:space="preserve">
     <value>Dans moins d'une minute</value>
+    <comment/>
   </data>
   <data name="Time.InMinutes" xml:space="preserve">
     <value>Dans {0} minutes</value>
+    <comment/>
   </data>
   <data name="Time.LessThanAMinute" xml:space="preserve">
     <value>Moins d'une minute</value>
+    <comment/>
   </data>
   <data name="Time.LessThanAMinuteAgo" xml:space="preserve">
     <value>Il y a moins d'une minute</value>
+    <comment/>
   </data>
   <data name="Time.Minute" xml:space="preserve">
     <value>minute</value>
+    <comment/>
   </data>
   <data name="Time.Minutes" xml:space="preserve">
     <value>{0} minutes</value>
+    <comment/>
   </data>
   <data name="Time.MinutesAgo" xml:space="preserve">
     <value>il y a {0} minutes</value>
+    <comment/>
   </data>
   <data name="Time.MinuteShortForm" xml:space="preserve">
     <value>mn</value>
+    <comment/>
   </data>
   <data name="Time.Tomorrow" xml:space="preserve">
     <value>Demain</value>
+    <comment/>
   </data>
   <data name="Time.YearsAgo" xml:space="preserve">
     <value>il y a {0} ans</value>
+    <comment/>
   </data>
   <data name="Time.Yesterday" xml:space="preserve">
     <value>Hier</value>
+    <comment/>
   </data>
   <data name="Violation.AerobaticsViolation" xml:space="preserve">
     <value>Violation de voltige</value>
+    <comment/>
   </data>
   <data name="Violation.AirportClass" xml:space="preserve">
     <value>Violation de classe d'aéroport</value>
+    <comment/>
   </data>
   <data name="Violation.AirspaceViolation" xml:space="preserve">
     <value>Violation de l'espace aérien</value>
+    <comment/>
   </data>
   <data name="Violation.FlightOverspeed" xml:space="preserve">
     <value>Survitesse en vol</value>
+    <comment/>
   </data>
   <data name="Violation.GroundOverspeed" xml:space="preserve">
     <value>Survitesse au sol</value>
+    <comment/>
   </data>
   <data name="Violation.LevelledViolation" xml:space="preserve">
     <value>Violation de niveau {0}</value>
+    <comment/>
   </data>
   <data name="Violation.RunwayIdle" xml:space="preserve">
     <value>Inactivité sur la piste</value>
+    <comment/>
   </data>
   <data name="Global.Continue" xml:space="preserve">
     <value>Continuer</value>
+    <comment/>
   </data>
   <data name="Global.Settings" xml:space="preserve">
     <value>Paramètres</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
     <value>Le {0} est trop grand pour le point de départ actuel {1} à {2}. Veuillez changer l'emplacement de départ</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
     <value>ATC</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.CannotConnect" xml:space="preserve">
     <value>CONNECTION IMPOSSIBLE</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.CannotConnect.Message" xml:space="preserve">
     <value>Infinite Flight rencontre des problèmes de connectivité Internet. Veuillez vérifier votre connexion Internet et redémarrer l'application ou réessayer plus tard.</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.ForumNotConnected" xml:space="preserve">
     <value>Votre profil Infinite Flight Community doit être connecté avant de commencer une session</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.NoLocationSelected" xml:space="preserve">
     <value>Aucun emplacement n'a été sélectionné, veuillez sélectionner une fréquence à ouvrir</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.ProRequiredAircraft" xml:space="preserve">
     <value>Infinite Flight Pro est requis pour utiliser cet avion</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.ProRequiredStartAirport" xml:space="preserve">
     <value>Infinite Flight Pro est requis pour démarrer un vol à cet endroit. Veuillez changer l'aéroport de départ</value>
+    <comment/>
   </data>
   <data name="MenuPageBase.ShowUsernameDisabled" xml:space="preserve">
     <value>Votre nom d'utilisateur doit être visible avant de démarrer une session. Activer "{0}" dans les paramètres</value>
+    <comment/>
   </data>
   <data name="Notam.Airport" xml:space="preserve">
     <value>Aéroport : {0}</value>
+    <comment/>
   </data>
   <data name="Notam.Ceiling" xml:space="preserve">
     <value>Plafond : {0}ft</value>
+    <comment/>
   </data>
   <data name="Notam.Floor" xml:space="preserve">
     <value>Étage : {0}ft</value>
+    <comment/>
   </data>
   <data name="Notam.From" xml:space="preserve">
     <value>De : {0} {1}Z</value>
+    <comment/>
   </data>
   <data name="Notam.Message" xml:space="preserve">
     <value>Message : {0}</value>
+    <comment/>
   </data>
   <data name="Notam.Title" xml:space="preserve">
     <value>Titre : {0}</value>
+    <comment/>
   </data>
   <data name="Notam.To" xml:space="preserve">
     <value>À : {0} {1}Z</value>
+    <comment/>
   </data>
   <data name="Notam.UntilFurtherNotice" xml:space="preserve">
     <value>À : Jusqu'à nouvel ordre</value>
+    <comment/>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
     <value>Un NOTAM (Notice to Air Missions) est actif pour l'aéroport de départ sélectionné. Veuillez lire attentivement le NOTAM suivant avant de continuer</value>
+    <comment/>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
     <value>ATTENTION : NOTAM ACTIF</value>
+    <comment/>
   </data>
   <data name="About.TermsOfUse" xml:space="preserve">
     <value>CONDITIONS D'UTILISATION</value>
+    <comment/>
   </data>
   <data name="Global.Aircraft" xml:space="preserve">
     <value>Avion</value>
+    <comment/>
   </data>
   <data name="Global.Date" xml:space="preserve">
     <value>Date</value>
+    <comment/>
   </data>
   <data name="Global.Day" xml:space="preserve">
     <value>Jour</value>
+    <comment/>
   </data>
   <data name="Global.Description" xml:space="preserve">
     <value>Description</value>
+    <comment/>
   </data>
   <data name="Global.Night" xml:space="preserve">
     <value>Nuit</value>
+    <comment/>
   </data>
   <data name="Global.Type" xml:space="preserve">
     <value>Type</value>
+    <comment/>
   </data>
   <data name="Logbook.From" xml:space="preserve">
     <value>De</value>
+    <comment/>
   </data>
   <data name="Logbook.LiveFlights" xml:space="preserve">
     <value>Vols en Live</value>
+    <comment/>
   </data>
   <data name="Logbook.Notes" xml:space="preserve">
     <value>Remarques</value>
+    <comment/>
   </data>
   <data name="Logbook.ShowingFlightsOnDevice" xml:space="preserve">
     <value>Affichage des vols enregistrés sur cet appareil</value>
+    <comment/>
   </data>
   <data name="Logbook.SoloFlights" xml:space="preserve">
     <value>Vols en solo</value>
+    <comment/>
   </data>
   <data name="Logbook.To" xml:space="preserve">
     <value>À</value>
+    <comment/>
   </data>
   <data name="Logbook.TotalFlightTime" xml:space="preserve">
     <value>Temps de vol total</value>
+    <comment/>
   </data>
   <data name="Logbook.TotalTime" xml:space="preserve">
     <value>Temps total</value>
+    <comment/>
   </data>
   <data name="Global.Details" xml:space="preserve">
     <value>Des détails</value>
+    <comment/>
   </data>
   <data name="Global.Name" xml:space="preserve">
     <value>Nom</value>
+    <comment/>
   </data>
   <data name="Global.Report" xml:space="preserve">
     <value>Signaler</value>
+    <comment/>
   </data>
   <data name="Global.Reports" xml:space="preserve">
     <value>Signalements</value>
+    <comment/>
   </data>
   <data name="Global.Violation" xml:space="preserve">
     <value>Violation</value>
+    <comment/>
   </data>
   <data name="Global.Violations" xml:space="preserve">
     <value>Violations</value>
+    <comment/>
   </data>
   <data name="Logbook.ATCReport" xml:space="preserve">
     <value>Rapport ATC</value>
+    <comment/>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
     <value>Rapport ATC par [{0}]{1}</value>
+    <comment/>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
     <value>Afficher les détails du vol</value>
+    <comment/>
   </data>
   <data name="Replay.Comments" xml:space="preserve">
     <value>Commentaires</value>
+    <comment/>
   </data>
   <data name="Replay.Delete" xml:space="preserve">
     <value>EFFACER</value>
+    <comment/>
   </data>
   <data name="Replay.Duration" xml:space="preserve">
     <value>Durée</value>
+    <comment/>
   </data>
   <data name="Replay.Edit" xml:space="preserve">
     <value>ÉDITER</value>
+    <comment/>
   </data>
   <data name="Replay.FileSize" xml:space="preserve">
     <value>Taille</value>
+    <comment/>
   </data>
   <data name="Replay.Import" xml:space="preserve">
     <value>IMPORTER</value>
+    <comment/>
   </data>
   <data name="Replay.Share" xml:space="preserve">
     <value>PARTAGER</value>
+    <comment/>
   </data>
   <data name="Logbook.Details" xml:space="preserve">
     <value>Des détails</value>
+    <comment/>
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
     <value>Appuyez sur le bouton Clavier à attribuer</value>
+    <comment/>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
     <value>Effacer</value>
+    <comment/>
   </data>
   <data name="Settings.Controls.MoveAxisPrompt" xml:space="preserve">
     <value>Déplacer l'axe sur le contrôleur à attribuer</value>
+    <comment/>
   </data>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
     <value>Appuyez sur le bouton Contrôleur/Clavier à assigner</value>
+    <comment/>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
     <value>Appuyez sur le bouton ou déplacez l'axe à attribuer</value>
+    <comment/>
   </data>
   <data name="Settings.Controls.Reset" xml:space="preserve">
     <value>Réinitialiser</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Approach.CannotActivate" xml:space="preserve">
     <value>Le mode d'approche ne peut pas être activé</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.ApproachMode.AirspeedOutOfRange" xml:space="preserve">
     <value>Mode d'approche désactivé - Vitesse hors plage (250 kts max)</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.ApproachMode.BankOutOfRange" xml:space="preserve">
     <value>Mode d'approche désactivé - Roulis hors limite</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.ApproachMode.LandingWeightOutOfRange" xml:space="preserve">
     <value>Mode d'approche désactivé - L'avion est en surpoids</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.ApproachMode.VSNotEnabled" xml:space="preserve">
     <value>Mode d'approche désactivéLe mode vitesse verticale doit être activé lorsque le mode approche est actif</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.ApproachMode.VSOutOfRange" xml:space="preserve">
     <value>Mode d'approche désactivé - VS hors limite</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.ATC.TuningTo" xml:space="preserve">
     <value>Réglage sur {0} {1}</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Autopilot.Disengaged" xml:space="preserve">
     <value>PILOTE AUTOMATIQUE DÉSENGAGÉ</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Autopilot.DisengagedCheckParams" xml:space="preserve">
     <value>PILOTE AUTOMATIQUE DÉSENGAGÉ - VÉRIFIER LES PARAMÈTRES DE VOL</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Autopilot.EngagedWithClimbRate" xml:space="preserve">
     <value>PILOTE AUTOMATIQUE ON - VS : {0:#0} ft/min</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Engine.MasterSwitchPrompt" xml:space="preserve">
     <value>Allumez l'interrupteur principal dans le panneau électrique avant de démarrer le moteur</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FlightPathVector.Off" xml:space="preserve">
     <value>FLIGHT PATH VECTOR DÉSACTIVÉ</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FlightPathVector.On" xml:space="preserve">
     <value>FLIGHT PATH VECTOR ACTIVÉ</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FlightPlan.Alt" xml:space="preserve">
     <value>ALT</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FlightPlan.ArrivingAtDestination" xml:space="preserve">
     <value>ARRIVÉE À DESTINATION en &lt; 1min</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FlightPlan.FlyHdg" xml:space="preserve">
     <value>VOL HDG</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FlightPlan.FT" xml:space="preserve">
     <value>FT</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWpt" xml:space="preserve">
     <value>PROCHAIN WPT :</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
     <value>PROCHAIN WPT dans &lt; 1 min - Tourner au cap</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
     <value>Impossible de démarrer la vidange de carburant. Altitude minimale 7000 pieds AGL</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelowMLW" xml:space="preserve">
     <value>Impossible de démarrer la vidange de carburant. L'avion est en dessous de la masse maximale à l'atterrissage</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.FuelTooLow" xml:space="preserve">
     <value>Impossible de démarrer la vidange de carburant. Niveau de carburant trop bas !</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FuelDump.Starting" xml:space="preserve">
     <value>Démarrage de la vidange de carburant - Surveiller le niveau de carburant</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelow7000" xml:space="preserve">
     <value>Vidange de carburant arrêté. L'avion est en dessous de 7000 pieds AGL</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelowMLW" xml:space="preserve">
     <value>Vidange de carburant arrêté. L'avion est en dessous de la masse maximale à l'atterrissage</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.FuelTooLow" xml:space="preserve">
     <value>Vidange de carburant arrêté. Niveau de carburant trop bas</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Gear.UpWarning" xml:space="preserve">
     <value>Attention, le train d'atterrissage est rentré</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.LowPowerMode.Disabled" xml:space="preserve">
     <value>Mode faible consommation désactivé</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.LowPowerMode.Enabled" xml:space="preserve">
     <value>Mode faible consommation activé</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.OutOfRegion" xml:space="preserve">
     <value>Infinite Flight Pro est requis pour voler en dehors des régions par défaut. Appuyez ici pour plus d'informations</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
     <value>Excès de vitesse ! Réduire l'accélérateur/la puissance pour ralentir en dessous de la vitesse maximale de l'avion</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
     <value>DÉMARRAGE DU PUSHBACK</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.PushbackStopped" xml:space="preserve">
     <value>PUSHBACK ARRÊTÉ</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Refueling.Aerial" xml:space="preserve">
     <value>Le ravitaillement a commencé...</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Refueling.Complete" xml:space="preserve">
     <value>Ravitaillement terminé</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Refueling.Standard" xml:space="preserve">
     <value>Le ravitaillement a commencé...</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.SpeedMode.CannotActivate" xml:space="preserve">
     <value>Impossible d'activer le mode vitesse. L'avion est au sol.</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Stall.Approaching" xml:space="preserve">
     <value>Décrochage imminent ! Poussez le manche vers l'avant pour récupérer</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
     <value>DÉCROCHAGE! Poussez le joug/bâton vers l'avant pour récupérer</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>Le pilote automatique doit être activé pour modifier l'échelle de temps de la simulation</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.TimeScale.FighterJetsWarning" xml:space="preserve">
     <value>L'échelle de temps de simulation ne peut pas être modifiée pour les avions de chasse.</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
     <value>AVERTISSEMENT DE VOLTIGEAcrobaties aériennes interdites à proximité des aéroports.</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
     <value>AVERTISSEMENT DE TEMPS SUR PISTEIl est interdit de rester sur les pistes actives pendant de longues périodes.Quitter la piste ou décoller pour éviter de recevoir une violation</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
     <value>AVERTISSEMENT DE VITESSE DE TAXIVitesse sol max au roulage : 35kts.Ralentissez pour éviter les violations.</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
     <value>VNAV indisponible pendant la montée.Cette fonctionnalité n'est disponible que pour la descente.</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
     <value>Descente VNAV jusqu'à {0} à {1:n0}ft</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
     <value>VNAV non disponibleAucune altitude définie pour aucun point de cheminement dans le plan de vol</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
     <value>VNAV non disponiblePas de waypoint dans le plan de vol</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.VNAV.TargetUpdated" xml:space="preserve">
     <value>Cible VNAV mise à jour à {0} ({2:#0.0}NM) @ {1:n0}ft</value>
+    <comment/>
   </data>
   <data name="Violations.ExceededDisconnection" xml:space="preserve">
     <value>Vous avez été déconnecté en raison de violations excessives pour la session en cours.</value>
+    <comment/>
   </data>
   <data name="Violations.LimitExceeded" xml:space="preserve">
     <value>Limite de violation dépassée</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Cargo" xml:space="preserve">
     <value>Cargaison</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.FlightTime" xml:space="preserve">
     <value>Temps de vol estimé</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.FuelBurn" xml:space="preserve">
-    <value>Consommasion de carburant</value>
+    <value>Consommation de carburant</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.FuelTanks" xml:space="preserve">
     <value>Réservoir d'essence</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Heavy" xml:space="preserve">
     <value>Lourd</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Light" xml:space="preserve">
     <value>Léger</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Normal" xml:space="preserve">
     <value>Normal</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Others" xml:space="preserve">
     <value>Autres</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Passengers" xml:space="preserve">
     <value>Passagers</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Synchronize" xml:space="preserve">
     <value>Synchroniser</value>
+    <comment/>
   </data>
   <data name="WarningMessageControl.Reported" xml:space="preserve">
     <value>Signalé</value>
+    <comment/>
   </data>
   <data name="WarningMessageControl.TapToDismiss" xml:space="preserve">
     <value>Appuyez pour fermer</value>
+    <comment/>
   </data>
   <data name="WarningMessageControl.ViolationsCount" xml:space="preserve">
     <value>Violations : {0}/{1}</value>
+    <comment/>
   </data>
   <data name="Multiplayer.GotIt" xml:space="preserve">
     <value>Entendu!</value>
+    <comment/>
   </data>
   <data name="Multiplayer.Welcome" xml:space="preserve">
     <value>Bienvenue</value>
+    <comment/>
   </data>
   <data name="Tips.Default" xml:space="preserve">
     <value>Glissez votre doigt vers le bas tout en maintenant un appui sur le contrôle du palonnier pour activer les freins.</value>
+    <comment/>
   </data>
   <data name="FlightRatingPage.CurrentGrade" xml:space="preserve">
     <value>Grade</value>
+    <comment/>
   </data>
   <data name="FlightRatingPage.FlightRating" xml:space="preserve">
     <value>NOTE DE VOL</value>
+    <comment/>
   </data>
   <data name="FlightRatingPage.FlightTime" xml:space="preserve">
     <value>Temps de vol</value>
+    <comment/>
   </data>
   <data name="FlightRatingPage.Penalty" xml:space="preserve">
     <value>Penalité</value>
+    <comment/>
   </data>
   <data name="FlightRatingPage.Reputation" xml:space="preserve">
     <value>XP</value>
+    <comment/>
   </data>
   <data name="FlightRatingPage.ReputationEarned" xml:space="preserve">
     <value>XP gagné</value>
+    <comment/>
   </data>
   <data name="FlightRatingPage.ViolationCount" xml:space="preserve">
     <value>Violations</value>
+    <comment/>
   </data>
   <data name="Multiplayer.Disconnected" xml:space="preserve">
     <value>DÉCONNECTÉ</value>
+    <comment/>
   </data>
   <data name="ReportControl.ContinueOffline" xml:space="preserve">
     <value>Continuer hors ligne</value>
+    <comment/>
   </data>
   <data name="ReportControl.Reason" xml:space="preserve">
     <value>Raison: </value>
+    <comment/>
   </data>
   <data name="ReportControl.ReportedBy" xml:space="preserve">
     <value>Rapporté par: </value>
+    <comment/>
   </data>
   <data name="SplashScreen.LoadingAirport" xml:space="preserve">
     <value>Chargement de votre aéroport</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingAutopilot" xml:space="preserve">
     <value>Réglage de la vitesse du pilote automatique sur {0}</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilers" xml:space="preserve">
     <value>Activation des spoilers</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilersAndAutopilot" xml:space="preserve">
     <value>Activation des spoilers et réglage de la vitesse du pilote automatique sur {0}</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.OverspeedViolation.Issued" xml:space="preserve">
     <value>Dépassement de vitesse émis</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnots" xml:space="preserve">
     <value>Réduisez la vitesse en dessous de {0}kts pour éviter les infractions</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnotsBelow10k" xml:space="preserve">
     <value>Réduisez la vitesse en dessous de {0}kts en dessous de 10 000 pieds pour éviter les violations</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowMach" xml:space="preserve">
     <value>Réduisez la vitesse en dessous de Mach {0:0.00} pour éviter les violations</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.OverspeedViolation.WarningTitle" xml:space="preserve">
     <value>AVERTISSEMENT DE VITESSE</value>
+    <comment/>
   </data>
   <data name="Violation.Level0Received.Message" xml:space="preserve">
     <value>Vous avez été déconnecté par un contrôleur ou un membre du personnel. Ce n'est pas une violation et aucun appel n'est nécessaire.</value>
+    <comment/>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
     <value>Vous avez reçu une violation de niveau 2 et avez été déconnecté de votre session en cours. Vous pouvez commencer un autre vol immédiatement et un appel n'est pas nécessaire si votre nombre total de violations le permet. Nous vous encourageons à consulter tous les didacticiels applicables sur youtube.com/infiniteflight</value>
+    <comment/>
   </data>
   <data name="Violation.Level3Received.Message" xml:space="preserve">
     <value>Vous avez reçu une violation de niveau 3 et avez été déconnecté de votre session en cours. Nous vous encourageons à consulter les didacticiels applicables sur youtube.com/infiniteflight</value>
+    <comment/>
   </data>
   <data name="Violation.UnspecifiedReason" xml:space="preserve">
     <value>Raison non spécifiée</value>
+    <comment/>
   </data>
   <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
     <value>Acrobaties aériennes interdites à proximité des aéroports.Une infraction de niveau 1 a été émise.</value>
+    <comment/>
   </data>
   <data name="Violations.AircraftIdle.Message" xml:space="preserve">
     <value>Aéronef au ralenti sur la piste active pendant trop longtempsUne infraction de niveau 1 a été émise.</value>
+    <comment/>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
     <value>Dépassement de la vitesse au sol maximale de 35 nœuds.Une infraction de niveau 1 a été émise.Ralentissez pour éviter d'autres violations.</value>
+    <comment/>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
     <value>Fréquences actives</value>
+    <comment/>
   </data>
   <data name="ATCRatingPage.Operations" xml:space="preserve">
     <value>Opérations de session</value>
+    <comment/>
   </data>
   <data name="ATCRatingPage.Reports" xml:space="preserve">
     <value>Rapports de session</value>
+    <comment/>
   </data>
   <data name="ATCRatingPage.Title" xml:space="preserve">
     <value>RÉSUMÉ DE LA SÉANCE</value>
+    <comment/>
   </data>
   <data name="ATCRatingPage.TotalOperations" xml:space="preserve">
     <value>Opérations totales</value>
+    <comment/>
   </data>
   <data name="ATCRatingPage.TotalTime" xml:space="preserve">
     <value>Temps sur Fréquence</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.ATCActive" xml:space="preserve">
     <value>{0} {1} est actif. Vous avez été réglé sur cette fréquence.</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.ATCOffline" xml:space="preserve">
     <value>{0} {1} est maintenant hors ligne</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
     <value>{0} {1} est désormais hors ligne. Vous avez été réglé sur {2} {3}.</value>
+    <comment/>
   </data>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
     <value>Les services au sol nécessitent les freins de stationnement activés, les lumières anti-collision et les moteurs éteints.</value>
+    <comment/>
   </data>
   <data name="Settings.General.Legacy" xml:space="preserve">
     <value>ANCIEN AVION</value>
+    <comment/>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
     <value>Attention : cet avion, issu d'une ancienne version, n'a pas la qualité de nos modèles récents.</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
     <value>Veuillez maintenir une distance de sécurité avec l'avion devant vous</value>
+    <comment/>
   </data>
   <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
     <value>Nous avons trouvé votre compte mais vous n'avez pas d'abonnement actif.</value>
+    <comment/>
   </data>
   <data name="IntroPage.Home" xml:space="preserve">
     <value>ACCUEIL</value>
+    <comment/>
   </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
     <value>Aucun Serveur Disponible</value>
@@ -2175,162 +2451,215 @@
   </data>
   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
     <value>Appuyez pour continuer</value>
+    <comment/>
   </data>
   <data name="Settings.General.ClearCache" xml:space="preserve">
     <value>Vider le cache</value>
+    <comment/>
   </data>
   <data name="Settings.General.NoVoicesFound" xml:space="preserve">
     <value>Aucune voix trouvée</value>
+    <comment/>
   </data>
   <data name="Settings.Option.FiveSeconds" xml:space="preserve">
     <value>5 secondes</value>
+    <comment/>
   </data>
   <data name="Settings.Option.Never" xml:space="preserve">
     <value>Jamais</value>
+    <comment/>
   </data>
   <data name="Settings.Option.TenSeconds" xml:space="preserve">
     <value>10 secondes</value>
+    <comment/>
   </data>
   <data name="Settings.Option.TwoSeconds" xml:space="preserve">
     <value>2 secondes</value>
+    <comment/>
   </data>
   <data name="Commands.ElevatorTrimDown" xml:space="preserve">
     <value>Abaissement de l’ascenseur</value>
+    <comment/>
   </data>
   <data name="Commands.ElevatorTrimUp" xml:space="preserve">
     <value>Garniture d’ascenseur</value>
+    <comment/>
   </data>
   <data name="Commands.ThrottleDown" xml:space="preserve">
     <value>Accélérez vers le bas</value>
+    <comment/>
   </data>
   <data name="Commands.ThrottleUp" xml:space="preserve">
     <value>Accélérez</value>
+    <comment/>
   </data>
   <data name="Error.NetworkErrorShort" xml:space="preserve">
     <value>Erreur réseau</value>
+    <comment/>
   </data>
   <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
     <value>Aucune information supplémentaire</value>
+    <comment/>
   </data>
   <data name="SystemsStatus.NoInfo" xml:space="preserve">
     <value>Pas d’info</value>
+    <comment/>
   </data>
   <data name="SystemStatus.Name" xml:space="preserve">
     <value>État des systèmes</value>
+    <comment/>
   </data>
   <data name="Global.RestorePurchases" xml:space="preserve">
     <value>Restaurer les achats</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteAll" xml:space="preserve">
     <value>Supprimer tout</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteAll.Message" xml:space="preserve">
     <value>Supprimer tous les fichiers replay?</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteSelected" xml:space="preserve">
     <value>Supprimer la sélection</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
     <value>Supprimer {0} fichiers de relecture sélectionnés?</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
     <value>Supprimer le fichier de relecture sélectionné?</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteUnstarred" xml:space="preserve">
     <value>Supprimer Unstarred</value>
+    <comment/>
   </data>
   <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
     <value>Supprimer les fichiers de relecture sans étoile?</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.Class" xml:space="preserve">
     <value>Classe {0}</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.Information" xml:space="preserve">
     <value>INFORMATION</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Unavailable" xml:space="preserve">
     <value>Indisponible</value>
+    <comment/>
   </data>
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
     <value>Activez les freins de stationnement sur la rampe pour modifier le poids et le centrage en mode Live.</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
     <value>Aucun pont à réaction disponible à cet aéroport</value>
+    <comment/>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
     <value>Aucune entente n’a été signée; Vous devez signer l’accord pour effectuer cette action (code d’erreur {0})</value>
+    <comment/>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
     <value>L’aéroport sélectionné n’est pas disponible (code d’erreur {0})</value>
+    <comment/>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
     <value>Vous avez été déconnecté et devez vous reconnecter manuellement (code d’erreur {0})</value>
+    <comment/>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
     <value>Cette fonctionnalité n’est pas prise en charge (code d’erreur {0})</value>
+    <comment/>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
     <value>Le serveur sélectionné n’est pas disponible (code d’erreur {0})</value>
+    <comment/>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
     <value>Vous n’êtes pas affecté à cet aéroport. Veuillez contacter un réviseur ou un modérateur (code d’erreur {0})</value>
+    <comment/>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
     <value>Vous n’avez pas l’autorisation de télécharger des modifications dans cet aéroport.Veuillez d’abord demander à être attribué via le forum d’édition de décors.</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
     <value>Réglez le frein de stationnement et éteignez tous les moteurs pour amarrer les ponts à réaction</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
     <value>Aucun pont à réaction disponible à proximité</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.Contributor" xml:space="preserve">
     <value>Contributeur</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.Contributors" xml:space="preserve">
     <value>Contributeurs</value>
+    <comment/>
   </data>
   <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
     <value>Entré un ISF actif à {0} ou près de celui-ci{1}Consultez la carte pour plus d’informations</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.Discord" xml:space="preserve">
     <value>Compte Discord</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
     <value>Votre compte Discord a été lié et vous avez accès à notre serveur Discord réservé aux Pro</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
     <value>Associez un compte Discord pour obtenir un accès exclusif à notre serveur réservé aux Pro</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
     <value>Votre compte Discord a été lié. Voulez-vous rejoindre le serveur Infinite Flight Discord maintenant?</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
     <value>Pas maintenant</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
     <value>Compte lié</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
     <value>Discord doit être installé depuis l’App Store pour rejoindre le serveur Infinite Flight. Voulez-vous l’installer maintenant?</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
     <value>Discord non installé</value>
+    <comment/>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
     <value>Montrez les avions anciens qui ne reflètent pas les dernières évolutions (cockpits virtuels de haute qualité, instruments, etc...)</value>
+    <comment/>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
     <value>Les avions anciens sont des extras des anciennes versions d’Infinite Flight et ne sont pas de la même qualité. Montrez-leur quand même?</value>
+    <comment/>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
     <value>Aucun navigateur n’est disponible pour ouvrir ce lien. Assurez-vous qu’un navigateur est installé et contactez le support si le problème persiste (code d’erreur {0})</value>
+    <comment/>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
     <value>Impossible de se connecter au serveur, vérifiez votre connexion Internet (code d’erreur {0})</value>
+    <comment/>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
     <value>Les heures de début et de fin de cette session ne sont pas valides (code d’erreur {0})</value>
+    <comment/>
   </data>
   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
     <value>CHANGER D'AVION</value>
@@ -2434,309 +2763,411 @@
   </data>
   <data name="FlightMenu.WindWithGust" xml:space="preserve">
     <value>{0:#000}° à {1} - {2} kts</value>
+    <comment/>
   </data>
   <data name="FlightMenu.WorldUpper" xml:space="preserve">
     <value>MONDE</value>
+    <comment/>
   </data>
   <data name="FlightMissionControl.LongHaulUpper" xml:space="preserve">
     <value>LONG COURRIER</value>
+    <comment/>
   </data>
   <data name="FlightMissionControl.MediumHaulUpper" xml:space="preserve">
-    <value>COURRIER MOYEN</value>
+    <value>MOYEN COURRIER</value>
+    <comment/>
   </data>
   <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
     <value>AUCUNE MISSION TROUVÉE</value>
+    <comment/>
   </data>
   <data name="FlightMissionControl.ShortHaulUpper" xml:space="preserve">
     <value>COURT COURRIER</value>
+    <comment/>
   </data>
   <data name="FlightMissionControl.UltraLongHaulUpper" xml:space="preserve">
     <value>ULTRA LONG COURRIER</value>
+    <comment/>
   </data>
   <data name="FlightSchoolControl.AircraftUpper" xml:space="preserve">
     <value>AVION</value>
+    <comment/>
   </data>
   <data name="FlightSchoolControl.NoEntrySelected" xml:space="preserve">
     <value>AUCUNE ENTRÉE SÉLECTIONNÉE</value>
+    <comment/>
   </data>
   <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
     <value>AUCUNE LEÇON TROUVÉE</value>
+    <comment/>
   </data>
   <data name="Global.NotApplicable" xml:space="preserve">
     <value>N/A</value>
+    <comment/>
   </data>
   <data name="LogbookControl.AircraftUpper" xml:space="preserve">
     <value>AVION</value>
+    <comment/>
   </data>
   <data name="LogbookControl.AllUpper" xml:space="preserve">
     <value>TOUS</value>
+    <comment/>
   </data>
   <data name="LogbookControl.AtcUpper" xml:space="preserve">
     <value>ATC</value>
+    <comment/>
   </data>
   <data name="LogbookControl.DistanceUpper" xml:space="preserve">
     <value>DISTANCE</value>
+    <comment/>
   </data>
   <data name="LogbookControl.DurationUpper" xml:space="preserve">
     <value>DURÉE</value>
+    <comment/>
   </data>
   <data name="LogbookControl.ExportErrorMessage" xml:space="preserve">
     <value>Erreur lors de l'exportation du fichier de relecture. Vérifiez que vous disposez d'assez d'espace de stockage</value>
+    <comment/>
   </data>
   <data name="LogbookControl.ExportingUpper" xml:space="preserve">
     <value>EXPORTATION</value>
+    <comment/>
   </data>
   <data name="LogbookControl.FileSizeUpper" xml:space="preserve">
     <value>TAILLE DU FICHIER</value>
+    <comment/>
   </data>
   <data name="LogbookControl.MultiplayerUpper" xml:space="preserve">
     <value>MULTIJOUEUR</value>
+    <comment/>
   </data>
   <data name="LogbookControl.NoEntrySelected" xml:space="preserve">
     <value>AUCUNE ENTRÉE SÉLECTIONNÉE</value>
+    <comment/>
   </data>
   <data name="LogbookControl.NoItemsFound" xml:space="preserve">
     <value>AUCUN ÉLÉMENT TROUVÉ</value>
+    <comment/>
   </data>
   <data name="LogbookControl.OnlyReplaysUpper" xml:space="preserve">
     <value>REPLAYS SEULEMENT</value>
+    <comment/>
   </data>
   <data name="LogbookControl.ServerUpper" xml:space="preserve">
     <value>SERVEUR</value>
+    <comment/>
   </data>
   <data name="LogbookControl.SoloUpper" xml:space="preserve">
     <value>SOLO</value>
+    <comment/>
   </data>
   <data name="LogbookControl.XpEarnedUpper" xml:space="preserve">
     <value>XP GAGNÉ</value>
+    <comment/>
   </data>
   <data name="LogbookControl.YourLogbook" xml:space="preserve">
     <value>VOTRE CARNET DE VOL</value>
+    <comment/>
   </data>
   <data name="LoginSubscriptionPage.Pricing12Months" xml:space="preserve">
     <value>{0} / 12 mois</value>
+    <comment/>
   </data>
   <data name="LoginSubscriptionPage.Pricing6Months" xml:space="preserve">
     <value>{0} / 6 mois</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.AirTrafficControlUpper" xml:space="preserve">
     <value>CONTRÔLE DU TRAFIC AÉRIEN</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.ControlButtonUpper" xml:space="preserve">
     <value>CONTRÔLER</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.FlightUpper" xml:space="preserve">
     <value>VOL</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.FlyButtonUpper" xml:space="preserve">
     <value>VOLER</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.OpenButtonUpper" xml:space="preserve">
     <value>OUVRIR</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.ReplayButtonUpper" xml:space="preserve">
     <value>REJOUER</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.UnableToPlayReplay" xml:space="preserve">
     <value>Impossible de lire le fichier de relecture</value>
+    <comment/>
   </data>
   <data name="MenuAtcControl.ChangeAirportUpper" xml:space="preserve">
     <value>CHANGER D'AÉROPORT</value>
+    <comment/>
   </data>
   <data name="MenuAtcControl.Duration" xml:space="preserve">
     <value>Durée</value>
+    <comment/>
   </data>
   <data name="MenuAtcControl.Frequencies" xml:space="preserve">
     <value>Fréquences</value>
+    <comment/>
   </data>
   <data name="MenuAtcControl.MultipleFrequencies" xml:space="preserve">
     <value>Fréquences multiples</value>
+    <comment/>
   </data>
   <data name="MenuAtcControl.NewAtcSessionUpper" xml:space="preserve">
     <value>NOUVELLE SESSION ATC</value>
+    <comment/>
   </data>
   <data name="MenuAtcControl.NoSessionsFoundUpper" xml:space="preserve">
     <value>AUCUNE SESSION TROUVÉE</value>
+    <comment/>
   </data>
   <data name="MenuAtcControl.ResumeAtcSessionQuestion" xml:space="preserve">
     <value>Reprendre la session ATC?</value>
+    <comment/>
   </data>
   <data name="MenuAtcControl.UnableToRestartUserNotSame" xml:space="preserve">
     <value>Impossible de redémarrer car cette session n'est pas liée à votre compte</value>
+    <comment/>
   </data>
   <data name="AircraftPage.ShowLegacyAircraft" xml:space="preserve">
     <value>Afficher les avions des versions précédentes</value>
+    <comment/>
   </data>
   <data name="World.SoloDescription" xml:space="preserve">
     <value>Choisissez votre propre avion et itinéraire, testez vos compétences de pilotage et explorez de beaux paysages sans règles ni autres pilotes.</value>
+    <comment/>
   </data>
   <data name="DefaultMission.AfterLanding" xml:space="preserve">
     <value>Bienvenue à {0}. Dirigez-vous vers le parking et éteignez l'avion pour terminer cette mission</value>
+    <comment/>
   </data>
   <data name="DefaultMission.Congratulation" xml:space="preserve">
     <value>Félicitations pour avoir réussi ce vol jusqu'à {0} !  Vous pouvez quitter cette session ou vous lancer dans un autre voyage vers une nouvelle destination. À très bientôt dans le ciel d'Infinite Flight !</value>
+    <comment/>
   </data>
   <data name="DefaultMission.Congratulation2" xml:space="preserve">
     <value>Félicitations pour avoir accompli ce vol jusqu'à {0} !  Vous pouvez quitter cette session ou embarquer pour une autre destination.</value>
+    <comment/>
   </data>
   <data name="DefaultMission.HaveAGoodFlight" xml:space="preserve">
     <value>Bon vol vers {0}</value>
+    <comment/>
   </data>
   <data name="DefaultMission.HaveAGoodFlightTaxi" xml:space="preserve">
     <value>Vous êtes maintenant prêt à rouler, bon vol vers {0}</value>
+    <comment/>
   </data>
   <data name="DefaultMission.MissionBriefWindow" xml:space="preserve">
     <value>Ceci est votre fenêtre de résumé de mission. Vous pouvez revenir ici à tout moment pour voir ce que vous devez faire. Cette fenêtre peut être masquée en appuyant sur le bouton "MISSION BRIEF" à droite</value>
+    <comment/>
   </data>
   <data name="DefaultMission.PushbackEnd" xml:space="preserve">
     <value>Le repoussage est terminé. Appuyez sur "DETACH TUG" dans le menu "GROUND SERVICES" pour déconnecter le tracteur de l'avion</value>
+    <comment/>
   </data>
   <data name="DefaultMission.PushbackEndPrompt" xml:space="preserve">
     <value>Lorsque vous avez terminé, appuyez à nouveau sur le bouton "PUSH" pour arrêter.</value>
+    <comment/>
   </data>
   <data name="DefaultMission.PushbackStart" xml:space="preserve">
     <value>Maintenant que les freins de stationnement sont relâchés, pour commencer le repoussage, appuyez simplement sur le bouton "PUSH" dans le menu "GROUND SERVICES".</value>
+    <comment/>
   </data>
   <data name="DefaultMission.PushbackSteering" xml:space="preserve">
     <value>Le repoussage a commencé, utilisez le curseur "RUD BRAKES" en bas à droite pour diriger l'avion dans la direction que vous souhaitez.</value>
+    <comment/>
   </data>
   <data name="DefaultMission.ReadyForPushback" xml:space="preserve">
     <value>Nous sommes prêts pour le repoussage, ouvrez le menu "GROUND SERVICES" à droite, descendez jusqu'à la section "PUSHBACK" et appuyez sur "ATTACH TUG"</value>
+    <comment/>
   </data>
   <data name="DefaultMission.ReleaseBrakes" xml:space="preserve">
     <value>Si vous êtes prêt à commencer le repoussage, les freins de stationnement doivent être relâchés en appuyant sur le bouton "PARK BRAKES" en bas à gauche</value>
+    <comment/>
   </data>
   <data name="DefaultMission.StartEngine" xml:space="preserve">
     <value>Nous pouvons maintenant démarrer les moteurs s'ils ne sont pas déjà allumés. Ouvrez le menu "SYSTEMS" à droite et appuyez sur "AUTO START" pour démarrer les moteurs et préparer l'avion pour le roulage</value>
+    <comment/>
   </data>
   <data name="DefaultMission.TapToContinue" xml:space="preserve">
     <value>Tapez ici pour continuer</value>
+    <comment/>
   </data>
   <data name="DefaultMission.Welcome" xml:space="preserve">
     <value>Bienvenue sur Infinite Flight ! Tapez cette fenêtre pour commencer et voir le résumé de la mission et les instructions</value>
+    <comment/>
   </data>
   <data name="DefaultMission.YourMissionBrief" xml:space="preserve">
     <value>Votre mission d'aujourd'hui est :{0}</value>
+    <comment/>
   </data>
   <data name="Mission.MissionBrief" xml:space="preserve">
     <value>BRIEFING DE LA MISSION</value>
+    <comment/>
   </data>
   <data name="NavigationControl.Leaderboards" xml:space="preserve">
     <value>Classements</value>
+    <comment/>
   </data>
   <data name="Global.Mode" xml:space="preserve">
     <value>Mode</value>
+    <comment/>
   </data>
   <data name="AircraftProfileImageControl.ImageUnavailable" xml:space="preserve">
     <value>Image Indisponible</value>
+    <comment/>
   </data>
   <data name="ATC.Center" xml:space="preserve">
     <value>Center</value>
+    <comment/>
   </data>
   <data name="FlightMissionControl.FeaturedMissionUpper" xml:space="preserve">
-    <value>FEATURED MISSION</value>
+    <value>MISSION VEDETTE</value>
+    <comment/>
   </data>
   <data name="Global.You" xml:space="preserve">
     <value>Vous</value>
+    <comment/>
   </data>
   <data name="LeaderboardsControl.Landings" xml:space="preserve">
     <value>Atterissages</value>
+    <comment/>
   </data>
   <data name="LogbookControl.NoReplayFileUpper" xml:space="preserve">
     <value>PAS DE REPLAY</value>
+    <comment/>
   </data>
   <data name="WeatherInfoControl.UnavailableInSoloUpper" xml:space="preserve">
     <value>INDISPONIBLE EN SOLO</value>
+    <comment/>
   </data>
   <data name="CallSignSelectionPage.CallsignsNotAvailable" xml:space="preserve">
-    <value>Les callsigns sont indisponibles, veuillez essayer plus tard</value>
+    <value>Les callsigns sont indisponibles, veuillez réessayer plus tard</value>
+    <comment/>
   </data>
   <data name="GamePage.WaitCanvas.ReadyToFlyUpper" xml:space="preserve">
     <value>PRET A VOLER</value>
+    <comment/>
   </data>
   <data name="InputAssignmentControl.AreYouSureToResetAllControls" xml:space="preserve">
     <value>Êtes-vous sûr de vouloir réinitialiser tous les contrôles ?</value>
+    <comment/>
   </data>
   <data name="LeaderboardsControl.Pilots" xml:space="preserve">
     <value>Pilotes</value>
+    <comment/>
   </data>
   <data name="MissionStatusControl.ObjectivesUpper" xml:space="preserve">
     <value>OBJECTIFS</value>
+    <comment/>
   </data>
   <data name="MissionStatusControl.TapHereToContinueUpper" xml:space="preserve">
     <value>APPUYEZ ICI POUR CONTINUER</value>
+    <comment/>
   </data>
   <data name="NewsControl.Announcement" xml:space="preserve">
     <value>Annonce</value>
+    <comment/>
   </data>
   <data name="NewsControl.CommunityTopic" xml:space="preserve">
     <value>Forum</value>
+    <comment/>
   </data>
   <data name="NewsControl.Event" xml:space="preserve">
     <value>Événement</value>
+    <comment/>
   </data>
   <data name="NewsControl.Mission" xml:space="preserve">
     <value>Mission</value>
+    <comment/>
   </data>
   <data name="NewsControl.News" xml:space="preserve">
     <value>Actualités</value>
+    <comment/>
   </data>
   <data name="NewsControl.StartFlightQuestion" xml:space="preserve">
     <value>Commencer le vol ?</value>
+    <comment/>
   </data>
   <data name="NewsControl.Timeline" xml:space="preserve">
     <value>Timeline</value>
+    <comment/>
   </data>
   <data name="NewsControl.Tutorial" xml:space="preserve">
     <value>Tutoriel</value>
+    <comment/>
   </data>
   <data name="NewsControl.Video" xml:space="preserve">
     <value>Vidéo</value>
+    <comment/>
   </data>
   <data name="WorldModeModalControl.AtcNotAvailable" xml:space="preserve">
     <value>ATC INDISPONIBLE</value>
+    <comment/>
   </data>
   <data name="WorldModeModalControl.GradeThreeRequired" xml:space="preserve">
     <value>GRADE 3 REQUIS</value>
+    <comment/>
   </data>
   <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
     <value>PLUS DESERVERS</value>
+    <comment/>
   </data>
   <data name="WorldModeModalControl.MultiPlayer" xml:space="preserve">
     <value>MULTIJOUEUR</value>
+    <comment/>
   </data>
   <data name="WorldModeModalControl.NoAccessUpper" xml:space="preserve">
     <value>PAS D'ACCÈS</value>
+    <comment/>
   </data>
   <data name="WorldModeModalControl.ProDescription" xml:space="preserve">
     <value>Obtenez Infinite Flight Pro pour débloquer tous les serveurs multijoueurs et voler avec des milliers d'autres pilotes à travers le monde.</value>
+    <comment/>
   </data>
   <data name="WorldModeModalControl.SinglePlayer" xml:space="preserve">
     <value>SOLO</value>
+    <comment/>
   </data>
   <data name="WorldModeModalControl.SinglePlayerOneLine" xml:space="preserve">
     <value>SOLO</value>
+    <comment/>
   </data>
   <data name="WorldModeModalControl.TiredOfFlyingAloneUpper" xml:space="preserve">
     <value>MARRE DE VOLER SEUL ?</value>
+    <comment/>
   </data>
   <data name="GameControlsAxisSetupControl.AxisUpper" xml:space="preserve">
     <value>AXE</value>
+    <comment/>
   </data>
   <data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
     <value>INVERSER</value>
+    <comment/>
   </data>
   <data name="GameControlsAxisSetupControl.MoveAxisToAssignUpper" xml:space="preserve">
     <value>BOUGER L'AXE À ASSIGNER</value>
+    <comment/>
   </data>
   <data name="GameControlsAxisSetupControl.TapToAssignUpper" xml:space="preserve">
     <value>TOUCHEZ POUR ASSIGNER</value>
+    <comment/>
   </data>
   <data name="LogbookControl.CouldNotImportReplayStorageError" xml:space="preserve">
     <value>Impossible d'importer le fichier replay. Veuillez vérifier l'espace de stockage disponible.</value>
+    <comment/>
   </data>
   <data name="LeaderboardsControl.WeeklyLeaderboardUpper" xml:space="preserve">
     <value>CLASSEMENT HEBDOMADAIRE</value>
+    <comment/>
   </data>
   <data name="Global.Cancelled" xml:space="preserve">
     <value>ANNULÉ</value>
@@ -2768,171 +3199,227 @@
   </data>
   <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
     <value>L'abonnement se renouvellera automatiquement jusqu'à son annulation.Annulez à tout moment dans le Centre d'abonnement de Google Play.</value>
+    <comment/>
   </data>
   <data name="FlightScenarioControl.FailedToLoadScenarioInfo" xml:space="preserve">
     <value>Échec du chargement des infos de scénario ({0})</value>
+    <comment/>
   </data>
   <data name="FlightScenarioControl.LoadingScenario" xml:space="preserve">
     <value>Chargement du Scénario</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.AtcUnavailableInSingleplayer" xml:space="preserve">
     <value>Le contrôle aérien n'est pas disponible en mode solo.</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.AtcUnavailableOnWorld" xml:space="preserve">
     <value>Le contrôle aérien n'est pas disponible sur {0}.</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.Close" xml:space="preserve">
     <value>Fermer</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.DemoSingleplayerOnly" xml:space="preserve">
     <value>La démo est uniquement accessible en mode solo.</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.FailedToOpenUrl" xml:space="preserve">
     <value>Échec d'ouverture du lien URL.</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.FlightTrainingSingleplayerOnly" xml:space="preserve">
     <value>L'école de pilotage au vol est uniquement disponible en mode solo.</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.GradeTooLowIFATC" xml:space="preserve">
-    <value>Votre grade est trop bas. Les contrôleurs IFATC peuvent seuleument aller au mode ATC à tout moment.</value>
+    <value>Votre grade est trop bas. Les contrôleurs IFATC peuvent seulement aller au mode ATC à tout moment.</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.Join" xml:space="preserve">
     <value>Rejoindre</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.JoinIFATC" xml:space="preserve">
     <value>Rejoignez l'équipe IFATC pour accéder au contrôle aérien en Expert.</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.MultiplayerUnavailable" xml:space="preserve">
     <value>Le mode multijoueur n'est pas disponible actuellement.</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.NoProReturnSolo" xml:space="preserve">
     <value>Aucun abonnement Infinite Flight Pro valide trouvé. Retour au mode solo.</value>
+    <comment/>
   </data>
   <data name="GameSelectionModalControl.SceneryEditorSingleplayerOnly" xml:space="preserve">
     <value>L'Éditeur de Scène est uniquement disponible en mode solo.</value>
+    <comment/>
   </data>
   <data name="GameSelectionModesControl.AirTrafficControlShortDescription" xml:space="preserve">
     <value>Prenez le contrôle aérien ! C'est dynamique et rapide, intensifiant votre aventure aéronautique</value>
+    <comment/>
   </data>
   <data name="GameSelectionModesControl.FlightMissionsShortDescription" xml:space="preserve">
     <value>Choisissez parmi une liste sélectionnée de vols, du transport de passagers au transport de marchandises</value>
+    <comment/>
   </data>
   <data name="GameSelectionModesControl.FlightScenarioShortDescription" xml:space="preserve">
     <value>Affinez vos compétences avec nos scénarios personnalisés</value>
+    <comment/>
   </data>
   <data name="GameSelectionModesControl.FreeFlightShortDescription" xml:space="preserve">
     <value>Choisissez votre aventure et explorez les cieux d'Infinite Flight</value>
+    <comment/>
   </data>
   <data name="GameSelectionModesControl.SceneryEditorShortDescription" xml:space="preserve">
     <value>Plongez-vous dans la conception des aéroports</value>
+    <comment/>
   </data>
   <data name="GameSelectionModesControl.TrainingUpper" xml:space="preserve">
     <value>ENTRAÎNEMENT</value>
+    <comment/>
   </data>
   <data name="GameSelectionProvidersControl.NoScenarioProvidersFoundUpper" xml:space="preserve">
     <value>AUCUN AUTEUR DE SCÉNARIOS TROUVÉ</value>
+    <comment/>
   </data>
   <data name="GameSelectionScenariosControl.NoScenariosFoundUpper" xml:space="preserve">
     <value>AUCUN SCÉNARIO TROUVÉ</value>
+    <comment/>
   </data>
   <data name="GameSelectionScenarioUnavailableControl.Description" xml:space="preserve">
     <value>Scénario indisponible ou invisible</value>
+    <comment/>
   </data>
   <data name="GameSelectionScenarioUnavailableControl.Title" xml:space="preserve">
     <value>Scénario non trouvé</value>
+    <comment/>
   </data>
   <data name="LogbookControl.AutoDeleteInformation" xml:space="preserve">
-    <value>La suppression automatique conserve les 10 dernièrs replays supprimables. Vous pouvez conserver les replays plus longtemps en les verrouillant ou en les exportant.</value>
+    <value>La suppression automatique conserve les 10 derniers replays supprimables. Vous pouvez conserver les replays plus longtemps en les verrouillant ou en les exportant.</value>
+    <comment/>
   </data>
   <data name="LogbookControl.AutoDeleteReplaysMultilineUpper" xml:space="preserve">
     <value>AUTO-SUPPRESSION DES REPLAYS</value>
+    <comment/>
   </data>
   <data name="LogbookControl.FailedReplayDeleteUnknownReason" xml:space="preserve">
     <value>Échec de la suppression du replay. Raison inconnue : {0}</value>
+    <comment/>
   </data>
   <data name="LogbookControl.LockUpper" xml:space="preserve">
     <value>VERROUILLER</value>
+    <comment/>
   </data>
   <data name="LogbookControl.NeedToUnlockReplay" xml:space="preserve">
     <value>Vous devez déverrouiller ce replay avant de le supprimer.</value>
+    <comment/>
   </data>
   <data name="LogbookControl.ReplayATCProtected" xml:space="preserve">
     <value>Ce replay est protégé par les règles ATC et ne peut pas être supprimé dans les 7 jours suivant l'enregistrement.</value>
+    <comment/>
   </data>
   <data name="LogbookControl.UnlockReplayWarning" xml:space="preserve">
-    <value>Déverrouiller ce replay supprimera les anciennes rediffusions au prochain lancement de l'application.</value>
+    <value>Déverrouiller ce replay supprimera les anciennes diffusions au prochain lancement de l'application.</value>
+    <comment/>
   </data>
   <data name="LogbookControl.UnlockUpper" xml:space="preserve">
     <value>DÉVERROUILLER</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.AutoDeleteNotice" xml:space="preserve">
-    <value>Libérez de l'espace de stockage en activant la suppression automatique des replays. Elle conserve les 10 dernièrs replays supprimables. Souhaitez-vous l'activer ?</value>
+    <value>Libérez de l'espace de stockage en activant la suppression automatique des replays. Elle conserve les 10 derniers replays supprimables. Souhaitez-vous l'activer ?</value>
+    <comment/>
   </data>
   <data name="TimeInfoControl.LocationNotSet" xml:space="preserve">
     <value>Emplacement non défini. Impossible de calculer l'heure locale.</value>
+    <comment/>
   </data>
   <data name="TimeInfoControl.SunriseNotAvailable" xml:space="preserve">
     <value>Le lever de soleil n'est pas disponible pour cet emplacement en cette période de l'année.</value>
+    <comment/>
   </data>
   <data name="TimeInfoControl.SunsetNotAvailable" xml:space="preserve">
     <value>Le coucher de soleil n'est pas disponible pour cet emplacement en cette période de l'année.</value>
+    <comment/>
   </data>
   <data name="TimeInfoControl.TimeHeader" xml:space="preserve">
     <value>TEMPS</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.DeleteAccount" xml:space="preserve">
     <value>Supprimer Compte</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.DeleteAccountDescription" xml:space="preserve">
-    <value>Supprime vos informations, statistiques et comptes liés. Votre abonnement restera accessible via un compte anonyme.</value>
+    <value>Supprimer vos informations, statistiques et comptes liés. Votre abonnement restera accessible via un compte anonyme.</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.DeleteAccountMessage" xml:space="preserve">
     <value>Cela effacera votre compte Infinite Flight actuel, statistiques et comptes associés inclus. Action irréversible. L'abonnement sera préservé dans un nouveau compte anonyme.Confirmez-vous la suppression du compte ?</value>
+    <comment/>
   </data>
   <data name="UserAccountControl.JoinServer" xml:space="preserve">
     <value>Rejoindre Serveur</value>
+    <comment/>
   </data>
   <data name="WeatherInfoControl.CloudAtAltitudeFeet" xml:space="preserve">
     <value>{0} à {1} ft</value>
+    <comment/>
   </data>
   <data name="WeatherInfoControl.ManuallySetUpper" xml:space="preserve">
     <value>CONFIG. MANUELLE</value>
+    <comment/>
   </data>
   <data name="UserAccount.DeleteAccountConfirmationMessage" xml:space="preserve">
     <value>Pour confirmer, tapez "DELETE" ci-dessous</value>
+    <comment/>
   </data>
   <data name="UserAccount.DeleteAccountConfirmationTextToType" xml:space="preserve">
     <value>DELETE</value>
+    <comment/>
   </data>
   <data name="LogbookControl.EntriesUpper" xml:space="preserve">
     <value>ENTRÉES</value>
+    <comment/>
   </data>
   <data name="LogbookControl.FailedRetrieveStartingAirport" xml:space="preserve">
     <value>Échec de la récupération de l'aéroport de départ</value>
+    <comment/>
   </data>
   <data name="LogbookControl.FailedToRetrieveReplay" xml:space="preserve">
     <value>Échec de la récupération du replay</value>
+    <comment/>
   </data>
   <data name="LogbookControl.NoLogbookEntrySelected" xml:space="preserve">
     <value>Aucune entrée du carnet de vol sélectionnée</value>
+    <comment/>
   </data>
   <data name="LogbookControl.NoReplayLinkedLogbookEntry" xml:space="preserve">
     <value>Aucun replay lié à l'entrée du carnet de vol</value>
+    <comment/>
   </data>
   <data name="Error.AircraftLimitReached" xml:space="preserve">
     <value>Limite d'avions atteinte</value>
+    <comment/>
   </data>
   <data name="Error.InsufficientStorage" xml:space="preserve">
     <value>Votre appareil manque d'espace de stockage. Veuillez libérer de l'espace et réessayer.</value>
+    <comment/>
   </data>
   <data name="Error.SimbriefApiScopeMissing" xml:space="preserve">
     <value>Votre compte Navigraph est lié, mais Infinite Flight n'a pas la permission à SimBrief. Veuillez vous reconnecter et vous assurer que SimBrief est accessible.</value>
+    <comment/>
   </data>
   <data name="FlightScenarioControl.FailedToLoadScenario" xml:space="preserve">
     <value>Échec du chargement du scénario ({0})</value>
+    <comment/>
   </data>
   <data name="Global.UpdatedTimeFormat" xml:space="preserve">
     <value>Modifié  {0}</value>
+    <comment/>
   </data>
   <data name="FlightMenu.FreeFlight" xml:space="preserve">
     <value>Vol Libre</value>
@@ -3020,238 +3507,303 @@
   </data>
   <data name="PushbackSystem.AutoPushbackNotAvailableAirport" xml:space="preserve">
     <value>Le repoussage automatique n'est pas disponible à {0}.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.AutoPushbackNotAvailableLocation" xml:space="preserve">
     <value>Le repoussage automatique n'est pas disponible à cet endroit.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.AutoPushbackNotAvailableParking" xml:space="preserve">
-    <value>Le repoussage automatique est indisponible pour le moment. 
-Déplacez l'appareil vers une place de stationnement ou utilisez le repoussage manuel.</value>
+    <value>Le repoussage automatique est indisponible pour le moment. Déplacez l'appareil vers une place de stationnement ou utilisez le repoussage manuel.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.ChooseAnotherPointMessage" xml:space="preserve">
     <value>Choisissez un autre point pour diriger l'appareil ou appuyez sur Démarrer pour lancer la séquence de repoussage.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.ChooseFirstPointMessage" xml:space="preserve">
     <value>Appuyez sur une ligne de taxiway pour sélectionner le premier point.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.MaxTwoPointsAllowed" xml:space="preserve">
     <value>Un maximum de deux points est autorisé.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.PathTooLong" xml:space="preserve">
     <value>Le trajet est trop long. Veuillez choisir un point plus proche.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.PathTooShort" xml:space="preserve">
     <value>Le trajet est trop court. Veuillez choisir un point plus éloigné.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.StartedPleaseWait" xml:space="preserve">
     <value>Le repoussage a commencé. Veuillez patienter.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.TapStartToBeginMessage" xml:space="preserve">
     <value>Appuyez sur Démarrer pour lancer la séquence de repoussage.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.UnableGroundServices" xml:space="preserve">
-    <value>Impossible de repousser. 
-Déconnectez tous les services au sol pour commencer le repoussage.</value>
+    <value>Impossible de repousser. Déconnectez tous les services au sol pour commencer le repoussage.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.UnableGroundServicesAndParkingBrake" xml:space="preserve">
-    <value>Impossible de repousser. 
-Déconnectez tous les services au sol et désactivez PARK BRAKES pour commencer le repoussage.</value>
+    <value>Impossible de repousser. Déconnectez tous les services au sol et désactivez PARK BRAKES pour commencer le repoussage.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.UnableParkingBrake" xml:space="preserve">
-    <value>Impossible de repousser. 
-Désactivez PARK BRAKES pour commencer le repoussage.</value>
+    <value>Impossible de repousser. Désactivez PARK BRAKES pour commencer le repoussage.</value>
+    <comment/>
   </data>
   <data name="PushbackSystem.UnableToStartMessage" xml:space="preserve">
-    <value>Impossible de lancer le repoussage automatique. 
-Déconnectez tous les services au sol avant de commencer le repoussage.</value>
+    <value>Impossible de lancer le repoussage automatique. Déconnectez tous les services au sol avant de commencer le repoussage.</value>
+    <comment/>
   </data>
   <data name="AirportEditorFileManager.AirportSubmitDraftUploaded" xml:space="preserve">
     <value>Votre ébauche d'aéroport a été téléchargée !</value>
+    <comment/>
   </data>
   <data name="AirportEditorFileManager.AirportSubmitReviewUploaded" xml:space="preserve">
-    <value>Votre aéroport a été téléchargé et est en attente de révision. 
-Veuillez consulter le fil du forum de l'aéroport pour les retours de l'équipe de révision officielle.</value>
+    <value>Votre aéroport a été téléchargé et est en attente de révision. Veuillez consulter le fil du forum de l'aéroport pour les retours de l'équipe de révision officielle.</value>
+    <comment/>
   </data>
   <data name="ATCManager.ReportUserNoIFCLink" xml:space="preserve">
     <value>Vous devez connecter votre profil Infinite Flight Community dans les paramètres pour signaler un utilisateur.</value>
+    <comment/>
   </data>
   <data name="Autopilot.IASModeDeactivated" xml:space="preserve">
     <value>Mode IAS désactivé</value>
+    <comment/>
   </data>
   <data name="Autopilot.LNAVUnavailable" xml:space="preserve">
     <value>LNAV indisponible : plan de vol manquant ou NAV1 non réglé.</value>
+    <comment/>
   </data>
   <data name="Autopilot.SimulationTimeScaleResetAircraftTooFast" xml:space="preserve">
-    <value>Vitesse de simulation réinitialisée à 1x. 
-Vitesse de l'appareil trop élevée. (&gt; M1.0)</value>
+    <value>Vitesse de simulation réinitialisée à 1x. Vitesse de l'appareil trop élevée. (&gt; M1.0)</value>
+    <comment/>
   </data>
   <data name="Autopilot.SimulationTimeScaleResetAutopilotDisconnected" xml:space="preserve">
-    <value>Vitesse de simulation réinitialisée à 1x. 
-Pilote automatique déconnecté.</value>
+    <value>Vitesse de simulation réinitialisée à 1x. Pilote automatique déconnecté.</value>
+    <comment/>
   </data>
   <data name="FlightPlanControl.FPLNotValid" xml:space="preserve">
     <value>Le fichier du plan de vol n'est pas valide.</value>
+    <comment/>
   </data>
   <data name="GameSelectionControl.AtcUnavailable" xml:space="preserve">
     <value>ATC indisponible</value>
+    <comment/>
   </data>
   <data name="GameSelectionControl.LowGradeUpper" xml:space="preserve">
     <value>GRADE FAIBLE</value>
+    <comment/>
   </data>
   <data name="GameSelectionJoinIfatcControl.JoinIfatcUpper" xml:space="preserve">
     <value>REJOINDRE IFATC</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.WorldIsUnknown" xml:space="preserve">
     <value>Le monde est inconnu</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.AirportDestinationCannotAccomodateAircraft" xml:space="preserve">
-    <value>{0} ne peut pas accueillir un(e) {1}. 
-Sélectionnez un autre aéroport de destination.</value>
+    <value>{0} ne peut pas accueillir un(e) {1}. Sélectionnez un autre aéroport de destination.</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.ILSOutOfRange" xml:space="preserve">
     <value>ILS hors de portée</value>
+    <comment/>
   </data>
   <data name="MapItemInfoControl.UnableSetILSAirportNotFound" xml:space="preserve">
     <value>Impossible de régler l'ILS, aéroport introuvable.</value>
+    <comment/>
   </data>
   <data name="Replay.UploadSuccess" xml:space="preserve">
     <value>Relecture téléchargée avec succès.</value>
+    <comment/>
   </data>
   <data name="WeightBalanceControl.Load" xml:space="preserve">
     <value>Charge</value>
+    <comment/>
   </data>
   <data name="AboutControl.AboutTitle" xml:space="preserve">
     <value>À propos</value>
+    <comment/>
   </data>
   <data name="AboutControl.CreditsTitle" xml:space="preserve">
     <value>Crédits</value>
+    <comment/>
   </data>
   <data name="CallsignSelectionPage.CallsignCannotBeBlank" xml:space="preserve">
     <value>Votre indicatif ne peut pas être vide</value>
+    <comment/>
   </data>
   <data name="CallsignSelectionPage.CallsignNotValid" xml:space="preserve">
     <value>Votre indicatif n'est pas valide</value>
+    <comment/>
   </data>
   <data name="CallsignSelectionPage.GACallsignNotValidCountry" xml:space="preserve">
     <value>Votre indicatif n'est pas valide. Assurez-vous qu'un pays d'enregistrement valide est sélectionné</value>
+    <comment/>
   </data>
   <data name="CallsignSelectionPage.GACallsignTooLong" xml:space="preserve">
     <value>Votre indicatif est trop long pour le format de ce pays</value>
+    <comment/>
   </data>
   <data name="CallsignSelectionPage.IdentifierOnlyNumberTwoSuffixLetters" xml:space="preserve">
     <value>L'identifiant ne peut contenir que des chiffres et deux lettres de suffixe</value>
+    <comment/>
   </data>
   <data name="CallsignSelectionPage.IdentifierTooLong" xml:space="preserve">
     <value>Votre identifiant est trop long, 5 caractères maximum</value>
+    <comment/>
   </data>
   <data name="CallsignSelectionPage.InvalidCallsignNotMatchedFormat" xml:space="preserve">
     <value>Votre indicatif est invalide. Assurez-vous qu'il correspond au format disponible</value>
+    <comment/>
   </data>
   <data name="CreditsControl.SpecialThanks" xml:space="preserve">
     <value>Remerciements</value>
+    <comment/>
   </data>
   <data name="GamePage.ErrorRestartApp" xml:space="preserve">
     <value>Une erreur est survenue. Veuillez redémarrer l'application</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.ATCLocalRadarNotAllowed" xml:space="preserve">
     <value>Pour offrir un excellent service de contrôle aérien, il est interdit d'assurer simultanément une fréquence Tour/Sol et une fréquence Approche/Départ/Centre. Veuillez modifier votre sélection.</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.ATCRadarCenterNotAllowed" xml:space="preserve">
     <value>Pour offrir un excellent service de contrôle aérien, il est interdit d'assurer simultanément une fréquence Approche/Départ et une fréquence Centre. Veuillez modifier votre sélection.</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.ExpertATCLocalLargeAirportDurationTooLow" xml:space="preserve">
     <value>Pour offrir un excellent service de contrôle aérien sur Expert, une durée minimale d'une heure est requise pour une fréquence Tour/Sol dans un grand aéroport. Veuillez ajuster la durée.</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.ExpertATCRadarDurationTooLow" xml:space="preserve">
     <value>Pour offrir un excellent service de contrôle aérien sur Expert, une durée minimale d'une heure est requise pour une fréquence Approche/Départ/Centre. Veuillez ajuster la durée.</value>
+    <comment/>
   </data>
   <data name="MainMenuPage.ScenarioStartLocationInvalid" xml:space="preserve">
     <value>Le point de départ du scénario est invalide</value>
+    <comment/>
   </data>
   <data name="SocialNetworkSummaryExtendedViolations.LevelFormat" xml:space="preserve">
     <value>Niveau {0}</value>
+    <comment/>
   </data>
   <data name="AircraftPage.IncludesGlobalAndMultiplayer" xml:space="preserve">
     <value>Comprend Global &amp; Multijoueur</value>
+    <comment/>
   </data>
   <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">
     <value>Veuillez déconnecter les services au sol avant de demander à rouler</value>
+    <comment/>
   </data>
   <data name="ATCIncomingFlightsControl.IncomingAirplanes" xml:space="preserve">
     <value>Avions entrants</value>
+    <comment/>
   </data>
   <data name="ATCIncomingFlightsControl.IncomingAirplanesToFormat" xml:space="preserve">
     <value>Avions entrants vers {0}</value>
+    <comment/>
   </data>
   <data name="ATCWorld.Disconnected" xml:space="preserve">
     <value>Déconnecté</value>
+    <comment/>
   </data>
   <data name="ATCWorld.DisconnectionReason.FrequencyAlreadyInUse" xml:space="preserve">
     <value>Une ou plusieurs des fréquences sélectionnées sont indisponibles.</value>
+    <comment/>
   </data>
   <data name="ATCWorld.DisconnectionReason.TooManyUsers" xml:space="preserve">
     <value>Le serveur est actuellement plein. Veuillez réessayer plus tard.</value>
+    <comment/>
   </data>
   <data name="ATCWorld.DisconnectionReason.UserAlreadyConnected" xml:space="preserve">
     <value>Il existe déjà une connexion active avec ce compte utilisateur.</value>
+    <comment/>
   </data>
   <data name="CallsignSelectionPage.NoCallsignsFound" xml:space="preserve">
-    <value>Aucun indicatif trouvé !</value>
+    <value>Aucun indicatif n'est trouvé !</value>
+    <comment/>
   </data>
   <data name="Game.UnableToStartScenarioWhileFlying" xml:space="preserve">
-    <value>Impossible de démarrer un scénario pendant un vol en cours.
-Quittez le vol actuel et réessayez.</value>
+    <value>Impossible de démarrer un scénario pendant un vol en cours.Quittez le vol actuel et réessayez.</value>
+    <comment/>
   </data>
   <data name="GameControlsKeySetup2.ButtonUpper" xml:space="preserve">
     <value>BOUTON</value>
+    <comment/>
   </data>
   <data name="GameControlsKeySetup2.MoveAxisOrPressButtonToAssignUpper" xml:space="preserve">
     <value>BOUGEZ L'AXE OU APPUYEZ SUR UN BOUTON POUR ASSIGNER</value>
+    <comment/>
   </data>
   <data name="GameControlsKeySetup2.PressButtonToAssignUpper" xml:space="preserve">
     <value>APPUYEZ SUR UN BOUTON POUR ASSIGNER</value>
+    <comment/>
   </data>
   <data name="GamePage.NoAirportFoundVicinity" xml:space="preserve">
     <value>Aucun aéroport trouvé à proximité</value>
+    <comment/>
   </data>
   <data name="InputAssignmentControl.AssignedUpper" xml:space="preserve">
     <value>ASSIGNÉ</value>
+    <comment/>
   </data>
   <data name="InputAssignmentControl.FilterFormat" xml:space="preserve">
     <value>FILTRE : {0}</value>
+    <comment/>
   </data>
   <data name="MenuAtcControl.NoScenarioSelected" xml:space="preserve">
     <value>Aucun scénario sélectionné</value>
+    <comment/>
   </data>
   <data name="MenuPage.UnableToStartScenario" xml:space="preserve">
     <value>Impossible de démarrer le scénario.</value>
+    <comment/>
   </data>
   <data name="MissionStatusControl.Waypoint" xml:space="preserve">
     <value>Point de passage</value>
+    <comment/>
   </data>
   <data name="SimbriefImporter.NetworkFailed" xml:space="preserve">
     <value>Une erreur est survenue lors de l'importation de l'OFP SimBrief. Vérifiez votre connexion Internet et réessayez.</value>
+    <comment/>
   </data>
   <data name="SimbriefImporter.ParseFailed" xml:space="preserve">
     <value>Une erreur est survenue lors de l'importation de l'OFP SimBrief. Assurez-vous que le fichier est valide et réessayez.</value>
+    <comment/>
   </data>
   <data name="Time_InMonths" xml:space="preserve">
     <value>{0} mois</value>
+    <comment/>
   </data>
   <data name="WarningMessageControl.NoMessages" xml:space="preserve">
     <value>Aucun message</value>
+    <comment/>
   </data>
   <data name="WeatherState.Clouds.Overcast" xml:space="preserve">
     <value>Couvert</value>
+    <comment/>
   </data>
   <data name="WorldSelectionControl.NoWorldsAvailable" xml:space="preserve">
     <value>Aucun monde disponible</value>
+    <comment/>
   </data>
   <data name="PauseControl.World.Replay" xml:space="preserve">
     <value>Replay</value>
+    <comment/>
   </data>
   <data name="AircraftPage.ExpiresIn" xml:space="preserve">
     <value>Expire dans</value>
+    <comment/>
   </data>
   <data name="PauseControl.MainMenuUpper" xml:space="preserve">
     <value>MENU</value>

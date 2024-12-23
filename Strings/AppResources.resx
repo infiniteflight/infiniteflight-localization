@@ -340,7 +340,7 @@ Click on the \"Send Log\" button, thanks!</comment>
     <comment>Automatically Set Start Airport</comment>
   </data>
   <data name="Settings.General.ControlSensitivity.Subtitle" xml:space="preserve">
-    <value>Sets the controls sensitivity</value>
+    <value>Sets the control sensitivity</value>
     <comment>Sets the controls sensitivity</comment>
   </data>
   <data name="Settings.General.ControlSensitivity.Title" xml:space="preserve">
@@ -388,8 +388,8 @@ Click on the \"Send Log\" button, thanks!</comment>
     <comment>Language</comment>
   </data>
   <data name="Settings.General.ShowAirportNames.Subtitle" xml:space="preserve">
-    <value>Show names and distance of the airports while flying</value>
-    <comment>Show names and distance of the airports while flying</comment>
+    <value>Show name and distance of the airports while flying</value>
+    <comment>Show name and distance of the airports while flying</comment>
   </data>
   <data name="Settings.General.ShowAirportNames.Title" xml:space="preserve">
     <value>Airport Names</value>
@@ -472,7 +472,7 @@ Click on the \"Send Log\" button, thanks!</comment>
     <comment>Auto-Coordination</comment>
   </data>
   <data name="Settings.General.AutomaticEngineStart.Subtitle" xml:space="preserve">
-    <value>Always start with engine running</value>
+    <value>Always start with the engine running</value>
     <comment>Always start with engine running</comment>
   </data>
   <data name="Settings.General.AutomaticEngineStart.Title" xml:space="preserve">
@@ -512,7 +512,7 @@ Click on the \"Send Log\" button, thanks!</comment>
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Sends Position/Attitude/Traffic data to local devices running EFBs like ForeFlight, Garmin Pilot or others.</value>
+    <value>Sends Position/Attitude/Traffic data to local devices running EFBs like ForeFlight, Garmin Pilot, or others.</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running EFBs like ForeFlight, Garmin Pilot or others.</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
@@ -564,7 +564,7 @@ Click on the \"Send Log\" button, thanks!</comment>
     <comment>Weight Units</comment>
   </data>
   <data name="Settings.Graphics.AntiAliasing.Subtitle" xml:space="preserve">
-    <value>Not supported on all devices and can run very slow</value>
+    <value>Is not supported on all devices and can run very slow</value>
     <comment>Not supported on all devices and can run very slow</comment>
   </data>
   <data name="Settings.Graphics.AntiAliasing.Title" xml:space="preserve">
@@ -673,11 +673,11 @@ We recommend keeping this setting to 30fps.</comment>
     <comment>Airplane Count</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensityNoneWarning" xml:space="preserve">
-    <value>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</value>
+    <value>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation from other aircraft.</value>
     <comment>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Subtitle" xml:space="preserve">
-    <value>Display your username in-flight. Uncheck to remain anonymous</value>
+    <value>Display your username in flight. Uncheck to remain anonymous</value>
     <comment>Display your username in-flight. Uncheck to remain anonymous</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Title" xml:space="preserve">
@@ -685,7 +685,7 @@ We recommend keeping this setting to 30fps.</comment>
     <comment>Show Username In-Flight</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Subtitle" xml:space="preserve">
-    <value>Changes the pitch of your selected voice</value>
+    <value>Change the pitch of your selected voice</value>
     <comment>Changes the pitch of your selected voice</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Title" xml:space="preserve">
@@ -789,7 +789,7 @@ We recommend keeping this setting to 30fps.</comment>
     <comment>Pushback</comment>
   </data>
   <data name="Commands.ReverseThrust" xml:space="preserve">
-    <value>Reverse Thurst</value>
+    <value>Reverse Thrust</value>
     <comment>Reverse Thrust</comment>
   </data>
   <data name="Commands.RollAxis" xml:space="preserve">
@@ -905,7 +905,7 @@ We recommend keeping this setting to 30fps.</comment>
     <comment>You are not subscribed to Infinite Flight Pro</comment>
   </data>
   <data name="Settings.Account.Stats.Subtitle" xml:space="preserve">
-    <value>See your grade level and violation history. These stats determine multiplayer server level eligibility</value>
+    <value>See your grade level and violation history. These stats determine multiplayer server grade eligibility</value>
     <comment>See your grade level and violation history. These stats determine multiplayer server level eligibility</comment>
   </data>
   <data name="Settings.Account.Stats.Title" xml:space="preserve">
@@ -925,7 +925,7 @@ We recommend keeping this setting to 30fps.</comment>
     <comment>You are subscribed to {0} which expires on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
-    <value>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</value>
+    <value>The renewal of your subscription failed. Tap on Manage Subscription to check payment info before {0}</value>
     <comment>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</comment>
   </data>
   <data name="Settings.Account.Subscription.Title" xml:space="preserve">
@@ -2019,9 +2019,9 @@ Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
     <value>Press button on 
-Controller/Keyboard to assign</value>
+controller/Keyboard to assign</value>
     <comment>Press button on 
-Controller/Keyboard to assign</comment>
+controller/Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
     <value>Press button or move axis to assign</value>
@@ -3346,7 +3346,7 @@ PLAYER</comment>
     <comment>CANCELLED</comment>
   </data>
   <data name="Global.InFlight" xml:space="preserve">
-    <value>IN FLIGHT</value>
+    <value>IN-FLIGHT</value>
     <comment>IN FLIGHT</comment>
   </data>
   <data name="Global.OnGround" xml:space="preserve">
@@ -3601,7 +3601,7 @@ Are you sure you want to delete the account?</value>
     <value>Your device is running low on storage. Please free up space and try again.</value>
   </data>
   <data name="Error.SimbriefApiScopeMissing" xml:space="preserve">
-    <value>Your Navigraph account is linked, but does not have SimBrief permission. Sign in again and ensure SimBrief is checked</value>
+    <value>Your Navigraph account is linked but does not have SimBrief permission. Sign in again and ensure SimBrief is checked</value>
   </data>
   <data name="Global.UpdatedTimeFormat" xml:space="preserve">
     <value>Updated {0}</value>
@@ -4096,8 +4096,8 @@ Select a different destination airport</comment>
     <comment>Special Thanks</comment>
   </data>
   <data name="GamePage.ErrorRestartApp" xml:space="preserve">
-    <value>An error has occured. Please restart the application</value>
-    <comment>An error has occured. Please restart the application</comment>
+    <value>An error has occurred. Please restart the application</value>
+    <comment>An error has occurred. Please restart the application</comment>
   </data>
   <data name="MainMenuPage.ATCLocalRadarNotAllowed" xml:space="preserve">
     <value>In order to provide excellent Air Traffic Control service, being on duty at a Tower/Ground and Approach/Departure/Center simultaneously is not allowed. Please change your selection.</value>
