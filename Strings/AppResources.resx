@@ -4257,4 +4257,12 @@ Exit current flight and try again.</comment>
     <value>BACK TO MAIN MENU</value>
     <comment>BACK TO MAIN MENU</comment>
   </data>
+  <data name="Global.New" xml:space="preserve">
+    <value>NEW</value>
+    <comment>NEW</comment>
+  </data>
+  <data name="Global.Free" xml:space="preserve">
+    <value>FREE</value>
+    <comment>FREE</comment>
+  </data>
 </root>

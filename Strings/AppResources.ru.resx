@@ -2868,4 +2868,19 @@ Check map for more information</comment>
     <value>Подписка будет автоматически продлеваться до ее отмены.
 Отменить можно в любое время в Центре подписок Google Play.</value>
   </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>Аренда начинается с следующего рейса</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Истекает через {0}</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>Аренда была отменена</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Ожидается оплата</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>Арендовать самолёт</value>
+  </data>
 </root>

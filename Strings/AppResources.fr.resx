@@ -3261,4 +3261,25 @@ Quittez le vol actuel et réessayez.</value>
     <value>RETOUR VERS LE MENU</value>
     <comment>RETOUR VERS LE MENU</comment>
   </data>
+  <data name="Global.New" xml:space="preserve">
+    <value>NOUVEAU</value>
+  </data>
+  <data name="Global.Free" xml:space="preserve">
+    <value>GRATUIT</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>LOUER L'AVION</value>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>La location commence au prochain vol</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Expire dans {0}</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>La location a été annulée</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Paiement en attente</value>
+  </data>
 </root>

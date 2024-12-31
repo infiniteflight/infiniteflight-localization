@@ -2980,4 +2980,19 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>Az előfizetés automatikusan megújul a lemondásig.
 Bármikor lemondhatja a Google Play előfizetési központjában.</value>
   </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>A bérlés a következő járatnál kezdődik</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Lejár {0} múlva</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>A bérlés törölve lett</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Fizetés függőben</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>Bérelje a repülőgépet</value>
+  </data>
 </root>

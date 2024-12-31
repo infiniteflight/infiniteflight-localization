@@ -3147,6 +3147,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to FREE.
+        /// </summary>
+        internal static string Global_Free {
+            get {
+                return ResourceManager.GetString("Global.Free", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Grade.
         /// </summary>
         internal static string Global_Grade {
@@ -3242,6 +3251,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Global_Name {
             get {
                 return ResourceManager.GetString("Global.Name", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NEW.
+        /// </summary>
+        internal static string Global_New {
+            get {
+                return ResourceManager.GetString("Global.New", resourceCulture);
             }
         }
         

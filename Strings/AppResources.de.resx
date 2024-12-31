@@ -3066,4 +3066,19 @@ Du kannst diese Sitzung beenden oder eine neue Reise beginnen.</value>
     <value>Das Abonnement verlängert sich automatisch, bis es gekündigt wird.
 Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
   </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>Die Miete beginnt mit Ihrem nächsten Flug</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Läuft in {0} ab</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>Die Miete wurde storniert</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Zahlung ausstehend</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>Das Flugzeug mieten</value>
+  </data>
 </root>
