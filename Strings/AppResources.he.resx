@@ -2599,4 +2599,19 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
      <value>תורמים</value>
      <comment>Contributors</comment>
    </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>פג תוקף בעוד {0}</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>ההשכרה בוטלה</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>תשלום ממתין</value>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>ההשכרה תתחיל בטיסה הבאה שלך</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>לשכור את המטוס</value>
+  </data>
 </root>

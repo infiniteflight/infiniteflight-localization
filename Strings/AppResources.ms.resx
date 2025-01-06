@@ -2908,4 +2908,19 @@ Please ask to be assigned via the Scenery Editing forum first."</comment>
     <value>Langganan akan diperbaharui secara automatik sehingga dibatalkan.
 Batalkan pada bila-bila masa di Pusat Langganan Google Play.</value>
   </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>Sewa bermula pada penerbangan seterusnya</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Tamat dalam {0}</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>Penyewaan telah dibatalkan</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Pembayaran tertunda</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>Sewa pesawat</value>
+  </data>
 </root>

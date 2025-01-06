@@ -3035,4 +3035,19 @@ OYUNCULU</value>
     <value>Abonelik iptal edilene kadar otomatik olarak yenilenecektir.
 Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
   </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>Kiralama bir sonraki uçuşta başlar</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>{0} içinde sona erer</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>Kiralama iptal edildi</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Ödeme bekleniyor</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>Uçağı kirala</value>
+  </data>
 </root>

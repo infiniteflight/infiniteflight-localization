@@ -3202,7 +3202,7 @@ Saia do voo atual e tente novamente.</value>
     <value>Expira em</value>
   </data>
   <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
-    <value>Aluguel irá iniciar no seu próximo voo</value>
+    <value>O aluguel começa no próximo voo</value>
   </data>
   <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
     <value>Expira em {0}</value>
@@ -3218,5 +3218,11 @@ Saia do voo atual e tente novamente.</value>
   </data>
   <data name="PauseControl.BackToMainMenuUpper" xml:space="preserve">
     <value>VOLTAR PARA O MENU PRINCIPAL</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Pagamento pendente</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>Alugar o avião</value>
   </data>
 </root>
