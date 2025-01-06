@@ -169,7 +169,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to RENT AIRCRAFT.
+        ///   Looks up a localized string similar to RENT (24H).
         /// </summary>
         internal static string AircraftPage_RentAircraftUpper {
             get {

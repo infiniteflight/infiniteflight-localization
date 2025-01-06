@@ -4012,7 +4012,7 @@ Select a different destination airport</comment>
     <comment>Includes Global &amp; Multiplayer</comment>
   </data>
   <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
-    <value>租借该机型</value>
+    <value>租借 (24小时)</value>
     <comment>RENT AIRCRAFT</comment>
   </data>
   <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">
@@ -4136,9 +4136,5 @@ Exit curent flight and try again.</comment>
   <data name="PauseControl.MainMenuUpper" xml:space="preserve">
     <value>主菜单</value>
     <comment>MAIN MENU</comment>
-  </data>
-  <data name="PauseControl.BackToMainMenuUpper" xml:space="preserve">
-    <value>返回主菜单</value>
-    <comment>BACK TO MAIN MENU</comment>
   </data>
 </root>

@@ -4128,7 +4128,7 @@ Select a different destination airport</comment>
     <comment>Includes Global &amp; Multiplayer</comment>
   </data>
   <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
-    <value>RENT AIRCRAFT</value>
+    <value>RENT (24H)</value>
     <comment>RENT AIRCRAFT</comment>
   </data>
   <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">

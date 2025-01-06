@@ -2566,7 +2566,7 @@ Consulte el mapa para más información</value>
     <value>Elige tu propio avión y ruta, pon a prueba tus habilidades de pilotaje y explora hermosos paisajes sin reglas ni otros pilotos.</value>
   </data>
   <data name="DefaultMission.AfterLanding" xml:space="preserve">
-  <value>Bienvenido a {0}. Dirígete al parking y apaga el avión para finalizar esta misión</value>
+    <value>Bienvenido a {0}. Dirígete al parking y apaga el avión para finalizar esta misión</value>
   </data>
   <data name="DefaultMission.Congratulation" xml:space="preserve">
     <value>¡Enhorabuena por completar tu vuelo a {0}!
@@ -3199,10 +3199,10 @@ REPLAYS</value>
     <value>Expira en</value>
   </data>
   <data name="AircraftPage.IncludesGlobalAndMultiplayer" xml:space="preserve">
-    <value>Incluye acceso a global y multijugador</value>
+    <value>Incluye Global y Multijugador para 24hrs</value>
   </data>
   <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
-    <value>ALQUILAR AVIÓN</value>
+    <value>ALQUILAR (24H)</value>
   </data>
   <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
     <value>El alquiler comenzará en tu próximo vuelo</value>

@@ -3268,7 +3268,7 @@ Quittez le vol actuel et réessayez.</value>
     <value>GRATUIT</value>
   </data>
   <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
-    <value>LOUER L'AVION</value>
+    <value>LOUER (24H)</value>
   </data>
   <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
     <value>La location commence au prochain vol</value>

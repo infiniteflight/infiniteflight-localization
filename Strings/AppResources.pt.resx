@@ -3120,7 +3120,7 @@ Selecione um aeroporto de destino diferente</value>
     <value>Inclui acesso ao Global e Multijogador</value>
   </data>
   <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
-    <value>ALUGAR AVIÃO</value>
+    <value>ALUGAR (24H)</value>
   </data>
   <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">
     <value>Por favor, desconecte o serviço de solo antes de pedir táxi</value>

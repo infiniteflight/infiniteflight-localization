@@ -3997,7 +3997,7 @@ Select a different destination airport</comment>
     <comment>Includes Global &amp; Multiplayer</comment>
   </data>
   <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
-    <value>НАЕМ НА САМОЛЕТ</value>
+    <value>НАЕМ (24H)</value>
     <comment>RENT AIRCRAFT</comment>
   </data>
   <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">
