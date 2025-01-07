@@ -3210,9 +3210,6 @@ Saia do voo atual e tente novamente.</value>
   <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
     <value>Aluguel foi cancelado</value>
   </data>
-  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
-    <value>Esperando pagamento</value>
-  </data>
   <data name="PauseControl.MainMenuUpper" xml:space="preserve">
     <value>MENU PRINCIPAL</value>
   </data>
@@ -3221,8 +3218,5 @@ Saia do voo atual e tente novamente.</value>
   </data>
   <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
     <value>Pagamento pendente</value>
-  </data>
-  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
-    <value>Alugar o avião</value>
   </data>
 </root>
