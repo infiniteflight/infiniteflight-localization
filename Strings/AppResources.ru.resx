@@ -186,68 +186,68 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>Аккаунт, который вы хотите связать, уже связан с другой активной подпиской Infinite Flight Pro (код ошибки {0})</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+    <value>Аккаунт, который вы хотите связать, уже связан с другой активной подпиской Infinite Flight Pro</value>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Ваш аккаунт был заблокирован (код ошибки {0})</value>
-    <comment>Your account has been suspended (error code {0})</comment>
+    <value>Ваш аккаунт был заблокирован</value>
+    <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>Мы не можем найти информацию об этой диспетчерской сессии (код ошибки {0})</value>
-    <comment>We can't find information about this ATC session (error code {0})</comment>
+    <value>Мы не можем найти информацию об этой диспетчерской сессии</value>
+    <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>Произошла ошибка при проверке этого аккаунта у провайдера аутентификации (код ошибки {0})</value>
-    <comment>There was an error validating this account with the provider (error code {0})</comment>
+    <value>Произошла ошибка при проверке этого аккаунта у провайдера аутентификации</value>
+    <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight не может подключиться к серверу (код ошибки {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight не может подключиться к серверу</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Произошла ошибка на серверах Infinite Flight. Попробуйте подключиться еще раз чуть позже (код ошибки {0})</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+    <value>Произошла ошибка на серверах Infinite Flight. Попробуйте подключиться еще раз чуть позже</value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Ваш аккаунт не может совершать это действие. Пожалуйста, свяжитесь с поддержкой (код ошибки {0})</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+    <value>Ваш аккаунт не может совершать это действие. Пожалуйста, свяжитесь с поддержкой</value>
+    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Наши сервера не могут обработать ваш запрос, попробуйте еще раз чуть позже (код ошибки {0})</value>
-    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+    <value>Наши сервера не могут обработать ваш запрос, попробуйте еще раз чуть позже</value>
+    <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>Ошибка</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight испытывает трудности с подключением к серверу (код ошибки {0})</value>
-    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+    <value>Infinite Flight испытывает трудности с подключением к серверу</value>
+    <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>Установленные вами значения не прошли проверку (код ошибки {0})</value>
-    <comment>The value you are updating isn't valid (error code {0})</comment>
+    <value>Установленные вами значения не прошли проверку</value>
+    <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>Аккаунт, с которого вы хотите войти, имеет неправильные данные входа (код ошибки {0})</value>
-    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+    <value>Аккаунт, с которого вы хотите войти, имеет неправильные данные входа</value>
+    <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>Произошла ошибка при подключении к серверу (код ошибки {0})</value>
-    <comment>There was a problem connecting to the server (error code {0})</comment>
+    <value>Произошла ошибка при подключении к серверу</value>
+    <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Infinite Flight не может подключиться к серверу (код ошибки {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight не может подключиться к серверу</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>Загрузка ландшафта невозможна, так как на вашем устройстве закончилась свободная память</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Этот аккаунт не связан с активной подпиской Infinite Flight Pro (код ошибки {0})</value>
-    <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
+    <value>Этот аккаунт не связан с активной подпиской Infinite Flight Pro</value>
+    <comment>This account isn't linked to an Infinite Flight Pro subscription</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Carry your passion</value>
@@ -2517,27 +2517,27 @@
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>Вы не приняли соглашение; вы должны принять соглашение, чтобы выполнить это действие (код ошибки {0})</value>
+    <value>Вы не приняли соглашение; вы должны принять соглашение, чтобы выполнить это действие</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>Выбранный аэропорт недоступен (код ошибки {0})</value>
+    <value>Выбранный аэропорт недоступен</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>Вы вышли из системы. Пожалуйста, войдите еще раз (код ошибки {0})</value>
+    <value>Вы вышли из системы. Пожалуйста, войдите еще раз</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>Данный функционал не поддерживается (код ошибки {0})</value>
+    <value>Данный функционал не поддерживается</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>Выбранный сервер недоступен (код ошибки {0})</value>
+    <value>Выбранный сервер недоступен</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Вы не назначены на этот аэропорт. Пожалуйста, обратитесь к супервайзеру или модератору (код ошибки {0})</value>
+    <value>Вы не назначены на этот аэропорт. Пожалуйста, обратитесь к супервайзеру или модератору</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
@@ -2835,7 +2835,7 @@ Check map for more information</comment>
       <value>Для подключения к серверу Infinite Flight необходимо установить Discord из App Store. Хотите установить его сейчас?</value>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-      <value>Неверные временные значения для этой сессии (код ошибки {0})</value>
+      <value>Неверные временные значения для этой сессии</value>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
       <value>Непроработанные самолеты были добавлены в более старых версиях Infinite Flight и отличаются от новых качеством. Все равно показать их?</value>
@@ -2853,10 +2853,10 @@ Check map for more information</comment>
       <value>Сервер недоступен</value>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-      <value>Отсутствует доступный браузер для открытия данной ссылки. Убедитесь, что у вас установлен браузер. Если проблема не исчезает, обратитесь в службу поддержки (код ошибки {0})</value>
+      <value>Отсутствует доступный браузер для открытия данной ссылки. Убедитесь, что у вас установлен браузер. Если проблема не исчезает, обратитесь в службу поддержки</value>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-      <value>Не удалось подключиться к серверу. Проверьте подключение к интернету (код ошибки {0})</value>
+      <value>Не удалось подключиться к серверу. Проверьте подключение к интернету</value>
   </data>
   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
       <value>Нажмите для продолжения</value>

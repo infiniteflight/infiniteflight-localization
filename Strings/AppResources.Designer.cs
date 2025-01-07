@@ -1454,7 +1454,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0}).
+        ///   Looks up a localized string similar to The account you are trying to connect is already linked with another Infinite Flight Pro subscription.
         /// </summary>
         internal static string Error_AccountAlreadyInUse {
             get {
@@ -1463,7 +1463,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your account has been suspended (error code {0}).
+        ///   Looks up a localized string similar to Your account has been suspended.
         /// </summary>
         internal static string Error_AccountSuspended {
             get {
@@ -1472,7 +1472,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An agreement has not been signed; you must sign the agreement to perform this action (error code {0}).
+        ///   Looks up a localized string similar to An agreement has not been signed; you must sign the agreement to perform this action.
         /// </summary>
         internal static string Error_AgreementNotSigned {
             get {
@@ -1490,7 +1490,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The selected airport is not available (error code {0}).
+        ///   Looks up a localized string similar to The selected airport is not available.
         /// </summary>
         internal static string Error_AirportNotFound {
             get {
@@ -1499,7 +1499,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Infinite Flight could not launch due to a problem. Please try restarting or contact support. (error code {0}).
+        ///   Looks up a localized string similar to Infinite Flight could not launch due to a problem. Please try restarting or contact support..
         /// </summary>
         internal static string Error_ApplicationInitializationError {
             get {
@@ -1508,7 +1508,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We can&apos;t find information about this ATC session (error code {0}).
+        ///   Looks up a localized string similar to We can&apos;t find information about this ATC session.
         /// </summary>
         internal static string Error_ATCSessionNotFound {
             get {
@@ -1517,7 +1517,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was an error validating this account with the provider (error code {0}).
+        ///   Looks up a localized string similar to There was an error validating this account with the provider.
         /// </summary>
         internal static string Error_AuthProviderFailure {
             get {
@@ -1526,7 +1526,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists (error code {0}).
+        ///   Looks up a localized string similar to No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists.
         /// </summary>
         internal static string Error_CannotOpenBrowser {
             get {
@@ -1544,7 +1544,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Could not connect to the server, check your internet connection (error code {0}).
+        ///   Looks up a localized string similar to Could not connect to the server, check your internet connection.
         /// </summary>
         internal static string Error_CouldNotGetFileSize {
             get {
@@ -1553,7 +1553,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server (error code {0}).
+        ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server.
         /// </summary>
         internal static string Error_DataNotLoaded {
             get {
@@ -1562,7 +1562,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was an error on the Infinite Flight servers. Try again shortly (error code {0}).
+        ///   Looks up a localized string similar to There was an error on the Infinite Flight servers. Try again shortly.
         /// </summary>
         internal static string Error_EndpointError {
             get {
@@ -1571,7 +1571,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your account isn&apos;t allowed to carry out this action, please contact support (error code {0}).
+        ///   Looks up a localized string similar to Your account isn&apos;t allowed to carry out this action, please contact support.
         /// </summary>
         internal static string Error_EndpointNotAuthorized {
             get {
@@ -1580,7 +1580,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Our servers are having trouble processing this, try again shortly (error code {0}).
+        ///   Looks up a localized string similar to Our servers are having trouble processing this, try again shortly.
         /// </summary>
         internal static string Error_EndpointTimeout {
             get {
@@ -1598,7 +1598,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You have been logged out and need to log in again manually (error code {0}).
+        ///   Looks up a localized string similar to You have been logged out and need to log in again manually.
         /// </summary>
         internal static string Error_ExpiredToken {
             get {
@@ -1607,7 +1607,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Infinite Flight is having trouble connecting to the server (error code {0}).
+        ///   Looks up a localized string similar to Infinite Flight is having trouble connecting to the server.
         /// </summary>
         internal static string Error_GenericServerConnection {
             get {
@@ -1625,7 +1625,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The value you are updating isn&apos;t valid (error code {0}).
+        ///   Looks up a localized string similar to The value you are updating isn&apos;t valid.
         /// </summary>
         internal static string Error_InvalidInput {
             get {
@@ -1634,7 +1634,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The start and end times for this session aren&apos;t valid (error code {0}).
+        ///   Looks up a localized string similar to The start and end times for this session aren&apos;t valid.
         /// </summary>
         internal static string Error_InvalidTimeSpan {
             get {
@@ -1643,7 +1643,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The account you are trying to login to has invalid credentials (error code {0}).
+        ///   Looks up a localized string similar to The account you are trying to login to has invalid credentials.
         /// </summary>
         internal static string Error_InvalidToken {
             get {
@@ -1652,7 +1652,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was an error downloading this scenario (error code {0}).
+        ///   Looks up a localized string similar to There was an error downloading this scenario.
         /// </summary>
         internal static string Error_LoadingScenarioError {
             get {
@@ -1661,7 +1661,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was a problem connecting to the server (error code {0}).
+        ///   Looks up a localized string similar to There was a problem connecting to the server.
         /// </summary>
         internal static string Error_MissingRequestParameters {
             get {
@@ -1670,7 +1670,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are already connected to this multiplayer server on another device (error code {0}).
+        ///   Looks up a localized string similar to You are already connected to this multiplayer server on another device.
         /// </summary>
         internal static string Error_MultiplayerAtcAlreadyActive {
             get {
@@ -1679,7 +1679,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are already connected to this multiplayer server on another device (error code {0}).
+        ///   Looks up a localized string similar to You are already connected to this multiplayer server on another device.
         /// </summary>
         internal static string Error_MultiplayerFlightAlreadyActive {
             get {
@@ -1688,7 +1688,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server (error code {0}).
+        ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server.
         /// </summary>
         internal static string Error_NetworkError {
             get {
@@ -1706,7 +1706,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This feature is not supported (error code {0}).
+        ///   Looks up a localized string similar to This feature is not supported.
         /// </summary>
         internal static string Error_NotSupported {
             get {
@@ -1715,7 +1715,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The selected server is not available (error code {0}).
+        ///   Looks up a localized string similar to The selected server is not available.
         /// </summary>
         internal static string Error_ServerNotFound {
             get {
@@ -1751,7 +1751,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are not assigned to this airport. Please contact a reviewer or moderator (error code {0}).
+        ///   Looks up a localized string similar to You are not assigned to this airport. Please contact a reviewer or moderator.
         /// </summary>
         internal static string Error_UserNotAssigned {
             get {
@@ -1760,7 +1760,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This Infinite Flight Community account has not been used with the app before (error code {0}).
+        ///   Looks up a localized string similar to This Infinite Flight Community account has not been used with the app before.
         /// </summary>
         internal static string Error_UserNotFound {
             get {

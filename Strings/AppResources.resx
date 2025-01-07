@@ -186,68 +186,68 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+    <value>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</value>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Your account has been suspended (error code {0})</value>
-    <comment>Your account has been suspended (error code {0})</comment>
+    <value>Your account has been suspended</value>
+    <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>We can't find information about this ATC session (error code {0})</value>
-    <comment>We can't find information about this ATC session (error code {0})</comment>
+    <value>We can't find information about this ATC session</value>
+    <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>There was an error validating this account with the provider (error code {0})</value>
-    <comment>There was an error validating this account with the provider (error code {0})</comment>
+    <value>There was an error validating this account with the provider</value>
+    <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight can't connect to the server (error code {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight can't connect to the server</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+    <value>There was an error on the Infinite Flight servers. Try again shortly</value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Your account isn't allowed to carry out this action, please contact support (error code {0})</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+    <value>Your account isn't allowed to carry out this action, please contact support</value>
+    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Our servers are having trouble processing this, try again shortly (error code {0})</value>
-    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+    <value>Our servers are having trouble processing this, try again shortly</value>
+    <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>Error</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight is having trouble connecting to the server (error code {0})</value>
-    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+    <value>Infinite Flight is having trouble connecting to the server</value>
+    <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>The value you are updating isn't valid (error code {0})</value>
-    <comment>The value you are updating isn't valid (error code {0})</comment>
+    <value>The value you are updating isn't valid</value>
+    <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>The account you are trying to login to has invalid credentials (error code {0})</value>
-    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+    <value>The account you are trying to login to has invalid credentials</value>
+    <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>There was a problem connecting to the server (error code {0})</value>
-    <comment>There was a problem connecting to the server (error code {0})</comment>
+    <value>There was a problem connecting to the server</value>
+    <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Infinite Flight can't connect to the server (error code {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight can't connect to the server</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>Global Server streaming has failed because your device storage is full</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>This Infinite Flight Community account has not been used with the app before (error code {0})</value>
-    <comment>This Infinite Flight Community account has not been used with the app before (error code {0})</comment>
+    <value>This Infinite Flight Community account has not been used with the app before</value>
+    <comment>This Infinite Flight Community account has not been used with the app before</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Carry your passion</value>
@@ -2584,27 +2584,27 @@ Slow down to avoid further violations.</comment>
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>An agreement has not been signed; you must sign the agreement to perform this action (error code {0})</value>
+    <value>An agreement has not been signed; you must sign the agreement to perform this action</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>The selected airport is not available (error code {0})</value>
+    <value>The selected airport is not available</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>You have been logged out and need to log in again manually (error code {0})</value>
+    <value>You have been logged out and need to log in again manually</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>This feature is not supported (error code {0})</value>
+    <value>This feature is not supported</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>The selected server is not available (error code {0})</value>
+    <value>The selected server is not available</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>You are not assigned to this airport. Please contact a reviewer or moderator (error code {0})</value>
+    <value>You are not assigned to this airport. Please contact a reviewer or moderator</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
@@ -2703,20 +2703,20 @@ and is not of the same quality as our newer aircraft</comment>
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists (error code {0})</value>
-    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
+    <value>No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists</value>
+    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists</comment>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>Could not connect to the server, check your internet connection (error code {0})</value>
-    <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
+    <value>Could not connect to the server, check your internet connection</value>
+    <comment>Could not connect to the server, check your internet connection</comment>
   </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
     <value>No Available Server</value>
     <comment>No Available Server</comment>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-    <value>The start and end times for this session aren't valid (error code {0})</value>
-    <comment>The start and end times for this session aren't valid (error code {0})</comment>
+    <value>The start and end times for this session aren't valid</value>
+    <comment>The start and end times for this session aren't valid</comment>
   </data>
   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
     <value>CHANGE AIRCRAFT</value>
@@ -3119,7 +3119,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>MISSION FAILED</value>
   </data>
   <data name="Error.ApplicationInitializationError" xml:space="preserve">
-    <value>Infinite Flight could not launch due to a problem. Please try restarting or contact support. (error code {0})</value>
+    <value>Infinite Flight could not launch due to a problem. Please try restarting or contact support.</value>
   </data>
   <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
     <value>{0} is too small for your aircraft. Choose another airport.</value>
@@ -3141,7 +3141,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>The replay file is corrupt and couldn't be loaded</value>
   </data>
   <data name="Error.LoadingScenarioError" xml:space="preserve">
-    <value>There was an error downloading this scenario (error code {0})</value>
+    <value>There was an error downloading this scenario</value>
   </data>
   <data name="NavigationControl.Leaderboards" xml:space="preserve">
     <value>Leaderboards</value>
@@ -3903,10 +3903,10 @@ Are you sure you want to delete the account?</value>
     <value>Already connected on another device</value>
   </data>
   <data name="Error.MultiplayerAtcAlreadyActive" xml:space="preserve">
-    <value>You are already connected to this multiplayer server on another device (error code {0})</value>
+    <value>You are already connected to this multiplayer server on another device</value>
   </data>
   <data name="Error.MultiplayerFlightAlreadyActive" xml:space="preserve">
-    <value>You are already connected to this multiplayer server on another device (error code {0})</value>
+    <value>You are already connected to this multiplayer server on another device</value>
   </data>
   <data name="NewsControl.Partnership" xml:space="preserve">
     <value>Partnership</value>

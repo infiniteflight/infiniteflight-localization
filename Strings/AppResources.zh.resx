@@ -190,68 +190,68 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>正在连接的账号已经绑定了另一个Infinite Flight Pro订阅 (错误代码 {0})</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+    <value>正在连接的账号已经绑定了另一个Infinite Flight Pro订阅 </value>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>该账号已经被封禁 (错误代码 {0})</value>
-    <comment>Your account has been suspended (error code {0})</comment>
+    <value>该账号已经被封禁 </value>
+    <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>未找到此次管制的信息 (错误代码 {0})</value>
-    <comment>We can't find information about this ATC session (error code {0})</comment>
+    <value>未找到此次管制的信息 </value>
+    <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>验证该第三方账号时遇到了错误 (错误代码 {0})</value>
-    <comment>There was an error validating this account with the provider (error code {0})</comment>
+    <value>验证该第三方账号时遇到了错误 </value>
+    <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>无法连接至服务器 (错误代码 {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>无法连接至服务器 </value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>服务器出现错误，请稍后重试 (错误代码 {0})</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+    <value>服务器出现错误，请稍后重试 </value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>该账号不能进行该操作，请联系玩家支持 (错误代码 {0})</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+    <value>该账号不能进行该操作，请联系玩家支持 </value>
+    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>服务器出现加载错误, 请在稍后重试 (错误代码 {0})</value>
-    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+    <value>服务器出现加载错误, 请在稍后重试 </value>
+    <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>错误</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>连接至服务器时遇到问题 (错误代码 {0})</value>
-    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+    <value>连接至服务器时遇到问题 </value>
+    <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>无法验证正在进行的更新 (错误代码 {0})</value>
-    <comment>The value you are updating isn't valid (error code {0})</comment>
+    <value>无法验证正在进行的更新 </value>
+    <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>该帐户的凭据无效 (错误代码 {0})</value>
-    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+    <value>该帐户的凭据无效 </value>
+    <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>连接至服务器时出现问题 (错误代码 {0})</value>
-    <comment>There was a problem connecting to the server (error code {0})</comment>
+    <value>连接至服务器时出现问题 </value>
+    <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>无法连接至服务器 (错误代码 {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>无法连接至服务器 </value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>由于本设备存储空间已满，全球服务器数据传输失败</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>该IF社区账号尚未绑定IF (error code {0})</value>
-    <comment>This Infinite Flight Community account has not been used with the app before (error code {0})</comment>
+    <value>该IF社区账号尚未绑定IF</value>
+    <comment>This Infinite Flight Community account has not been used with the app before</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>飞向你的梦想</value>
@@ -2547,27 +2547,27 @@
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>你尚未签署许可协议。要进行操作你必须首先签署贡献者许可协议 (error code {0})</value>
+    <value>你尚未签署许可协议。要进行操作你必须首先签署贡献者许可协议</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>选中的机场暂不可用 (error code {0})</value>
+    <value>选中的机场暂不可用</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>你已退出登录，需要重新手动登录 (error code {0})</value>
+    <value>你已退出登录，需要重新手动登录</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>尚不支持该功能 (error code {0})</value>
+    <value>尚不支持该功能</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>你选中的服务器不可用 (error code {0})</value>
+    <value>你选中的服务器不可用</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>该机场并未分配给你。请联系Reviewer或Moderator (error code {0})</value>
+    <value>该机场并未分配给你。请联系Reviewer或Moderator</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
@@ -2665,12 +2665,12 @@ Check map for more information</comment>
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>无法打开链接。请确认已经安装了一个浏览器。若问题持续出现，请联系技术支持 (error code {0})</value>
-    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
+    <value>无法打开链接。请确认已经安装了一个浏览器。若问题持续出现，请联系技术支持</value>
+    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists</comment>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>无法连接至服务器，请检查互联网连接 (error code {0})</value>
-    <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
+    <value>无法连接至服务器，请检查互联网连接</value>
+    <comment>Could not connect to the server, check your internet connection</comment>
   </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
     <value>无可用服务器</value>
@@ -3008,7 +3008,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>任务失败</value>
   </data>
   <data name="Error.ApplicationInitializationError" xml:space="preserve">
-    <value>Infinite Flight由于出错无法打开。请尝试重启或联系支持。(错误代码 {0})</value>
+    <value>Infinite Flight由于出错无法打开。请尝试重启或联系支持。</value>
   </data>
   <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
     <value>{0} 无法保障你选择的机型。请更换出发机场。</value>
@@ -3030,7 +3030,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>回放文件已损坏，无法加载</value>
   </data>
   <data name="Error.LoadingScenarioError" xml:space="preserve">
-    <value>加载场景时出错 (错误代码 {0})</value>
+    <value>加载场景时出错 </value>
   </data>
   <data name="NavigationControl.Leaderboards" xml:space="preserve">
     <value>排行榜</value>

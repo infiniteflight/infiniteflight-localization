@@ -187,67 +187,67 @@
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
     <value>Le compte que vous essayez de connecter est déjà lié avec un autre abonnement à Infinite Flight Pro. (Code d'erreur {0})</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
     <value>Votre compte à été suspendu. (Code d'erreur {0})</value>
-    <comment>Your account has been suspended (error code {0})</comment>
+    <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
     <value>Session ATC non trouvée. (Code erreur {0})</value>
-    <comment>We can't find information about this ATC session (error code {0})</comment>
+    <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
     <value>Erreur lors de la validation de ce compte avec le fournisseur (Code erreur {0})</value>
-    <comment>There was an error validating this account with the provider (error code {0})</comment>
+    <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
     <value>Infinite Flight ne peut pas se connecter au serveur (Code erreur {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Une erreur s'est produite sur les serveurs d'Infinite Flight. Réessayez dans quelques instants (Erreur {0})</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+    <value>Une erreur s'est produite sur les serveurs d'Infinite Flight. Réessayez dans quelques instants</value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Cette action n'est pas permise pour votre compte. Contactez le support client. (Erreur {0})</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+    <value>Cette action n'est pas permise pour votre compte. Contactez le support client.</value>
+    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Nos serveurs ne peuvent pas traiter cette requète. Réessayez dans quelques instants (Erreur {0})</value>
-    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+    <value>Nos serveurs ne peuvent pas traiter cette requète. Réessayez dans quelques instants</value>
+    <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>Erreur</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight rencontre des difficultés pour se connecter au serveur. (Erreur {0})</value>
-    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+    <value>Infinite Flight rencontre des difficultés pour se connecter au serveur.</value>
+    <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>Cette valeur est invalide (Erreur {0})</value>
-    <comment>The value you are updating isn't valid (error code {0})</comment>
+    <value>Cette valeur est invalide</value>
+    <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>Erreur lors de l'authentification avec le serveur. (Erreur {0})</value>
-    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+    <value>Erreur lors de l'authentification avec le serveur.</value>
+    <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>Erreur lors de la connexion au serveur. (Erreur {0})</value>
-    <comment>There was a problem connecting to the server (error code {0})</comment>
+    <value>Erreur lors de la connexion au serveur.</value>
+    <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Erreur lors de la connexion au serveur. (Erreur {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Erreur lors de la connexion au serveur.</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>Votre appareil n'a pas assez de memoire disponible pour les telechargements</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Ce compte n'est pas lie a un abonnement a Infinite Flight Pro (Erreur {0})</value>
-    <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
+    <value>Ce compte n'est pas lie a un abonnement a Infinite Flight Pro</value>
+    <comment>This account isn't linked to an Infinite Flight Pro subscription</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Portez votre passion</value>
