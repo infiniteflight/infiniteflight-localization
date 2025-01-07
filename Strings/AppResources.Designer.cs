@@ -1742,6 +1742,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your Navigraph login has expired. You&apos;ll be prompted to sign in again to download your flight plan..
+        /// </summary>
+        internal static string Error_SimbriefRefreshTokenExpired {
+            get {
+                return ResourceManager.GetString("Error.SimbriefRefreshTokenExpired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Global Server streaming has failed because your device storage is full.
         /// </summary>
         internal static string Error_TileSystemDiskFull {

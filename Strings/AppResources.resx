@@ -4265,4 +4265,7 @@ Exit current flight and try again.</comment>
     <value>FREE</value>
     <comment>FREE</comment>
   </data>
+  <data name="Error.SimbriefRefreshTokenExpired" xml:space="preserve">
+    <value>Your Navigraph login has expired. You'll be prompted to sign in again to download your flight plan.</value>
+  </data>
 </root>
