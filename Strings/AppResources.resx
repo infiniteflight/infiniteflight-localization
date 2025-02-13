@@ -4268,4 +4268,8 @@ Exit current flight and try again.</comment>
   <data name="Error.SimbriefRefreshTokenExpired" xml:space="preserve">
     <value>Your Navigraph login has expired. You'll be prompted to sign in again to download your flight plan.</value>
   </data>
+  <data name="GamePage.RestartScenarioConfirmation" xml:space="preserve">
+    <value>Are you sure you want to restart this scenario?</value>
+    <comment>Are you sure you want to restart this scenario?</comment>
+  </data>
 </root>

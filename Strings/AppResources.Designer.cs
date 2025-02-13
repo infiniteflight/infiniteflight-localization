@@ -2742,6 +2742,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to restart this mission?.
+        /// </summary>
+        internal static string GamePage_RestartScenarioConfirmation {
+            get {
+                return ResourceManager.GetString("GamePage.RestartScenarioConfirmation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to READY TO FLY.
         /// </summary>
         internal static string GamePage_WaitCanvas_ReadyToFlyUpper {
