@@ -3282,4 +3282,7 @@ Quittez le vol actuel et réessayez.</value>
   <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
     <value>Paiement en attente</value>
   </data>
+  <data name="GamePage.RestartScenarioConfirmation" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir redémarrer ce scénario ?</value>
+  </data>
 </root>
