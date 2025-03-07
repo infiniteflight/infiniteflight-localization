@@ -4412,4 +4412,8 @@ Exit current flight and try again.</comment>
     <value>Keep flight paused at 30mn ETE</value>
     <comment>Keep flight paused at 30mn ETE</comment>
   </data>
+  <data name="PauseFlightControl.ContinueFlightFromLastSavedLocation" xml:space="preserve">
+    <value>Continue flight from last saved location</value>
+    <comment>Continue flight from last saved location</comment>
+  </data>
 </root>
