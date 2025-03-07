@@ -3390,4 +3390,7 @@ Quittez le vol actuel et réessayez.</value>
   <data name="PauseFlightControl.KeepFlightPaused30minETE" xml:space="preserve">
     <value>Garder le vol en pause à 30 min ETE</value>
   </data>
+  <data name="PauseFlightControl.ContinueFlightFromLastSavedLocation" xml:space="preserve">
+    <value>Continuer le vol depuis la dernière position enregistrée</value>
+  </data>
 </root>

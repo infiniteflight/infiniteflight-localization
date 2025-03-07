@@ -5436,6 +5436,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Continue from last saved location.
+        /// </summary>
+        internal static string PauseFlightControl_ContinueFlightFromLastSavedLocation {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.ContinueFlightFromLastSavedLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Flight will be terminated.
         /// </summary>
         internal static string PauseFlightControl_FlightWillBeTerminated {
