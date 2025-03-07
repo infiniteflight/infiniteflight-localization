@@ -4272,4 +4272,144 @@ Exit current flight and try again.</comment>
     <value>Are you sure you want to restart this scenario?</value>
     <comment>Are you sure you want to restart this scenario?</comment>
   </data>
+  <data name="FlightContinuationControl.ActiveFlightUpper" xml:space="preserve">
+    <value>ACTIVE FLIGHT</value>
+    <comment>ACTIVE FLIGHT</comment>
+  </data>
+  <data name="FlightContinuationControl.DeleteFlightConfirmation" xml:space="preserve">
+    <value>Are you sure you want to delete this flight?</value>
+    <comment>Are you sure you want to delete this flight?</comment>
+  </data>
+  <data name="FlightContinuationControl.ExpiredUpper" xml:space="preserve">
+    <value>EXPIRED</value>
+    <comment>EXPIRED</comment>
+  </data>
+  <data name="FlightContinuationControl.FailedToLoadFlight" xml:space="preserve">
+    <value>Failed to load flight</value>
+    <comment>Failed to load flight</comment>
+  </data>
+  <data name="FlightContinuationControl.FailedToStartTheFlightAnyReason" xml:space="preserve">
+    <value>Failed to start the flight ({0})</value>
+    <comment>Failed to start the flight ({0})</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenCancelled" xml:space="preserve">
+    <value>Flight has been cancelled</value>
+    <comment>Flight has been cancelled</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenLost" xml:space="preserve">
+    <value>Flight has been lost</value>
+    <comment>Flight has been lost</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasExpired" xml:space="preserve">
+    <value>Flight has expired</value>
+    <comment>Flight has expired</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasRunOutOfFuel" xml:space="preserve">
+    <value>Flight has run out of fuel</value>
+    <comment>Flight has run out of fuel</comment>
+  </data>
+  <data name="FlightContinuationControl.LoadingFlight" xml:space="preserve">
+    <value>Loading Flight</value>
+    <comment>Loading Flight</comment>
+  </data>
+  <data name="FlightContinuationControl.OutOfFuelUpper" xml:space="preserve">
+    <value>OUT OF FUEL</value>
+    <comment>OUT OF FUEL</comment>
+  </data>
+  <data name="FlightContinuationControl.UnknownAircraftUpper" xml:space="preserve">
+    <value>UNKNOWN AIRCRAFT</value>
+    <comment>UNKNOWN AIRCRAFT</comment>
+  </data>
+  <data name="FlightContinuationControl.UnknownLiveryUpper" xml:space="preserve">
+    <value>UNKNOWN LIVERY</value>
+    <comment>UNKNOWN LIVERY</comment>
+  </data>
+  <data name="FlightContinuationControl.UnknownWorldUpper" xml:space="preserve">
+    <value>UNKNOWN WORLD</value>
+    <comment>UNKNOWN WORLD</comment>
+  </data>
+  <data name="FlightContinuationControl.AircraftIsUnknown" xml:space="preserve">
+    <value>Aircraft is unknown</value>
+    <comment>Aircraft is unknown</comment>
+  </data>
+  <data name="FlightContinuationControl.DeletingFlightUpper" xml:space="preserve">
+    <value>DELETING FLIGHT</value>
+    <comment>DELETING FLIGHT</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightActiveError" xml:space="preserve">
+    <value>This flight is already active on another device or recently flown. Please try again later.</value>
+    <comment>This flight is already active on another device or recently flown. Please try again later.</comment>
+  </data>
+  <data name="FlightContinuationControl.NoActiveFlightFoundEndedOrDeleted" xml:space="preserve">
+    <value>No active flight found. It may have been ended or deleted.</value>
+    <comment>No active flight found. It may have been ended or deleted.</comment>
+  </data>
+  <data name="FlightContinuationControl.UnableToLoadFlight" xml:space="preserve">
+    <value>Unable to load flight. Please try again later.</value>
+    <comment>Unable to load flight. Please try again later.</comment>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayNearYourLocation" xml:space="preserve">
+    <value>Aircraft will stay near your location</value>
+    <comment>Aircraft will stay near your location</comment>
+  </data>
+  <data name="PauseFlightControl.FlightWillBeTerminated" xml:space="preserve">
+    <value>Flight will be terminated</value>
+    <comment>Flight will be terminated</comment>
+  </data>
+  <data name="PauseFlightControl.FlightWillContinueInBackground" xml:space="preserve">
+    <value>Flight will continue in the background</value>
+    <comment>Flight will continue in the background</comment>
+  </data>
+  <data name="PauseFlightControl.FlightWillGoBackToLastSavedLocation" xml:space="preserve">
+    <value>Flight will go back to last saved location</value>
+    <comment>Flight will go back to last saved location</comment>
+  </data>
+  <data name="PauseFlightControl.KeepFlightRunningBackground" xml:space="preserve">
+    <value>Keep flight running in the background</value>
+    <comment>Keep flight running in the background</comment>
+  </data>
+  <data name="FlightSaveModalControl.ContinuationConditions" xml:space="preserve">
+    <value>Continuation Conditions</value>
+    <comment>Continuation Conditions</comment>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayAtIcaoAirportFormat" xml:space="preserve">
+    <value>Aircraft will stay at {0}</value>
+    <comment>Aircraft will stay at {0}</comment>
+  </data>
+  <data name="PauseFlightControl.RefuelingError.RentalPeriodExpired" xml:space="preserve">
+    <value>Rental period for this airplane has expired. Refueling unavailable</value>
+    <comment>Rental period for this airplane has expired. Refueling unavailable</comment>
+  </data>
+  <data name="AirTrafficControllerPage.Disconnection" xml:space="preserve">
+    <value>Disconnection</value>
+    <comment>Disconnection</comment>
+  </data>
+  <data name="AirTrafficControllerPage.DisconnectionMessage" xml:space="preserve">
+    <value>No response to {0} message(s) for {1} seconds.\nYou will be disconnected soon.</value>
+    <comment>No response to {0} message(s) for {1} seconds.\nYou will be disconnected soon.</comment>
+  </data>
+  <data name="CallsignControl.FailedUpdateCallsign" xml:space="preserve">
+    <value>Failed to update callsign, try again later</value>
+    <comment>Failed to update callsign, try again later</comment>
+  </data>
+  <data name="GradeInfoControl.FailedRefreshGradeInfo" xml:space="preserve">
+    <value>Failed to get your latest account statistics. Check your connection and try again</value>
+    <comment>Failed to get your latest account statistics. Check your connection and try again</comment>
+  </data>
+  <data name="PauseFlightControl.PleaseWaitSavingFlight" xml:space="preserve">
+    <value>Please wait. Saving your flight</value>
+    <comment>Please wait. Saving your flight</comment>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersion" xml:space="preserve">
+    <value>Outdated Version</value>
+    <comment>Outdated Version</comment>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersionMessage" xml:space="preserve">
+    <value>This version is outdated. Please update to the latest available version.</value>
+    <comment>This version is outdated. Please update to the latest available version.</comment>
+  </data>
+  <data name="PauseFlightControl.KeepFlightPaused30minETE" xml:space="preserve">
+    <value>Keep flight paused at 30mn ETE</value>
+    <comment>Keep flight paused at 30mn ETE</comment>
+  </data>
 </root>
