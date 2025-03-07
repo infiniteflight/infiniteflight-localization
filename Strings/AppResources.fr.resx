@@ -3285,4 +3285,109 @@ Quittez le vol actuel et réessayez.</value>
   <data name="GamePage.RestartScenarioConfirmation" xml:space="preserve">
     <value>Êtes-vous sûr de vouloir redémarrer ce scénario ?</value>
   </data>
+  <data name="FlightContinuationControl.ActiveFlightUpper" xml:space="preserve">
+    <value>VOL ACTIF</value>
+  </data>
+  <data name="FlightContinuationControl.DeleteFlightConfirmation" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir supprimer ce vol ?</value>
+  </data>
+  <data name="FlightContinuationControl.ExpiredUpper" xml:space="preserve">
+    <value>EXPIRÉ</value>
+  </data>
+  <data name="FlightContinuationControl.FailedToLoadFlight" xml:space="preserve">
+    <value>Échec du chargement du vol</value>
+  </data>
+  <data name="FlightContinuationControl.FailedToStartTheFlightAnyReason" xml:space="preserve">
+    <value>Échec du démarrage du vol ({0})</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenCancelled" xml:space="preserve">
+    <value>Le vol a été annulé</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenLost" xml:space="preserve">
+    <value>Le vol a été perdu</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasExpired" xml:space="preserve">
+    <value>Le vol a expiré</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasRunOutOfFuel" xml:space="preserve">
+    <value>Le vol est à court de carburant</value>
+  </data>
+  <data name="FlightContinuationControl.LoadingFlight" xml:space="preserve">
+    <value>Chargement du vol</value>
+  </data>
+  <data name="FlightContinuationControl.OutOfFuelUpper" xml:space="preserve">
+    <value>PLUS DE CARBURANT</value>
+  </data>
+  <data name="FlightContinuationControl.UnknownAircraftUpper" xml:space="preserve">
+    <value>AVION INCONNU</value>
+  </data>
+  <data name="FlightContinuationControl.UnknownLiveryUpper" xml:space="preserve">
+    <value>LIVRÉE INCONNUE</value>
+  </data>
+  <data name="FlightContinuationControl.UnknownWorldUpper" xml:space="preserve">
+    <value>MONDE INCONNU</value>
+  </data>
+  <data name="FlightContinuationControl.AircraftIsUnknown" xml:space="preserve">
+    <value>Avion inconnu</value>
+  </data>
+  <data name="FlightContinuationControl.DeletingFlightUpper" xml:space="preserve">
+    <value>SUPPRESSION DU VOL</value>
+  </data>
+  <data name="FlightContinuationControl.FlightActiveError" xml:space="preserve">
+    <value>Ce vol est déjà actif sur un autre appareil ou a été récemment utilisé. Réessayez plus tard.</value>
+  </data>
+  <data name="FlightContinuationControl.NoActiveFlightFoundEndedOrDeleted" xml:space="preserve">
+    <value>Aucun vol actif trouvé. Il a peut-être été terminé ou supprimé.</value>
+  </data>
+  <data name="FlightContinuationControl.UnableToLoadFlight" xml:space="preserve">
+    <value>Impossible de charger le vol. Réessayez plus tard.</value>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayNearYourLocation" xml:space="preserve">
+    <value>L'avion restera proche de votre position</value>
+  </data>
+  <data name="PauseFlightControl.FlightWillBeTerminated" xml:space="preserve">
+    <value>Le vol sera interrompu</value>
+  </data>
+  <data name="PauseFlightControl.FlightWillContinueInBackground" xml:space="preserve">
+    <value>Le vol continuera en arrière-plan</value>
+  </data>
+  <data name="PauseFlightControl.FlightWillGoBackToLastSavedLocation" xml:space="preserve">
+    <value>Le vol reviendra à la dernière position enregistrée</value>
+  </data>
+  <data name="PauseFlightControl.KeepFlightRunningBackground" xml:space="preserve">
+    <value>Garder le vol actif en arrière-plan</value>
+  </data>
+  <data name="FlightSaveModalControl.ContinuationConditions" xml:space="preserve">
+    <value>Conditions de continuation</value>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayAtIcaoAirportFormat" xml:space="preserve">
+    <value>L'avion restera à {0}</value>
+  </data>
+  <data name="PauseFlightControl.RefuelingError.RentalPeriodExpired" xml:space="preserve">
+    <value>La période de location de cet avion a expiré. Ravitaillement indisponible</value>
+  </data>
+  <data name="AirTrafficControllerPage.Disconnection" xml:space="preserve">
+    <value>Déconnexion</value>
+  </data>
+  <data name="AirTrafficControllerPage.DisconnectionMessage" xml:space="preserve">
+    <value>Aucune réponse à {0} message(s) depuis {1} secondes.\nVous serais bientôt déconnecté.</value>
+  </data>
+  <data name="CallsignControl.FailedUpdateCallsign" xml:space="preserve">
+    <value>Échec de la mise à jour de l’indicatif, réessayez plus tard</value>
+  </data>
+  <data name="GradeInfoControl.FailedRefreshGradeInfo" xml:space="preserve">
+    <value>Impossible de récupérer les dernières statistiques de votre compte. Vérifiez votre connexion et réessayez.</value>
+  </data>
+  <data name="PauseFlightControl.PleaseWaitSavingFlight" xml:space="preserve">
+    <value>Merci de patienter. Sauvegarde du vol en cours</value>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersion" xml:space="preserve">
+    <value>Version obsolète</value>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersionMessage" xml:space="preserve">
+    <value>Cette version est obsolète. Merci de mettre à jour vers la dernière version disponible.</value>
+  </data>
+  <data name="PauseFlightControl.KeepFlightPaused30minETE" xml:space="preserve">
+    <value>Garder le vol en pause à 30 min ETE</value>
+  </data>
 </root>
