@@ -3120,6 +3120,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to CONTINUE FLIGHT.
+        /// </summary>
+        internal static string GameSelectionModesControl_ContinueFlightUpper {
+            get {
+                return ResourceManager.GetString("GameSelectionModesControl.ContinueFlightUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Select from a curated list of flights from passenger to cargo.
         /// </summary>
         internal static string GameSelectionModesControl_FlightMissionsShortDescription {
@@ -5436,7 +5445,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Continue from last saved location.
+        ///   Looks up a localized string similar to Continue flight from last saved location.
         /// </summary>
         internal static string PauseFlightControl_ContinueFlightFromLastSavedLocation {
             get {
