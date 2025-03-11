@@ -3393,4 +3393,8 @@ Quittez le vol actuel et réessayez.</value>
   <data name="PauseFlightControl.ContinueFlightFromLastSavedLocation" xml:space="preserve">
     <value>Continuer le vol depuis la dernière position enregistrée</value>
   </data>
+  <data name="GameSelectionModesControl.ContinueFlightUpper" xml:space="preserve">
+    <value>CONTINUER
+LE VOL</value>
+  </data>
 </root>

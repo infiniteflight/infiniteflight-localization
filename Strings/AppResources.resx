@@ -4416,4 +4416,10 @@ Exit current flight and try again.</comment>
     <value>Continue flight from last saved location</value>
     <comment>Continue flight from last saved location</comment>
   </data>
+  <data name="GameSelectionModesControl.ContinueFlightUpper" xml:space="preserve">
+    <value>CONTINUE
+FLIGHT</value>
+    <comment>CONTINUE
+FLIGHT</comment>
+  </data>
 </root>
