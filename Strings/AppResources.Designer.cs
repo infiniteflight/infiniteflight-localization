@@ -3120,7 +3120,8 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to CONTINUE FLIGHT.
+        ///   Looks up a localized string similar to CONTINUE
+        ///FLIGHT.
         /// </summary>
         internal static string GameSelectionModesControl_ContinueFlightUpper {
             get {
@@ -9565,6 +9566,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string WeightBalanceControl_Load {
             get {
                 return ResourceManager.GetString("WeightBalanceControl.Load", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Total Weight.
+        /// </summary>
+        internal static string WeightBalanceControl_TotalWeight {
+            get {
+                return ResourceManager.GetString("WeightBalanceControl.TotalWeight", resourceCulture);
             }
         }
         

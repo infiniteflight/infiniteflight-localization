@@ -4422,4 +4422,8 @@ FLIGHT</value>
     <comment>CONTINUE
 FLIGHT</comment>
   </data>
+  <data name="WeightBalanceControl.TotalWeight" xml:space="preserve">
+    <value>Total Weight</value>
+    <comment>Total Weight</comment>
+  </data>
 </root>
