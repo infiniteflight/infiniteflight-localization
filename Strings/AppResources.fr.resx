@@ -3397,4 +3397,7 @@ Quittez le vol actuel et réessayez.</value>
     <value>CONTINUER
 LE VOL</value>
   </data>
+  <data name="WeightBalanceControl.TotalWeight" xml:space="preserve">
+    <value>Poids Total</value>
+  </data>
 </root>
