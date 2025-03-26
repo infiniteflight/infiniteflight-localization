@@ -3302,12 +3302,12 @@ PLAYER</comment>
     <comment>TAP TO ASSIGN</comment>
   </data>
   <data name="GamePage.FlightCanBeResumed" xml:space="preserve">
-    <value>This flight can be resumed</value>
-    <comment>This flight can be resumed</comment>
+    <value>Flight can be resumed</value>
+    <comment>Flight can be resumed</comment>
   </data>
   <data name="GamePage.FlightCannotBeResumed" xml:space="preserve">
-    <value>This flight cannot be resumed</value>
-    <comment>This flight cannot be resumed</comment>
+    <value>Flight cannot be resumed</value>
+    <comment>Flight cannot be resumed</comment>
   </data>
   <data name="GamePage.LeaveFlight.Message" xml:space="preserve">
     <value>Are you sure you want to leave this flight?</value>
@@ -4425,5 +4425,11 @@ FLIGHT</comment>
   <data name="WeightBalanceControl.TotalWeight" xml:space="preserve">
     <value>Total Weight</value>
     <comment>Total Weight</comment>
+  </data>
+  <data name="FlightSaveModalControl.OtherFlightDeleteConfirmationMessage" xml:space="preserve">
+    <value>Another flight is under AutoPilot+
+Would you like to delete it?</value>
+    <comment>Another flight is under AutoPilot+
+Would you like to delete it?</comment>
   </data>
 </root>

@@ -3400,4 +3400,8 @@ LE VOL</value>
   <data name="WeightBalanceControl.TotalWeight" xml:space="preserve">
     <value>Poids Total</value>
   </data>
+    <data name="FlightSaveModalControl.OtherFlightDeleteConfirmationMessage" xml:space="preserve">
+    <value>Un autre vol est sous AutoPilot+
+Voulez-vous le supprimer ?</value>
+  </data>
 </root>

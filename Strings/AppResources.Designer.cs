@@ -2570,6 +2570,16 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Another flight is under AutoPilot+
+        ///Would you like to delete it?.
+        /// </summary>
+        internal static string FlightSaveModalControl_OtherFlightDeleteConfirmationMessage {
+            get {
+                return ResourceManager.GetString("FlightSaveModalControl.OtherFlightDeleteConfirmationMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Failed to load scenario ({0}).
         /// </summary>
         internal static string FlightScenarioControl_FailedToLoadScenario {
@@ -2895,7 +2905,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This flight can be resumed.
+        ///   Looks up a localized string similar to Flight can be resumed.
         /// </summary>
         internal static string GamePage_FlightCanBeResumed {
             get {
@@ -2904,7 +2914,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This flight cannot be resumed.
+        ///   Looks up a localized string similar to Flight cannot be resumed.
         /// </summary>
         internal static string GamePage_FlightCannotBeResumed {
             get {
