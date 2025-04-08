@@ -186,68 +186,68 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>Bağlamaya çalıştığınız hesap zaten başka bir Infinite Flight Pro aboneliğiyle bağlantılı (hata kodu {0})</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+    <value>Bağlamaya çalıştığınız hesap zaten başka bir Infinite Flight Pro aboneliğiyle bağlantılı </value>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Hesabınız askıya alındı (hata kodu {0})</value>
-    <comment>Your account has been suspended (error code {0})</comment>
+    <value>Hesabınız askıya alındı </value>
+    <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>Bu ATC oturumu hakkında bilgi bulamıyoruz (hata kodu {0})</value>
-    <comment>We can't find information about this ATC session (error code {0})</comment>
+    <value>Bu ATC oturumu hakkında bilgi bulamıyoruz </value>
+    <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>Sağlayıcı ile bu hesabı doğrularken bir hata oluştu (hata kodu {0})</value>
-    <comment>There was an error validating this account with the provider (error code {0})</comment>
+    <value>Sağlayıcı ile bu hesabı doğrularken bir hata oluştu </value>
+    <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight sunucuya bağlanamıyor (hata kodu {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight sunucuya bağlanamıyor </value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Infinite Flight sunucularında bir hata oluştu. Kısa süre sonra tekrar deneyin (hata kodu {0})</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+    <value>Infinite Flight sunucularında bir hata oluştu. Kısa süre sonra tekrar deneyin </value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Hesabınızın bu eylemi gerçekleştirmesine izin verilmiyor, lütfen destekle iletişime geçin (hata kodu {0})</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+    <value>Hesabınızın bu eylemi gerçekleştirmesine izin verilmiyor, lütfen destekle iletişime geçin </value>
+    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Sunucularımız bunu işlemekte sorun yaşıyor, kısa süre sonra tekrar deneyin (hata kodu {0})</value>
-    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+    <value>Sunucularımız bunu işlemekte sorun yaşıyor, kısa süre sonra tekrar deneyin </value>
+    <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>Error</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight sunucuya bağlanırken sorun yaşıyor (hata kodu {0})</value>
-    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+    <value>Infinite Flight sunucuya bağlanırken sorun yaşıyor </value>
+    <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>Güncellediğiniz değer geçerli değil (hata kodu {0})</value>
-    <comment>The value you are updating isn't valid (error code {0})</comment>
+    <value>Güncellediğiniz değer geçerli değil </value>
+    <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>Giriş yapmaya çalıştığınız hesabın kimlik bilgileri geçersiz (hata kodu {0})</value>
-    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+    <value>Giriş yapmaya çalıştığınız hesabın kimlik bilgileri geçersiz </value>
+    <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>Sunucuya bağlanırken bir sorun oluştu (hata kodu {0})</value>
-    <comment>There was a problem connecting to the server (error code {0})</comment>
+    <value>Sunucuya bağlanırken bir sorun oluştu </value>
+    <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Infinite Flight sunucuya bağlanamıyor (hata kodu {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight sunucuya bağlanamıyor </value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>Cihazınızın depolama alanı dolu olduğu için Küresel Sunucu akışı başarısız oldu</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Bu Infinite Flight Topluluğu hesabı, daha önce uygulamayla kullanılmadı (hata kodu {0})</value>
-    <comment>This Infinite Flight Community account has not been used with the app before (error code {0})</comment>
+    <value>Bu Infinite Flight Topluluğu hesabı, daha önce uygulamayla kullanılmadı </value>
+    <comment>This Infinite Flight Community account has not been used with the app before</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Tutkunu taşı</value>
@@ -2522,27 +2522,27 @@
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>Bir anlaşma imzalanmadı; bu eylemi gerçekleştirmek için sözleşmeyi imzalamanız gerekir (hata kodu {0})</value>
+    <value>Bir anlaşma imzalanmadı; bu eylemi gerçekleştirmek için sözleşmeyi imzalamanız gerekir </value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>Seçilen havaalanı mevcut değil (hata kodu {0})</value>
+    <value>Seçilen havaalanı mevcut değil </value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>Çıkış yaptınız ve manuel olarak tekrar giriş yapmanız gerekiyor (hata kodu {0})</value>
+    <value>Çıkış yaptınız ve manuel olarak tekrar giriş yapmanız gerekiyor </value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>Bu özellik desteklenmiyor (hata kodu {0})</value>
+    <value>Bu özellik desteklenmiyor </value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>Seçilen sunucu kullanılamıyor (hata kodu {0})</value>
+    <value>Seçilen sunucu kullanılamıyor </value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Bu havaalanına atanmadınız. Lütfen bir gözden geçiren veya moderatörle iletişime geçin (hata kodu {0})</value>
+    <value>Bu havaalanına atanmadınız. Lütfen bir gözden geçiren veya moderatörle iletişime geçin </value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
@@ -2634,12 +2634,12 @@
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>Bu bağlantıyı açabilecek tarayıcı yok. Yüklü bir tarayıcınız olduğundan emin olun ve sorun devam ederse destekle iletişime geçin (hata kodu {0})</value>
-    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
+    <value>Bu bağlantıyı açabilecek tarayıcı yok. Yüklü bir tarayıcınız olduğundan emin olun ve sorun devam ederse destekle iletişime geçin </value>
+    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists</comment>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>Sunucuya bağlanılamadı, internet bağlantınızı kontrol edin (hata kodu {0})</value>
-    <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
+    <value>Sunucuya bağlanılamadı, internet bağlantınızı kontrol edin </value>
+    <comment>Could not connect to the server, check your internet connection</comment>
   </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
     <value>Kullanılabilir Sunucu Yok</value>
@@ -2723,7 +2723,7 @@ Bu oturumdan çıkabilir veya yeni bir varış noktasına doğru başka bir yolc
 {0}</value>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-    <value>Bu oturumun başlangıç ve bitiş zamanları geçerli değil (hata kodu {0})</value>
+    <value>Bu oturumun başlangıç ve bitiş zamanları geçerli değil </value>
   </data>
   <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
     <value>{0} havaalanı ICAO'sudur</value>
@@ -3034,5 +3034,20 @@ OYUNCULU</value>
   <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
     <value>Abonelik iptal edilene kadar otomatik olarak yenilenecektir.
 Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>Kiralama bir sonraki uçuşta başlar</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>{0} içinde sona erer</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>Kiralama iptal edildi</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Ödeme bekleniyor</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>Uçağı kirala</value>
   </data>
 </root>

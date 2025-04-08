@@ -186,68 +186,68 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>Das Konto, das du verknüpfen möchtest, ist bereits mit einem anderen Infinite Flight Pro Abonnement verbunden (Error Code {0})</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+    <value>Das Konto, das du verknüpfen möchtest, ist bereits mit einem anderen Infinite Flight Pro Abonnement verbunden</value>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Dein Konto wurde gesperrt (Error Code {0})</value>
-    <comment>Your account has been suspended (error code {0})</comment>
+    <value>Dein Konto wurde gesperrt</value>
+    <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>Wir können keine Informationen über diese ATC Sitzung finden (Error Code {0})</value>
-    <comment>We can't find information about this ATC session (error code {0})</comment>
+    <value>Wir können keine Informationen über diese ATC Sitzung finden</value>
+    <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>Bei der Prüfung deines Kontos beim Anbieter ist ein Fehler aufgetreten (Error Code {0})</value>
-    <comment>There was an error validating this account with the provider (error code {0})</comment>
+    <value>Bei der Prüfung deines Kontos beim Anbieter ist ein Fehler aufgetreten</value>
+    <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight kann sich nicht mit dem Server verbinden (Error Code {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight kann sich nicht mit dem Server verbinden</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Es ist ein Fehler auf dem Infinite Flight Server aufgetreten. Bitte versuche es in Kürze erneut (Error Code {0})</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+    <value>Es ist ein Fehler auf dem Infinite Flight Server aufgetreten. Bitte versuche es in Kürze erneut</value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Dein Konto darf diese Aktion nicht ausführen. Bitte kontaktiere den Support (Error Code {0})</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+    <value>Dein Konto darf diese Aktion nicht ausführen. Bitte kontaktiere den Support</value>
+    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Verarbeitung auf dem Server fehlgeschlagen. Bitte versuche es in Kürze erneut (Error Code {0})</value>
-    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+    <value>Verarbeitung auf dem Server fehlgeschlagen. Bitte versuche es in Kürze erneut</value>
+    <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>Fehler</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight hat Probleme sich mit dem Server zu verbinden (Error Code {0})</value>
-    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+    <value>Infinite Flight hat Probleme sich mit dem Server zu verbinden</value>
+    <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>Der Wert, den du aktualisieren möchtest, ist ungültig (Error Code {0})</value>
-    <comment>The value you are updating isn't valid (error code {0})</comment>
+    <value>Der Wert, den du aktualisieren möchtest, ist ungültig</value>
+    <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>Das Konto, in das du dich einloggen möchtest, hat ungültige Zugangsdaten (Error Code {0})</value>
-    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+    <value>Das Konto, in das du dich einloggen möchtest, hat ungültige Zugangsdaten</value>
+    <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>Bei der Verbindung mit dem Server ist ein Fehler aufgetreten (Error Code {0})</value>
-    <comment>There was a problem connecting to the server (error code {0})</comment>
+    <value>Bei der Verbindung mit dem Server ist ein Fehler aufgetreten</value>
+    <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Infinite Flight kann sich nicht mit dem Server verbinden (Error Code {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight kann sich nicht mit dem Server verbinden</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>Das Global Server Streaming ist fehlgeschlagen, weil der Speicher deines Gerätes voll ist</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Dieses Konto ist nicht mit einem Infinite Flight Pro Abonnement verknüpft (Error Code {0})</value>
-    <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
+    <value>Dieses Konto ist nicht mit einem Infinite Flight Pro Abonnement verknüpft</value>
+    <comment>This account isn't linked to an Infinite Flight Pro subscription</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Carry your passion</value>
@@ -2530,27 +2530,27 @@
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>Eine Vereinbarung wurde nicht unterzeichnet; Du musst die Vereinbarung unterzeichnen, um diese Aktion durchzuführen (Error Code {0})</value>
+    <value>Eine Vereinbarung wurde nicht unterzeichnet; Du musst die Vereinbarung unterzeichnen, um diese Aktion durchzuführen</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>Der ausgewählte Flughafen ist nicht verfügbar (Error Code {0})</value>
+    <value>Der ausgewählte Flughafen ist nicht verfügbar</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>Du wurdest abgemeldet und musst dich manuell neu anmelden (Error Code {0})</value>
+    <value>Du wurdest abgemeldet und musst dich manuell neu anmelden</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>Diese Funktion wird nicht unterstützt (Error Code {0})</value>
+    <value>Diese Funktion wird nicht unterstützt</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>Der ausgewählte Server ist nicht verfügbar (Error Code {0})</value>
+    <value>Der ausgewählte Server ist nicht verfügbar</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Du bist diesem Flughafen nicht zugewiesen. Bitte kontaktiere einen Reviewer oder Moderator (Error Code {0})</value>
+    <value>Du bist diesem Flughafen nicht zugewiesen. Bitte kontaktiere einen Reviewer oder Moderator</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
@@ -2642,12 +2642,12 @@
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>Es ist kein Browser verfügbar, um diesen Link zu öffnen. Überprüfe, ob du einen Browser installiert hast, und kontaktiere den Support, falls das Problem weiterhin besteht (Error Code {0})</value>
-    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
+    <value>Es ist kein Browser verfügbar, um diesen Link zu öffnen. Überprüfe, ob du einen Browser installiert hast, und kontaktiere den Support, falls das Problem weiterhin besteht</value>
+    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists</comment>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>Die Verbindung zum Server konnte nicht hergestellt werden, überprüfe deine Internetverbindung (Error Code {0})</value>
-    <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
+    <value>Die Verbindung zum Server konnte nicht hergestellt werden, überprüfe deine Internetverbindung</value>
+    <comment>Could not connect to the server, check your internet connection</comment>
   </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
     <value>Kein Server verfügbar</value>
@@ -2871,7 +2871,7 @@
     <value>Tippen, um fortzufahren</value>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-    <value>Die Start- und Endzeiten für diese Sitzung sind ungültig (Error Code {0})</value>
+    <value>Die Start- und Endzeiten für diese Sitzung sind ungültig</value>
   </data>
   <data name="DefaultMission.AfterLanding" xml:space="preserve">
     <value>Willkommen in {0}. Fahre zum Parkplatz und schalte das Flugzeug ab, um diese Mission abzuschließen</value>
@@ -2961,7 +2961,7 @@ Du kannst diese Sitzung beenden oder eine neue Reise beginnen.</value>
     <value>ATC NICHT VERFÜGBAR</value>
   </data>
   <data name="Error.ApplicationInitializationError" xml:space="preserve">
-    <value>Infinite Flight konnte aufgrund eines Problems nicht gestartet werden. Bitte versuche es erneut oder kontaktiere den Support. (Error Code {0})</value>
+    <value>Infinite Flight konnte aufgrund eines Problems nicht gestartet werden. Bitte versuche es erneut oder kontaktiere den Support.</value>
   </data>
   <data name="GameControlsAxisSetupControl.InvertUpper" xml:space="preserve">
     <value>UMKEHREN</value>
@@ -3003,7 +3003,7 @@ Du kannst diese Sitzung beenden oder eine neue Reise beginnen.</value>
     <value>BEREIT ZUM FLIEGEN</value>
   </data>
   <data name="Error.LoadingScenarioError" xml:space="preserve">
-    <value>Beim Herunterladen des Szenarios ist ein Fehler aufgetreten (Error Code {0})</value>
+    <value>Beim Herunterladen des Szenarios ist ein Fehler aufgetreten</value>
   </data>
   <data name="SubscriptionMorePlansControl.YearlyUpper" xml:space="preserve">
     <value>JÄHRLICH</value>
@@ -3065,5 +3065,20 @@ Du kannst diese Sitzung beenden oder eine neue Reise beginnen.</value>
   <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
     <value>Das Abonnement verlängert sich automatisch, bis es gekündigt wird.
 Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>Die Miete beginnt mit Ihrem nächsten Flug</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Läuft in {0} ab</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>Die Miete wurde storniert</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Zahlung ausstehend</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>Das Flugzeug mieten</value>
   </data>
 </root>

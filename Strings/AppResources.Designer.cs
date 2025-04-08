@@ -169,7 +169,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to RENT AIRCRAFT.
+        ///   Looks up a localized string similar to RENT (24H).
         /// </summary>
         internal static string AircraftPage_RentAircraftUpper {
             get {
@@ -266,6 +266,24 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string AirportEditorFileManager_AirportSubmitReviewUploaded {
             get {
                 return ResourceManager.GetString("AirportEditorFileManager.AirportSubmitReviewUploaded", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Disconnection.
+        /// </summary>
+        internal static string AirTrafficControllerPage_Disconnection {
+            get {
+                return ResourceManager.GetString("AirTrafficControllerPage.Disconnection", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No response to {0} message(s) for {1} seconds.\nYou will be disconnected soon..
+        /// </summary>
+        internal static string AirTrafficControllerPage_DisconnectionMessage {
+            get {
+                return ResourceManager.GetString("AirTrafficControllerPage.DisconnectionMessage", resourceCulture);
             }
         }
         
@@ -565,6 +583,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Autopilot_SimulationTimeScaleResetAutopilotDisconnected {
             get {
                 return ResourceManager.GetString("Autopilot.SimulationTimeScaleResetAutopilotDisconnected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Failed to update callsign, try again later.
+        /// </summary>
+        internal static string CallsignControl_FailedUpdateCallsign {
+            get {
+                return ResourceManager.GetString("CallsignControl.FailedUpdateCallsign", resourceCulture);
             }
         }
         
@@ -1454,7 +1481,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0}).
+        ///   Looks up a localized string similar to The account you are trying to connect is already linked with another Infinite Flight Pro subscription.
         /// </summary>
         internal static string Error_AccountAlreadyInUse {
             get {
@@ -1463,7 +1490,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your account has been suspended (error code {0}).
+        ///   Looks up a localized string similar to Your account has been suspended.
         /// </summary>
         internal static string Error_AccountSuspended {
             get {
@@ -1472,7 +1499,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An agreement has not been signed; you must sign the agreement to perform this action (error code {0}).
+        ///   Looks up a localized string similar to An agreement has not been signed; you must sign the agreement to perform this action.
         /// </summary>
         internal static string Error_AgreementNotSigned {
             get {
@@ -1490,7 +1517,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The selected airport is not available (error code {0}).
+        ///   Looks up a localized string similar to The selected airport is not available.
         /// </summary>
         internal static string Error_AirportNotFound {
             get {
@@ -1499,7 +1526,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Infinite Flight could not launch due to a problem. Please try restarting or contact support. (error code {0}).
+        ///   Looks up a localized string similar to Infinite Flight could not launch due to a problem. Please try restarting or contact support..
         /// </summary>
         internal static string Error_ApplicationInitializationError {
             get {
@@ -1508,7 +1535,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We can&apos;t find information about this ATC session (error code {0}).
+        ///   Looks up a localized string similar to We can&apos;t find information about this ATC session.
         /// </summary>
         internal static string Error_ATCSessionNotFound {
             get {
@@ -1517,7 +1544,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was an error validating this account with the provider (error code {0}).
+        ///   Looks up a localized string similar to There was an error validating this account with the provider.
         /// </summary>
         internal static string Error_AuthProviderFailure {
             get {
@@ -1526,7 +1553,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists (error code {0}).
+        ///   Looks up a localized string similar to No browser is available to open this link. Ensure you have a browser installed, and contact support if the issue persists.
         /// </summary>
         internal static string Error_CannotOpenBrowser {
             get {
@@ -1544,7 +1571,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Could not connect to the server, check your internet connection (error code {0}).
+        ///   Looks up a localized string similar to Could not connect to the server, check your internet connection.
         /// </summary>
         internal static string Error_CouldNotGetFileSize {
             get {
@@ -1553,7 +1580,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server (error code {0}).
+        ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server.
         /// </summary>
         internal static string Error_DataNotLoaded {
             get {
@@ -1562,7 +1589,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was an error on the Infinite Flight servers. Try again shortly (error code {0}).
+        ///   Looks up a localized string similar to There was an error on the Infinite Flight servers. Try again shortly.
         /// </summary>
         internal static string Error_EndpointError {
             get {
@@ -1571,7 +1598,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your account isn&apos;t allowed to carry out this action, please contact support (error code {0}).
+        ///   Looks up a localized string similar to Your account isn&apos;t allowed to carry out this action, please contact support.
         /// </summary>
         internal static string Error_EndpointNotAuthorized {
             get {
@@ -1580,7 +1607,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Our servers are having trouble processing this, try again shortly (error code {0}).
+        ///   Looks up a localized string similar to Our servers are having trouble processing this, try again shortly.
         /// </summary>
         internal static string Error_EndpointTimeout {
             get {
@@ -1598,7 +1625,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You have been logged out and need to log in again manually (error code {0}).
+        ///   Looks up a localized string similar to You have been logged out and need to log in again manually.
         /// </summary>
         internal static string Error_ExpiredToken {
             get {
@@ -1607,7 +1634,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Infinite Flight is having trouble connecting to the server (error code {0}).
+        ///   Looks up a localized string similar to Infinite Flight is having trouble connecting to the server.
         /// </summary>
         internal static string Error_GenericServerConnection {
             get {
@@ -1625,7 +1652,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The value you are updating isn&apos;t valid (error code {0}).
+        ///   Looks up a localized string similar to The value you are updating isn&apos;t valid.
         /// </summary>
         internal static string Error_InvalidInput {
             get {
@@ -1634,7 +1661,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The start and end times for this session aren&apos;t valid (error code {0}).
+        ///   Looks up a localized string similar to The start and end times for this session aren&apos;t valid.
         /// </summary>
         internal static string Error_InvalidTimeSpan {
             get {
@@ -1643,7 +1670,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The account you are trying to login to has invalid credentials (error code {0}).
+        ///   Looks up a localized string similar to The account you are trying to login to has invalid credentials.
         /// </summary>
         internal static string Error_InvalidToken {
             get {
@@ -1652,7 +1679,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was an error downloading this scenario (error code {0}).
+        ///   Looks up a localized string similar to There was an error downloading this scenario.
         /// </summary>
         internal static string Error_LoadingScenarioError {
             get {
@@ -1661,7 +1688,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to There was a problem connecting to the server (error code {0}).
+        ///   Looks up a localized string similar to There was a problem connecting to the server.
         /// </summary>
         internal static string Error_MissingRequestParameters {
             get {
@@ -1670,7 +1697,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are already connected to this multiplayer server on another device (error code {0}).
+        ///   Looks up a localized string similar to You are already connected to this multiplayer server on another device.
         /// </summary>
         internal static string Error_MultiplayerAtcAlreadyActive {
             get {
@@ -1679,7 +1706,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are already connected to this multiplayer server on another device (error code {0}).
+        ///   Looks up a localized string similar to You are already connected to this multiplayer server on another device.
         /// </summary>
         internal static string Error_MultiplayerFlightAlreadyActive {
             get {
@@ -1688,7 +1715,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server (error code {0}).
+        ///   Looks up a localized string similar to Infinite Flight can&apos;t connect to the server.
         /// </summary>
         internal static string Error_NetworkError {
             get {
@@ -1706,7 +1733,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This feature is not supported (error code {0}).
+        ///   Looks up a localized string similar to This feature is not supported.
         /// </summary>
         internal static string Error_NotSupported {
             get {
@@ -1715,7 +1742,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The selected server is not available (error code {0}).
+        ///   Looks up a localized string similar to The selected server is not available.
         /// </summary>
         internal static string Error_ServerNotFound {
             get {
@@ -1742,6 +1769,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your Navigraph login has expired. You&apos;ll be prompted to sign in again to download your flight plan..
+        /// </summary>
+        internal static string Error_SimbriefRefreshTokenExpired {
+            get {
+                return ResourceManager.GetString("Error.SimbriefRefreshTokenExpired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Global Server streaming has failed because your device storage is full.
         /// </summary>
         internal static string Error_TileSystemDiskFull {
@@ -1751,7 +1787,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are not assigned to this airport. Please contact a reviewer or moderator (error code {0}).
+        ///   Looks up a localized string similar to You are not assigned to this airport. Please contact a reviewer or moderator.
         /// </summary>
         internal static string Error_UserNotAssigned {
             get {
@@ -1760,11 +1796,182 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This Infinite Flight Community account has not been used with the app before (error code {0}).
+        ///   Looks up a localized string similar to This Infinite Flight Community account has not been used with the app before.
         /// </summary>
         internal static string Error_UserNotFound {
             get {
                 return ResourceManager.GetString("Error.UserNotFound", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ACTIVE FLIGHT.
+        /// </summary>
+        internal static string FlightContinuationControl_ActiveFlightUpper {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.ActiveFlightUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aircraft is unknown.
+        /// </summary>
+        internal static string FlightContinuationControl_AircraftIsUnknown {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.AircraftIsUnknown", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to delete this flight?.
+        /// </summary>
+        internal static string FlightContinuationControl_DeleteFlightConfirmation {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.DeleteFlightConfirmation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to DELETING FLIGHT.
+        /// </summary>
+        internal static string FlightContinuationControl_DeletingFlightUpper {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.DeletingFlightUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EXPIRED.
+        /// </summary>
+        internal static string FlightContinuationControl_ExpiredUpper {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.ExpiredUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Failed to load flight.
+        /// </summary>
+        internal static string FlightContinuationControl_FailedToLoadFlight {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.FailedToLoadFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Failed to start the flight ({0}).
+        /// </summary>
+        internal static string FlightContinuationControl_FailedToStartTheFlightAnyReason {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.FailedToStartTheFlightAnyReason", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This flight is already active on another device or recently flown. Please try again later..
+        /// </summary>
+        internal static string FlightContinuationControl_FlightActiveError {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.FlightActiveError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight has been cancelled.
+        /// </summary>
+        internal static string FlightContinuationControl_FlightHasBeenCancelled {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.FlightHasBeenCancelled", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight has been lost.
+        /// </summary>
+        internal static string FlightContinuationControl_FlightHasBeenLost {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.FlightHasBeenLost", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight has expired.
+        /// </summary>
+        internal static string FlightContinuationControl_FlightHasExpired {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.FlightHasExpired", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight has run out of fuel.
+        /// </summary>
+        internal static string FlightContinuationControl_FlightHasRunOutOfFuel {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.FlightHasRunOutOfFuel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Loading Flight.
+        /// </summary>
+        internal static string FlightContinuationControl_LoadingFlight {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.LoadingFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No active flight found. It may have been ended or deleted..
+        /// </summary>
+        internal static string FlightContinuationControl_NoActiveFlightFoundEndedOrDeleted {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.NoActiveFlightFoundEndedOrDeleted", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to OUT OF FUEL.
+        /// </summary>
+        internal static string FlightContinuationControl_OutOfFuelUpper {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.OutOfFuelUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unable to load flight. Please try again later..
+        /// </summary>
+        internal static string FlightContinuationControl_UnableToLoadFlight {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.UnableToLoadFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to UNKNOWN AIRCRAFT.
+        /// </summary>
+        internal static string FlightContinuationControl_UnknownAircraftUpper {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.UnknownAircraftUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to UNKNOWN LIVERY.
+        /// </summary>
+        internal static string FlightContinuationControl_UnknownLiveryUpper {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.UnknownLiveryUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to UNKNOWN WORLD.
+        /// </summary>
+        internal static string FlightContinuationControl_UnknownWorldUpper {
+            get {
+                return ResourceManager.GetString("FlightContinuationControl.UnknownWorldUpper", resourceCulture);
             }
         }
         
@@ -2354,6 +2561,25 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Continuation Conditions.
+        /// </summary>
+        internal static string FlightSaveModalControl_ContinuationConditions {
+            get {
+                return ResourceManager.GetString("FlightSaveModalControl.ContinuationConditions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Another flight is under AutoPilot+
+        ///Would you like to delete it?.
+        /// </summary>
+        internal static string FlightSaveModalControl_OtherFlightDeleteConfirmationMessage {
+            get {
+                return ResourceManager.GetString("FlightSaveModalControl.OtherFlightDeleteConfirmationMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Failed to load scenario ({0}).
         /// </summary>
         internal static string FlightScenarioControl_FailedToLoadScenario {
@@ -2679,7 +2905,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This flight can be resumed.
+        ///   Looks up a localized string similar to Flight can be resumed.
         /// </summary>
         internal static string GamePage_FlightCanBeResumed {
             get {
@@ -2688,7 +2914,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This flight cannot be resumed.
+        ///   Looks up a localized string similar to Flight cannot be resumed.
         /// </summary>
         internal static string GamePage_FlightCannotBeResumed {
             get {
@@ -2729,6 +2955,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string GamePage_NoAirportFoundVicinity {
             get {
                 return ResourceManager.GetString("GamePage.NoAirportFoundVicinity", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to restart this scenario?.
+        /// </summary>
+        internal static string GamePage_RestartScenarioConfirmation {
+            get {
+                return ResourceManager.GetString("GamePage.RestartScenarioConfirmation", resourceCulture);
             }
         }
         
@@ -2891,6 +3126,16 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string GameSelectionModesControl_AirTrafficControlShortDescription {
             get {
                 return ResourceManager.GetString("GameSelectionModesControl.AirTrafficControlShortDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CONTINUE
+        ///FLIGHT.
+        /// </summary>
+        internal static string GameSelectionModesControl_ContinueFlightUpper {
+            get {
+                return ResourceManager.GetString("GameSelectionModesControl.ContinueFlightUpper", resourceCulture);
             }
         }
         
@@ -3147,6 +3392,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to FREE.
+        /// </summary>
+        internal static string Global_Free {
+            get {
+                return ResourceManager.GetString("Global.Free", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Grade.
         /// </summary>
         internal static string Global_Grade {
@@ -3237,11 +3491,29 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Month.
+        /// </summary>
+        internal static string Global_Month {
+            get {
+                return ResourceManager.GetString("Global.Month", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Name.
         /// </summary>
         internal static string Global_Name {
             get {
                 return ResourceManager.GetString("Global.Name", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to NEW.
+        /// </summary>
+        internal static string Global_New {
+            get {
+                return ResourceManager.GetString("Global.New", resourceCulture);
             }
         }
         
@@ -3656,6 +3928,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Grade_ViolationsShortPeriod {
             get {
                 return ResourceManager.GetString("Grade.ViolationsShortPeriod", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Failed to get your latest account statistics. Check your connection and try again.
+        /// </summary>
+        internal static string GradeInfoControl_FailedRefreshGradeInfo {
+            get {
+                return ResourceManager.GetString("GradeInfoControl.FailedRefreshGradeInfo", resourceCulture);
             }
         }
         
@@ -5162,6 +5443,96 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string PauseControl_World_Replay {
             get {
                 return ResourceManager.GetString("PauseControl.World.Replay", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aircraft will stay at {0}.
+        /// </summary>
+        internal static string PauseFlightControl_AircraftWillStayAtIcaoAirportFormat {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.AircraftWillStayAtIcaoAirportFormat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aircraft will stay near your location.
+        /// </summary>
+        internal static string PauseFlightControl_AircraftWillStayNearYourLocation {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.AircraftWillStayNearYourLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Continue flight from last saved location.
+        /// </summary>
+        internal static string PauseFlightControl_ContinueFlightFromLastSavedLocation {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.ContinueFlightFromLastSavedLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight will be terminated.
+        /// </summary>
+        internal static string PauseFlightControl_FlightWillBeTerminated {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.FlightWillBeTerminated", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight will continue in the background.
+        /// </summary>
+        internal static string PauseFlightControl_FlightWillContinueInBackground {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.FlightWillContinueInBackground", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flight will go back to last saved location.
+        /// </summary>
+        internal static string PauseFlightControl_FlightWillGoBackToLastSavedLocation {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.FlightWillGoBackToLastSavedLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Keep flight paused at 30mn ETE.
+        /// </summary>
+        internal static string PauseFlightControl_KeepFlightPaused30minETE {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.KeepFlightPaused30minETE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Keep flight running in the background.
+        /// </summary>
+        internal static string PauseFlightControl_KeepFlightRunningBackground {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.KeepFlightRunningBackground", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please wait. Saving your flight.
+        /// </summary>
+        internal static string PauseFlightControl_PleaseWaitSavingFlight {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.PleaseWaitSavingFlight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rental period for this airplane has expired. Refueling unavailable.
+        /// </summary>
+        internal static string PauseFlightControl_RefuelingError_RentalPeriodExpired {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.RefuelingError.RentalPeriodExpired", resourceCulture);
             }
         }
         
@@ -7471,6 +7842,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Outdated Version.
+        /// </summary>
+        internal static string SplashScreenPage_OutdatedVersion {
+            get {
+                return ResourceManager.GetString("SplashScreenPage.OutdatedVersion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This version is outdated. Please update to the latest available version..
+        /// </summary>
+        internal static string SplashScreenPage_OutdatedVersionMessage {
+            get {
+                return ResourceManager.GetString("SplashScreenPage.OutdatedVersionMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Subscription auto-renews until canceled.
         ///Cancel anytime in Google Play&apos;s Subscription Center..
         /// </summary>
@@ -8465,6 +8854,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Reset to Real Time.
+        /// </summary>
+        internal static string TimeFullControl_ResetToRealTime {
+            get {
+                return ResourceManager.GetString("TimeFullControl.ResetToRealTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Location not set. Unable to compute local time..
         /// </summary>
         internal static string TimeInfoControl_LocationNotSet {
@@ -8542,6 +8940,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string TimePage_Sunset {
             get {
                 return ResourceManager.GetString("TimePage.Sunset", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Real Time.
+        /// </summary>
+        internal static string TimeSectionControl_RealTime {
+            get {
+                return ResourceManager.GetString("TimeSectionControl.RealTime", resourceCulture);
             }
         }
         
@@ -8894,6 +9301,33 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Gusts.
+        /// </summary>
+        internal static string WeatherFullControl_Gusts {
+            get {
+                return ResourceManager.GetString("WeatherFullControl.Gusts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In multiplayer, only cloud coverage and altitude can be adjusted.
+        /// </summary>
+        internal static string WeatherFullControl_MiscInfoCloudMessage {
+            get {
+                return ResourceManager.GetString("WeatherFullControl.MiscInfoCloudMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Speed.
+        /// </summary>
+        internal static string WeatherFullControl_Speed {
+            get {
+                return ResourceManager.GetString("WeatherFullControl.Speed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} at {1} ft.
         /// </summary>
         internal static string WeatherInfoControl_CloudAtAltitudeFeet {
@@ -8917,6 +9351,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string WeatherInfoControl_UnavailableInSoloUpper {
             get {
                 return ResourceManager.GetString("WeatherInfoControl.UnavailableInSoloUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LATEST TAF.
+        /// </summary>
+        internal static string WeatherLiveControl_LatestTafUpper {
+            get {
+                return ResourceManager.GetString("WeatherLiveControl.LatestTafUpper", resourceCulture);
             }
         }
         
@@ -9196,6 +9639,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string WeightBalanceControl_Load {
             get {
                 return ResourceManager.GetString("WeightBalanceControl.Load", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Total Weight.
+        /// </summary>
+        internal static string WeightBalanceControl_TotalWeight {
+            get {
+                return ResourceManager.GetString("WeightBalanceControl.TotalWeight", resourceCulture);
             }
         }
         

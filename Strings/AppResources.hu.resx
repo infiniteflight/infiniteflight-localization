@@ -186,68 +186,68 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>A csatlakoztatni kívánt fiók már össze van kapcsolva egy másik Infinite Flight Pro előfizetéssel (hiba kód {0})</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+    <value>A csatlakoztatni kívánt fiók már össze van kapcsolva egy másik Infinite Flight Pro előfizetéssel</value>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Fiókod felfüggesztettük (hiba kód {0})</value>
-    <comment>Your account has been suspended (error code {0})</comment>
+    <value>Fiókod felfüggesztettük</value>
+    <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>Nem találunk információt erről az ATC periódusról (hiba kód {0})</value>
-    <comment>We can't find information about this ATC session (error code {0})</comment>
+    <value>Nem találunk információt erről az ATC periódusról</value>
+    <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>Hiba történt a fiók érvényesítésekor a szolgáltatónál (hiba kód {0})</value>
-    <comment>There was an error validating this account with the provider (error code {0})</comment>
+    <value>Hiba történt a fiók érvényesítésekor a szolgáltatónál</value>
+    <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight nem tud csatlakozni a szerverhez (hiba kód {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight nem tud csatlakozni a szerverhez</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Hiba történt az Infinite Flight szerverein. Próbálja újra hamarosan (hiba kód {0})</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+    <value>Hiba történt az Infinite Flight szerverein. Próbálja újra hamarosan</value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Fiókja nem hajthatja végre ezt a műveletet, kérjük, forduljon az ügyfélszolgálathoz (hiba kód {0})</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+    <value>Fiókja nem hajthatja végre ezt a műveletet, kérjük, forduljon az ügyfélszolgálathoz</value>
+    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Szervereinknek problémái vannak ennek feldolgozása során, próbálja újra rövidesen (hiba kód {0})</value>
-    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+    <value>Szervereinknek problémái vannak ennek feldolgozása során, próbálja újra rövidesen</value>
+    <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>Hiba</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight nem tud csatlakozni a szerverhez (hiba kód {0})</value>
-    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+    <value>Infinite Flight nem tud csatlakozni a szerverhez</value>
+    <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>A frissített érték nem érvényes (hiba kód {0})</value>
-    <comment>The value you are updating isn't valid (error code {0})</comment>
+    <value>A frissített érték nem érvényes</value>
+    <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>A bejelentkezni kívánt fiók érvénytelen adatokkal rendelkezik (hiba kód {0})</value>
-    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+    <value>A bejelentkezni kívánt fiók érvénytelen adatokkal rendelkezik</value>
+    <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>Hiba történt a szerverhez való csatlakozáskor (hiba kód {0})</value>
-    <comment>There was a problem connecting to the server (error code {0})</comment>
+    <value>Hiba történt a szerverhez való csatlakozáskor</value>
+    <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Az Infinite Flight nem tud csatlakozni a szerverhez (hiba kód {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Az Infinite Flight nem tud csatlakozni a szerverhez</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>A Globális Szerver adatfolyam-továbbítása meghiúsult, mert az eszköz tárhelye megtelt</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Ezt az Infinite Flight Community fiókot korábban nem használták az alkalmazással (hiba kód {0})</value>
-    <comment>This Infinite Flight Community account has not been used with the app before (error code {0})</comment>
+    <value>Ezt az Infinite Flight Community fiókot korábban nem használták az alkalmazással</value>
+    <comment>This Infinite Flight Community account has not been used with the app before</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Kövesd az álmaid</value>
@@ -2677,7 +2677,7 @@ Check map for more information</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
     <value>Nem érhető el böngésző a hivatkozás megnyitásához – győződj meg arról, hogy van telepítve böngésző. Ha nem tudod megoldani a problémát akkor, fordulj az ügyfélszolgálathoz (hibakód: {0})</value>
-    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
+    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists</comment>
   </data>
   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
     <value>REPÜLŐ MEGVÁLTOZTATÁSA</value>
@@ -2979,5 +2979,20 @@ You can quit this session or embark on another journey to a new destination.</co
   <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
     <value>Az előfizetés automatikusan megújul a lemondásig.
 Bármikor lemondhatja a Google Play előfizetési központjában.</value>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>A bérlés a következő járatnál kezdődik</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Lejár {0} múlva</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>A bérlés törölve lett</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Fizetés függőben</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>Bérelje a repülőgépet</value>
   </data>
 </root>

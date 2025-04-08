@@ -186,68 +186,68 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>Акаунтът, към който се опитвате да се свържете, вече е свързан с друг Infinite Flight Pro абонамент (код на грешката {0})</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+    <value>Акаунтът, към който се опитвате да се свържете, вече е свързан с друг Infinite Flight Pro абонамент</value>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Акаунтът Ви е прекратен (код на грешката {0})</value>
-    <comment>Your account has been suspended (error code {0})</comment>
+    <value>Акаунтът Ви е прекратен</value>
+    <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>Не можем да намерим информация за тази РВД сесия (код на грешката {0})</value>
-    <comment>We can't find information about this ATC session (error code {0})</comment>
+    <value>Не можем да намерим информация за тази РВД сесия</value>
+    <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>Грешка при валидиране на акаунта с доставчика (код на грешката {0})</value>
-    <comment>There was an error validating this account with the provider (error code {0})</comment>
+    <value>Грешка при валидиране на акаунта с доставчика</value>
+    <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight не може да се свърже със сървъра (код на грешката {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight не може да се свърже със сървъра</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Грешка в сървърите на Infinite Flight. Опитайте отново по-късно (код на грешката {0})</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+    <value>Грешка в сървърите на Infinite Flight. Опитайте отново по-късно</value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Акаунтът Ви няма права да извърши това действие, моля, свържете се с поддръжката (код на грешката {0})</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+    <value>Акаунтът Ви няма права да извърши това действие, моля, свържете се с поддръжката</value>
+    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Сървърите ни не могат да обработят заявката, опитайте отново по-късно (код на грешката {0})</value>
-    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+    <value>Сървърите ни не могат да обработят заявката, опитайте отново по-късно</value>
+    <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>Грешка</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight не може да се свърже със сървъра (код на грешката {0})</value>
-    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+    <value>Infinite Flight не може да се свърже със сървъра</value>
+    <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>Стойността, която редактирате, не е валидна (код на грешката {0})</value>
-    <comment>The value you are updating isn't valid (error code {0})</comment>
+    <value>Стойността, която редактирате, не е валидна</value>
+    <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>Акаунтът, към който се опитвате да се свържете, е с невалидни данни (код на грешката {0})</value>
-    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+    <value>Акаунтът, към който се опитвате да се свържете, е с невалидни данни</value>
+    <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>Проблем при свързването със сървъра (код на грешката {0})</value>
-    <comment>There was a problem connecting to the server (error code {0})</comment>
+    <value>Проблем при свързването със сървъра</value>
+    <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Infinite Flight не може да се свърже със сървъра (код на грешката {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight не може да се свърже със сървъра</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>Стриймингът на глобалния сървър е неуспешен, защото паметта на устройството Ви е пълна</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Този акаунт не е свързан с Infinite Flight Pro абонамент (код на грешката {0})</value>
-    <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
+    <value>Този акаунт не е свързан с Infinite Flight Pro абонамент</value>
+    <comment>This account isn't linked to an Infinite Flight Pro subscription</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Носете страстта си</value>
@@ -2530,27 +2530,27 @@
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>Не е подписано споразумение; трябва да подпишете споразумението преди да извършите това действие (код на грешката {0})</value>
+    <value>Не е подписано споразумение; трябва да подпишете споразумението преди да извършите това действие</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>Избраното летище не е налично (код на грешката {0})</value>
+    <value>Избраното летище не е налично</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>Вие сте отписани и трябва да се впишете ръчно отново (код на грешката {0})</value>
+    <value>Вие сте отписани и трябва да се впишете ръчно отново</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>Тази функция не се поддържа (код на грешката {0})</value>
+    <value>Тази функция не се поддържа</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>Избраният сървър не е наличен (код на грешката {0})</value>
+    <value>Избраният сървър не е наличен</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Не сте назначени към това летище. Моля, свържете се с рецензент или модератор (код на грешката {0})</value>
+    <value>Не сте назначени към това летище. Моля, свържете се с рецензент или модератор</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
@@ -2991,7 +2991,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>ПРОВАЛЕНА МИСИЯ</value>
   </data>
   <data name="Error.ApplicationInitializationError" xml:space="preserve">
-    <value>Infinite Flight не можа да стартира поради проблем. Моля, рестартирайте приложението или се свържете с поддръжка. (Код на грешката {0})</value>
+    <value>Infinite Flight не можа да стартира поради проблем. Моля, рестартирайте приложението или се свържете с поддръжка.</value>
   </data>
   <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
     <value>{0} е прекалено малко летище за избрания самолет. Изберете друго летище.</value>
@@ -3013,7 +3013,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <value>Записът е повреден и не може да бъде зареден</value>
   </data>
   <data name="Error.LoadingScenarioError" xml:space="preserve">
-    <value>Възникна грешка при изтеглянето на този сценарий (код на грешката {0})</value>
+    <value>Възникна грешка при изтеглянето на този сценарий</value>
   </data>
   <data name="NavigationControl.Leaderboards" xml:space="preserve">
     <value>Класация</value>
@@ -3772,10 +3772,10 @@ REPLAYS</comment>
     <value>Вече сте свързани на друго устройство</value>
   </data>
   <data name="Error.MultiplayerAtcAlreadyActive" xml:space="preserve">
-    <value>Вече сте свързани към този сървър на друго устройство (код на грешката {0})</value>
+    <value>Вече сте свързани към този сървър на друго устройство</value>
   </data>
   <data name="Error.MultiplayerFlightAlreadyActive" xml:space="preserve">
-    <value>Вече сте свързани към този сървър на друго устройство (код на грешката {0})</value>
+    <value>Вече сте свързани към този сървър на друго устройство</value>
   </data>
   <data name="NewsControl.Partnership" xml:space="preserve">
     <value>Партньорство</value>
@@ -3997,7 +3997,7 @@ Select a different destination airport</comment>
     <comment>Includes Global &amp; Multiplayer</comment>
   </data>
   <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
-    <value>НАЕМ НА САМОЛЕТ</value>
+    <value>НАЕМ (24H)</value>
     <comment>RENT AIRCRAFT</comment>
   </data>
   <data name="AircraftTaxiRequest.DisconnectGroundServicesBeforeTaxi" xml:space="preserve">

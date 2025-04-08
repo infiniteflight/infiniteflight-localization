@@ -186,60 +186,60 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>Akaun yang anda cuba sambungkan telah dipautkan dengan langganan Infinite Flight Pro yang lain (kod salah {0})</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+    <value>Akaun yang anda cuba sambungkan telah dipautkan dengan langganan Infinite Flight Pro yang lain</value>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Akaun anda telah digantung (kod salah {0})</value>
-    <comment>Your account has been suspended (error code {0})</comment>
+    <value>Akaun anda telah digantung</value>
+    <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>Kami tidak dapat mencari maklumat tentang sesi pengawal trafik udara ini (kod salah {0})</value>
-    <comment>We can't find information about this ATC session (error code {0})</comment>
+    <value>Kami tidak dapat mencari maklumat tentang sesi pengawal trafik udara ini</value>
+    <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>Akaun ini mempunyai ralat pengesahan dengan pembekal (kod salah {0})</value>
-    <comment>There was an error validating this account with the provider (error code {0})</comment>
+    <value>Akaun ini mempunyai ralat pengesahan dengan pembekal</value>
+    <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight tidak dapat menyambung ke pelayan web (kod salah {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight tidak dapat menyambung ke pelayan web</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Pelayan web Infinite Flight menghadapi masalah. Cuba sebentar lagi (kod salah {0})</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+    <value>Pelayan web Infinite Flight menghadapi masalah. Cuba sebentar lagi</value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Akaun anda tidak dibenarkan untuk menjalankan tindakan ini, sila hubungi sokongan (kod salah {0})</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+    <value>Akaun anda tidak dibenarkan untuk menjalankan tindakan ini, sila hubungi sokongan</value>
+    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Pelayan web kami menghadapi masalah memproses ini, cuba lagi sebentar lagi (kod salah {0})</value>
-    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+    <value>Pelayan web kami menghadapi masalah memproses ini, cuba lagi sebentar lagi</value>
+    <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>Masalah</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight menghadapi masalah menyambung ke pelayan web (kod salah {0})</value>
-    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+    <value>Infinite Flight menghadapi masalah menyambung ke pelayan web</value>
+    <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>Nilai yang anda ubah kini tidak sah (kod salah {0})</value>
-    <comment>The value you are updating isn't valid (error code {0})</comment>
+    <value>Nilai yang anda ubah kini tidak sah</value>
+    <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>Akaun yang anda cuba log masuk mempunyai bukti kelayakan yang tidak sah (kod salah {0})</value>
-    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+    <value>Akaun yang anda cuba log masuk mempunyai bukti kelayakan yang tidak sah</value>
+    <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>Terdapat masalah menyambung ke pelayan web (kod salah {0})</value>
-    <comment>There was a problem connecting to the server (error code {0})</comment>
+    <value>Terdapat masalah menyambung ke pelayan web</value>
+    <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Infinite Flight tidak dapat menyambung ke pelayan web (kod salah {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Infinite Flight tidak dapat menyambung ke pelayan web</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>Penstriman Pelayan Web Global telah gagal kerana storan peranti anda penuh</value>
@@ -247,7 +247,7 @@
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
     <value>Akaun ini tidak dipautkan kepada langganan Infinite Flight Pro (kod ralat {0})</value>
-    <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
+    <comment>This account isn't linked to an Infinite Flight Pro subscription</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Bawa semangat anda</value>
@@ -2820,7 +2820,7 @@ Check map for more information</comment>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
     <value>Masa mula dan tamat sesi ini tidak sah (kod ralat {0})</value>
-    <comment>The start and end times for this session aren't valid (error code {0})</comment>
+    <comment>The start and end times for this session aren't valid</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
     <value>Pesawat warisan adalah kandungan tambahan dari versi-versi terdahulu Infinite Flight dan bukan kualiti yang sama. Tetap paparkan?</value>
@@ -2844,7 +2844,7 @@ Check map for more information</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
     <value>Anda tidak diberikan tugasan untuk lapangan terbang ini. Sila hubungi pemeriksa atau moderator (kod ralat {0})</value>
-    <comment>You are not assigned to this airport. Please contact a reviewer or moderator (error code {0})</comment>
+    <comment>You are not assigned to this airport. Please contact a reviewer or moderator</comment>
   </data>
   <data name="SystemsStatus.NoInfo" xml:space="preserve">
     <value>Tiada Info</value>
@@ -2868,7 +2868,7 @@ Check map for more information</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
     <value>Tiada pelayar yang tersedia untuk membuka pautan ini - pastikan anda mempunyai pelayar yang dipasang. Hubungi sokongan jika masalah berterusan (kod ralat {0})</value>
-    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists (error code {0})</comment>
+    <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
     <value>Satu perjanjian belum ditandatangani; anda perlu menandatangani perjanjian tersebut untuk melakukan tindakan ini (Digunakan dalam kes Perjanjian Lesen Penyumbang)</value>
@@ -2880,7 +2880,7 @@ Check map for more information</comment>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
     <value>Tidak dapat menyambung ke pelayan, semak sambungan internet anda (kod ralat {0})</value>
-    <comment>Could not connect to the server, check your internet connection (error code {0})</comment>
+    <comment>Could not connect to the server, check your internet connection</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
     <value>"Anda tidak mempunyai kebenaran untuk memuat naik perubahan ke lapangan terbang ini.
@@ -2907,5 +2907,20 @@ Please ask to be assigned via the Scenery Editing forum first."</comment>
   <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
     <value>Langganan akan diperbaharui secara automatik sehingga dibatalkan.
 Batalkan pada bila-bila masa di Pusat Langganan Google Play.</value>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>Sewa bermula pada penerbangan seterusnya</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Tamat dalam {0}</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>Penyewaan telah dibatalkan</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Pembayaran tertunda</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>Sewa pesawat</value>
   </data>
 </root>

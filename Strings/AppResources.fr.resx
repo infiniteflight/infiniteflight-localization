@@ -187,67 +187,67 @@
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
     <value>Le compte que vous essayez de connecter est déjà lié avec un autre abonnement à Infinite Flight Pro. (Code d'erreur {0})</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription (error code {0})</comment>
+    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
     <value>Votre compte à été suspendu. (Code d'erreur {0})</value>
-    <comment>Your account has been suspended (error code {0})</comment>
+    <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
     <value>Session ATC non trouvée. (Code erreur {0})</value>
-    <comment>We can't find information about this ATC session (error code {0})</comment>
+    <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
     <value>Erreur lors de la validation de ce compte avec le fournisseur (Code erreur {0})</value>
-    <comment>There was an error validating this account with the provider (error code {0})</comment>
+    <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
     <value>Infinite Flight ne peut pas se connecter au serveur (Code erreur {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Une erreur s'est produite sur les serveurs d'Infinite Flight. Réessayez dans quelques instants (Erreur {0})</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly (error code {0})</comment>
+    <value>Une erreur s'est produite sur les serveurs d'Infinite Flight. Réessayez dans quelques instants</value>
+    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Cette action n'est pas permise pour votre compte. Contactez le support client. (Erreur {0})</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support (error code {0})</comment>
+    <value>Cette action n'est pas permise pour votre compte. Contactez le support client.</value>
+    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Nos serveurs ne peuvent pas traiter cette requète. Réessayez dans quelques instants (Erreur {0})</value>
-    <comment>Our servers are having trouble processing this, try again shortly (error code {0})</comment>
+    <value>Nos serveurs ne peuvent pas traiter cette requète. Réessayez dans quelques instants</value>
+    <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>Erreur</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight rencontre des difficultés pour se connecter au serveur. (Erreur {0})</value>
-    <comment>Infinite Flight is having trouble connecting to the server (error code {0})</comment>
+    <value>Infinite Flight rencontre des difficultés pour se connecter au serveur.</value>
+    <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>Cette valeur est invalide (Erreur {0})</value>
-    <comment>The value you are updating isn't valid (error code {0})</comment>
+    <value>Cette valeur est invalide</value>
+    <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>Erreur lors de l'authentification avec le serveur. (Erreur {0})</value>
-    <comment>The account you are trying to login to has invalid credentials (error code {0})</comment>
+    <value>Erreur lors de l'authentification avec le serveur.</value>
+    <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>Erreur lors de la connexion au serveur. (Erreur {0})</value>
-    <comment>There was a problem connecting to the server (error code {0})</comment>
+    <value>Erreur lors de la connexion au serveur.</value>
+    <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
-    <value>Erreur lors de la connexion au serveur. (Erreur {0})</value>
-    <comment>Infinite Flight can't connect to the server (error code {0})</comment>
+    <value>Erreur lors de la connexion au serveur.</value>
+    <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>Votre appareil n'a pas assez de memoire disponible pour les telechargements</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Ce compte n'est pas lie a un abonnement a Infinite Flight Pro (Erreur {0})</value>
-    <comment>This account isn't linked to an Infinite Flight Pro subscription (error code {0})</comment>
+    <value>Ce compte n'est pas lie a un abonnement a Infinite Flight Pro</value>
+    <comment>This account isn't linked to an Infinite Flight Pro subscription</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Portez votre passion</value>
@@ -3260,5 +3260,176 @@ Quittez le vol actuel et réessayez.</value>
   <data name="PauseControl.BackToMainMenuUpper" xml:space="preserve">
     <value>RETOUR VERS LE MENU</value>
     <comment>RETOUR VERS LE MENU</comment>
+  </data>
+  <data name="Global.New" xml:space="preserve">
+    <value>NOUVEAU</value>
+  </data>
+  <data name="Global.Free" xml:space="preserve">
+    <value>GRATUIT</value>
+  </data>
+  <data name="AircraftPage.RentAircraftUpper" xml:space="preserve">
+    <value>LOUER (24H)</value>
+  </data>
+  <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
+    <value>La location commence au prochain vol</value>
+  </data>
+  <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
+    <value>Expire dans {0}</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
+    <value>La location a été annulée</value>
+  </data>
+  <data name="AircraftPage.RentalPaymentPending" xml:space="preserve">
+    <value>Paiement en attente</value>
+  </data>
+  <data name="GamePage.RestartScenarioConfirmation" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir redémarrer ce scénario ?</value>
+  </data>
+  <data name="FlightContinuationControl.ActiveFlightUpper" xml:space="preserve">
+    <value>VOL ACTIF</value>
+  </data>
+  <data name="FlightContinuationControl.DeleteFlightConfirmation" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir supprimer ce vol ?</value>
+  </data>
+  <data name="FlightContinuationControl.ExpiredUpper" xml:space="preserve">
+    <value>EXPIRÉ</value>
+  </data>
+  <data name="FlightContinuationControl.FailedToLoadFlight" xml:space="preserve">
+    <value>Échec du chargement du vol</value>
+  </data>
+  <data name="FlightContinuationControl.FailedToStartTheFlightAnyReason" xml:space="preserve">
+    <value>Échec du démarrage du vol ({0})</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenCancelled" xml:space="preserve">
+    <value>Le vol a été annulé</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenLost" xml:space="preserve">
+    <value>Le vol a été perdu</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasExpired" xml:space="preserve">
+    <value>Le vol a expiré</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasRunOutOfFuel" xml:space="preserve">
+    <value>Le vol est à court de carburant</value>
+  </data>
+  <data name="FlightContinuationControl.LoadingFlight" xml:space="preserve">
+    <value>Chargement du vol</value>
+  </data>
+  <data name="FlightContinuationControl.OutOfFuelUpper" xml:space="preserve">
+    <value>PLUS DE CARBURANT</value>
+  </data>
+  <data name="FlightContinuationControl.UnknownAircraftUpper" xml:space="preserve">
+    <value>AVION INCONNU</value>
+  </data>
+  <data name="FlightContinuationControl.UnknownLiveryUpper" xml:space="preserve">
+    <value>LIVRÉE INCONNUE</value>
+  </data>
+  <data name="FlightContinuationControl.UnknownWorldUpper" xml:space="preserve">
+    <value>MONDE INCONNU</value>
+  </data>
+  <data name="FlightContinuationControl.AircraftIsUnknown" xml:space="preserve">
+    <value>Avion inconnu</value>
+  </data>
+  <data name="FlightContinuationControl.DeletingFlightUpper" xml:space="preserve">
+    <value>SUPPRESSION DU VOL</value>
+  </data>
+  <data name="FlightContinuationControl.FlightActiveError" xml:space="preserve">
+    <value>Ce vol est déjà actif sur un autre appareil ou a été récemment utilisé. Réessayez plus tard.</value>
+  </data>
+  <data name="FlightContinuationControl.NoActiveFlightFoundEndedOrDeleted" xml:space="preserve">
+    <value>Aucun vol actif trouvé. Il a peut-être été terminé ou supprimé.</value>
+  </data>
+  <data name="FlightContinuationControl.UnableToLoadFlight" xml:space="preserve">
+    <value>Impossible de charger le vol. Réessayez plus tard.</value>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayNearYourLocation" xml:space="preserve">
+    <value>L'avion restera proche de votre position</value>
+  </data>
+  <data name="PauseFlightControl.FlightWillBeTerminated" xml:space="preserve">
+    <value>Le vol sera interrompu</value>
+  </data>
+  <data name="PauseFlightControl.FlightWillContinueInBackground" xml:space="preserve">
+    <value>Le vol continuera en arrière-plan</value>
+  </data>
+  <data name="PauseFlightControl.FlightWillGoBackToLastSavedLocation" xml:space="preserve">
+    <value>Le vol reviendra à la dernière position enregistrée</value>
+  </data>
+  <data name="PauseFlightControl.KeepFlightRunningBackground" xml:space="preserve">
+    <value>Garder le vol actif en arrière-plan</value>
+  </data>
+  <data name="FlightSaveModalControl.ContinuationConditions" xml:space="preserve">
+    <value>Conditions de continuation</value>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayAtIcaoAirportFormat" xml:space="preserve">
+    <value>L'avion restera à {0}</value>
+  </data>
+  <data name="PauseFlightControl.RefuelingError.RentalPeriodExpired" xml:space="preserve">
+    <value>La période de location de cet avion a expiré. Ravitaillement indisponible</value>
+  </data>
+  <data name="AirTrafficControllerPage.Disconnection" xml:space="preserve">
+    <value>Déconnexion</value>
+  </data>
+  <data name="AirTrafficControllerPage.DisconnectionMessage" xml:space="preserve">
+    <value>Aucune réponse à {0} message(s) depuis {1} secondes.\nVous serais bientôt déconnecté.</value>
+  </data>
+  <data name="CallsignControl.FailedUpdateCallsign" xml:space="preserve">
+    <value>Échec de la mise à jour de l’indicatif, réessayez plus tard</value>
+  </data>
+  <data name="GradeInfoControl.FailedRefreshGradeInfo" xml:space="preserve">
+    <value>Impossible de récupérer les dernières statistiques de votre compte. Vérifiez votre connexion et réessayez.</value>
+  </data>
+  <data name="PauseFlightControl.PleaseWaitSavingFlight" xml:space="preserve">
+    <value>Merci de patienter. Sauvegarde du vol en cours</value>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersion" xml:space="preserve">
+    <value>Version obsolète</value>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersionMessage" xml:space="preserve">
+    <value>Cette version est obsolète. Merci de mettre à jour vers la dernière version disponible.</value>
+  </data>
+  <data name="PauseFlightControl.KeepFlightPaused30minETE" xml:space="preserve">
+    <value>Garder le vol en pause à 30 min ETE</value>
+  </data>
+  <data name="PauseFlightControl.ContinueFlightFromLastSavedLocation" xml:space="preserve">
+    <value>Continuer le vol depuis la dernière position enregistrée</value>
+  </data>
+  <data name="GameSelectionModesControl.ContinueFlightUpper" xml:space="preserve">
+    <value>CONTINUER
+LE VOL</value>
+  </data>
+  <data name="WeightBalanceControl.TotalWeight" xml:space="preserve">
+    <value>Poids Total</value>
+  </data>
+    <data name="FlightSaveModalControl.OtherFlightDeleteConfirmationMessage" xml:space="preserve">
+    <value>Un autre vol est sous AutoPilot+
+Voulez-vous le supprimer ?</value>
+  </data>
+    <data name="Global.Month" xml:space="preserve">
+    <value>Mois</value>
+    <comment>Month</comment>
+  </data>
+  <data name="TimeFullControl.ResetToRealTime" xml:space="preserve">
+    <value>Réinitialiser au temps réel</value>
+    <comment>Reset to Real Time</comment>
+  </data>
+  <data name="TimeSectionControl.RealTime" xml:space="preserve">
+    <value>Temps Réel</value>
+    <comment>Real Time</comment>
+  </data>
+  <data name="WeatherFullControl.Gusts" xml:space="preserve">
+    <value>Rafales</value>
+    <comment>Gusts</comment>
+  </data>
+  <data name="WeatherFullControl.MiscInfoCloudMessage" xml:space="preserve">
+    <value>En multijoueur, seuls la couverture nuageuse et l'altitude peuvent être ajustés</value>
+    <comment>In multiplayer, only cloud coverage and altitude can be adjusteds</comment>
+  </data>
+  <data name="WeatherFullControl.Speed" xml:space="preserve">
+    <value>Vitesse</value>
+    <comment>Speed</comment>
+  </data>
+  <data name="WeatherLiveControl.LatestTafUpper" xml:space="preserve">
+    <value>DERNIER TAF</value>
+    <comment>LATEST TAF</comment>
   </data>
 </root>
