@@ -1230,7 +1230,7 @@
     <comment>Operations (ATC Operations)</comment>
   </data>
   <data name="SplashScreen.DownloadingAircraft" xml:space="preserve">
-    <value>下载飞机中 {0}%</value>
+    <value>正在下载飞机 {0}%</value>
     <comment>Downloading Aircraft {0}%</comment>
   </data>
   <data name="SplashScreen.DownloadingAirportData" xml:space="preserve">
@@ -1238,11 +1238,11 @@
     <comment>Downloading airport data</comment>
   </data>
   <data name="SplashScreen.LoadingFlight" xml:space="preserve">
-    <value>加载飞行中</value>
+    <value>正在加载飞行</value>
     <comment>Loading your flight</comment>
   </data>
   <data name="SplashScreen.LoadingReplay" xml:space="preserve">
-    <value>加载回放中</value>
+    <value>正在加载回放</value>
     <comment>Loading replay</comment>
   </data>
   <data name="SplashScreen.UnloadingFlight" xml:space="preserve">
@@ -2335,7 +2335,7 @@
     <comment>Reported By:</comment>
   </data>
   <data name="SplashScreen.LoadingAirport" xml:space="preserve">
-    <value>加载机场中</value>
+    <value>正在加载机场</value>
     <comment>Loading your Airport</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingAutopilot" xml:space="preserve">
@@ -3279,7 +3279,7 @@ PLAYER</comment>
     <comment>Failed to load scenario info ({0})</comment>
   </data>
   <data name="FlightScenarioControl.LoadingScenario" xml:space="preserve">
-    <value>加载情景中</value>
+    <value>正在加载情景</value>
     <comment>Loading Scenario</comment>
   </data>
   <data name="GameSelectionModalControl.AtcUnavailableInSingleplayer" xml:space="preserve">
@@ -4151,5 +4151,169 @@ Exit curent flight and try again.</comment>
   </data>
   <data name="Error.SimbriefRefreshTokenExpired" xml:space="preserve">
     <value>你的Navigraph登录已过期。我们将引导你重新登录并下载飞行计划。</value>
+  </data>
+<data name="GamePage.RestartScenarioConfirmation" xml:space="preserve">
+    <value>确认重启该场景？</value>
+    <comment>Are you sure you want to restart this scenario?</comment>
+  </data>
+  <data name="FlightContinuationControl.ActiveFlightUpper" xml:space="preserve">
+    <value>正在飞行</value>
+    <comment>ACTIVE FLIGHT</comment>
+  </data>
+  <data name="FlightContinuationControl.DeleteFlightConfirmation" xml:space="preserve">
+    <value>确认删除该航班？</value>
+    <comment>Are you sure you want to delete this flight?</comment>
+  </data>
+  <data name="FlightContinuationControl.ExpiredUpper" xml:space="preserve">
+    <value>已过期</value>
+    <comment>EXPIRED</comment>
+  </data>
+  <data name="FlightContinuationControl.FailedToLoadFlight" xml:space="preserve">
+    <value>加载飞行失败</value>
+    <comment>Failed to load flight</comment>
+  </data>
+  <data name="FlightContinuationControl.FailedToStartTheFlightAnyReason" xml:space="preserve">
+    <value>开始飞行失败 ({0})</value>
+    <comment>Failed to start the flight ({0})</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenCancelled" xml:space="preserve">
+    <value>飞行已取消</value>
+    <comment>Flight has been cancelled</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenLost" xml:space="preserve">
+    <value>航班已丢失</value>
+    <comment>Flight has been lost</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasExpired" xml:space="preserve">
+    <value>航班已过期</value>
+    <comment>Flight has expired</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasRunOutOfFuel" xml:space="preserve">
+    <value>飞机油量耗尽</value>
+    <comment>Flight has run out of fuel</comment>
+  </data>
+  <data name="FlightContinuationControl.LoadingFlight" xml:space="preserve">
+    <value>正在加载航班</value>
+    <comment>Loading Flight</comment>
+  </data>
+  <data name="FlightContinuationControl.OutOfFuelUpper" xml:space="preserve">
+    <value>油量耗尽！</value>
+    <comment>OUT OF FUEL</comment>
+  </data>
+  <data name="FlightContinuationControl.UnknownAircraftUpper" xml:space="preserve">
+    <value>未知飞机</value>
+    <comment>UNKNOWN AIRCRAFT</comment>
+  </data>
+  <data name="FlightContinuationControl.UnknownLiveryUpper" xml:space="preserve">
+    <value>未知涂装</value>
+    <comment>UNKNOWN LIVERY</comment>
+  </data>
+  <data name="FlightContinuationControl.UnknownWorldUpper" xml:space="preserve">
+    <value>未知世界</value>
+    <comment>UNKNOWN WORLD</comment>
+  </data>
+  <data name="FlightContinuationControl.AircraftIsUnknown" xml:space="preserve">
+    <value>飞机未知</value>
+    <comment>Aircraft is unknown</comment>
+  </data>
+  <data name="FlightContinuationControl.DeletingFlightUpper" xml:space="preserve">
+    <value>正在删除航班</value>
+    <comment>DELETING FLIGHT</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightActiveError" xml:space="preserve">
+    <value>该航班当前或不久前正在另一设备上飞行。请稍后再试。</value>
+    <comment>This flight is already active on another device or recently flown. Please try again later.</comment>
+  </data>
+  <data name="FlightContinuationControl.NoActiveFlightFoundEndedOrDeleted" xml:space="preserve">
+    <value>未找到正在飞行的航班，航班可能已经结束或被删除了。</value>
+    <comment>No active flight found. It may have been ended or deleted.</comment>
+  </data>
+  <data name="FlightContinuationControl.UnableToLoadFlight" xml:space="preserve">
+    <value>无法加载航班，请稍后再试。</value>
+    <comment>Unable to load flight. Please try again later.</comment>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayNearYourLocation" xml:space="preserve">
+    <value>飞机将停留在你附近的位置</value>
+    <comment>Aircraft will stay near your location</comment>
+  </data>
+  <data name="PauseFlightControl.FlightWillBeTerminated" xml:space="preserve">
+    <value>飞行将中止</value>
+    <comment>Flight will be terminated</comment>
+  </data>
+  <data name="PauseFlightControl.FlightWillContinueInBackground" xml:space="preserve">
+    <value>航班将在后台继续飞行</value>
+    <comment>Flight will continue in the background</comment>
+  </data>
+  <data name="PauseFlightControl.FlightWillGoBackToLastSavedLocation" xml:space="preserve">
+    <value>航班将回到最后保存的位置</value>
+    <comment>Flight will go back to last saved location</comment>
+  </data>
+  <data name="PauseFlightControl.KeepFlightRunningBackground" xml:space="preserve">
+    <value>让航班在后台挂飞</value>
+    <comment>Keep flight running in the background</comment>
+  </data>
+  <data name="FlightSaveModalControl.ContinuationConditions" xml:space="preserve">
+    <value>挂飞条件</value>
+    <comment>Continuation Conditions</comment>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayAtIcaoAirportFormat" xml:space="preserve">
+    <value>飞机将停留在 {0}</value>
+    <comment>Aircraft will stay at {0}</comment>
+  </data>
+  <data name="PauseFlightControl.RefuelingError.RentalPeriodExpired" xml:space="preserve">
+    <value>该飞机的租赁期已过，无法加油</value>
+    <comment>Rental period for this airplane has expired. Refueling unavailable</comment>
+  </data>
+  <data name="AirTrafficControllerPage.Disconnection" xml:space="preserve">
+    <value>断开连接</value>
+    <comment>Disconnection</comment>
+  </data>
+  <data name="AirTrafficControllerPage.DisconnectionMessage" xml:space="preserve">
+    <value>在{1}秒内，你未能回答{0}条消息。你将很快被强制断线。</value>
+    <comment>No response to {0} message(s) for {1} seconds.\nYou will be disconnected soon.</comment>
+  </data>
+  <data name="CallsignControl.FailedUpdateCallsign" xml:space="preserve">
+    <value>更新呼号失败，请稍后再试</value>
+    <comment>Failed to update callsign, try again later</comment>
+  </data>
+  <data name="GradeInfoControl.FailedRefreshGradeInfo" xml:space="preserve">
+    <value>获取最新的账号信息失败。请检查网络连接后再试</value>
+    <comment>Failed to get your latest account statistics. Check your connection and try again</comment>
+  </data>
+  <data name="PauseFlightControl.PleaseWaitSavingFlight" xml:space="preserve">
+    <value>请稍候，正在保存航班</value>
+    <comment>Please wait. Saving your flight</comment>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersion" xml:space="preserve">
+    <value>过期版本</value>
+    <comment>Outdated Version</comment>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersionMessage" xml:space="preserve">
+    <value>当前版本已过期，请更新至最新版本</value>
+    <comment>This version is outdated. Please update to the latest available version.</comment>
+  </data>
+  <data name="PauseFlightControl.KeepFlightPaused30minETE" xml:space="preserve">
+    <value>让航班在距离目的地30分钟处暂停</value>
+    <comment>Keep flight paused at 30mn ETE</comment>
+  </data>
+  <data name="PauseFlightControl.ContinueFlightFromLastSavedLocation" xml:space="preserve">
+    <value>从最后保存的位置继续飞行</value>
+    <comment>Continue flight from last saved location</comment>
+  </data>
+  <data name="GameSelectionModesControl.ContinueFlightUpper" xml:space="preserve">
+    <value>继续
+飞行</value>
+    <comment>CONTINUE
+FLIGHT</comment>
+  </data>
+  <data name="WeightBalanceControl.TotalWeight" xml:space="preserve">
+    <value>总重量</value>
+    <comment>Total Weight</comment>
+  </data>
+  <data name="FlightSaveModalControl.OtherFlightDeleteConfirmationMessage" xml:space="preserve">
+    <value>另一航班正在使用自动驾驶Plus挂飞
+你想删除它吗？</value>
+    <comment>Another flight is under AutoPilot+
+Would you like to delete it?</comment>
   </data>
 </root>
