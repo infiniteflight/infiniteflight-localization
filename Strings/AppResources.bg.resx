@@ -4126,4 +4126,207 @@ Exit curent flight and try again.</comment>
     <value>ВРЪЩАНЕ КЪМ ГЛАВНОТО МЕНЮ</value>
     <comment>BACK TO MAIN MENU</comment>
   </data>
+  <data name="Global.New" xml:space="preserve">
+    <value>НОВ</value>
+    <comment>NEW</comment>
+  </data>
+  <data name="Global.Free" xml:space="preserve">
+    <value>СВОБОДЕН</value>
+    <comment>FREE</comment>
+  </data>
+  <data name="Error.SimbriefRefreshTokenExpired" xml:space="preserve">
+    <value>Вашата сесия в Navigraph е изтекла. Влезте отново, за да свалите полетния си план.</value>
+  </data>
+  <data name="GamePage.RestartScenarioConfirmation" xml:space="preserve">
+    <value>Сигурни ли сте, че искате да рестартирате този сценарий?</value>
+    <comment>Are you sure you want to restart this scenario?</comment>
+  </data>
+  <data name="FlightContinuationControl.ActiveFlightUpper" xml:space="preserve">
+    <value>АКТИВЕН ПОЛЕТ</value>
+    <comment>ACTIVE FLIGHT</comment>
+  </data>
+  <data name="FlightContinuationControl.DeleteFlightConfirmation" xml:space="preserve">
+    <value>Сигурни ли сте, че искате да изтриете този полет?</value>
+    <comment>Are you sure you want to delete this flight?</comment>
+  </data>
+  <data name="FlightContinuationControl.ExpiredUpper" xml:space="preserve">
+    <value>ИЗТЕКЪЛ</value>
+    <comment>EXPIRED</comment>
+  </data>
+  <data name="FlightContinuationControl.FailedToLoadFlight" xml:space="preserve">
+    <value>Неуспешно зареждане на полета</value>
+    <comment>Failed to load flight</comment>
+  </data>
+  <data name="FlightContinuationControl.FailedToStartTheFlightAnyReason" xml:space="preserve">
+    <value>Неуспешно зареждане на полет ({0})</value>
+    <comment>Failed to start the flight ({0})</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenCancelled" xml:space="preserve">
+    <value>Полетът бе отменен</value>
+    <comment>Flight has been cancelled</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenLost" xml:space="preserve">
+    <value>Полетът бе загубен</value>
+    <comment>Flight has been lost</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasExpired" xml:space="preserve">
+    <value>Полетът е изтекъл</value>
+    <comment>Flight has expired</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightHasRunOutOfFuel" xml:space="preserve">
+    <value>Полетът остана без гориво</value>
+    <comment>Flight has run out of fuel</comment>
+  </data>
+  <data name="FlightContinuationControl.LoadingFlight" xml:space="preserve">
+    <value>Зареждане на полета</value>
+    <comment>Loading Flight</comment>
+  </data>
+  <data name="FlightContinuationControl.OutOfFuelUpper" xml:space="preserve">
+    <value>НЯМА ГОРИВО</value>
+    <comment>OUT OF FUEL</comment>
+  </data>
+  <data name="FlightContinuationControl.UnknownAircraftUpper" xml:space="preserve">
+    <value>НЕИЗВЕСТЕН САМОЛЕТ</value>
+    <comment>UNKNOWN AIRCRAFT</comment>
+  </data>
+  <data name="FlightContinuationControl.UnknownLiveryUpper" xml:space="preserve">
+    <value>НЕИЗВЕСТНА ЛИВРЕЯ</value>
+    <comment>UNKNOWN LIVERY</comment>
+  </data>
+  <data name="FlightContinuationControl.UnknownWorldUpper" xml:space="preserve">
+    <value>НЕИЗВЕСТЕН СВЯТ</value>
+    <comment>UNKNOWN WORLD</comment>
+  </data>
+  <data name="FlightContinuationControl.AircraftIsUnknown" xml:space="preserve">
+    <value>Самолетът е неизвестен</value>
+    <comment>Aircraft is unknown</comment>
+  </data>
+  <data name="FlightContinuationControl.DeletingFlightUpper" xml:space="preserve">
+    <value>ИЗТРИВАНЕ НА ПОЛЕТА</value>
+    <comment>DELETING FLIGHT</comment>
+  </data>
+  <data name="FlightContinuationControl.FlightActiveError" xml:space="preserve">
+    <value>Този полет вече е активен на друго устройство или е бил активен наскоро. Моля, опитайте по-късно.</value>
+    <comment>This flight is already active on another device or recently flown. Please try again later.</comment>
+  </data>
+  <data name="FlightContinuationControl.NoActiveFlightFoundEndedOrDeleted" xml:space="preserve">
+    <value>Не е намерен активен полет. Полетът може да е прекратен или изтрит.</value>
+    <comment>No active flight found. It may have been ended or deleted.</comment>
+  </data>
+  <data name="FlightContinuationControl.UnableToLoadFlight" xml:space="preserve">
+    <value>Полетът не може да бъде зареден. Моля, опитайте по-късно.</value>
+    <comment>Unable to load flight. Please try again later.</comment>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayNearYourLocation" xml:space="preserve">
+    <value>Самолетът ще остане близо до вашето местоположение</value>
+    <comment>Aircraft will stay near your location</comment>
+  </data>
+  <data name="PauseFlightControl.FlightWillBeTerminated" xml:space="preserve">
+    <value>Полетът ще бъде прекратен</value>
+    <comment>Flight will be terminated</comment>
+  </data>
+  <data name="PauseFlightControl.FlightWillContinueInBackground" xml:space="preserve">
+    <value>Полетът ще продължи във фонов режим</value>
+    <comment>Flight will continue in the background</comment>
+  </data>
+  <data name="PauseFlightControl.FlightWillGoBackToLastSavedLocation" xml:space="preserve">
+    <value>Полетът ще се върне към последното запазено местоположение</value>
+    <comment>Flight will go back to last saved location</comment>
+  </data>
+  <data name="PauseFlightControl.KeepFlightRunningBackground" xml:space="preserve">
+    <value>Продължаване на полета във фонов режим</value>
+    <comment>Keep flight running in the background</comment>
+  </data>
+  <data name="FlightSaveModalControl.ContinuationConditions" xml:space="preserve">
+    <value>Условия за продължение</value>
+    <comment>Continuation Conditions</comment>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayAtIcaoAirportFormat" xml:space="preserve">
+    <value>Самолетът ще остане в/ъв {0}</value>
+    <comment>Aircraft will stay at {0}</comment>
+  </data>
+  <data name="PauseFlightControl.RefuelingError.RentalPeriodExpired" xml:space="preserve">
+    <value>Наемният периоз за този самолет е изтекъл. Презареждането не е налично</value>
+    <comment>Rental period for this airplane has expired. Refueling unavailable</comment>
+  </data>
+  <data name="AirTrafficControllerPage.Disconnection" xml:space="preserve">
+    <value>Изключване</value>
+    <comment>Disconnection</comment>
+  </data>
+  <data name="AirTrafficControllerPage.DisconnectionMessage" xml:space="preserve">
+    <value>{0} съобщения са без отговор от {1} секунди.\nЩе бъдете изключени скоро.</value>
+    <comment>No response to {0} message(s) for {1} seconds.\nYou will be disconnected soon.</comment>
+  </data>
+  <data name="CallsignControl.FailedUpdateCallsign" xml:space="preserve">
+    <value>Промяната на позивната е неуспешна, опитайте отново по-късно</value>
+    <comment>Failed to update callsign, try again later</comment>
+  </data>
+  <data name="GradeInfoControl.FailedRefreshGradeInfo" xml:space="preserve">
+    <value>Неуспешно зареждане на статистиката на акаунта ви. Проверете връзката си с интернет и опитайте отново</value>
+    <comment>Failed to get your latest account statistics. Check your connection and try again</comment>
+  </data>
+  <data name="PauseFlightControl.PleaseWaitSavingFlight" xml:space="preserve">
+    <value>Вашият полет се запазва. Моля, изчакайте</value>
+    <comment>Please wait. Saving your flight</comment>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersion" xml:space="preserve">
+    <value>Остаряла версия</value>
+    <comment>Outdated Version</comment>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersionMessage" xml:space="preserve">
+    <value>Тази версия е остаряла. Моля, обновете приложението до последната налична версия.</value>
+    <comment>This version is outdated. Please update to the latest available version.</comment>
+  </data>
+  <data name="PauseFlightControl.KeepFlightPaused30minETE" xml:space="preserve">
+    <value>Оставяне на полета на пауза на 30мин от дестинацията</value>
+    <comment>Keep flight paused at 30mn ETE</comment>
+  </data>
+  <data name="PauseFlightControl.ContinueFlightFromLastSavedLocation" xml:space="preserve">
+    <value>Продължаване на полета от последното запазено местоположение</value>
+    <comment>Continue flight from last saved location</comment>
+  </data>
+  <data name="GameSelectionModesControl.ContinueFlightUpper" xml:space="preserve">
+    <value>ПРОДЪЛЖАВАНЕ
+НА ПОЛЕТА</value>
+    <comment>CONTINUE
+FLIGHT</comment>
+  </data>
+  <data name="WeightBalanceControl.TotalWeight" xml:space="preserve">
+    <value>Общо тегло</value>
+    <comment>Total Weight</comment>
+  </data>
+  <data name="FlightSaveModalControl.OtherFlightDeleteConfirmationMessage" xml:space="preserve">
+    <value>Вече има друг полет, използващ режима AutoPilot+
+Желаете ли да го изтриете?</value>
+    <comment>Another flight is under AutoPilot+
+Would you like to delete it?</comment>
+  </data>
+  <data name="Global.Month" xml:space="preserve">
+    <value>Месец</value>
+    <comment>Month</comment>
+  </data>
+  <data name="TimeFullControl.ResetToRealTime" xml:space="preserve">
+    <value>Връщане към реално време</value>
+    <comment>Reset to Real Time</comment>
+  </data>
+  <data name="TimeSectionControl.RealTime" xml:space="preserve">
+    <value>Реално време</value>
+    <comment>Real Time</comment>
+  </data>
+  <data name="WeatherFullControl.Gusts" xml:space="preserve">
+    <value>Пориви</value>
+    <comment>Gusts</comment>
+  </data>
+  <data name="WeatherFullControl.MiscInfoCloudMessage" xml:space="preserve">
+    <value>Само покритието и височината на облаците могат да бъдат променяни в мултиплейър режим</value>
+    <comment>In multiplayer, only cloud coverage and altitude can be adjusted</comment>
+  </data>
+  <data name="WeatherFullControl.Speed" xml:space="preserve">
+    <value>Скорост</value>
+    <comment>Speed</comment>
+  </data>
+  <data name="WeatherLiveControl.LatestTafUpper" xml:space="preserve">
+    <value>ПОСЛЕДЕН TAF</value>
+    <comment>LATEST TAF</comment>
+  </data>
 </root>
