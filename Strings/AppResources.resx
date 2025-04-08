@@ -4432,4 +4432,32 @@ Would you like to delete it?</value>
     <comment>Another flight is under AutoPilot+
 Would you like to delete it?</comment>
   </data>
+  <data name="Global.Month" xml:space="preserve">
+    <value>Month</value>
+    <comment>Month</comment>
+  </data>
+  <data name="TimeFullControl.ResetToRealTime" xml:space="preserve">
+    <value>Reset to Real Time</value>
+    <comment>Reset to Real Time</comment>
+  </data>
+  <data name="TimeSectionControl.RealTime" xml:space="preserve">
+    <value>Real Time</value>
+    <comment>Real Time</comment>
+  </data>
+  <data name="WeatherFullControl.Gusts" xml:space="preserve">
+    <value>Gusts</value>
+    <comment>Gusts</comment>
+  </data>
+  <data name="WeatherFullControl.MiscInfoCloudMessage" xml:space="preserve">
+    <value>In multiplayer, only cloud coverage and altitude can be adjusted</value>
+    <comment>In multiplayer, only cloud coverage and altitude can be adjusted</comment>
+  </data>
+  <data name="WeatherFullControl.Speed" xml:space="preserve">
+    <value>Speed</value>
+    <comment>Speed</comment>
+  </data>
+  <data name="WeatherLiveControl.LatestTafUpper" xml:space="preserve">
+    <value>LATEST TAF</value>
+    <comment>LATEST TAF</comment>
+  </data>
 </root>

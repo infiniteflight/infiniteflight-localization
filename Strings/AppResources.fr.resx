@@ -3404,4 +3404,32 @@ LE VOL</value>
     <value>Un autre vol est sous AutoPilot+
 Voulez-vous le supprimer ?</value>
   </data>
+    <data name="Global.Month" xml:space="preserve">
+    <value>Mois</value>
+    <comment>Month</comment>
+  </data>
+  <data name="TimeFullControl.ResetToRealTime" xml:space="preserve">
+    <value>Réinitialiser au temps réel</value>
+    <comment>Reset to Real Time</comment>
+  </data>
+  <data name="TimeSectionControl.RealTime" xml:space="preserve">
+    <value>Temps Réel</value>
+    <comment>Real Time</comment>
+  </data>
+  <data name="WeatherFullControl.Gusts" xml:space="preserve">
+    <value>Rafales</value>
+    <comment>Gusts</comment>
+  </data>
+  <data name="WeatherFullControl.MiscInfoCloudMessage" xml:space="preserve">
+    <value>En multijoueur, seuls la couverture nuageuse et l'altitude peuvent être ajustés</value>
+    <comment>In multiplayer, only cloud coverage and altitude can be adjusteds</comment>
+  </data>
+  <data name="WeatherFullControl.Speed" xml:space="preserve">
+    <value>Vitesse</value>
+    <comment>Speed</comment>
+  </data>
+  <data name="WeatherLiveControl.LatestTafUpper" xml:space="preserve">
+    <value>DERNIER TAF</value>
+    <comment>LATEST TAF</comment>
+  </data>
 </root>

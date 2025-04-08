@@ -3491,6 +3491,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Month.
+        /// </summary>
+        internal static string Global_Month {
+            get {
+                return ResourceManager.GetString("Global.Month", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Name.
         /// </summary>
         internal static string Global_Name {
@@ -8845,6 +8854,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Reset to Real Time.
+        /// </summary>
+        internal static string TimeFullControl_ResetToRealTime {
+            get {
+                return ResourceManager.GetString("TimeFullControl.ResetToRealTime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Location not set. Unable to compute local time..
         /// </summary>
         internal static string TimeInfoControl_LocationNotSet {
@@ -8922,6 +8940,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string TimePage_Sunset {
             get {
                 return ResourceManager.GetString("TimePage.Sunset", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Real Time.
+        /// </summary>
+        internal static string TimeSectionControl_RealTime {
+            get {
+                return ResourceManager.GetString("TimeSectionControl.RealTime", resourceCulture);
             }
         }
         
@@ -9274,6 +9301,33 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Gusts.
+        /// </summary>
+        internal static string WeatherFullControl_Gusts {
+            get {
+                return ResourceManager.GetString("WeatherFullControl.Gusts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to In multiplayer, only cloud coverage and altitude can be adjusted.
+        /// </summary>
+        internal static string WeatherFullControl_MiscInfoCloudMessage {
+            get {
+                return ResourceManager.GetString("WeatherFullControl.MiscInfoCloudMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Speed.
+        /// </summary>
+        internal static string WeatherFullControl_Speed {
+            get {
+                return ResourceManager.GetString("WeatherFullControl.Speed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} at {1} ft.
         /// </summary>
         internal static string WeatherInfoControl_CloudAtAltitudeFeet {
@@ -9297,6 +9351,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string WeatherInfoControl_UnavailableInSoloUpper {
             get {
                 return ResourceManager.GetString("WeatherInfoControl.UnavailableInSoloUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to LATEST TAF.
+        /// </summary>
+        internal static string WeatherLiveControl_LatestTafUpper {
+            get {
+                return ResourceManager.GetString("WeatherLiveControl.LatestTafUpper", resourceCulture);
             }
         }
         
