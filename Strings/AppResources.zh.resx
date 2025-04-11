@@ -4301,8 +4301,7 @@ Exit curent flight and try again.</comment>
     <comment>Continue flight from last saved location</comment>
   </data>
   <data name="GameSelectionModesControl.ContinueFlightUpper" xml:space="preserve">
-    <value>继续
-飞行</value>
+    <value>继续飞行</value>
     <comment>CONTINUE
 FLIGHT</comment>
   </data>
@@ -4315,5 +4314,33 @@ FLIGHT</comment>
 你想删除它吗？</value>
     <comment>Another flight is under AutoPilot+
 Would you like to delete it?</comment>
+  </data>
+<data name="Global.Month" xml:space="preserve">
+    <value>月</value>
+    <comment>Month</comment>
+  </data>
+  <data name="TimeFullControl.ResetToRealTime" xml:space="preserve">
+    <value>恢复真实时间</value>
+    <comment>Reset to Real Time</comment>
+  </data>
+  <data name="TimeSectionControl.RealTime" xml:space="preserve">
+    <value>真实时间</value>
+    <comment>Real Time</comment>
+  </data>
+  <data name="WeatherFullControl.Gusts" xml:space="preserve">
+    <value>阵风</value>
+    <comment>Gusts</comment>
+  </data>
+  <data name="WeatherFullControl.MiscInfoCloudMessage" xml:space="preserve">
+    <value>在多人连飞里只能调节云量和云高</value>
+    <comment>In multiplayer, only cloud coverage and altitude can be adjusted</comment>
+  </data>
+  <data name="WeatherFullControl.Speed" xml:space="preserve">
+    <value>速度</value>
+    <comment>Speed</comment>
+  </data>
+  <data name="WeatherLiveControl.LatestTafUpper" xml:space="preserve">
+    <value>最新TAF</value>
+    <comment>LATEST TAF</comment>
   </data>
 </root>
