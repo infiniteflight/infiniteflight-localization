@@ -3520,4 +3520,156 @@ Sal del vuelo actual e intenta de nuevo.</value>
   <data name="WorldSelectionControl.NoWorldsAvailable" xml:space="preserve">
     <value>No hay mundos disponibles</value>
   </data>
+  <data name="Global.New" xml:space="preserve">
+    <value>NOVEDAD</value>
+  </data>
+  <data name="Global.Free" xml:space="preserve">
+    <value>GRATIS</value>
+  </data>
+  <data name="Error.SimbriefRefreshTokenExpired" xml:space="preserve">
+    <value>La conexión con Navigraph ha caducado. Tienes que reiniciar sesión para descargar el plan de vuelo.</value>
+  </data>
+  <data name="FlightContinuationControl.ActiveFlightUpper" xml:space="preserve">
+    <value>VUELO ACTIVO</value>
+  </data>
+  <data name="FlightContinuationControl.ExpiredUpper" xml:space="preserve">
+    <value>CADUCADO</value>
+  </data>
+  <data name="FlightContinuationControl.FailedToLoadFlight" xml:space="preserve">
+    <value>Error al cargar el vuelo</value>
+  </data>
+  <data name="FlightContinuationControl.FailedToStartTheFlightAnyReason" xml:space="preserve">
+    <value>Error al cargar el vuelo ({0})</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenCancelled" xml:space="preserve">
+    <value>El vuelo ha sido cancelado</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasBeenLost" xml:space="preserve">
+    <value>El vuelo está perdido</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasExpired" xml:space="preserve">
+    <value>El vuelo ha caducado</value>
+  </data>
+  <data name="FlightContinuationControl.FlightHasRunOutOfFuel" xml:space="preserve">
+    <value>El vuelo se quedó sin combustible</value>
+  </data>
+  <data name="FlightContinuationControl.LoadingFlight" xml:space="preserve">
+    <value>Cargando Vuelo</value>
+  </data>
+  <data name="FlightContinuationControl.OutOfFuelUpper" xml:space="preserve">
+    <value>FUERA DE COMBUSTIBLE</value>
+  </data>
+  <data name="FlightContinuationControl.UnknownAircraftUpper" xml:space="preserve">
+    <value>AVIÓN NO CONOCIDO</value>
+  </data>
+  <data name="FlightContinuationControl.UnknownLiveryUpper" xml:space="preserve">
+    <value>LIBREA NO CONOCIDA</value>
+  </data>
+  <data name="FlightContinuationControl.UnknownWorldUpper" xml:space="preserve">
+    <value>MUNDO NO CONOCIDO</value>
+  </data>
+  <data name="FlightContinuationControl.AircraftIsUnknown" xml:space="preserve">
+    <value>El avión no es conocido</value>
+  </data>
+  <data name="FlightContinuationControl.DeletingFlightUpper" xml:space="preserve">
+    <value>ELIMINANDO VUELO</value>
+  </data>
+  <data name="FlightContinuationControl.FlightActiveError" xml:space="preserve">
+    <value>Este vuelo está activo en otro dispositivo, o se ha usado hace poco. Inténtelo de nuevo más tarde.</value>
+  </data>
+  <data name="FlightContinuationControl.NoActiveFlightFoundEndedOrDeleted" xml:space="preserve">
+    <value>No hay vuelo activo. Puede que haya terminado o haya sido eliminado.</value>
+  </data>
+  <data name="GamePage.RestartScenarioConfirmation" xml:space="preserve">
+    <value>¿Estás seguro de que quieres reiniciar este escenario?</value>
+  </data>
+  <data name="FlightContinuationControl.DeleteFlightConfirmation" xml:space="preserve">
+    <value>¿Estás seguro de que quieres eliminar este vuelo?</value>
+  </data>
+  <data name="FlightContinuationControl.UnableToLoadFlight" xml:space="preserve">
+    <value>No se pudo cargar el vuelo. Por favor, inténtalo de nuevo más tarde.</value>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayNearYourLocation" xml:space="preserve">
+    <value>El avión se mantendrá cerca de tu ubicación</value>
+  </data>
+  <data name="PauseFlightControl.FlightWillBeTerminated" xml:space="preserve">
+    <value>El vuelo será finalizado</value>
+  </data>
+  <data name="PauseFlightControl.FlightWillContinueInBackground" xml:space="preserve">
+    <value>Puedes salir de la app, el vuelo continuará</value>
+  </data>
+  <data name="PauseFlightControl.FlightWillGoBackToLastSavedLocation" xml:space="preserve">
+    <value>El vuelo volverá a la última ubicación guardada</value>
+  </data>
+  <data name="PauseFlightControl.KeepFlightRunningBackground" xml:space="preserve">
+    <value>No detener el vuelo al salir de la app</value>
+  </data>
+  <data name="FlightSaveModalControl.ContinuationConditions" xml:space="preserve">
+    <value>Requisitos para continuar</value>
+  </data>
+  <data name="PauseFlightControl.AircraftWillStayAtIcaoAirportFormat" xml:space="preserve">
+    <value>El avión se mantendrá en {0}</value>
+  </data>
+  <data name="PauseFlightControl.RefuelingError.RentalPeriodExpired" xml:space="preserve">
+    <value>El período de alquiler de este avión ha caducado. Repostaje no disponible</value>
+  </data>
+  <data name="AirTrafficControllerPage.Disconnection" xml:space="preserve">
+    <value>Desconexión</value>
+  </data>
+  <data name="AirTrafficControllerPage.DisconnectionMessage" xml:space="preserve">
+    <value>No hubo respuesta a {0} mensaje(s) durante {1} segundos.\nLa sesión se desconectará pronto.</value>
+  </data>
+  <data name="CallsignControl.FailedUpdateCallsign" xml:space="preserve">
+    <value>No se pudo actualizar el indicativo. Inténtalo de nuevo más tarde</value>
+  </data>
+  <data name="GradeInfoControl.FailedRefreshGradeInfo" xml:space="preserve">
+    <value>No se pudieron obtener tus estadísticas más recientes. Verifica tu conexión e inténtalo de nuevo</value>
+  </data>
+  <data name="PauseFlightControl.PleaseWaitSavingFlight" xml:space="preserve">
+    <value>Por favor, espera. Guardando tu vuelo</value>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersion" xml:space="preserve">
+    <value>Versión Caducada</value>
+  </data>
+  <data name="SplashScreenPage.OutdatedVersionMessage" xml:space="preserve">
+    <value>Esta versión está caducada. Por favor, actualice a la versión más reciente.</value>
+  </data>
+  <data name="PauseFlightControl.KeepFlightPaused30minETE" xml:space="preserve">
+    <value>Mantener el vuelo en pausa a los 30m ETE</value>
+  </data>
+  <data name="PauseFlightControl.ContinueFlightFromLastSavedLocation" xml:space="preserve">
+    <value>Continuar vuelo desde la última ubicación guardada</value>
+  </data>
+  <data name="GameSelectionModesControl.ContinueFlightUpper" xml:space="preserve">
+    <value>CONTINUAR
+VUELO</value>
+  </data>
+  <data name="WeightBalanceControl.TotalWeight" xml:space="preserve">
+    <value>Peso Total</value>
+  </data>
+  <data name="FlightSaveModalControl.OtherFlightDeleteConfirmationMessage" xml:space="preserve">
+    <value>Hay otro vuelo activo usando AutoPilot+
+¿Quieres eliminarlo?</value>
+  </data>
+  <data name="Global.Month" xml:space="preserve">
+    <value>Mes</value>
+  </data>
+  <data name="TimeFullControl.ResetToRealTime" xml:space="preserve">
+    <value>Restablecer a la hora real</value>
+  </data>
+  <data name="TimeSectionControl.RealTime" xml:space="preserve">
+    <value>Hora Real</value>
+  </data>
+  <data name="WeatherFullControl.Gusts" xml:space="preserve">
+    <value>Ráfagas</value>
+  </data>
+  <data name="WeatherFullControl.MiscInfoCloudMessage" xml:space="preserve">
+    <value>En modo multijugador, solo se puede cambiar la cobertura de las nubes y su altitud</value>
+  </data>
+  <data name="WeatherFullControl.Speed" xml:space="preserve">
+    <value>Velocidad</value>
+  </data>
+  <data name="WeatherLiveControl.LatestTafUpper" xml:space="preserve">
+    <value>ÚLTIMO TAF</value>
+  </data>
 </root>
