@@ -4460,4 +4460,10 @@ Would you like to delete it?</comment>
     <value>LATEST TAF</value>
     <comment>LATEST TAF</comment>
   </data>
+  <data name="Replay.OutdateReplayFile" xml:space="preserve">
+    <value>This replay was recorded in a different version of Infinite Flight</value>
+  </data>
+  <data name="Replay.DeleteSelectedReplayAction" xml:space="preserve">
+    <value>Delete the selected replay file</value>
+  </data>
 </root>

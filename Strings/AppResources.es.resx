@@ -2341,7 +2341,7 @@ Consulte el mapa para más información</value>
     <value>Debes mantener una distancia segura con el avión delante</value>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>No hay un navegador para abrir este enlace. Compruebe que haya un navegador instalado.</value>
+    <value>No hay un navegador para abrir este enlace. Compruebe que haya un navegador instalado</value>
   </data>
   <data name="LogbookControl.AtcUpper" xml:space="preserve">
     <value>CONTROL AÉREO</value>
@@ -2356,13 +2356,13 @@ Consulte el mapa para más información</value>
     <value>Duración</value>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>No se pudo conectar al servidor, verifique su conexión a Internet (código de error {0})</value>
+    <value>No se pudo conectar al servidor, verifique su conexión a Internet</value>
   </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
     <value>No hay servidor disponible</value>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-    <value>Las horas de inicio y finalización de esta sesión no son válidas (código de error {0})</value>
+    <value>Las horas de inicio y finalización de esta sesión no son válidas</value>
   </data>
   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
     <value>CAMBIAR AVIÓN</value>
@@ -2662,7 +2662,7 @@ Consulte el mapa para más información</value>
     <value>MISIÓN FALLIDA</value>
   </data>
   <data name="Error.ApplicationInitializationError" xml:space="preserve">
-    <value>Infinite Flight ha tenido un problema. Por favor, reinicia la app o póngase en contacto con soporte técnico (errór {0})</value>
+    <value>Infinite Flight ha tenido un problema. Por favor, reinicia la app o póngase en contacto con soporte técnico.</value>
   </data>
   <data name="FlightFreeControl.AirportTooSmall" xml:space="preserve">
     <value>{0} es demasiado pequeño para este avión. Elige otro aeropuerto.</value>
@@ -3289,10 +3289,10 @@ REPLAYS</value>
     <value>Ya estás conectado en otro dispositivo</value>
   </data>
   <data name="Error.MultiplayerAtcAlreadyActive" xml:space="preserve">
-    <value>Ya estás conectado a este servidor multijugador en otro dispositivo (código de error {0})</value>
+    <value>Ya estás conectado a este servidor multijugador en otro dispositivo</value>
   </data>
   <data name="Error.MultiplayerFlightAlreadyActive" xml:space="preserve">
-    <value>Ya estás conectado a este servidor multijugador en otro dispositivo (código de error {0})</value>
+    <value>Ya estás conectado a este servidor multijugador en otro dispositivo</value>
   </data>
   <data name="Error.SimbriefOfpNotFiled" xml:space="preserve">
     <value>Tu cuenta de SimBrief no tiene planes de vuelo activos. Visita el despachador de SimBrief para presentar un nuevo plan de vuelo.</value>
@@ -3671,5 +3671,11 @@ VUELO</value>
   </data>
   <data name="WeatherLiveControl.LatestTafUpper" xml:space="preserve">
     <value>ÚLTIMO TAF</value>
+  </data>
+  <data name="Replay.OutdateReplayFile" xml:space="preserve">
+    <value>Este replay es de una versión diferente de Infinite Flight</value>
+  </data>
+  <data name="Replay.DeleteSelectedReplayAction" xml:space="preserve">
+    <value>Eliminar este archivo de replay</value>
   </data>
 </root>

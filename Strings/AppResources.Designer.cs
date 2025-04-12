@@ -5722,6 +5722,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Delete the selected replay file.
+        /// </summary>
+        internal static string Replay_DeleteSelectedReplayAction {
+            get {
+                return ResourceManager.GetString("Replay.DeleteSelectedReplayAction", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Delete selected replay file?.
         /// </summary>
         internal static string Replay_DeleteSelectedSingular_Message {
@@ -5790,6 +5799,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Replay_LoadingError {
             get {
                 return ResourceManager.GetString("Replay.LoadingError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This replay was recorded in a different version of Infinite Flight.
+        /// </summary>
+        internal static string Replay_OutdateReplayFile {
+            get {
+                return ResourceManager.GetString("Replay.OutdateReplayFile", resourceCulture);
             }
         }
         
