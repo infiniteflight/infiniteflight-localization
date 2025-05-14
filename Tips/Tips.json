@@ -26,7 +26,13 @@
     "Pilot Tip: Consider using the 'Step Climb' method on long haul flights to increase your aircraft range and overall performance.",
     "ATC Tip: Adjust the procedures opacity to allow for easier viewing of the map.",
     "Tip: Finely tune the weather in solo mode to practice instrument navigation in actual white out conditions.",
-    "Long flight through center airspace? The 'away' icon will allow ATC to let you pass through uninterrupted when away from your device."
+    "Long flight through center airspace? The 'away' icon will allow ATC to let you pass through uninterrupted when away from your device.",
+    "Flight Tip: Tune into a controller's active frequency by clicking on that airport in the map.",
+    "Gotta run? Use Autopilot+ to resume your flight while away from the app.",
+    "Pilot Tip: When ATC issues a pushback tail direction, select the auto pushback button, and reference the compass in the top left",
+    "Pilot Tip: When following an ATC taxi assignment, zoom in on the mini-map to see your assigned route highlighted in magenta",
+    "Flight Tip: Adding an ILS approach procedure to your flight plan will automatically assign it to NAV 1",
+    "Flight Tip: Open the pause menu and select the AP+ button to see Autopilot+ requirements and their current status during your flight"
   ],
   "es": [
     "Consejo: Con tu dedo en el rudder, arrastra hacia abajo para activar los frenos en tierra.",
