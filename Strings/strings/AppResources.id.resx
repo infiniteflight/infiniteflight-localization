@@ -131,59 +131,59 @@
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
     <value>Over 20,000 airports worldwide, 400+ 3D airports and counting, 15m/px satellite terrain imagery, and more.</value>
-    <comment>Lebih dari 20.000 bandara di seluruh dunia, lebih dari 90 bandara 3D dan terus bertambah, citra satelit dengan resolusi 15 meter per piksel, dan masih banyak lagi.Lebih dari 20.000 bandara di seluruh dunia, lebih dari 90 bandara 3D dan terus bertambah, citra satelit dengan resolusi 15 meter per piksel, dan masih banyak lagi.</comment>
+    <comment>Lebih dari 20.000 bandara di seluruh dunia, lebih dari 90 bandara 3D dan terus bertambah, citra satelit dengan resolusi 15m/px, dan masih banyak lagi.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
     <value>Fly with friends! Join thousands of other pilots for an immersive, global, multiplayer experience.</value>
-    <comment>Fly with friends! Join thousands of other pilots for an immersive, global, multiplayer experience.</comment>
+    <comment>Terbanglah bersama teman-teman! Bergabunglah dengan ribuan pilot lainnya untuk pengalaman multipemain dan tersebar di seluruh dunia.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText4" xml:space="preserve">
     <value>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</value>
-    <comment>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</comment>
+    <comment>Rasakan pengalaman bersama petugas pengendali lalu lintas udara yang terlatih dan berpengalaman di server ahli kami, atau jadilah salah satu dari mereka</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle3" xml:space="preserve">
     <value>MULTIPLAYER</value>
-    <comment>MULTIPLAYER</comment>
+    <comment>MULTIPEMAIN</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle4" xml:space="preserve">
     <value>HUMAN ATC</value>
-    <comment>HUMAN ATC</comment>
+    <comment>Petugas ATC</comment>
   </data>
   <data name="Global.Back" xml:space="preserve">
     <value>BACK</value>
-    <comment>Back button text</comment>
+    <comment>Teks tombol kembali</comment>
   </data>
   <data name="Global.Ok" xml:space="preserve">
     <value>OK</value>
-    <comment>OK button text</comment>
+    <comment>Teks tombol OKE</comment>
   </data>
   <data name="IntroPage.ATC" xml:space="preserve">
     <value>AIR TRAFFIC CONTROL</value>
-    <comment>Air Traffic Control</comment>
+    <comment>Pengendali Laluintas Udara</comment>
   </data>
   <data name="IntroPage.FlyOnline" xml:space="preserve">
     <value>FLY ONLINE</value>
-    <comment>Fly Online</comment>
+    <comment>Mode Online</comment>
   </data>
   <data name="IntroPage.FlySolo" xml:space="preserve">
     <value>FLY SOLO</value>
-    <comment>Fly Solo</comment>
+    <comment>Mode Solo</comment>
   </data>
   <data name="IntroPage.Logbook" xml:space="preserve">
     <value>LOGBOOK</value>
-    <comment>Logbook</comment>
+    <comment>Buku catatan Terbang</comment>
   </data>
   <data name="IntroPage.Replays" xml:space="preserve">
     <value>REPLAYS</value>
-    <comment>Replays</comment>
+    <comment>Rekaman Ulang</comment>
   </data>
   <data name="IntroPage.SceneryEditor" xml:space="preserve">
     <value>SCENERY EDITOR</value>
-    <comment>Scenery Editor</comment>
+    <comment>Editor Bandara</comment>
   </data>
   <data name="LiveMapControl.LiveData" xml:space="preserve">
     <value>Live Data (All Servers)</value>
-    <comment>Live Data (All Servers)</comment>
+    <comment>Data LAngsung (Semua Server)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
     <value>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</value>
