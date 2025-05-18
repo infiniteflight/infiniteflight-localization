@@ -183,173 +183,174 @@
   </data>
   <data name="LiveMapControl.LiveData" xml:space="preserve">
     <value>Live Data (All Servers)</value>
-    <comment>Data LAngsung (Semua Server)</comment>
+    <comment>Data Langsung (Semua Server)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
     <value>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</value>
-    <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
+    <comment>
+Akun yang Anda coba sambungkan sudah ditautkan dengan langganan Infinite Flight Pro lainnya</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
     <value>Your account has been suspended</value>
-    <comment>Your account has been suspended</comment>
+    <comment>Akun Anda telah ditangguhkan.</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
     <value>We can't find information about this ATC session</value>
-    <comment>We can't find information about this ATC session</comment>
+    <comment>Kami tidak dapat menemukan informasi tentang sesi ATC ini</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
     <value>There was an error validating this account with the provider</value>
-    <comment>There was an error validating this account with the provider</comment>
+    <comment>Terjadi kesalahan saat memverifikasi akun ini dengan penyedia layanan jaringan.</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
     <value>Infinite Flight can't connect to the server</value>
-    <comment>Infinite Flight can't connect to the server</comment>
+    <comment>Infinite Flight tidak dapat terhubung ke server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
     <value>There was an error on the Infinite Flight servers. Try again shortly</value>
-    <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
+    <comment>Terjadi kesalahan pada server Infinite Flight. Coba lagi nanti</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
     <value>Your account isn't allowed to carry out this action, please contact support</value>
-    <comment>Your account isn't allowed to carry out this action, please contact support</comment>
+    <comment>Akun Anda tidak diizinkan untuk melakukan tindakan ini, silakan hubungi Bantuan</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
     <value>Our servers are having trouble processing this, try again shortly</value>
-    <comment>Our servers are having trouble processing this, try again shortly</comment>
+    <comment>Server kami mengalami masalah dalam memproses ini, silakan coba lagi sebentar lagi.</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
     <value>Error</value>
-    <comment>Error (title text)</comment>
+    <comment>Kesalahan (teks judul)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
     <value>Infinite Flight is having trouble connecting to the server</value>
-    <comment>Infinite Flight is having trouble connecting to the server</comment>
+    <comment>Infinite Flight mengalami masalah saat terhubung ke server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
     <value>The value you are updating isn't valid</value>
-    <comment>The value you are updating isn't valid</comment>
+    <comment>Nilai yang Anda perbarui tidak valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
     <value>The account you are trying to login to has invalid credentials</value>
-    <comment>The account you are trying to login to has invalid credentials</comment>
+    <comment>Akun yang Anda coba login memiliki kredensial yang tidak valid</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
     <value>There was a problem connecting to the server</value>
-    <comment>There was a problem connecting to the server</comment>
+    <comment>Terjadi masalah saat menghubungkan ke server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
     <value>Infinite Flight can't connect to the server</value>
-    <comment>Infinite Flight can't connect to the server</comment>
+    <comment>Infinite Flight tidak dapat terhubung ke server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
     <value>Global Server streaming has failed because your device storage is full</value>
-    <comment>Global Server streaming has failed because your device storage is full</comment>
+    <comment>Streaming server global gagal karena penyimpanan perangkat Anda penuh</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
     <value>This Infinite Flight Community account has not been used with the app before</value>
-    <comment>This Infinite Flight Community account has not been used with the app before</comment>
+    <comment>Akun Komunitas Infinite Flight ini belum pernah digunakan dengan aplikasi sebelumnya</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
     <value>Carry your passion</value>
-    <comment>Carry your passion</comment>
+    <comment>Bawalah semangatmu</comment>
   </data>
   <data name="Global.Retry" xml:space="preserve">
     <value>Retry</value>
-    <comment>Retry (button text)</comment>
+    <comment>Cobalagi (teks tombol)</comment>
   </data>
   <data name="Global.UserGuide" xml:space="preserve">
     <value>User Guide</value>
-    <comment>User Guide</comment>
+    <comment>Panduan Pengguna</comment>
   </data>
   <data name="LoginAuthPage.ExistingAccountPrompt" xml:space="preserve">
     <value>Sign in to use a subscription bought on another device</value>
-    <comment>Sign in to use a subscription bought on another device</comment>
+    <comment>Masuk untuk menggunakan langganan yang dibeli di perangkat lain.</comment>
   </data>
   <data name="LoginSubscriptionPage.ExistingAccount" xml:space="preserve">
     <value>More Options</value>
-    <comment>I already have an account</comment>
+    <comment>Saya sudah memiliki akun.</comment>
   </data>
   <data name="LoginSubscriptionPage.MoreInfo" xml:space="preserve">
     <value>More Info</value>
-    <comment>More Info</comment>
+    <comment>Info lebih lanjut</comment>
   </data>
   <data name="LoginSubscriptionPage.NotAvailable" xml:space="preserve">
     <value>Not Available</value>
-    <comment>Not Available</comment>
+    <comment>Tidak tersedia</comment>
   </data>
   <data name="LoginSubscriptionPage.NotAvailableMessage" xml:space="preserve">
     <value>This subscription can't be purchased due to an error. Check our User Guide for more information and try again</value>
-    <comment>This subscription can't be purchased due to an error. Check our User Guide for more information and try again</comment>
+    <comment>Langganan ini tidak dapat dibeli karena terjadi kesalahan. Silakan periksa Panduan Pengguna kami untuk informasi lebih lanjut dan coba lagi</comment>
   </data>
   <data name="LoginSubscriptionPage.Pricing" xml:space="preserve">
     <value>{0} / month</value>
-    <comment>{price} / month</comment>
+    <comment>{harga} / bulan</comment>
   </data>
   <data name="Global.Cancel" xml:space="preserve">
     <value>Cancel</value>
-    <comment>Cancel (button text)</comment>
+    <comment>Batal (teks tombol)</comment>
   </data>
   <data name="Settings.About" xml:space="preserve">
     <value>ABOUT</value>
-    <comment>About (button title)</comment>
+    <comment>Tentang (teks tombol)</comment>
   </data>
   <data name="Settings.Account" xml:space="preserve">
     <value>Account</value>
-    <comment>Account (tab title)</comment>
+    <comment>Akun (judul tab)</comment>
   </data>
   <data name="Settings.Controls" xml:space="preserve">
     <value>Controls</value>
-    <comment>Controls (tab title)</comment>
+    <comment>Kontrol (judul tab)</comment>
   </data>
   <data name="Settings.DiagnosticsMode" xml:space="preserve">
     <value>Diagnostics Mode</value>
-    <comment>Diagnostics Mode (title)</comment>
+    <comment>Mode Diagnostik (judul)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
     <value>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.
 Click on the "Send Log" button, thanks!</value>
-    <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.
-Click on the \"Send Log\" button, thanks!</comment>
+    <comment>Mode Diagnostik sekarang dalam keadaan mati, pastikan Anda mengirimkan log kepada kami jika belum melakukannya.
+Klik tombol “Kirim Log”, terima kasih!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
     <value>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</value>
-    <comment>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</comment>
+    <comment>Nyalakan ulang perangkat Anda, dan ulangi masalah atau bug tersebut. Kemudian kembali ke halaman ini, dan klik tombol "Kirim Log", terima kasih!</comment>
   </data>
   <data name="Settings.DiagnosticsModeWarning" xml:space="preserve">
     <value>Use this function only if asked by an Infinite Flight team member.</value>
-    <comment>Use this function only if asked by an Infinite Flight team member.</comment>
+    <comment>Gunakan fungsi ini hanya jika diminta oleh anggota tim Infinite Flight.</comment>
   </data>
   <data name="Settings.EnterDiagnosticsMode" xml:space="preserve">
     <value>Enter Diagnostics Mode</value>
-    <comment>Enter Diagnostics Mode (button)</comment>
+    <comment>Masuk ke Mode Diagnostik (tombol)</comment>
   </data>
   <data name="Settings.ExitDiagnosticsMode" xml:space="preserve">
     <value>Exit Diagnostics Mode</value>
-    <comment>Exit Diagnostics Mode (button)</comment>
+    <comment>Keluar dari Mode Diagnostik (tombol)</comment>
   </data>
   <data name="Settings.General" xml:space="preserve">
     <value>General</value>
-    <comment>General (tab title)</comment>
+    <comment>Umum (judul tab)</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Subtitle" xml:space="preserve">
     <value>Automatically set the start airport to where the last flight ended</value>
-    <comment>Automatically set the start airport to where the last flight ended.</comment>
+    <comment>Secara otomatis mengatur bandara awal ke tempat penerbangan terakhir berakhir</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Title" xml:space="preserve">
     <value>Automatically Set Start Airport</value>
-    <comment>Automatically Set Start Airport</comment>
+    <comment>Atur Bandara Awal Secara Otomatis</comment>
   </data>
   <data name="Settings.General.ControlSensitivity.Subtitle" xml:space="preserve">
     <value>Sets the controls sensitivity</value>
-    <comment>Sets the controls sensitivity</comment>
+    <comment>Menyetel sensitivitas pengaturan</comment>
   </data>
   <data name="Settings.General.ControlSensitivity.Title" xml:space="preserve">
     <value>Control Sensitivity</value>
-    <comment>Control Sensitivity</comment>
+    <comment>Sensitivitas Kontrol</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Subtitle" xml:space="preserve">
     <value>Controls how long the User Interface controls stay on screen.</value>
-    <comment>Controls how long the User Interface controls stay on screen.</comment>
+    <comment>Mengontrol berapa lama elemen antarmuka pengguna tetap ditampilkan di layar.</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Title" xml:space="preserve">
     <value>Interface Timeout</value>
