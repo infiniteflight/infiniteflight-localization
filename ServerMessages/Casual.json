@@ -11,6 +11,7 @@
     "bg": "Този сървър може да бъде използван от всички рангове. Не е налично РВД и пилотите могат да летят на спокойствие, без да рискуват статистиката и ранга си. Всички пилоти трябва да уважават останалите. \nДопълнителни Изисквания: Няма\n",
     "hu": "Ez a szerver bármilyen fokozattal elérhető. Az ATC nem elérhető, és a pilóták szabadon repülhetnek anélkül, hogy befolyásolnák statisztikájukat vagy besorolásukat. Minden felhasználónak továbbra is tiszteletteljesnek és udvariasnak kell lennie a többi pilótával szemben. \nTovábbi követelmény: Nincs\n",
     "tr": "Bu sunucuya tüm sınıflar erişebilir. ATC mevcut değildir ve pilotlar, istatistiklerini veya derecelerini etkilemeden serbestçe uçabilirler. Tüm kullanıcılar yine de diğer pilotlara karşı saygılı ve nazik olmalıdır. \nEk Gereksinim: Yok\n"
+    "id": ""
   
   },
   "welcomeMessages": {
@@ -25,5 +26,6 @@
     "bg": "Добре дошли в Casual сървъра,\n\nВ този сървър може да летите без правила и процедури. Молим ви да се отнасяте с уважение към останалите и да се забавлявате.\n\nКомуникациите с РВД и другите пилоти се извършват на английски (официалният език на авиацията)\n\nОнлайн сървърите са общи среди, зависещи от участието на всички за приятно преживяване. Приятен полет!\n",
     "hu": "Üdvözlünk a Casual szerveren!\n\nEz egy olyan szerver, ahol szabályoktól és eljárásoktól mentesen repülhetsz. Arra biztatunk, hogy légy tiszteletben másokkal, és érezd jól magad.\n\nAz online szerverek egy közösségi környezet, ahol az élvezetes élmény eléréséhez mindenkinek hozzá kell járulnia. Jó repülést!\n",
     "tr": "Casual Sunucuya Hoş Geldiniz,\n\nBu, kural ve prosedürlerden bağımsız uçabileceğiniz bir sunucudur. Başkalarına karşı saygılı olmaya ve eğlenmeye teşvik ediliyorsunuz.\n\nATC ve diğer pilotlarla iletişim havacılığın resmi dili İngilizce ile yapılır\n\nCanlı sunucular, keyifli bir deneyim için herkesin katılımına bağlı ortak bir ortamdır. İyi uçuşlar!\n"
+    "id": ""
   }
 }
