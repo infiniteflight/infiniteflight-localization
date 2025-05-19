@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LoginSubscriptionPage.ProCarouselTitle1" xml:space="preserve">
-    <value>AKSES KEPADA SELURUH ARMADA KAMI</value>
+    <value>AKSES KE SELURUH ARMADA KAMI</value>
     <comment>ACCESS TO OUR ENTIRE FLEET</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText1" xml:space="preserve">
@@ -126,27 +126,27 @@
     <comment>Dozens of aircraft, hundreds of liveries, realistic flight models, and animated cockpits</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle2" xml:space="preserve">
-    <value>TEMUI DUNIA</value>
+    <value>JELAJAHI DUNIA</value>
     <comment>DISCOVER THE WORLD</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText2" xml:space="preserve">
-    <value>Lebih dari 20,000 lapangan terband di seluruh dunia, lebih 400 lapandan terbang 3D, 15 meter/piksel imejan rupa bumi satelit, dan banyak lagi.</value>
+    <value>Lebih dari 20.000 bandara di seluruh dunia, lebih dari 90 bandara 3D dan terus bertambah, citra satelit dengan resolusi 15m/px, dan masih banyak lagi.</value>
     <comment>Over 20,000 airports worldwide, 90+ 3D airports and counting, 15m/px satelite terrain imagery, and more.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText3" xml:space="preserve">
-    <value>Terbang bersama kawan-kawan! Sertai beribu-ribu juruterbang lain untuk pengalaman berbilang pemain yang mengasyikkan.</value>
+    <value>Terbanglah bersama teman-teman! Bergabunglah dengan ribuan pilot lainnya untuk pengalaman multipemain dan tersebar di seluruh dunia.</value>
     <comment>Fly with friends! Join thousands of other pilots for an immersive, global, multiplayer experience.</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselText4" xml:space="preserve">
-    <value>Alami pengawal trafik udara manusia yang terlatih pada pelayan pakar kami atau menjadi pengawal sendiri!</value>
+    <value>Rasakan pengalaman bersama petugas pengendali lalu lintas udara yang terlatih dan berpengalaman di server ahli kami, atau jadilah salah satu dari mereka</value>
     <comment>Experience trained, human air traffic controllers on our expert server or climb the ranks to be a controller yourself!</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle3" xml:space="preserve">
-    <value>BERBILANG PERMAIN</value>
+    <value>MULTIPEMAIN</value>
     <comment>MULTIPLAYER</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle4" xml:space="preserve">
-    <value>MANUSIA PENGAWAL TRAFIK UDARA</value>
+    <value>PETUGAS ATC</value>
     <comment>HUMAN ATC</comment>
   </data>
   <data name="Global.Back" xml:space="preserve">
@@ -154,15 +154,15 @@
     <comment>Back button text</comment>
   </data>
   <data name="Global.Ok" xml:space="preserve">
-    <value>OK</value>
+    <value>OKE</value>
     <comment>OK button text</comment>
   </data>
   <data name="IntroPage.ATC" xml:space="preserve">
-    <value>PENGAWAL TRAFIK UDARA</value>
+    <value>PENGENDALI LALU LINTAS UDARA</value>
     <comment>Air Traffic Control</comment>
   </data>
   <data name="IntroPage.FlyOnline" xml:space="preserve">
-    <value>TERBANG TALIAN</value>
+    <value>TERBANG DARING</value>
     <comment>Fly Online</comment>
   </data>
   <data name="IntroPage.FlySolo" xml:space="preserve">
@@ -170,27 +170,27 @@
     <comment>Fly Solo</comment>
   </data>
   <data name="IntroPage.Logbook" xml:space="preserve">
-    <value>BUKU LOG</value>
+    <value>CATATAN TERBANG</value>
     <comment>Logbook</comment>
   </data>
   <data name="IntroPage.Replays" xml:space="preserve">
-    <value>ULANG TAYANG</value>
+    <value>TAYANGAN ULANG</value>
     <comment>Replays</comment>
   </data>
   <data name="IntroPage.SceneryEditor" xml:space="preserve">
-    <value>EDITOR PEMANDANGAN</value>
+    <value>EDITOR BANDARA</value>
     <comment>Scenery Editor</comment>
   </data>
   <data name="LiveMapControl.LiveData" xml:space="preserve">
-    <value>Data Langsung (Semua Pelayan web)</value>
+    <value>Data Langsung (Semua Server)</value>
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>Akaun yang anda cuba sambungkan telah dipautkan dengan langganan Infinite Flight Pro yang lain</value>
+    <value>Akun yang Anda coba sambungkan sudah ditautkan dengan langganan Infinite Flight Pro lainnya</value>
     <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Akaun anda telah digantung</value>
+    <value>Akun Anda telah ditangguhkan</value>
     <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
@@ -198,43 +198,43 @@
     <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>Akaun ini mempunyai ralat pengesahan dengan pembekal</value>
+    <value>Kami tidak dapat menemukan informasi tentang sesi ATC ini</value>
     <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight tidak dapat menyambung ke pelayan web</value>
+    <value>Infinite Flight tidak dapat terhubung ke server</value>
     <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
-    <value>Pelayan web Infinite Flight menghadapi masalah. Cuba sebentar lagi</value>
+    <value>Terjadi kesalahan pada server Infinite Flight. Coba lagi nanti</value>
     <comment>There was an error on the Infinite Flight servers. Try again shortly</comment>
   </data>
   <data name="Error.EndpointNotAuthorized" xml:space="preserve">
-    <value>Akaun anda tidak dibenarkan untuk menjalankan tindakan ini, sila hubungi sokongan</value>
+    <value>Akun Anda tidak diizinkan untuk melakukan tindakan ini, silakan hubungi Bantuan</value>
     <comment>Your account isn't allowed to carry out this action, please contact support</comment>
   </data>
   <data name="Error.EndpointTimeout" xml:space="preserve">
-    <value>Pelayan web kami menghadapi masalah memproses ini, cuba lagi sebentar lagi</value>
+    <value>Server kami mengalami masalah dalam memproses ini, silakan coba lagi sebentar lagi</value>
     <comment>Our servers are having trouble processing this, try again shortly</comment>
   </data>
   <data name="Error.Error" xml:space="preserve">
-    <value>Masalah</value>
+    <value>Kesalahan</value>
     <comment>Error (title text)</comment>
   </data>
   <data name="Error.GenericServerConnection" xml:space="preserve">
-    <value>Infinite Flight menghadapi masalah menyambung ke pelayan web</value>
+    <value>Infinite Flight mengalami masalah saat terhubung ke server</value>
     <comment>Infinite Flight is having trouble connecting to the server</comment>
   </data>
   <data name="Error.InvalidInput" xml:space="preserve">
-    <value>Nilai yang anda ubah kini tidak sah</value>
+    <value>Nilai yang Anda perbarui tidak valid</value>
     <comment>The value you are updating isn't valid</comment>
   </data>
   <data name="Error.InvalidToken" xml:space="preserve">
-    <value>Akaun yang anda cuba log masuk mempunyai bukti kelayakan yang tidak sah</value>
+    <value>Akun yang Anda coba login memiliki kredensial yang tidak valid</value>
     <comment>The account you are trying to login to has invalid credentials</comment>
   </data>
   <data name="Error.MissingRequestParameters" xml:space="preserve">
-    <value>Terdapat masalah menyambung ke pelayan web</value>
+    <value>Infinite Flight tidak dapat terhubung ke server</value>
     <comment>There was a problem connecting to the server</comment>
   </data>
   <data name="Error.NetworkError" xml:space="preserve">
@@ -242,19 +242,19 @@
     <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.TileSystemDiskFull" xml:space="preserve">
-    <value>Penstriman Pelayan Web Global telah gagal kerana storan peranti anda penuh</value>
+    <value>Streaming server global gagal karena penyimpanan perangkat Anda penuh</value>
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Akaun ini tidak dipautkan kepada langganan Infinite Flight Pro (kod ralat {0})</value>
+    <value>Akun Komunitas Infinite Flight ini belum pernah digunakan dengan aplikasi sebelumnya</value>
     <comment>This account isn't linked to an Infinite Flight Pro subscription</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
-    <value>Bawa semangat anda</value>
+    <value>Bawalah semangatmu</value>
     <comment>Carry your passion</comment>
   </data>
   <data name="Global.Retry" xml:space="preserve">
-    <value>Cuba Semula</value>
+    <value>Coba Lagi</value>
     <comment>Retry (button text)</comment>
   </data>
   <data name="Global.UserGuide" xml:space="preserve">
@@ -262,15 +262,15 @@
     <comment>User Guide</comment>
   </data>
   <data name="LoginAuthPage.ExistingAccountPrompt" xml:space="preserve">
-    <value>Log masuk untuk menggunakan langganan yang dibeli pada peranti lain</value>
+    <value>Masuk untuk menggunakan langganan yang dibeli di perangkat lain</value>
     <comment>Sign in to use a subscription bought on another device</comment>
   </data>
   <data name="LoginSubscriptionPage.ExistingAccount" xml:space="preserve">
-    <value>Saya sudah mempunyai akaun</value>
+    <value>Saya sudah memiliki akun</value>
     <comment>I already have an account</comment>
   </data>
   <data name="LoginSubscriptionPage.MoreInfo" xml:space="preserve">
-    <value>Maklumat Lanjut</value>
+    <value>Info lebih lanjut</value>
     <comment>More Info</comment>
   </data>
   <data name="LoginSubscriptionPage.NotAvailable" xml:space="preserve">
