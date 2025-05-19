@@ -278,11 +278,11 @@
     <comment>Not Available</comment>
   </data>
   <data name="LoginSubscriptionPage.NotAvailableMessage" xml:space="preserve">
-    <value>Langganan ini tidak boleh dibeli kerana salahan. Semak Panduan Pengguna kami untuk mendapatkan maklumat lanjut dan cuba lagi</value>
+    <value>Langganan ini tidak dapat dibeli karena terjadi kesalahan. Silakan periksa Panduan Pengguna kami untuk informasi lebih lanjut dan coba lagi</value>
     <comment>This subscription can't be purchased due to an error. Check our User Guide for more information and try again</comment>
   </data>
   <data name="LoginSubscriptionPage.Pricing" xml:space="preserve">
-    <value>{0} sebulan</value>
+    <value>{0} satubulan</value>
     <comment>{price} / month</comment>
   </data>
   <data name="Global.Cancel" xml:space="preserve">
@@ -294,35 +294,36 @@
     <comment>About (button title)</comment>
   </data>
   <data name="Settings.Account" xml:space="preserve">
-    <value>Akaun</value>
+    <value>Akun</value>
     <comment>Account (tab title)</comment>
   </data>
   <data name="Settings.Controls" xml:space="preserve">
-    <value>Kawalan</value>
+    <value>Kontrol</value>
     <comment>Controls (tab title)</comment>
   </data>
   <data name="Settings.DiagnosticsMode" xml:space="preserve">
-    <value>Mod Diagnostik</value>
+    <value>Mode Diagnostik</value>
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>Mod Diagnostik kini dipadamkan, pastikan anda menghantar log kepada kami jika anda belum melakukannya lagi. Klik pada butang "Hantar Log", terima kasih!</value>
+    <value>Mode Diagnostik sekarang dalam keadaan mati, pastikan Anda mengirimkan log kepada kami jika belum melakukannya.
+Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
-    <value>Mulakan semula peranti anda dan hasilkan semula masalah atau pepijat. Kemudian kembali ke halaman ini, dan klik pada butang "Hantar Log", terima kasih!</value>
+    <value>Nyalakan ulang perangkat Anda, dan ulangi masalah atau bug tersebut. Kemudian kembali ke halaman ini, dan klik tombol "Kirim Log", terima kasih!</value>
     <comment>Restart your device, and reproduce the problem or bug. Then come back to this page, and click on the "Send Log" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeWarning" xml:space="preserve">
-    <value>Gunakan fungsi ini hanya jika diminta oleh ahli pasukan Infinite Flight.</value>
+    <value>Gunakan fungsi ini hanya jika diminta oleh anggota tim Infinite Flight.</value>
     <comment>Use this function only if asked by an Infinite Flight team member.</comment>
   </data>
   <data name="Settings.EnterDiagnosticsMode" xml:space="preserve">
-    <value>Masukkan Mod Diagnostik</value>
+    <value>Masuk ke Mode Diagnostik</value>
     <comment>Enter Diagnostics Mode (button)</comment>
   </data>
   <data name="Settings.ExitDiagnosticsMode" xml:space="preserve">
-    <value>Keluar dari Mod Diagnostik</value>
+    <value>Keluar dari Mode Diagnostik</value>
     <comment>Exit Diagnostics Mode (button)</comment>
   </data>
   <data name="Settings.General" xml:space="preserve">
@@ -330,19 +331,19 @@
     <comment>General (tab title)</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Subtitle" xml:space="preserve">
-    <value>Tetapkan lapangan terbang permulaan secara automatik ke tempat penerbangan terakhir berakhir</value>
+    <value>Secara otomatis mengatur bandara awal ke tempat penerbangan terakhir berakhir</value>
     <comment>Automatically set the start airport to where the last flight ended.</comment>
   </data>
   <data name="Settings.General.AutoSetStartAirport.Title" xml:space="preserve">
-    <value>Tetapkan Mulakan Lapangan Terbang secara automatik</value>
+    <value>Atur Bandara Awal Secara Otomatis</value>
     <comment>Automatically Set Start Airport</comment>
   </data>
   <data name="Settings.General.ControlSensitivity.Subtitle" xml:space="preserve">
-    <value>Menetapkan sensitiviti kawalan</value>
+    <value>Menyetel sensitivitas pengaturan</value>
     <comment>Sets the controls sensitivity</comment>
   </data>
   <data name="Settings.General.ControlSensitivity.Title" xml:space="preserve">
-    <value>Kawalan Sensitiviti</value>
+    <value>Sensitivitas Kontrol</value>
     <comment>Control Sensitivity</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Subtitle" xml:space="preserve">
@@ -350,7 +351,7 @@
     <comment>Controls how long the User Interface controls stay on screen.</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Title" xml:space="preserve">
-    <value>Tamat Masa Antara Muka</value>
+    <value>Batas waktu antarmuka</value>
     <comment>Interface Timeout</comment>
   </data>
   <data name="Settings.General.InvertCockpitCameraMotion.Subtitle" xml:space="preserve">
