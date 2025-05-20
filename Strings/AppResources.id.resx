@@ -607,39 +607,39 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Rendering Resolution</comment>
   </data>
   <data name="Settings.Graphics.TextureQuality.Subtitle" xml:space="preserve">
-    <value>Mengawal kualiti tekstur</value>
+    <value>Mengontrol kualitas tekstur</value>
     <comment>Controls the quality of textures</comment>
   </data>
   <data name="Settings.Graphics.TextureQuality.Title" xml:space="preserve">
-    <value>Kualiti Tekstur</value>
+    <value>Kualitas Tekstur</value>
     <comment>Texture Quality</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Subtitle" xml:space="preserve">
-    <value>Pilih suara untuk komunikasi dengan pengawal trafic udara anda</value>
+    <value>Pilih suara untuk komunikasi ATC Anda</value>
     <comment>Select voice for your ATC communications</comment>
   </data>
   <data name="Settings.Multiplayer.CurrentVoice.Title" xml:space="preserve">
-    <value>Suara Juruterbang</value>
+    <value>Suara Pilot</value>
     <comment>Pilot Voice</comment>
   </data>
   <data name="Settings.Multiplayer.DefaultVoice.Subtitle" xml:space="preserve">
-    <value>Pilih suarah lalai until juruterbang dan pengawal trafic udara lain</value>
+    <value>Pilih suara default untuk pilot lain/ATC</value>
     <comment>Select the default voice for other pilots/ATC</comment>
   </data>
   <data name="Settings.Multiplayer.DefaultVoice.Title" xml:space="preserve">
-    <value>Suara Lalai</value>
+    <value>Suara Default</value>
     <comment>Default Voice</comment>
   </data>
   <data name="Settings.Multiplayer.EnableAirplaneDownloadsOverCellular.Subtitle" xml:space="preserve">
-    <value>Memasang kapal terbang secara automatik walaupun dalam Rangkaian Selular.</value>
+    <value>Unduh pesawat secara otomatis bahkan saat berada di Jaringan Seluler</value>
     <comment>Download airplanes automatically even when on a Cellular Network</comment>
   </data>
   <data name="Settings.Multiplayer.EnableAirplaneDownloadsOverCellular.Title" xml:space="preserve">
-    <value>Muat Turun Pesawat Automatik Melalui Data Selular</value>
+    <value>Unduhan Otomatis Pesawat Melalui Data Seluler</value>
     <comment>Automatic Airplane Downloads Over Cellular Data</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneDots.Subtitle" xml:space="preserve">
-    <value>Menyembunyikan titik pemain lain dalam berbilang pemain</value>
+    <value>Menyembunyikan titik pemain lain dalam multipemain</value>
     <comment>Hides the dots of other players in multiplayer</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneDots.Title" xml:space="preserve">
@@ -647,39 +647,39 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Hide Airplane Dots</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneNames.Subtitle" xml:space="preserve">
-    <value>Menyembunyikan nama pemain lain dalam berbilang pemain</value>
+    <value>Menyembunyikan nama pemain lain dalam mode multipemain</value>
     <comment>Hides the name of other players in multiplayer</comment>
   </data>
   <data name="Settings.Multiplayer.HideAirplaneNames.Title" xml:space="preserve">
-    <value>Sembunyikan Nama Kapal Terbang</value>
+    <value>Sembunyikan Nama Bandara</value>
     <comment>Hide Airplane Names</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Subtitle" xml:space="preserve">
-    <value>Mengawal bilangan kapal terbang yang ditunjukkan dalam berbilang pemain.</value>
+    <value>Mengatur jumlah pesawat yang ditampilkan dalam mode multipemain.</value>
     <comment>Controls how many airplanes are shown in multiplayer.</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensity.Title" xml:space="preserve">
-    <value>Kiraan Kapal Terbang</value>
+    <value>Jumlah Pesawat</value>
     <comment>Airplane Count</comment>
   </data>
   <data name="Settings.Multiplayer.LiveAirplaneDensityNoneWarning" xml:space="preserve">
-    <value>Menetapkan Pengiraan Pesawat kepada tiada tidak akan menunjukkan pesawat lain apabila terbang dalam talian, dan menjadi tanggungjawab anda untuk mengekalkan pemisahan dengan pesawat lain.</value>
+    <value>Menyetel Jumlah Pesawat ke Tidak Ada akan menyembunyikan pesawat lain saat terbang secara daring, dan Anda bertanggung jawab untuk menjaga jarak aman dengan pesawat lain.</value>
     <comment>Setting Airplane Count to None will not show other aircraft when flying online, and it is your responsibility to maintain separation with other aircraft.</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Subtitle" xml:space="preserve">
-    <value>Paparkan nama pengguna anda dalam penerbangan. Nyahtanda untuk kekal tanpa nama</value>
+    <value>Tampilkan nama pengguna Anda saat penerbangan. Centang kotak ini untuk tetap anonim.</value>
     <comment>Display your username in-flight. Uncheck to remain anonymous</comment>
   </data>
   <data name="Settings.Multiplayer.ShowUsernameInFlight.Title" xml:space="preserve">
-    <value>Tunjukkan Nama Pengguna Dalam Penerbangan</value>
+    <value>Tampilkan Nama Pengguna Saat Terbang</value>
     <comment>Show Username In-Flight</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Subtitle" xml:space="preserve">
-    <value>Mengubah nada suara pilihan anda</value>
+    <value>Mengubah nada suara yang Anda pilih</value>
     <comment>Changes the pitch of your selected voice</comment>
   </data>
   <data name="Settings.Multiplayer.VoicePitch.Title" xml:space="preserve">
-    <value>Padang Suara</value>
+    <value>Intonasi Suara</value>
     <comment>Voice Pitch</comment>
   </data>
   <data name="Commands.AileronTrim" xml:space="preserve">
@@ -687,15 +687,15 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Aileron Trim</comment>
   </data>
   <data name="Commands.AileronTrim.Description" xml:space="preserve">
-    <value>Mengawal Trim Aileron</value>
+    <value>Mengatur Trim Aileron</value>
     <comment>Controls the Aileron Trim</comment>
   </data>
   <data name="Commands.BeaconLights" xml:space="preserve">
-    <value>Lampu Suar</value>
+    <value>Lampu Penanda</value>
     <comment>Beacon Lights</comment>
   </data>
   <data name="Commands.Brakes" xml:space="preserve">
-    <value>Brek</value>
+    <value>Rem</value>
     <comment>Brakes</comment>
   </data>
   <data name="Commands.ElevatorTrim" xml:space="preserve">
@@ -703,31 +703,31 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Elevator Trim</comment>
   </data>
   <data name="Commands.ElevatorTrim.Description" xml:space="preserve">
-    <value>Mengawal Trim Elevator</value>
+    <value>Mengatur Trim Elevator</value>
     <comment>Controls the Elevator Trim</comment>
   </data>
   <data name="Commands.FlapsDownFull" xml:space="preserve">
-    <value>Flaps Down (Penuh)</value>
+    <value>Sirip Turun (Penuh)</value>
     <comment>Flaps Down (Full)</comment>
   </data>
   <data name="Commands.FlapsDownStep" xml:space="preserve">
-    <value>Flaps Down (1 Langkah)</value>
+    <value>Sirip Turun (1 Langkah)</value>
     <comment>Flaps Down (1 Step)</comment>
   </data>
   <data name="Commands.FlapsUpFull" xml:space="preserve">
-    <value>Flaps Up (Penuh)</value>
+    <value>Sirip Naik (Penuh)</value>
     <comment>Flaps Up (Full)</comment>
   </data>
   <data name="Commands.FlapsUpStep" xml:space="preserve">
-    <value>Flaps Up (1 Langkah)</value>
+    <value>Sirip naik (1 Langkah)</value>
     <comment>Flaps Up (1 Step)</comment>
   </data>
   <data name="Commands.FuelDump" xml:space="preserve">
-    <value>Buang Minyak</value>
+    <value>Buang BahanBakar</value>
     <comment>Fuel Dump</comment>
   </data>
   <data name="Commands.Group.Airplane" xml:space="preserve">
-    <value>Kapal Terbang</value>
+    <value>Pesawat Terbang</value>
     <comment>Airplane</comment>
   </data>
   <data name="Commands.Group.Cameras" xml:space="preserve">
@@ -735,19 +735,19 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Cameras</comment>
   </data>
   <data name="Commands.LandingGear" xml:space="preserve">
-    <value>Gear Mendarat</value>
+    <value>Roda Pendaratan</value>
     <comment>Landing Gear</comment>
   </data>
   <data name="Commands.LandingLights" xml:space="preserve">
-    <value>Lampu Mendarat</value>
+    <value>Lampu Pendaratan</value>
     <comment>Landing Lights</comment>
   </data>
   <data name="Commands.Mixture" xml:space="preserve">
-    <value>Campuran Minyak</value>
+    <value>Mixtur</value>
     <comment>Mixture</comment>
   </data>
   <data name="Commands.Mixture.Description" xml:space="preserve">
-    <value>Mengawal Campuran Minyak</value>
+    <value>Mengatur Mixtur</value>
     <comment>Controls the Mixture</comment>
   </data>
   <data name="Commands.NavLights" xml:space="preserve">
@@ -755,39 +755,39 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>NavLights</comment>
   </data>
   <data name="Commands.ParkingBrakes" xml:space="preserve">
-    <value>Brek Parkir</value>
+    <value>Rem Parkir</value>
     <comment>Parking Brakes</comment>
   </data>
   <data name="Commands.PitchAxis" xml:space="preserve">
-    <value>Kawalan Menegak</value>
+    <value>Miring</value>
     <comment>Pitch</comment>
   </data>
   <data name="Commands.PitchAxis.Description" xml:space="preserve">
-    <value>Mengawal penstabil mendatar</value>
+    <value>Mengatur stabilisator horizontal</value>
     <comment>Controls the horizontal stabilizer</comment>
   </data>
   <data name="Commands.Propeller" xml:space="preserve">
-    <value>Kipas Kapal Terbang</value>
+    <value>Baling-baling</value>
     <comment>Propeller</comment>
   </data>
   <data name="Commands.Propeller.Description" xml:space="preserve">
-    <value>Pengawal Kipas Kapal Terbang</value>
+    <value>Mengatur Baling-baling</value>
     <comment>Controls the Propeller</comment>
   </data>
   <data name="Commands.Pushback" xml:space="preserve">
-    <value>Menolak kembali</value>
+    <value>Mundur</value>
     <comment>Pushback</comment>
   </data>
   <data name="Commands.ReverseThrust" xml:space="preserve">
-    <value>Teras Terbalik</value>
+    <value>Dorongan Balik</value>
     <comment>Reverse Thrust</comment>
   </data>
   <data name="Commands.RollAxis" xml:space="preserve">
-    <value>Kawalan Mendatar</value>
+    <value>Belok</value>
     <comment>Roll</comment>
   </data>
   <data name="Commands.RollAxis.Description" xml:space="preserve">
-    <value>Mengawal aileron kapal terbang</value>
+    <value>Mengontrol aileron pesawat terbang</value>
     <comment>Controls the ailerons of the airplane</comment>
   </data>
   <data name="Commands.RudderTrim" xml:space="preserve">
@@ -795,35 +795,35 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Rudder Trim</comment>
   </data>
   <data name="Commands.RudderTrim.Description" xml:space="preserve">
-    <value>Mengawal Trim Kemudi</value>
+    <value>Mengatur Trim Kemudi</value>
     <comment>Controls the Rudder Trim</comment>
   </data>
   <data name="Commands.StrobeLights" xml:space="preserve">
-    <value>Lampu Strob</value>
+    <value>Lampu Strobo</value>
     <comment>Strobe Lights</comment>
   </data>
   <data name="Commands.TaxiLights" xml:space="preserve">
-    <value>Lampu Teksi</value>
+    <value>Lampu Jalan</value>
     <comment>Taxi Lights</comment>
   </data>
   <data name="Commands.Throttle" xml:space="preserve">
-    <value>Pendikit</value>
+    <value>Gas</value>
     <comment>Throttle</comment>
   </data>
   <data name="Commands.Throttle.Description" xml:space="preserve">
-    <value>Mengawal Pendikit kapal terbang</value>
+    <value>Mengatur Gas Pesawat</value>
     <comment>Controls the airplane Throttle(s)</comment>
   </data>
   <data name="Commands.ToggleSpoilers" xml:space="preserve">
-    <value>Togol Spoiler</value>
+    <value>Mengatur Spoiler</value>
     <comment>Toggle Spoilers</comment>
   </data>
   <data name="Commands.YawAxis.Description" xml:space="preserve">
-    <value>Mengawal penstabil menegak/kemudi</value>
+    <value>Mengendalikan stabilizer vertikal/kemudi</value>
     <comment>Controls the vertical stabilizer/rudder</comment>
   </data>
   <data name="Commands.YaxAxis" xml:space="preserve">
-    <value>Kawalan Kemudi</value>
+    <value>Berputar</value>
     <comment>Yaw</comment>
   </data>
   <data name="Global.InfiniteFlightPro" xml:space="preserve">
@@ -843,79 +843,79 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Infinite Flight Pro (6 months)</comment>
   </data>
   <data name="Global.Message" xml:space="preserve">
-    <value>MESEJ</value>
+    <value>PESAN</value>
     <comment>MESSAGE</comment>
   </data>
   <data name="Settings.Account.Callsign.Subtitle" xml:space="preserve">
-    <value>Digunakan untuk komunikasi dengan pengawal dan juruterbang lain</value>
+    <value>Digunakan untuk berkomunikasi dengan ATC dan pilot lainnya.</value>
     <comment>Used for communication with controllers and other pilots</comment>
   </data>
   <data name="Settings.Account.Callsign.Title" xml:space="preserve">
-    <value>Tanda Panggilan</value>
+    <value>Kode Panggilan</value>
     <comment>Callsign</comment>
   </data>
   <data name="Settings.Account.ConnectedMessage" xml:space="preserve">
-    <value>Anda telah menyambungkan {0} dengan Infinite Flight. Adakah anda mahu menyahpaut profil ini?</value>
+    <value>Anda telah menghubungkan {0} dengan Infinite Flight. Apakah Anda ingin memutuskan tautan Akun ini?</value>
     <comment>You've connected {0} with Infinite Flight. Do you want to unlink this profile?</comment>
   </data>
   <data name="Settings.Account.DiscourseConnect" xml:space="preserve">
-    <value>Sambung</value>
+    <value>Sambungkan</value>
     <comment>Connect (Discourse)</comment>
   </data>
   <data name="Settings.Account.Forum.LinkedAccount" xml:space="preserve">
-    <value>Anda telah memautkan profil Komuniti Infinite Flight anda. Log masuk pada peranti anda yang lain untuk memastikan akaun anda disambungkan</value>
+    <value>Anda telah menautkan profil Komunitas Infinite Flight Anda. Masuk pada perangkat lain Anda untuk menjaga akun Anda tetap terhubung</value>
     <comment>You have linked your Infinite Flight Community profile. Sign in on your other devices to keep your account connected</comment>
   </data>
   <data name="Settings.Account.Forum.Title" xml:space="preserve">
-    <value>Akaun Forum Komuniti</value>
+    <value>Akun Forum Komunitas</value>
     <comment>Community Forum Account</comment>
   </data>
   <data name="Settings.Account.Forum.UnlinkedAccount" xml:space="preserve">
-    <value>Sambungkan profil Komuniti Penerbangan Infinite untuk menunjukkan nama pengguna anda dalam penerbangan. Sambungan ini juga membolehkan anda melog masuk jika anda menukar platform peranti.</value>
+    <value>Hubungkan profil Komunitas Infinite Flight Anda untuk menampilkan nama pengguna Anda saat terbang. Koneksi ini juga memungkinkan Anda untuk masuk jika Anda beralih platform perangkat.</value>
     <comment>Connect an Infinite Flight Community profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription" xml:space="preserve">
-    <value>Urus Langganan</value>
+    <value>Kelola Langganan</value>
     <comment>Manage Subscription</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Android" xml:space="preserve">
-    <value>Langganan anda telah dibeli pada platform lain dan tidak boleh diurus daripada peranti ini.</value>
+    <value>Langganan Anda dibeli di platform yang berbeda dan tidak dapat dikelola dari perangkat ini.</value>
     <comment>Your subscription was purchased on a different platform and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.Error" xml:space="preserve">
-    <value>Tidak dapat menyambung ke kedai. Anda boleh mengurus langganan anda dengan pergi ke halaman langganan kedai.</value>
+    <value>Tidak dapat terhubung ke toko. Anda dapat mengelola langganan Anda dengan mengunjungi halaman langganan toko.</value>
     <comment>Can't connect to the store. You can manage your subscription by going to the store's subscriptions page.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription.iOS" xml:space="preserve">
-    <value>Langganan anda telah dibeli pada iOS dan tidak boleh diurus daripada peranti ini.</value>
+    <value>Langganan Anda dibeli di iOS dan tidak dapat dikelola dari perangkat ini.</value>
     <comment>Your subscription was purchased on iOS and can't be managed from this device.</comment>
   </data>
   <data name="Settings.Account.NotSubscribed" xml:space="preserve">
-    <value>Anda tidak melanggan Infinite Flight Pro</value>
+    <value>Anda belum berlangganan Infinite Flight Pro</value>
     <comment>You are not subscribed to Infinite Flight Pro</comment>
   </data>
   <data name="Settings.Account.Stats.Subtitle" xml:space="preserve">
-    <value>Lihat tahap gred dan sejarah pelanggaran anda. Statistik ini menentukan kelayakan tahap pelayan berbilang pemain</value>
+    <value>Lihat tingkat kelas dan riwayat pelanggaran Anda. Statistik ini menentukan apakah anda bisa bergabung dengan server multipemain.</value>
     <comment>See your grade level and violation history. These stats determine multiplayer server level eligibility</comment>
   </data>
   <data name="Settings.Account.Stats.Title" xml:space="preserve">
-    <value>Statistik Akaun</value>
+    <value>Statistik Akun</value>
     <comment>Account Statistics</comment>
   </data>
   <data name="Settings.Account.StatsError" xml:space="preserve">
-    <value>Terdapat masalah mendapatkan statistik anda. Cuba lagi atau hubungi sokongan.</value>
+    <value>Ada masalah saat mengambil data statistik Anda. Coba lagi atau hubungi bantuan.</value>
     <comment>There was a problem getting your stats. Try again or contact support.</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithAutoRenew" xml:space="preserve">
-    <value>Anda melanggan {0} yang memperbaharui pada {1}</value>
+    <value>Anda telah berlangganan ke {0} yang akan diperbarui pada {1}</value>
     <comment>You are subscribed to {0} which renews on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.ActiveWithoutAutoRenew" xml:space="preserve">
-    <value>Anda melanggan {0} yang tamat tempoh pada {1}</value>
+    <value>Anda telah berlangganan ke {0} yang akan berakhir pada {1}</value>
     <comment>You are subscribed to {0} which expires on {1}</comment>
   </data>
   <data name="Settings.Account.Subscription.InGracePeriod" xml:space="preserve">
-    <value>Pembaharuan untuk langganan anda gagal. Ketik Urus Langganan untuk menyemak maklumat pembayaran sebelum {0}</value>
+    <value>Perpanjangan langganan Anda gagal. Ketuk Kelola Langganan untuk memeriksa informasi pembayaran sebelum {0}</value>
     <comment>The renewal for your subscription failed. Tap on Manage Subscription to check payment info before {0}</comment>
   </data>
   <data name="Settings.Account.Subscription.Title" xml:space="preserve">
@@ -923,15 +923,15 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Your Infinite Flight Pro Subscription</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Subtitle" xml:space="preserve">
-    <value>Gunakan akaun Infinite Flight yang berbeza untuk mengakses langganan yang dibeli pada peranti lain</value>
+    <value>Gunakan akun Infinite Flight yang berbeda untuk mengakses langganan yang dibeli di perangkat lain.</value>
     <comment>Use a different Infinite Flight account to access a subscription bought on another device</comment>
   </data>
   <data name="Settings.Account.SwitchAccount.Title" xml:space="preserve">
-    <value>Tukar akaun</value>
+    <value>Ganti Akun</value>
     <comment>Switch Account</comment>
   </data>
   <data name="Settings.Account.Unlink" xml:space="preserve">
-    <value>Nyahpaut</value>
+    <value>Putuskan Tautan</value>
     <comment>Unlink</comment>
   </data>
   <data name="Settings.Account.ViewStats" xml:space="preserve">
@@ -939,11 +939,11 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>View Stats</comment>
   </data>
   <data name="Settings.Controls.Axes" xml:space="preserve">
-    <value>Paksi</value>
+    <value>Sumbu</value>
     <comment>Axes</comment>
   </data>
   <data name="Settings.Controls.Axes.AxesKey" xml:space="preserve">
-    <value>Petunjuk/Paksi</value>
+    <value>Kunci/Sumbu</value>
     <comment>Key/Axis</comment>
   </data>
   <data name="Settings.Controls.Axes.CommandName" xml:space="preserve">
@@ -951,19 +951,19 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Command Name</comment>
   </data>
   <data name="Settings.Controls.Axes.NullZone" xml:space="preserve">
-    <value>Zon Nol / Sensitiviti</value>
+    <value>Zona Nol / Sensitivitas</value>
     <comment>Null Zone / Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Axes.Reverse" xml:space="preserve">
-    <value>terbalik</value>
+    <value>Balik</value>
     <comment>Rev.</comment>
   </data>
   <data name="Settings.Controls.Axes.Sensitivity" xml:space="preserve">
-    <value>Sensitiviti</value>
+    <value>Sensitivitas</value>
     <comment>Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Buttons" xml:space="preserve">
-    <value>Butang</value>
+    <value>Tombol</value>
     <comment>Buttons</comment>
   </data>
   <data name="Settings.Controls.Commands" xml:space="preserve">
@@ -975,31 +975,31 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Alternate</comment>
   </data>
   <data name="Settings.Controls.MoveAxisToAssign" xml:space="preserve">
-    <value>Gerakkan Axis pada Peranti untuk Ditugaskan</value>
+    <value>Pindahkan Axis pada perangkat untuk mengatur</value>
     <comment>Move Axis on Device to Assign</comment>
   </data>
   <data name="Settings.Controls.RestoreDefaults" xml:space="preserve">
-    <value>Kembali kepada asal</value>
+    <value>Pengaturan Awal</value>
     <comment>Restore Defaults</comment>
   </data>
   <data name="Settings.Controls.SetupGuide" xml:space="preserve">
-    <value>Panduan Persediaan</value>
+    <value>Panduan Pengaturan</value>
     <comment>Setup Guide</comment>
   </data>
   <data name="Settings.Controls.ShowDevices" xml:space="preserve">
-    <value>Tunjukkan Peranti</value>
+    <value>Tampilkan Perangkat</value>
     <comment>Show Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.DeviceSingular" xml:space="preserve">
-    <value>Peranti</value>
+    <value>Perangkat</value>
     <comment>Device</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.DevicesPlural" xml:space="preserve">
-    <value>Peranti</value>
+    <value>Peraangkat</value>
     <comment>Devices</comment>
   </data>
   <data name="Settings.Controls.ShowDevices.NoDevices" xml:space="preserve">
-    <value>Tiada peranti tersedia. Semak Panduan Persediaan untuk mendapatkan bantuan</value>
+    <value>Tidak ada perangkat yang tersedia. Silakan periksa Panduan Pengaturan untuk bantuan</value>
     <comment>No devices are available. Check the Setup Guide for help</comment>
   </data>
   <data name="Settings.Controls.Unassigned" xml:space="preserve">
