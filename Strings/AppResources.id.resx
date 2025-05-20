@@ -2032,23 +2032,23 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>AUTOPILOT DISENGAGED</comment>
   </data>
   <data name="SystemMessaging.Autopilot.DisengagedCheckParams" xml:space="preserve">
-    <value>AUTOPILOT DIHENTIKAN - SEMAK PARAMETER PENERBANGAN</value>
+    <value>AUTOPILOT DINONAKTIFKAN - PERIKSA PARAMETER PENERBANGAN</value>
     <comment>AUTOPILOT DISENGAGED - CHECK FLIGHT PARAMETERS</comment>
   </data>
   <data name="SystemMessaging.Autopilot.EngagedWithClimbRate" xml:space="preserve">
-    <value>AUTOPILOT HIDUP - KELAJUAN MENEGAK :{0:#0} kaki/minit</value>
+    <value>AUTOPILOT AKTIF - VS: {0:#0} kaki per menit</value>
     <comment>AUTOPILOT ON - VS: {0:#0} ft/min</comment>
   </data>
   <data name="SystemMessaging.Engine.MasterSwitchPrompt" xml:space="preserve">
-    <value>Hidupkan suis ketua dalam panel elektrik sebelum menghidupkan enjin</value>
+    <value>>Nyalakan saklar utama di panel listrik sebelum menghidupkan mesin.</value>
     <comment>Turn on the master switch in the electrical panel before starting engine</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.Off" xml:space="preserve">
-    <value>VEKTOR LALUAN PENERBANGAN DIMATIKAN</value>
+    <value>VEKTOR JALUR PENERBANGAN MATI</value>
     <comment>FLIGHT PATH VECTOR OFF</comment>
   </data>
   <data name="SystemMessaging.FlightPathVector.On" xml:space="preserve">
-    <value>VEKTOR LALUAN PENERBANGAN HIDUP</value>
+    <value>VEKTOR JALUR PENERBANGAN NYALA</value>
     <comment>FLIGHT PATH VECTOR ON</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.Alt" xml:space="preserve">
@@ -2056,11 +2056,11 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>ALT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.ArrivingAtDestination" xml:space="preserve">
-    <value>TIBA DI DESTINASI dalam &lt; 1 minit</value>
+    <value>Tiba di tujuan dalam < 1 menit</value>
     <comment>ARRIVING AT DESTINATION in &lt; 1min</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.FlyHdg" xml:space="preserve">
-    <value>TERBANG MENUJU</value>
+    <value>ARAH TERBANG</value>
     <comment>FLY HDG</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.FT" xml:space="preserve">
@@ -2068,15 +2068,15 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>FT (feet)</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWpt" xml:space="preserve">
-    <value>TITIK JALAN SETERUSNYA:</value>
+    <value>WPT BERIKUTNYA</value>
     <comment>NEXT WPT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
-    <value>TITIK JALAN SETERUSNYA dalam &lt; 1 Min - Beralih ke HEADING</value>
+    <value>WPT Berikutnya dalam < 1 Menit - Beralih ke HDG</value>
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
-    <value>Tidak boleh memulakan pembuangan minyak. Ketinggian min 7000 kaki dari aras tanah</value>
+    <value>Tidak dapat memulai pembuangan bahan bakar. Ketinggian minimum 7000 kaki AGL.</value>
     <comment>Cannot start fuel dump. Min altitude 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelowMLW" xml:space="preserve">
