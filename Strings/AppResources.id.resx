@@ -339,7 +339,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Automatically Set Start Airport</comment>
   </data>
   <data name="Settings.General.ControlSensitivity.Subtitle" xml:space="preserve">
-    <value>Menyetel sensitivitas pengaturan</value>
+    <value>Mengatur sensitivitas kontrol</value>
     <comment>Sets the controls sensitivity</comment>
   </data>
   <data name="Settings.General.ControlSensitivity.Title" xml:space="preserve">
@@ -347,7 +347,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Control Sensitivity</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Subtitle" xml:space="preserve">
-    <value>Mengawal berapa lama kawalan Antara Muka Pengguna kekal pada skrin.</value>
+    <value>Mengontrol berapa lama kontrol Antarmuka Pengguna tetap ditampilkan di layar.</value>
     <comment>Controls how long the User Interface controls stay on screen.</comment>
   </data>
   <data name="Settings.General.InterfaceTimeout.Title" xml:space="preserve">
@@ -355,31 +355,31 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Interface Timeout</comment>
   </data>
   <data name="Settings.General.InvertCockpitCameraMotion.Subtitle" xml:space="preserve">
-    <value>Terbalikkan gerakan kamera dalaman (Menara, Dalam kapal terbang, Kokpit)</value>
+    <value>Membalik arah gerakan kamera internal (Tower, Didalam , Cockpit)</value>
     <comment>Inverts the motion of internal camera (Tower, Onboard, Cockpit)</comment>
   </data>
   <data name="Settings.General.InvertCockpitCameraMotion.Title" xml:space="preserve">
-    <value>Terbalikkan kamera dalaman gerakan menegak</value>
+    <value>Membalikkan Gerakan Vertikal Kamera Internal</value>
     <comment>Invert Internal Cameras Vertical Motion</comment>
   </data>
   <data name="Settings.General.InvertVerticalCameraMotion.Subtitle" xml:space="preserve">
-    <value>Terbalikkan gerakan menegak kamera luaran</value>
+    <value>Balikkan gerakan vertikal kamera eksternal</value>
     <comment>Invert the vertical motion of the external cameras</comment>
   </data>
   <data name="Settings.General.InvertVerticalCameraMotion.Title" xml:space="preserve">
-    <value>Terbalikkan pergerakan menegak kamera luaran</value>
+    <value>Balikkan Arah Kamera Eksternal Vertikal</value>
     <comment>Invert External Cameras Vertical Motion</comment>
   </data>
   <data name="Settings.General.LandingAid.Subtitle" xml:space="preserve">
-    <value>Menunjukkan set segi empat tepat di sekeliling laluan pendaratan. Membantu membuat pendaratan yang stabil.</value>
+    <value>Menampilkan serangkaian persegi panjang di sekitar jalur pendaratan. Membantu melakukan pendaratan yang stabil.</value>
     <comment>Shows a set of rectangles around the landing path. Helps make stabilized landings.</comment>
   </data>
   <data name="Settings.General.LandingAid.Title" xml:space="preserve">
-    <value>Bantuan Pendaratan</value>
+    <value>Bantuan saat mendarat</value>
     <comment>Landing Aid</comment>
   </data>
   <data name="Settings.General.Language.Subtitle" xml:space="preserve">
-    <value>Menetapkan bahasa antara muka aplikasi</value>
+    <value>Mengatur bahasa antarmuka aplikasi</value>
     <comment>Sets the language of the app's interface</comment>
   </data>
   <data name="Settings.General.Language.Title" xml:space="preserve">
@@ -387,11 +387,11 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Language</comment>
   </data>
   <data name="Settings.General.ShowAirportNames.Subtitle" xml:space="preserve">
-    <value>Tunjukkan nama dan jarak lapangan terbang semasa terbang</value>
+    <value>Tampilkan nama dan jarak bandara saat terbang</value>
     <comment>Show names and distance of the airports while flying</comment>
   </data>
   <data name="Settings.General.ShowAirportNames.Title" xml:space="preserve">
-    <value>Nama Lapangan Terbang</value>
+    <value>Nama Bandara</value>
     <comment>Airport Names</comment>
   </data>
   <data name="Settings.Graphics" xml:space="preserve">
@@ -399,7 +399,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Graphics (tab title)</comment>
   </data>
   <data name="Settings.Multiplayer" xml:space="preserve">
-    <value>Dalam Talian</value>
+    <value>Multipemain</value>
     <comment>Multiplayer (tab title)</comment>
   </data>
   <data name="Settings.Option.High" xml:space="preserve">
@@ -407,7 +407,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>High (option)</comment>
   </data>
   <data name="Settings.Option.Kilograms" xml:space="preserve">
-    <value>Kilograms (Kg)</value>
+    <value>Kilogram (Kg)</value>
     <comment>Kilograms (option)</comment>
   </data>
   <data name="Settings.Option.Low" xml:space="preserve">
@@ -415,11 +415,11 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Low (option)</comment>
   </data>
   <data name="Settings.Option.Medium" xml:space="preserve">
-    <value>Sederhana</value>
+    <value>Sedang</value>
     <comment>Medium (option)</comment>
   </data>
   <data name="Settings.Option.None" xml:space="preserve">
-    <value>Tiada</value>
+    <value>Tidak ada</value>
     <comment>None (option)</comment>
   </data>
   <data name="Settings.Option.Off" xml:space="preserve">
@@ -431,11 +431,11 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>On (option)</comment>
   </data>
   <data name="Settings.Option.Pounds" xml:space="preserve">
-    <value>paun (lbs)</value>
+    <value>Pound (lbs)</value>
     <comment>Pounds (option)</comment>
   </data>
   <data name="Settings.Option.Unlimited" xml:space="preserve">
-    <value>Tidak terhad</value>
+    <value>Tak terbatas</value>
     <comment>Unlimited (option)</comment>
   </data>
   <data name="Settings.Option.VeryHigh" xml:space="preserve">
@@ -443,103 +443,103 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Very High (option)</comment>
   </data>
   <data name="Settings.SendCurrentLog" xml:space="preserve">
-    <value>Send Current Log</value>
+    <value>Kirim Log Saat Ini</value>
     <comment>Send Current Log (button text)</comment>
   </data>
   <data name="Settings.SendPreviousLog" xml:space="preserve">
-    <value>Hantar Log Semasa</value>
+    <value>Kirim Log Sebelumnya</value>
     <comment>Send Previous Log (button text)</comment>
   </data>
   <data name="Settings.Sounds" xml:space="preserve">
-    <value>Audio</value>
+    <value>Suara</value>
     <comment>Sounds (tab title)</comment>
   </data>
   <data name="Global.Confirm" xml:space="preserve">
-    <value>Sahkan</value>
+    <value>Konfirmasi</value>
     <comment>Confirm</comment>
   </data>
   <data name="Global.Warning" xml:space="preserve">
-    <value>Amaran</value>
+    <value>Peringatan</value>
     <comment>Warning</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Subtitle" xml:space="preserve">
-    <value>Gandingkan aileron dan kemudi secara automatik (di atas tanah sahaja)</value>
+    <value>Secara otomatis menghubungkan aileron dan kemudi (hanya di darat)</value>
     <comment>Automatically couple the ailerons and rudder (on the ground only)</comment>
   </data>
   <data name="Settings.General.AutoCoordination.Title" xml:space="preserve">
-    <value>Penyelarasan Automatik</value>
+    <value>Koordinasi Otomatis</value>
     <comment>Auto-Coordination</comment>
   </data>
   <data name="Settings.General.AutomaticEngineStart.Subtitle" xml:space="preserve">
-    <value>Sentiasa mulakan dengan enjin hidup</value>
+    <value>Selalu mulai dengan mesin menyala</value>
     <comment>Always start with engine running</comment>
   </data>
   <data name="Settings.General.AutomaticEngineStart.Title" xml:space="preserve">
-    <value>Mulakan Enjin Automatik</value>
+    <value>Menyalakan Mesin Otomatis</value>
     <comment>Automatic Engine Start</comment>
   </data>
   <data name="Settings.General.AutomaticLowPower.Subtitle" xml:space="preserve">
-    <value>Masukkan mod kuasa rendah semasa penerbangan jauh untuk menjimatkan bateri</value>
+    <value>Aktifkan mode hemat daya selama penerbangan panjang untuk menghemat baterai</value>
     <comment>Enter low power during long flights to save battery</comment>
   </data>
   <data name="Settings.General.AutomaticLowPower.Title" xml:space="preserve">
-    <value>Dayakan Kuasa Rendah Automatik</value>
+    <value>Aktifkan Mode Daya Rendah Otomatis</value>
     <comment>Enable Automatic Low Power</comment>
   </data>
   <data name="Settings.General.ClearSceneryCache.Subtitle" xml:space="preserve">
-    <value>Kosongkan data pemandangan yang dicache pada storan tempatan</value>
+    <value>Hapus data pemandangan yang disimpan di penyimpanan lokal</value>
     <comment>Clear scenery data cached on local storage</comment>
   </data>
   <data name="Settings.General.ClearSceneryCache.Title" xml:space="preserve">
-    <value>Kosongkan Cache Pemandangan</value>
+    <value>Hapus Cache Pemandangan</value>
     <comment>Clear Scenery Cache</comment>
   </data>
   <data name="Settings.General.Connect.Subtitle" xml:space="preserve">
-    <value>Dayakan Sistem API Sambung Infinite Flight (Percubaan)</value>
+    <value>Aktifkan Sistem API Infinite Flight Connect (Eksperimental)</value>
     <comment>Enable Infinite Flight Connect API System (Experimental)</comment>
   </data>
   <data name="Settings.General.Connect.Title" xml:space="preserve">
-    <value>Dayakan Infinite Flight Connect</value>
+    <value>Aktifkan Infinite Flight Connect</value>
     <comment>Enable Infinite Flight Connect</comment>
   </data>
   <data name="Settings.General.ForeFlight.Subtitle" xml:space="preserve">
-    <value>Menghantar data Kedudukan/Sikap/Trafik ke peranti tempatan yang menjalankan ForeFlight</value>
+    <value>Mengirimkan data posisi/Ketinggian/lalu lintas ke perangkat lokal yang menjalankan ForeFlight.</value>
     <comment>Sends Position/Attitude/Traffic data to local devices running ForeFlight</comment>
   </data>
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
-    <value>Dayakan Link EFB</value>
+    <value>Aktifkan Tautan ForeFlight</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
-    <value>Sembunyikan status apabila tamat masa antara muka berlaku</value>
+    <value>Sembunyikan status saat waktu tunggu antarmuka habis</value>
     <comment>Hide the status when interface timeout occurs</comment>
   </data>
   <data name="Settings.General.HideStatusBar.Title" xml:space="preserve">
-    <value>Sembunyikan Bar Status</value>
+    <value>Sembunyikan Bilah Status</value>
     <comment>Hide Status Bar</comment>
   </data>
   <data name="Settings.General.LanguageChangeWarning" xml:space="preserve">
-    <value>Adakah anda pasti mahu menukar bahasa aplikasi?</value>
+    <value>Apakah Anda yakin ingin mengubah bahasa aplikasi?</value>
     <comment>Are you sure you want to change the app language?</comment>
   </data>
   <data name="Settings.General.ScreenshotResolutionScale.Subtitle" xml:space="preserve">
-    <value>Faktor skala resolusi untuk tangkapan skrin</value>
+    <value>Skala resolusi untuk tangkapan layar</value>
     <comment>Resolution scale factor for screenshots</comment>
   </data>
   <data name="Settings.General.ScreenshotResolutionScale.Title" xml:space="preserve">
-    <value>Skala Resolusi Tangkapan Skrin</value>
+    <value>Skala Resolusi Tangkapan Layar</value>
     <comment>Screenshot Resolution scale</comment>
   </data>
   <data name="Settings.General.ShowPerformanceMetrics.Subtitle" xml:space="preserve">
-    <value>Menunjukkan metrik termasuk kadar bingkai semasa</value>
+    <value>Menampilkan metrik termasuk frame rate saat ini</value>
     <comment>Shows metrics including the current frame rate</comment>
   </data>
   <data name="Settings.General.ShowPerformanceMetrics.Title" xml:space="preserve">
-    <value>Tunjukkan Metrik Prestasi</value>
+    <value>Tampilkan Metrik Kinerja</value>
     <comment>Show Performance Metrics</comment>
   </data>
   <data name="Settings.General.ShowTouches.Subtitle" xml:space="preserve">
-    <value>Berguna semasa merakam video/tutorial</value>
+    <value>Berguna saat merekam video/tutorial</value>
     <comment>Useful when recording videos/tutorials</comment>
   </data>
   <data name="Settings.General.ShowTouches.Title" xml:space="preserve">
@@ -547,55 +547,55 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Show Touches</comment>
   </data>
   <data name="Settings.General.WeightUnits.Subtitle" xml:space="preserve">
-    <value>Pilih unit berat (Kilogram atau Paun)</value>
+    <value>Pilih satuan berat (Kg atau Lbs)</value>
     <comment>Select weight units (Kg or Lbs)</comment>
   </data>
   <data name="Settings.General.WeightUnits.Title" xml:space="preserve">
-    <value>Unit Berat</value>
+    <value>Satuan Berat</value>
     <comment>Weight Units</comment>
   </data>
   <data name="Settings.Graphics.AntiAliasing.Subtitle" xml:space="preserve">
-    <value>Tidak disokong pada semua peranti dan boleh menjadikan peranti anda perlahan</value>
+    <value>Tidak didukung di semua perangkat dan dapat berjalan sangat lambat</value>
     <comment>Not supported on all devices and can run very slow</comment>
   </data>
   <data name="Settings.Graphics.AntiAliasing.Title" xml:space="preserve">
-    <value>Anti-aliasi</value>
+    <value>Anti-Aliasing</value>
     <comment>Anti-Aliasing</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Subtitle" xml:space="preserve">
-    <value>Menetapkan kadar bingkai tertinggi yang dibenarkan.</value>
+    <value>Mengatur frame rate tertinggi yang diizinkan.</value>
     <comment>Sets the highest allowed frame rate.</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimit.Title" xml:space="preserve">
-    <value>Had kadar bingkai</value>
+    <value>Batas Frame rate</value>
     <comment>Frame rate limit</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
-    <value>Menetapkan kadar bingkai kepada 60 bingkai sesaat boleh menyebabkan peranti anda menjadi terlalu panas. Untuk mengelakkan kerosakan, peranti anda mungkin menjadi perlahan yang boleh menyebabkan Infinite Flight berjalan perlahan. Kami mengesyorkan mengekalkan tetapan ini kepada 30 bingkai sesaat.</value>
+    <value>Menetapkan Frame Rate ke 60fps dapat menyebabkan perangkat Anda kepanasan. Untuk mencegah kerusakan, perangkat Anda dapat melambat yang dapat menyebabkan Infinite Flight berjalan lambat.\nKami sarankan untuk mempertahankan pengaturan ini pada 30fps.</value>
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
-    <value>Gunakan seluruh skrin semasa bermain.</value>
+    <value>Gunakan seluruh layar saat bermain.</value>
     <comment>Use the entire screen when playing.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Title" xml:space="preserve">
-    <value>Skrin penuh</value>
+    <value>Layar Penuh<//value>
     <comment>Full Screen</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Subtitle" xml:space="preserve">
-    <value>Mengawal ketumpatan objek di lapangan terbang</value>
+    <value>Mengatur kepadatan objek di bandara</value>
     <comment>Controls the density of objects at airports</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Title" xml:space="preserve">
-    <value>Ketumpatan Objek 3D</value>
+    <value>Kepadatan Objek 3D</value>
     <comment>3D Object Density</comment>
   </data>
   <data name="Settings.Graphics.RenderingQuality.Subtitle" xml:space="preserve">
-    <value>Mengawal kualiti rendering</value>
+    <value>Mengontrol kualitas rendering</value>
     <comment>Controls the quality of the rendering</comment>
   </data>
   <data name="Settings.Graphics.RenderingQuality.Title" xml:space="preserve">
-    <value>Kualiti Penyampaian</value>
+    <value>Kualitas Render</value>
     <comment>Rendering Quality</comment>
   </data>
   <data name="Settings.Graphics.RenderingResolution.Subtitle" xml:space="preserve">
