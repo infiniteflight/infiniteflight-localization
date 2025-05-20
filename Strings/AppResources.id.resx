@@ -2080,130 +2080,123 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>Cannot start fuel dump. Min altitude 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelowMLW" xml:space="preserve">
-    <value>Tidak boleh memulakan pembuangan minyak. Pesawat berada di bawah Berat Pendaratan Maksimum</value>
+    <value>Tidak dapat memulai pembuangan bahan bakar. Pesawat berada di bawah Berat Pendaratan Maksimum.</value>
     <comment>Cannot start fuel dump. Aircraft is below Maximum Landing Weight</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.FuelTooLow" xml:space="preserve">
-    <value>Tidak boleh memulakan pembuangan minyak. Tahap minyak terlalu rendah!</value>
+    <value>Tidak dapat memulai pembuangan bahan bakar. Tingkat bahan bakar terlalu rendah!</value>
     <comment>Cannot start fuel dump. Fuel level too low!</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Starting" xml:space="preserve">
-    <value>Memulakan Pembuangan Minyak - Pantau Tahap Minyak</value>
+    <value>Mulai Pembuangan Bahan Bakar - Pantau Tingkat Bahan Bakar</value>
     <comment>Starting Fuel Dump - Monitor Fuel Level</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelow7000" xml:space="preserve">
-    <value>Tempat pembuangan minyak berhenti. Pesawat berada di bawah 7000 kaki di atas paras tanahL</value>
+    <value>Pembuangan bahan bakar dihentikan. Pesawat berada di bawah 7000 kaki di atas permukaan laut (AGL)</value>
     <comment>Fuel dump stopped. Aircraft is below 7000ft AGL</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.AircraftBelowMLW" xml:space="preserve">
-    <value>Tempat pembuangan minyak berhenti. Pesawat berada di bawah berat pendaratan maksimum</value>
+    <value>Pembuangan bahan bakar dihentikan. Berat pesawat di bawah berat pendaratan maksimum</value>
     <comment>Fuel dump stopped. Aircraft is below maximum landing weight</comment>
   </data>
   <data name="SystemMessaging.FuelDump.Stopped.FuelTooLow" xml:space="preserve">
-    <value>Tempat pembuangan minyak berhenti. Tahap minyak terlalu rendah</value>
+    <value>Pembuangan bahan bakar dihentikan. Tingkat bahan bakar terlalu rendah.</value>
     <comment>Fuel dump stopped. Fuel level too low</comment>
   </data>
   <data name="SystemMessaging.Gear.UpWarning" xml:space="preserve">
-    <value>Amaran, Gear Pendaratan Tidak Digunakan</value>
+    <value>Peringatan, Roda pendaratan dalam posisi naik.</value>
     <comment>Warning, Landing Gear is Up</comment>
   </data>
   <data name="SystemMessaging.LowPowerMode.Disabled" xml:space="preserve">
-    <value>Mod Kuasa Rendah Dilumpuhkan</value>
+    <value>Mode Daya Rendah Dinonaktifkan</value>
     <comment>Low Power Mode Disabled</comment>
   </data>
   <data name="SystemMessaging.LowPowerMode.Enabled" xml:space="preserve">
-    <value>Mod Kuasa Rendah Didayakan</value>
+    <value>Mode Daya Rendah Diaktifkan</value>
     <comment>Low Power Mode Enabled</comment>
   </data>
   <data name="SystemMessaging.OutOfRegion" xml:space="preserve">
-    <value>Infinite Flight Pro diperlukan untuk terbang di luar kawasan lalai.
-Ketik di sini untuk mendapatkan maklumat lanjut</value>
+    <value>Infinite Flight Pro diperlukan untuk terbang di luar wilayah default.
+Ketuk di sini untuk informasi lebih lanjut</value>
     <comment>Infinite Flight Pro is required to fly outside of the default regions.
 Tap here for more information</comment>
   </data>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
-    <value>Terlalu laju! Kurangkan pendikit/kuasa untuk memperlahankan di bawah kelajuan maksimum pesawat</value>
+    <value>Terlalucepat! Kurangi gas/daya untuk memperlambat kecepatan di bawah kecepatan maksimum pesawat.</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
-    <value>MULA TOLAK KEMBALI</value>
+    <value>MULAI DORONG MUNDUR</value>
     <comment>STARTING PUSHBACK</comment>
   </data>
   <data name="SystemMessaging.PushbackStopped" xml:space="preserve">
-    <value>TOLAK KEMBALI BERHENTI</value>
+    <value>BERHENTI DORONG MUNDUR</value>
     <comment>PUSHBACK STOPPED</comment>
   </data>
   <data name="SystemMessaging.Refueling.Aerial" xml:space="preserve">
-    <value>Pengisian Minyak Udara Dimulakan...</value>
+    <value>Pengisian bahan bakar di udara dimulai...</value>
     <comment>Aerial Refueling Started...</comment>
   </data>
   <data name="SystemMessaging.Refueling.Complete" xml:space="preserve">
-    <value>Pengisian Minyak Selesai</value>
+    <value>Pengisian bahan bakar Selesai</value>
     <comment>Refueling Complete</comment>
   </data>
   <data name="SystemMessaging.Refueling.Standard" xml:space="preserve">
-    <value>Pengisian Minyak Dimulakan...</value>
+    <value>Pengisian bahan bakar Dimulai...</value>
     <comment>Refueling Started...</comment>
   </data>
   <data name="SystemMessaging.SpeedMode.CannotActivate" xml:space="preserve">
-    <value>Tidak boleh mengaktifkan mod kelajuan. Kapal terbang berada di atas tanah.</value>
+    <value>Tidak dapat mengaktifkan mode kecepatan. Pesawat sedang berada di darat.</value>
     <comment>Cannot activate speed mode. Airplane is on the ground.</comment>
   </data>
   <data name="SystemMessaging.Stall.Approaching" xml:space="preserve">
-    <value>Menghampiri gerai! Tolak kuk/tongkat ke hadapan untuk pulih</value>
+    <value>Mendekati kondisi stall! Dorong tuas kemudi ke depan untuk memulihkan kendali.</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
   <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>GERAI AERODINAMIK! Tolak kuk/tongkat ke hadapan untuk pulih</value>
+    <value>KONDISI STALL! Dorong tuas kemudi ke depan untuk memulihkan kendali.</value>
     <comment>STALL! Push yoke/stick forward to recover</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
-    <value>Autopilot mesti diaktifkan untuk menukar skala masa simulasi</value>
+    <value>Autopilot harus diaktifkan untuk mengubah skala waktu simulasi</value>
     <comment>Autopilot must be activated to change simulation time scale</comment>
   </data>
   <data name="SystemMessaging.TimeScale.FighterJetsWarning" xml:space="preserve">
-    <value>Skala masa simulasi tidak boleh diubah untuk jet pejuang.</value>
+    <value>Skala waktu simulasi tidak dapat diubah untuk jet tempur.</value>
     <comment>Simulation time scale cannot be changed for fighter jets.</comment>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
-    <value>AMARAN AEROBATIK
-Manuver Aerobatik dilarang berhampiran lapangan terbang.</value>
+    <value>PERINGATAN EROBATIK\nManuver aerobatik dilarang di dekat bandara.</value>
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>AMARAN TERBILANG LALUAN
-Berada di landasan aktif untuk jangka masa yang panjang adalah dilarang.
-Keluar dari landasan atau berlepas untuk mengelak daripada menerima pelanggaran</value>
+    <value>Peringatan Idle di Landasan Pacu\nBerada di landasan pacu aktif dalam waktu yang lama dilarang.\nKeluar dari landasan pacu atau lepas landas untuk menghindari pelanggaran.</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>AMARAN KELAJUAN TEKSI
-Kelajuan tanah maksimum semasa menaiki teksi: 35 knot.
-Perlahan untuk mengelakkan pelanggaran.</value>
+    <value>PERINGATAN KE CEPATAN TAKSI\nKecepatan maksimum saat taksi: 35 knot.\nKurangi kecepatan untuk menghindari pelanggaran.</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
-    <value>VNAV tidak tersedia semasa pendakian.
-Fungsi ini hanya tersedia untuk keturunan.</value>
+    <value>VNAV tidak tersedia selama pendakian.\nFungsi ini hanya tersedia untuk penurunan.</value>
     <comment>VNAV unavailable during climb.\nThis functionality is only available for descent.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
-    <value>VNAV Menurun ke {0} pada {1:n0} kaki</value>
+    <value>VNAV turun ke {0} pada {1:n0} kaki.</value>
     <comment>VNAV Descending to {0} at {1:n0}ft</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
-    <value>VNAV Tidak Tersedia
-Tiada ketinggian ditetapkan untuk mana-mana titik laluan dalam Pelan Penerbangan</value>
+    <value>VNAV tidak tersedia\nTidak ada ketinggian yang ditetapkan untuk titik jalan mana pun dalam Rencana Penerbangan</value>
     <comment>VNAV Unavailable\nNo altitude set for any waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
-    <value>VNAV Tidak Tersedia
-Tiada titik laluan dalam Rancangan Penerbangan</value>
+    <value>VNAV tidak tersedia
+Tidak ada titik waypoint dalam Rencana Penerbangan</value>
     <comment>VNAV Unavailable
 No waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.TargetUpdated" xml:space="preserve">
-    <value>Sasaran VNAV dikemas kini kepada {0} ({2:#0.0}NM) @ {1:n0} kaki</value>
+    <value>Target VNAV diperbarui menjadi {0} ({2:#0.0}NM) @ {1:n0}kaki</value>
     <comment>VNAV Target updated to {0} ({2:#0.0}NM) @ {1:n0}ft</comment>
   </data>
   <data name="Violations.ExceededDisconnection" xml:space="preserve">
