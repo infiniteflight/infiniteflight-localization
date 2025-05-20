@@ -1003,23 +1003,23 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>No devices are available. Check the Setup Guide for help</comment>
   </data>
   <data name="Settings.Controls.Unassigned" xml:space="preserve">
-    <value>Alih Keluar Tugasan</value>
+    <value>Tidak Ditugaskan </value>
     <comment>Unassigned</comment>
   </data>
   <data name="Settings.Controls.UseNetworkJoystick" xml:space="preserve">
-    <value>Gunakan Joystick Rangkaian</value>
+    <value>Gunakan Joystick Jaringan</value>
     <comment>Use Network Joystick</comment>
   </data>
   <data name="Settings.Sounds.ATC" xml:space="preserve">
-    <value>Kelantangan Pengawal Trafic Udara </value>
+    <value>Volume ATC</value>
     <comment>ATC Volume</comment>
   </data>
   <data name="Settings.Sounds.SFX" xml:space="preserve">
-    <value>Kelantangan Kesan Khas</value>
+    <value>Volume Efek Suara</value>
     <comment>SFX Volume</comment>
   </data>
   <data name="Commands.AutoStartEngines" xml:space="preserve">
-    <value>Enjin Mula Automatik</value>
+    <value>Mesin Otomatis Menyala</value>
     <comment>Auto Start Engine(s)</comment>
   </data>
   <data name="Commands.CockpitCamera" xml:space="preserve">
@@ -1027,11 +1027,11 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Cockpit Camera</comment>
   </data>
   <data name="Commands.FlyByCamera" xml:space="preserve">
-    <value>Kamera Terbang</value>
+    <value>Terbang Dengan Kamera</value>
     <comment>Fly By Camera</comment>
   </data>
   <data name="Commands.FollowCamera" xml:space="preserve">
-    <value>Kamera Ikut</value>
+    <value>Kamera Mengikuti</value>
     <comment>Follow Camera</comment>
   </data>
   <data name="Commands.Group.Autopilot" xml:space="preserve">
@@ -1039,11 +1039,11 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Autopilot</comment>
   </data>
   <data name="Commands.Group.ControlSurfaces" xml:space="preserve">
-    <value>Kawalan Permukaan</value>
+    <value>Kontrol Permukaan</value>
     <comment>Control Surfaces</comment>
   </data>
   <data name="Commands.Group.Engines" xml:space="preserve">
-    <value>Enjin</value>
+    <value>Mesin</value>
     <comment>Engines</comment>
   </data>
   <data name="Commands.Group.General" xml:space="preserve">
@@ -1051,83 +1051,83 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>General</comment>
   </data>
   <data name="Commands.Group.HUD" xml:space="preserve">
-    <value>Paparan Kepala</value>
+    <value>HUD</value>
     <comment>HUD</comment>
   </data>
   <data name="Commands.Live" xml:space="preserve">
-    <value>Berbilang Permain</value>
+    <value>Multipemain</value>
     <comment>Multiplayer</comment>
   </data>
   <data name="Commands.MoveCameraDown" xml:space="preserve">
-    <value>Alihkan Kamera ke Bawah</value>
+    <value>Gerakkan Kamera ke Bawah</value>
     <comment>Move Camera Down</comment>
   </data>
   <data name="Commands.MoveCameraHorizontal" xml:space="preserve">
-    <value>Alihkan Kamera Kiri/Kanan</value>
+    <value>Gerakkan Kamera ke Kiri/Kanan</value>
     <comment>Move Camera Left/Right</comment>
   </data>
   <data name="Commands.MoveCameraLeft" xml:space="preserve">
-    <value>Alihkan Kamera Kiri</value>
+    <value>Gerakkan Kamera Kiri</value>
     <comment>Move Camera Left</comment>
   </data>
   <data name="Commands.MoveCameraRight" xml:space="preserve">
-    <value>Alihkan Kamera Kanan</value>
+    <value>Gerakkan Kamera Kanan</value>
     <comment>Move Camera Right</comment>
   </data>
   <data name="Commands.MoveCameraUp" xml:space="preserve">
-    <value>Alihkan Kamera Naik</value>
+    <value>Gerakkan Kamera Keatas</value>
     <comment>Move Camera Up</comment>
   </data>
   <data name="Commands.MoveCameraVertical" xml:space="preserve">
-    <value>Alihkan Kamera Turun</value>
+    <value>Gerakkan Kamera Kebawah</value>
     <comment>Move Camera Up/Down</comment>
   </data>
   <data name="Commands.NextCamera" xml:space="preserve">
-    <value>Kamera Seterusnya</value>
+    <value>Kamera Selanjutnya</value>
     <comment>Next Camera</comment>
   </data>
   <data name="Commands.OnboardCamera" xml:space="preserve">
-    <value>Kamera Atas Kapal</value>
+    <value>Kamera didalam pesawat</value>
     <comment>Onboard Camera</comment>
   </data>
   <data name="Commands.PreviousCamera" xml:space="preserve">
-    <value>Kamera Terakhir</value>
+    <value>Kamera Sebelumnya</value>
     <comment>Previous Camera</comment>
   </data>
   <data name="Commands.ResetCamera" xml:space="preserve">
-    <value>Tetapkan Semula Kamera</value>
+    <value>Atur Ulang Kamera</value>
     <comment>Reset Camera</comment>
   </data>
   <data name="Commands.SelectATCEntry" xml:space="preserve">
-    <value>Pilih Kemasukan Pengawal Trafik Udara {0}</value>
+    <value>Pilih Entri ATC {0}</value>
     <comment>Select ATC Entry {number}</comment>
   </data>
   <data name="Commands.StartEngine" xml:space="preserve">
-    <value>Mulakan Enjin Ditentukan</value>
+    <value>Nyalakan Mesin yang Ditentukan</value>
     <comment>Start Specified Engine</comment>
   </data>
   <data name="Commands.StopEngine" xml:space="preserve">
-    <value>Matikan Enjin Ditentukan</value>
+    <value>Matikan Mesin Ditentukan</value>
     <comment>Stop Specified Engine</comment>
   </data>
   <data name="Commands.ToggleATCWindow" xml:space="preserve">
-    <value>Togol Tetingkap Pengawal Trafic Udara</value>
+    <value>Tampilkan/Sembunyikan Jendela ATC</value>
     <comment>Toggle ATC Window</comment>
   </data>
   <data name="Commands.ToggleAutopilot" xml:space="preserve">
-    <value>Libatkan/Lepaskan Autopilot</value>
+    <value>Aktifkan/Nonaktifkan Autopilot</value>
     <comment>Engage/Disengage Autopilot</comment>
   </data>
   <data name="Commands.ToggleFlightPathVector" xml:space="preserve">
-    <value>Togol Vektor Laluan Penerbangan</value>
+    <value>Aktifkan/Nonaktifkan Vektor Jalur Penerbangan</value>
     <comment>Toggle Flight Path Vector</comment>
   </data>
   <data name="Commands.ToggleHUD" xml:space="preserve">
-    <value> Togol Paparan Kepala</value>
+    <value>Aktifkan/Nonaktifkan HUD</value>
     <comment>Toggle HUD</comment>
   </data>
   <data name="Commands.TogglePause" xml:space="preserve">
-    <value>Jeda</value>
+    <value>Berhenti</value>
     <comment>Pause</comment>
   </data>
   <data name="Commands.TowerCamera" xml:space="preserve">
@@ -1135,19 +1135,19 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Tower Camera</comment>
   </data>
   <data name="Commands.VirtualCockpitCamera" xml:space="preserve">
-    <value>Kokpit Maya</value>
+    <value>Kokpit Virtual</value>
     <comment>Virtual Cockpit</comment>
   </data>
   <data name="Commands.ZoomIn" xml:space="preserve">
-    <value>Zum Masuk</value>
+    <value>Perbesar</value>
     <comment>Zoom In</comment>
   </data>
   <data name="Commands.ZoomOut" xml:space="preserve">
-    <value>Zum Keluar</value>
+    <value>Perkecil</value>
     <comment>Zoom Out</comment>
   </data>
   <data name="GameMenu.20sAgo" xml:space="preserve">
-    <value>20 Saat Lalu</value>
+    <value>20 detik Lalu</value>
     <comment>20s Ago</comment>
   </data>
   <data name="GameMenu.Calibrate" xml:space="preserve">
@@ -1159,35 +1159,35 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Calibration Complete</comment>
   </data>
   <data name="GameMenu.Crash" xml:space="preserve">
-    <value>NAHAS</value>
+    <value>Kecelakaan</value>
     <comment>CRASH</comment>
   </data>
   <data name="GameMenu.EndFlight" xml:space="preserve">
-    <value>Tamatkan Penerbangan</value>
+    <value>Akhiri Penerbangan</value>
     <comment>End Flight</comment>
   </data>
   <data name="GameMenu.EndSession" xml:space="preserve">
-    <value>Tamatkan Sesi</value>
+    <value>Akhiri Sesi (ATC)</value>
     <comment>End Session (ATC)</comment>
   </data>
   <data name="GameMenu.Paused" xml:space="preserve">
-    <value>DIJEDA</value>
+    <value>Diberhentikan</value>
     <comment>PAUSED</comment>
   </data>
   <data name="GameMenu.Resume" xml:space="preserve">
-    <value>Sambung Semula</value>
+    <value>Lanjutkan</value>
     <comment>Resume</comment>
   </data>
   <data name="GameMenu.ShortFinal" xml:space="preserve">
-    <value>Akhir Pendek</value>
+    <value>Final Pendek</value>
     <comment>Short Final</comment>
   </data>
   <data name="GameMenu.TakeOff" xml:space="preserve">
-    <value>Berlepas</value>
+    <value>Lepas Landas</value>
     <comment>Take Off</comment>
   </data>
   <data name="GameMenu.TapToCalibrate" xml:space="preserve">
-    <value>Ketik skrin untuk menentukur dan mula</value>
+    <value>Ketuk layar untuk mengkalibrasi dan memulai</value>
     <comment>Tap screen to calibrate and start</comment>
   </data>
   <data name="GameMenu.Time" xml:space="preserve">
