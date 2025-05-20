@@ -1611,15 +1611,15 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>No ATC Access</comment>
   </data>
   <data name="MenuPageBase.NoATCAccessOn" xml:space="preserve">
-    <value>Tidak ada Akses ATC pada {0}</value>
+    <value>Tidak Mempunyai Akses ATC pada {0}</value>
     <comment>No ATC Access on {0}</comment>
   </data>
   <data name="MenuPageBase.NoProFound" xml:space="preserve">
-    <value>Tiada langganan Infinite Flight Pro yang sah ditemui</value>
+    <value>Tidak ditemukan langganan Infinite Flight Pro yang valid.</value>
     <comment>No valid Infinite Flight Pro subscription found</comment>
   </data>
   <data name="MenuPageBase.ProRequired" xml:space="preserve">
-    <value>Infinite Flight Pro diperlukan untuk memulakan penerbangan di lokasi ini. Sila tukar lapangan terbang mula.</value>
+    <value>Infinite Flight Pro diperlukan untuk memulai penerbangan di lokasi ini. Silakan ubah bandara awal.</value>
     <comment>Infinite Flight Pro is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="Time.1Hour" xml:space="preserve">
@@ -1627,19 +1627,19 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>1 hour</comment>
   </data>
   <data name="Time.1HourAgo" xml:space="preserve">
-    <value>1 jam lalu</value>
+    <value>1 jam yang lalu</value>
     <comment>1 hour ago</comment>
   </data>
   <data name="Time.1Minute" xml:space="preserve">
-    <value>1 minit</value>
+    <value>1 menit</value>
     <comment>1 minute</comment>
   </data>
   <data name="Time.1MinuteAgo" xml:space="preserve">
-    <value>1 minit lalu</value>
+    <value>1 menit yang lalu</value>
     <comment>1 minute ago</comment>
   </data>
   <data name="Time.1YearAgo" xml:space="preserve">
-    <value>1 tahun lalu</value>
+    <value>1 tahun yang lalu</value>
     <comment>1 year ago</comment>
   </data>
   <data name="Time.Days" xml:space="preserve">
@@ -1647,7 +1647,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>{0} days</comment>
   </data>
   <data name="Time.DaysAgo" xml:space="preserve">
-    <value>{0} hari lalu</value>
+    <value>{0} hari yang lalu</value>
     <comment>{0} days ago</comment>
   </data>
   <data name="Time.Hour" xml:space="preserve">
@@ -1659,7 +1659,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HoursAgo" xml:space="preserve">
-    <value>{0} jam lalu</value>
+    <value>{0} jam yang lalu</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.HourShortForm" xml:space="preserve">
@@ -1675,7 +1675,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>In 1 hour</comment>
   </data>
   <data name="Time.In1Minute" xml:space="preserve">
-    <value>Dalam 1 minit</value>
+    <value>Dalam 1 menit</value>
     <comment>In a minute</comment>
   </data>
   <data name="Time.InDays" xml:space="preserve">
@@ -1687,43 +1687,43 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>{0} hours</comment>
   </data>
   <data name="Time.InLessThanAMinute" xml:space="preserve">
-    <value>Dalam masa kurang dari satu minit </value>
+    <value>Dalam waktu kurang dari satu menit </value>
     <comment>In less than a minute</comment>
   </data>
   <data name="Time.InMinutes" xml:space="preserve">
-    <value>Dalam {0} minit</value>
+    <value>Dalam {0} menit</value>
     <comment>In {0} minutes</comment>
   </data>
   <data name="Time.LessThanAMinute" xml:space="preserve">
-    <value>Masa kurang dari satu minit</value>
+    <value>Kurang dari satu menit</value>
     <comment>less than a minute</comment>
   </data>
   <data name="Time.LessThanAMinuteAgo" xml:space="preserve">
-    <value>Kurang daripada satu minit lalu</value>
+    <value>Kurang dari satu menit yang lalu</value>
     <comment>Less than a minute ago</comment>
   </data>
   <data name="Time.Minute" xml:space="preserve">
-    <value>minit</value>
+    <value>menit</value>
     <comment>minute</comment>
   </data>
   <data name="Time.Minutes" xml:space="preserve">
-    <value>{0} minit</value>
+    <value>{0} menit</value>
     <comment>{0} minutes</comment>
   </data>
   <data name="Time.MinutesAgo" xml:space="preserve">
-    <value>{0} minit lalu</value>
+    <value>{0} menit yang lalu</value>
     <comment>{0} minutes ago</comment>
   </data>
   <data name="Time.MinuteShortForm" xml:space="preserve">
-    <value>minit</value>
+    <value>menit</value>
     <comment>mn</comment>
   </data>
   <data name="Time.Tomorrow" xml:space="preserve">
-    <value>Esok</value>
+    <value>Besok</value>
     <comment>Tomorrow</comment>
   </data>
   <data name="Time.YearsAgo" xml:space="preserve">
-    <value>{0} tahun lalu</value>
+    <value>{0} tahun yang lalu</value>
     <comment>{0} years ago</comment>
   </data>
   <data name="Time.Yesterday" xml:space="preserve">
@@ -1735,7 +1735,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Aerobatics Violation</comment>
   </data>
   <data name="Violation.AirportClass" xml:space="preserve">
-    <value>Pelanggaran Kelas Lapangan Terbang</value>
+    <value>Pelanggaran Kelas Bandara</value>
     <comment>Airport Class Violation</comment>
   </data>
   <data name="Violation.AirspaceViolation" xml:space="preserve">
