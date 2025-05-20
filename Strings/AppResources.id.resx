@@ -2002,33 +2002,33 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Approach Mode Cannot Be Enabled</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.AirspeedOutOfRange" xml:space="preserve">
-    <value>Mod Pendekatan Dilumpuhkan - Kelajuan udara di luar julat (maksimum 250 knot)</value>
+    <value>Mode Pendekatan Dinonaktifkan - Kecepatan Diudara di luar rentang (maksimum 250 knot)</value>
     <comment>Approach Mode Disabled - Airspeed out of range (250kts max)</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.BankOutOfRange" xml:space="preserve">
-    <value>Mod Pendekatan Dilumpuhkan - keluar dari julat</value>
+    <value>Mode Pendekatan Dinonaktifkan - Belok terlalu tajam</value>
     <comment>Approach Mode Disabled - Bank out of range</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.LandingWeightOutOfRange" xml:space="preserve">
-    <value>Mod Pendekatan Dilumpuhkan - Pesawat mempunyai berat badan berlebihan</value>
+    <value>Mode Pendekatan Dinonaktifkan - Pesawat kelebihan muatan</value>
     <comment>Approach Mode Disabled - Aircraft is overweight</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSNotEnabled" xml:space="preserve">
-    <value>Mod Pendekatan Dilumpuhkan
-Mod Kelajuan Menegak mesti didayakan apabila Mod Pendekatan aktif</value>
+    <value>Mode Pendekatan Dinonaktifkan
+Mode Kecepatan Vertikal harus diaktifkan saat Mode Pendekatan aktif</value>
     <comment>Approach Mode Disabled
 Vertical Speed Mode must be enabled when Approach Mode is active</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.VSOutOfRange" xml:space="preserve">
-    <value>Mod Pendekatan Dilumpuhkan - Kelajuan Menegak di luar julat</value>
+    <value>Mode Pendekatan Dinonaktifkan - Kecepatan Vertikal di luar jangkauan</value>
     <comment>Approach Mode Disabled - VS out of range</comment>
   </data>
   <data name="SystemMessaging.ATC.TuningTo" xml:space="preserve">
-    <value>Menala kepada {0} {1}</value>
+    <value>Menyesuaikan ke {0} {1}</value>
     <comment>Tuning to {0} {1}</comment>
   </data>
   <data name="SystemMessaging.Autopilot.Disengaged" xml:space="preserve">
-    <value>AUTOPILOT DIHENTIKAN</value>
+    <value>AUTOPILOT DINONAKTIFKAN</value>
     <comment>AUTOPILOT DISENGAGED</comment>
   </data>
   <data name="SystemMessaging.Autopilot.DisengagedCheckParams" xml:space="preserve">
