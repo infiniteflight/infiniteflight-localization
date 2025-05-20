@@ -1743,51 +1743,51 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Airspace Violation</comment>
   </data>
   <data name="Violation.FlightOverspeed" xml:space="preserve">
-    <value>Kelajuan berlebihan dalam Penerbangan</value>
+    <value>Kecepatan berlebihan saat terbang</value>
     <comment>Overspeed in Flight</comment>
   </data>
   <data name="Violation.GroundOverspeed" xml:space="preserve">
-    <value>Kelajuan Darat</value>
+    <value>KKecepatan berlebih di Darat</value>
     <comment>Ground Overspeed</comment>
   </data>
   <data name="Violation.LevelledViolation" xml:space="preserve">
-    <value>Pelanggaran Tahap {0}</value>
+    <value>Pelanggaran Tingkat {0}</value>
     <comment>Level {violationLevel} Violation</comment>
   </data>
   <data name="Violation.RunwayIdle" xml:space="preserve">
-    <value>Landasan Terbiar</value>
+    <value>Diam Landasan Pacu</value>
     <comment>Runway Idle</comment>
   </data>
   <data name="Global.Continue" xml:space="preserve">
-    <value>Teruskan</value>
+    <value>Lanjutkan</value>
     <comment>Continue</comment>
   </data>
   <data name="Global.Settings" xml:space="preserve">
-    <value>Tetapan</value>
+    <value>Pengaturan</value>
     <comment>Settings</comment>
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
-    <value>{0} terlalu besar untuk titik permulaan semasa {1} di {2}. Sila tukar lokasi mula</value>
+    <value>Pesawat terlalu besar untuk titik awal saat ini {nama lokasi awal} di {nama bandara}.\n\nSilakan ubah lokasi awal.</value>
     <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
-    <value>Pengawal Trafik Udara</value>
+    <value>Pengatur Lalulintas Udara</value>
     <comment>ATC</comment>
   </data>
   <data name="MenuPageBase.CannotConnect" xml:space="preserve">
-    <value>TIDAK BOLEH BERHUBUNG</value>
+    <value>TIDAK DAPAT TERHUBUNG</value>
     <comment>CAN'T CONNECT</comment>
   </data>
   <data name="MenuPageBase.CannotConnect.Message" xml:space="preserve">
-    <value>Penerbangan Infinite sedang mengalami masalah sambungan internet. Sila semak sambungan Internet anda dan mulakan semula aplikasi atau cuba lagi kemudian.</value>
+    <value>Infinite Flight mengalami masalah koneksi internet. Silakan periksa koneksi internet Anda dan restart aplikasi atau coba lagi nanti.</value>
     <comment>Infinite Flight is experiencing internet connectivity issues. Please check your internet connection and restart the app or try again later.</comment>
   </data>
   <data name="MenuPageBase.ForumNotConnected" xml:space="preserve">
-    <value>Profil Komuniti Penerbangan Infinite anda perlu disambungkan sebelum memulakan sesi</value>
+    <value>Profil Komunitas Infinite Flight Anda perlu terhubung sebelum memulai sesi.</value>
     <comment>Your Infinite Flight Community profile needs to be connected before starting a session</comment>
   </data>
   <data name="MenuPageBase.NoLocationSelected" xml:space="preserve">
-    <value>Tiada lokasi dipilih, sila pilih kekerapan untuk dibuka</value>
+    <value>Tidak ada lokasi yang dipilih, silakan pilih frekuensi untuk memulai</value>
     <comment>No location has been selected, please select a frequency to open.</comment>
   </data>
   <data name="MenuPageBase.ProRequiredAircraft" xml:space="preserve">
@@ -1795,19 +1795,19 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Infinite Flight Pro is required to use this aircraft</comment>
   </data>
   <data name="MenuPageBase.ProRequiredStartAirport" xml:space="preserve">
-    <value>Infinite Flight Pro diperlukan untuk memulakan penerbangan di lokasi ini. Sila tukar lapangan terbang mula</value>
+    <value>Infinite Flight PRO is required to start a flight at this location. Please change the start airport.</value>
     <comment>Infinite Flight PRO is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="MenuPageBase.ShowUsernameDisabled" xml:space="preserve">
-    <value>Nama pengguna anda perlu kelihatan sebelum memulakan sesi. Dayakan "{0}" dalam tetapan</value>
+    <value>Nama pengguna Anda harus terlihat sebelum memulai sesi. Aktifkan \"Tampilkan Nama Pengguna Saat Dalam Penerbangan\" di pengaturan</value>
     <comment>Your username needs to be visible before starting a session. Enable \"Show Username In-Flight\" in settings</comment>
   </data>
   <data name="Notam.Airport" xml:space="preserve">
-    <value>Lapangan Terbang : {0}</value>
+    <value>Bandara : {0}</value>
     <comment>Airport</comment>
   </data>
   <data name="Notam.Ceiling" xml:space="preserve">
-    <value>Siling : {0} kaki</value>
+    <value>Langit-langit : {0} kaki</value>
     <comment>Ceiling</comment>
   </data>
   <data name="Notam.Floor" xml:space="preserve">
@@ -1819,23 +1819,23 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>From (Date)</comment>
   </data>
   <data name="Notam.Message" xml:space="preserve">
-    <value>Mesej : {0}</value>
+    <value>Pesan : {0}</value>
     <comment>Message</comment>
   </data>
   <data name="Notam.Title" xml:space="preserve">
-    <value>Tajuk   : {0}</value>
+    <value>Judul   : {0}</value>
     <comment>Title</comment>
   </data>
   <data name="Notam.To" xml:space="preserve">
-    <value>Kepada      : {0} {1}Z</value>
+    <value>Ke      : {0} {1}Z</value>
     <comment>To (Date)</comment>
   </data>
   <data name="Notam.UntilFurtherNotice" xml:space="preserve">
-    <value>Kepada      : Sehingga diberitahu kelak</value>
+    <value>Sampai pemberitahuan lebih lanjut</value>
     <comment>Until Further Notice</comment>
   </data>
   <data name="Notam.Warning" xml:space="preserve">
-    <value>NOTAM (Notis kepada Air Missions) aktif untuk lapangan terbang berlepas yang dipilih. Sila baca NOTAM berikut dengan teliti sebelum meneruskan</value>
+    <value>Sebuah NOTAM (Pemberitahuan kepada Penerbangan) sedang berlaku untuk bandara keberangkatan yang dipilih. Mohon baca NOTAM berikut ini dengan seksama sebelum melanjutkan.</value>
     <comment>A NOTAM (Notice to Air Missions) is active for the selected departure airport. Please read the following NOTAM carefully before proceeding</comment>
   </data>
   <data name="Notam.WarningTitle" xml:space="preserve">
@@ -1843,19 +1843,19 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>WARNING: ACTIVE NOTAM</comment>
   </data>
   <data name="About.PrivacyPolicy" xml:space="preserve">
-    <value>DASAR PRIVASI</value>
+    <value>KEBIJAKAN PRIVASI</value>
     <comment>PRIVACY POLICY</comment>
   </data>
   <data name="About.TermsOfUse" xml:space="preserve">
-    <value>SYARAT PENGGUNAAN</value>
+    <value>SYARAT DAN KETENTUAN</value>
     <comment>TERMS OF USE</comment>
   </data>
   <data name="Global.Aircraft" xml:space="preserve">
-    <value>Kapal Terbang</value>
+    <value>Pesawat</value>
     <comment>Aircraft</comment>
   </data>
   <data name="Global.Date" xml:space="preserve">
-    <value>Tarikh</value>
+    <value>Tanggal</value>
     <comment>Date</comment>
   </data>
   <data name="Global.Day" xml:space="preserve">
@@ -1863,7 +1863,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Day</comment>
   </data>
   <data name="Global.Description" xml:space="preserve">
-    <value>Penerangan</value>
+    <value>Keterangan</value>
     <comment>Description</comment>
   </data>
   <data name="Global.Night" xml:space="preserve">
@@ -1871,7 +1871,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Night</comment>
   </data>
   <data name="Global.Type" xml:space="preserve">
-    <value>Jenis</value>
+    <value>Tipe</value>
     <comment>Type</comment>
   </data>
   <data name="Logbook.From" xml:space="preserve">
@@ -1883,11 +1883,11 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Live Flights</comment>
   </data>
   <data name="Logbook.Notes" xml:space="preserve">
-    <value>Nota</value>
+    <value>Catatan</value>
     <comment>Notes</comment>
   </data>
   <data name="Logbook.ShowingFlightsOnDevice" xml:space="preserve">
-    <value>Menunjukkan penerbangan yang disimpan pada peranti ini</value>
+    <value>Menampilkan penerbangan yang disimpan di perangkat ini</value>
     <comment>Showing flights stored on this device</comment>
   </data>
   <data name="Logbook.SoloFlights" xml:space="preserve">
@@ -1899,15 +1899,15 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>To</comment>
   </data>
   <data name="Logbook.TotalFlightTime" xml:space="preserve">
-    <value>Jumlah Masa Penerbangan</value>
+    <value>Total Jam Terbang</value>
     <comment>Total Flight Time</comment>
   </data>
   <data name="Logbook.TotalTime" xml:space="preserve">
-    <value>Jumlah Masa</value>
+    <value>Waktu Total</value>
     <comment>Total Time</comment>
   </data>
   <data name="Global.Details" xml:space="preserve">
-    <value>Butiran</value>
+    <value>Detail</value>
     <comment>Details</comment>
   </data>
   <data name="Global.Name" xml:space="preserve">
@@ -1931,76 +1931,74 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Violations</comment>
   </data>
   <data name="Logbook.ATCReport" xml:space="preserve">
-    <value>Laporan Pengawal Trafik Udara</value>
+    <value>Laporan ATC</value>
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>Laporan Pengawal Trafik Udara Oleh [{0}]\n{1}</value>
+    <value>Laporan ATC oleh [{0}]\n{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
-    <value>Lihat Butiran Penerbangan</value>
+    <value>Lihat Detail Penerbangan</value>
     <comment>View Flight Details</comment>
   </data>
   <data name="Replay.Comments" xml:space="preserve">
-    <value>Komen</value>
+    <value>Komentar</value>
     <comment>Comments</comment>
   </data>
   <data name="Replay.Delete" xml:space="preserve">
-    <value>PADAM</value>
+    <value>HAPUS</value>
     <comment>DELETE</comment>
   </data>
   <data name="Replay.Duration" xml:space="preserve">
-    <value>Tempoh</value>
+    <value>Durasi</value>
     <comment>Duration</comment>
   </data>
   <data name="Replay.Edit" xml:space="preserve">
-    <value>MENYUNTING</value>
+    <value>EDIT</value>
     <comment>EDIT</comment>
   </data>
   <data name="Replay.FileSize" xml:space="preserve">
-    <value>Saiz fail</value>
+    <value>Ukuran File</value>
     <comment>File Size</comment>
   </data>
   <data name="Replay.Import" xml:space="preserve">
-    <value>IMPORT</value>
+    <value>IMPOR</value>
     <comment>IMPORT</comment>
   </data>
   <data name="Replay.Share" xml:space="preserve">
-    <value>KONGSI</value>
+    <value>BAGIKAN</value>
     <comment>SHARE</comment>
   </data>
   <data name="Logbook.Details" xml:space="preserve">
-    <value>Butiran</value>
+    <value>Detail</value>
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
-    <value>Tekan butang hidup
-Papan kekunci untuk ditetapkan</value>
+    <value>Tekan tombol pada \nKeyboard untuk mengaktifkan</value>
     <comment>Press button on \nKeyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
-    <value>Padam</value>
+    <value>Hapus</value>
     <comment>Delete</comment>
   </data>
   <data name="Settings.Controls.MoveAxisPrompt" xml:space="preserve">
-    <value>Gerakkan paksi pada pengawal untuk ditetapkan</value>
+    <value>Gerakkan sumbu pada pengontrol untuk menetapkan</value>
     <comment>Move axis on controller to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
-    <value>Tekan butang hidup
-Pengawal/Papan Kekunci untuk diberikan</value>
+    <value>Tekan tombol pada \nPengontrol/Keyboard untuk mengaitkan</value>
     <comment>Press button on \nController/Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
-    <value>Tekan butang atau gerakkan paksi untuk menetapkan</value>
+    <value>Tekan tombol atau gerakkan sumbu untuk menetapkan.</value>
     <comment>Press button or move axis to assign</comment>
   </data>
   <data name="Settings.Controls.Reset" xml:space="preserve">
-    <value>Tetapkan Semula</value>
+    <value>Atur Ulang</value>
     <comment>Reset</comment>
   </data>
   <data name="SystemMessaging.Approach.CannotActivate" xml:space="preserve">
-    <value>Mod Pendekatan Tidak Boleh Didayakan</value>
+    <value>Mode Pendekatan Tidak Dapat Diaktifkan</value>
     <comment>Approach Mode Cannot Be Enabled</comment>
   </data>
   <data name="SystemMessaging.ApproachMode.AirspeedOutOfRange" xml:space="preserve">
