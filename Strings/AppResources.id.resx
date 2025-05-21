@@ -2200,11 +2200,11 @@ No waypoint in Flight Plan</comment>
     <comment>VNAV Target updated to {0} ({2:#0.0}NM) @ {1:n0}ft</comment>
   </data>
   <data name="Violations.ExceededDisconnection" xml:space="preserve">
-    <value>Anda telah diputuskan sambungan kerana lebihan pelanggaran untuk sesi semasa ini.</value>
+    <value>Anda telah terputus karena pelanggaran aturan secara berulang kali dalam sesi ini.</value>
     <comment>You have been disconnected due to excess violations for this current session.</comment>
   </data>
   <data name="Violations.LimitExceeded" xml:space="preserve">
-    <value>Had Pelanggaran Melebihi</value>
+    <value>Batas Pelanggaran Telah Dilampaui</value>
     <comment>Violation Limit Exceeded</comment>
   </data>
   <data name="WeightAndBalance.Cargo" xml:space="preserve">
@@ -2212,15 +2212,15 @@ No waypoint in Flight Plan</comment>
     <comment>Cargo</comment>
   </data>
   <data name="WeightAndBalance.FlightTime" xml:space="preserve">
-    <value>Anggaran Masa Penerbangan</value>
+    <value>Perkiraan Waktu Penerbangan</value>
     <comment>Est. Flight Time</comment>
   </data>
   <data name="WeightAndBalance.FuelBurn" xml:space="preserve">
-    <value>Pembakaran Minyak</value>
+    <value>Pembakaran Bahan Bakar</value>
     <comment>Fuel Burn</comment>
   </data>
   <data name="WeightAndBalance.FuelTanks" xml:space="preserve">
-    <value>Tangki Minyak</value>
+    <value>Tangki Bahan Bakar</value>
     <comment>Fuel Tanks</comment>
   </data>
   <data name="WeightAndBalance.Heavy" xml:space="preserve">
@@ -2236,7 +2236,7 @@ No waypoint in Flight Plan</comment>
     <comment>Normal</comment>
   </data>
   <data name="WeightAndBalance.Others" xml:space="preserve">
-    <value>Lain-lain</value>
+    <value>Lainnya</value>
     <comment>Others</comment>
   </data>
   <data name="WeightAndBalance.Passengers" xml:space="preserve">
@@ -2244,7 +2244,7 @@ No waypoint in Flight Plan</comment>
     <comment>Passengers</comment>
   </data>
   <data name="WeightAndBalance.Synchronize" xml:space="preserve">
-    <value>Segerakkan</value>
+    <value>Sinkronisasi</value>
     <comment>Synchronize</comment>
   </data>
   <data name="WarningMessageControl.Reported" xml:space="preserve">
@@ -2252,7 +2252,7 @@ No waypoint in Flight Plan</comment>
     <comment>Reported</comment>
   </data>
   <data name="WarningMessageControl.TapToDismiss" xml:space="preserve">
-    <value>Ketik untuk mengetepikan</value>
+    <value>Ketuk untuk menutup</value>
     <comment>Tap to dismiss</comment>
   </data>
   <data name="WarningMessageControl.ViolationsCount" xml:space="preserve">
@@ -2260,7 +2260,7 @@ No waypoint in Flight Plan</comment>
     <comment>Violations: {0}/{1}</comment>
   </data>
   <data name="Multiplayer.GotIt" xml:space="preserve">
-    <value>Faham!</value>
+    <value>Mengerti!</value>
     <comment>Got it!</comment>
   </data>
   <data name="Multiplayer.Welcome" xml:space="preserve">
@@ -2268,31 +2268,31 @@ No waypoint in Flight Plan</comment>
     <comment>Welcome</comment>
   </data>
   <data name="Tips.Default" xml:space="preserve">
-    <value>Dengan jari anda pada kawalan kemudi, gelongsor ke bawah untuk mengaktifkan brek di atas tanah.</value>
+    <value>Dengan jari Anda di pengendali kemudi, geser ke bawah untuk mengaktifkan rem saat berada di tanah.</value>
     <comment>With your finger on the rudder control, slide down to activate the brakes on the ground.</comment>
   </data>
   <data name="FlightRatingPage.CurrentGrade" xml:space="preserve">
-    <value>Gred</value>
+    <value>Tingkat</value>
     <comment>Grade</comment>
   </data>
   <data name="FlightRatingPage.FlightRating" xml:space="preserve">
-    <value>PENILAIAN PENERBANGAN</value>
+    <value>PERINGKAT PENERBANGAN</value>
     <comment>FLIGHT RATING</comment>
   </data>
   <data name="FlightRatingPage.FlightTime" xml:space="preserve">
-    <value>Masa Penerbangan</value>
+    <value>Jam Terbang</value>
     <comment>Flight Time</comment>
   </data>
   <data name="FlightRatingPage.Penalty" xml:space="preserve">
-    <value>Penalti</value>
+    <value>Sanksi</value>
     <comment>Penalty</comment>
   </data>
   <data name="FlightRatingPage.Reputation" xml:space="preserve">
-    <value>Mata Pengalaman</value>
+    <value>XP</value>
     <comment>XP</comment>
   </data>
   <data name="FlightRatingPage.ReputationEarned" xml:space="preserve">
-    <value>Mata Pengalaman Diperolehi</value>
+    <value>XP yang diperoleh</value>
     <comment>XP Earned</comment>
   </data>
   <data name="FlightRatingPage.ViolationCount" xml:space="preserve">
@@ -2300,15 +2300,15 @@ No waypoint in Flight Plan</comment>
     <comment>Violations</comment>
   </data>
   <data name="Multiplayer.Disconnected" xml:space="preserve">
-    <value>TERPUTUS SAMBUNGAN</value>
+    <value>SAMBUNGAN TERPUTUS</value>
     <comment>DISCONNECTED</comment>
   </data>
   <data name="ReportControl.ContinueOffline" xml:space="preserve">
-    <value>Teruskan Luar Talian</value>
+    <value>Lnjutkan Luring</value>
     <comment>Continue Offline</comment>
   </data>
   <data name="ReportControl.Reason" xml:space="preserve">
-    <value>Sebab: </value>
+    <value>Alasan: </value>
     <comment>Reason:</comment>
   </data>
   <data name="ReportControl.ReportedBy" xml:space="preserve">
@@ -2316,80 +2316,80 @@ No waypoint in Flight Plan</comment>
     <comment>Reported By:</comment>
   </data>
   <data name="SplashScreen.LoadingAirport" xml:space="preserve">
-    <value>Memuatkan Lapangan Terbang anda</value>
+    <value>Memuat Bandara anda</value>
     <comment>Loading your Airport</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingAutopilot" xml:space="preserve">
-    <value>Menetapkan kelajuan autopilot kepada {0}</value>
+    <value>Menyetel kecepatan autopilot ke {0}</value>
     <comment>Setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilers" xml:space="preserve">
-    <value>Mendayakan spoiler</value>
+    <value>Mengaktifkan spoiler</value>
     <comment>Enabling spoilers</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingSpoilersAndAutopilot" xml:space="preserve">
-    <value>Mendayakan spoiler dan menetapkan kelajuan autopilot kepada {0}</value>
+    <value>Mengaktifkan spoiler dan mengatur kecepatan autopilot ke {0}</value>
     <comment>Enabling spoilers and setting autopilot speed to {0}</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.Issued" xml:space="preserve">
-    <value>Pelanggaran Kelajuan Dikeluarkan</value>
+    <value>Pelanggaran Kecepatan Diterbitkan</value>
     <comment>Speed Violation Issued</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnots" xml:space="preserve">
-    <value>Kurangkan kelajuan di bawah {0} knot untuk mengelakkan pelanggaran</value>
+    <value>Kurangi kecepatan di bawah {0} knot untuk menghindari pelanggaran</value>
     <comment>Reduce speed below {0}kts to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnotsBelow10k" xml:space="preserve">
-    <value>Kurangkan kelajuan di bawah {0} knot di bawah 10000 kaki untuk mengelakkan pelanggaran</value>
+    <value>Kurangi kecepatan di bawah {0} knot di bawah 10.000 kaki untuk menghindari pelanggaran</value>
     <comment>Reduce speed below {0}kts below 10000ft to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowMach" xml:space="preserve">
-    <value>Kurangkan kelajuan di bawah Mach {0:0.00} untuk mengelakkan pelanggaran</value>
+    <value>Kurangi kecepatan di bawah Mach {speed} untuk menghindari pelanggaran</value>
     <comment>Reduce speed below Mach {speed} to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.WarningTitle" xml:space="preserve">
-    <value>AMARAN LAJU</value>
+    <value>PERINGATAN KECEPATAN</value>
     <comment>SPEED WARNING</comment>
   </data>
   <data name="Violation.Level0Received.Message" xml:space="preserve">
-    <value>Anda telah diputuskan sambungan oleh pengawal atau kakitangan. Ini bukan Pelanggaran dan tiada rayuan diperlukan.</value>
+    <value>Anda telah diputus oleh ATC atau anggota Staf. Ini bukan pelanggaran dan tidak diperlukan banding.</value>
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
-    <value>Anda telah menerima pelanggaran tahap 2 dan telah diputuskan sambungan daripada sesi semasa anda. Anda boleh memulakan penerbangan lain dengan segera dan rayuan tidak diperlukan jika jumlah pelanggaran anda membenarkannya. Kami menggalakkan anda menyemak sebarang tutorial yang berkenaan di youtube.com/infiniteflight</value>
+    <value>Anda telah menerima pelanggaran tingkat 2 dan telah diputus dari sesi saat ini. Anda dapat memulai penerbangan lain segera dan banding tidak diperlukan jika jumlah pelanggaran total Anda memungkinkan. Kami menyarankan Anda untuk meninjau tutorial yang relevan di youtube.com/infiniteflight</value>
     <comment>You have received a level 2 violation and have been disconnected from your current session. You may begin another flight immediately and an appeal is not necessary if your total violation count allows it. We encourage you to review any applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.Level3Received.Message" xml:space="preserve">
-    <value>Anda telah menerima pelanggaran tahap 3 dan telah diputuskan sambungan daripada sesi semasa anda. Kami menggalakkan anda menyemak mana-mana tutorial yang berkenaan di youtube.com/infiniteflight</value>
+    <value>Anda telah menerima pelanggaran tingkat 3 dan telah diputus dari sesi saat ini. Kami menyarankan Anda untuk meninjau tutorial yang relevan di youtube.com/infiniteflight.</value>
     <comment>You have received a level 3 violation and have been disconnected from your current session. We enourage you to review and applicable tutorials at youtube.com/infiniteflight</comment>
   </data>
   <data name="Violation.UnspecifiedReason" xml:space="preserve">
-    <value>Sebab Tidak Ditentukan</value>
+    <value>Alasan Tidak Disebutkan</value>
     <comment>Unspecified Reason</comment>
   </data>
   <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
-    <value>Aerobatic Maneuvers prohibited near airports.
-A level 1 violation has been issued.</value>
+    <value>Manuver aerobatik dilarang di dekat bandara.
+Pelanggaran tingkat 1 telah diterbitkan.</value>
     <comment>Aerobatic Maneuvers prohibited near airports.
 A level 1 violation has been issued.</comment>
   </data>
   <data name="Violations.AircraftIdle.Message" xml:space="preserve">
-    <value>Pesawat melahu di landasan aktif terlalu lama
-Pelanggaran tahap 1 telah dikeluarkan.</value>
+    <value>Pesawat diam di landasan pacu aktif terlalu lama
+Pelanggaran tingkat 1 telah diterbitkan</value>
     <comment>Aircraft idle on active runway for too long
 A level 1 violation has been issued</comment>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
-    <value>Melebihi kelajuan tanah maksimum 35 knot.
-Pelanggaran tahap 1 telah dikeluarkan.
-Perlahan untuk mengelakkan pelanggaran selanjutnya.</value>
+    <value>Melebihi kecepatan maksimum 35 knot.
+Pelanggaran level 1 telah dikeluarkan.
+Perlambat Pesawat untuk menghindari pelanggaran lebih lanjut.</value>
     <comment>Exceeded max ground speed of 35kts.
 A level 1 violation has been issued.
 Slow down to avoid further violations.</comment>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
-    <value>Kekerapan Kakitangan</value>
-    <comment>Frequencies Staffed</comment>
+    <value>Frekuensi yang dijaga</value>
+    <comment>Frekuensi yang dijaga</comment>
   </data>
   <data name="ATCRatingPage.Operations" xml:space="preserve">
     <value>Operasi Sesi</value>
@@ -2400,39 +2400,39 @@ Slow down to avoid further violations.</comment>
     <comment>Session Reports</comment>
   </data>
   <data name="ATCRatingPage.Title" xml:space="preserve">
-    <value>RINGKASAN SESI</value>
+    <value>RANGKUMAN SESI</value>
     <comment>SESSION SUMMARY</comment>
   </data>
   <data name="ATCRatingPage.TotalOperations" xml:space="preserve">
-    <value>Jumlah Operasi</value>
+    <value>Total Operasional</value>
     <comment>Total Operations</comment>
   </data>
   <data name="ATCRatingPage.TotalTime" xml:space="preserve">
-    <value>Masa pada Kekerapan</value>
+    <value>Waktu pada Frekuensi</value>
     <comment>Time on Frequency</comment>
   </data>
   <data name="SystemMessaging.ATCActive" xml:space="preserve">
-    <value>{0} {1} adalah aktif. Anda telah ditala kepada frekuensi ini.</value>
+    <value>{bandara} {posisi} sedang aktif. Anda telah disetel ke frekuensi ini.</value>
     <comment>{airport} {position} is active. You have been tuned to this frequency.</comment>
   </data>
   <data name="SystemMessaging.ATCOffline" xml:space="preserve">
-    <value>{0} {1} is now offline</value>
+    <value>{0} {1} saat ini tidak tersedia</value>
     <comment>{airport} {position} is now offline</comment>
   </data>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
-    <value>{0} {1} kini berada di luar talian. Anda telah ditala ke {2} {3}.</value>
+    <value>{bandara} {lokasi} saat ini tidak tersedia. Anda telah dialihkan ke {2} {3}.</value>
     <comment>{airport} {position} is now offline. You have been tuned to {2} {3}.</comment>
   </data>
   <data name="Settings.General.ClearCache" xml:space="preserve">
-    <value>Kosongkan Cache</value>
+    <value>Hapus Cache</value>
     <comment>Clear Cache</comment>
   </data>
   <data name="Settings.General.NoVoicesFound" xml:space="preserve">
-    <value>Tiada suara ditemui</value>
+    <value>No voices found</value>
     <comment>No voices found</comment>
   </data>
   <data name="Settings.Option.FiveSeconds" xml:space="preserve">
-    <value>5 Saat</value>
+    <value>5 Detik</value>
     <comment>5 Seconds</comment>
   </data>
   <data name="Settings.Option.Never" xml:space="preserve">
@@ -2440,11 +2440,11 @@ Slow down to avoid further violations.</comment>
     <comment>Never</comment>
   </data>
   <data name="Settings.Option.TenSeconds" xml:space="preserve">
-    <value>10 Saat</value>
+    <value>10 Detik</value>
     <comment>10 Seconds</comment>
   </data>
   <data name="Settings.Option.TwoSeconds" xml:space="preserve">
-    <value>2 Saat</value>
+    <value>2 Detik</value>
     <comment>2 Seconds</comment>
   </data>
   <data name="Commands.ElevatorTrimDown" xml:space="preserve">
@@ -2456,21 +2456,21 @@ Slow down to avoid further violations.</comment>
     <comment>Elevator Trim Up</comment>
   </data>
   <data name="Commands.ThrottleDown" xml:space="preserve">
-    <value>Pendikit Ke Bawah</value>
+    <value>Gas Ke Bawah</value>
     <comment>Throttle Down</comment>
   </data>
   <data name="Commands.ThrottleUp" xml:space="preserve">
-    <value>Pendikit Naik</value>
+    <value>Gas Naik</value>
     <comment>Throttle Up</comment>
   </data>
   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
-    <value>TUKAR PESAWAT</value>
+    <value>GANTI PESAWAT</value>
   </data>
   <data name="FlightFreeControl.ImageNotFoundUpper" xml:space="preserve">
     <value>GAMBAR TIDAK DITEMUKAN</value>
   </data>
   <data name="FlightFreeControl.NewFlightUpper" xml:space="preserve">
-    <value>TERBANG BARU</value>
+    <value>PENERBANGAN BARU</value>
   </data>
   <data name="FlightFreeControl.UnavailableUpper" xml:space="preserve">
     <value>TIDAK TERSEDIA</value>
@@ -2482,7 +2482,7 @@ Slow down to avoid further violations.</comment>
     <value>ALTIMETER</value>
   </data>
   <data name="FlightMenu.ApproxDurationUpper" xml:space="preserve">
-    <value>DURASI PERKIRAAN</value>
+    <value>PERKIRAAN DURASI</value>
   </data>
   <data name="FlightMenu.CloudsUpper" xml:space="preserve">
     <value>AWAN</value>
@@ -2491,7 +2491,7 @@ Slow down to avoid further violations.</comment>
     <value>JARAK</value>
   </data>
   <data name="FlightMenu.FlightSchoolDescription" xml:space="preserve">
-    <value>Kuasai keterampilan penerbangan Anda dengan tutorial interaktif</value>
+    <value>Kuasai keterampilan terbang Anda dengan tutorial interaktif</value>
   </data>
   <data name="FlightMenu.FlightSchoolUpper" xml:space="preserve">
     <value>SEKOLAH PENERBANGAN</value>
@@ -2530,7 +2530,7 @@ Slow down to avoid further violations.</comment>
     <value>VISIBILITAS</value>
   </data>
   <data name="FlightMenu.Wind" xml:space="preserve">
-    <value>{0:#000}° pada {1} kts</value>
+    <value>{0:#000}° pada {1} knot</value>
     <comment>{0:#000}° pada {1} kts</comment>
   </data>
   <data name="FlightMenu.WindCalm" xml:space="preserve">
@@ -2540,7 +2540,7 @@ Slow down to avoid further violations.</comment>
     <value>ANGIN</value>
   </data>
   <data name="FlightMenu.WindWithGust" xml:space="preserve">
-    <value>{0:#000}° pada {1} - {2} kts</value>
+    <value>{0:#000}° pada {1} - {2} knot</value>
   </data>
   <data name="FlightMenu.WorldUpper" xml:space="preserve">
     <value>DUNIA</value>
@@ -2549,10 +2549,10 @@ Slow down to avoid further violations.</comment>
     <value>PENERBANGAN JARAK JAUH</value>
   </data>
   <data name="FlightMissionControl.MediumHaulUpper" xml:space="preserve">
-    <value>PENERBANGAN JARAK MENENGAH</value>
+    <value>PENERBANGAN JARAK SEDANG</value>
   </data>
   <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
-    <value>TIDAK ADA MISI DITEMUKAN</value>
+    <value>TIDAK ADA MISI YANG DITEMUKAN</value>
   </data>
   <data name="FlightMissionControl.ShortHaulUpper" xml:space="preserve">
     <value>PENERBANGAN JARAK PENDEK</value>
@@ -2588,22 +2588,22 @@ Slow down to avoid further violations.</comment>
     <value>LAMA</value>
   </data>
   <data name="LogbookControl.ExportErrorMessage" xml:space="preserve">
-    <value>Galat saat mengekspor file replay. Periksa bahwa Anda memiliki cukup ruang penyimpanan tersedia</value>
+    <value>kesalahan saat mengekspor file replay. Periksa bahwaapakah Anda memiliki cukup ruang penyimpanan tersedia</value>
   </data>
   <data name="LogbookControl.ExportingUpper" xml:space="preserve">
-    <value>MENGEXPORT</value>
+    <value>MENGEKSPORT</value>
   </data>
   <data name="LogbookControl.FileSizeUpper" xml:space="preserve">
     <value>UKURAN FILE</value>
   </data>
   <data name="LogbookControl.MultiplayerUpper" xml:space="preserve">
-    <value>MULTIPLAYER</value>
+    <value>MULTIPEMAIN</value>
   </data>
   <data name="LogbookControl.NoItemsFound" xml:space="preserve">
     <value>TIDAK ADA ITEM DITEMUKAN</value>
   </data>
   <data name="LogbookControl.OnlyReplaysUpper" xml:space="preserve">
-    <value>HANYA REPLAY</value>
+    <value>REPLAY SAJA</value>
   </data>
   <data name="LogbookControl.ServerUpper" xml:space="preserve">
     <value>SERVER</value>
@@ -2675,7 +2675,7 @@ Slow down to avoid further violations.</comment>
     <value>Pilih pesawat dan rute Anda sendiri, uji keterampilan Anda sebagai pilot, dan jelajahi pemandangan indah tanpa aturan atau pilot lainnya.</value>
   </data>
   <data name="Replay.DeleteAll.Message" xml:space="preserve">
-    <value>Hapus semua fail ulangan?</value>
+    <value>Hapus semua file tayangan ulang?</value>
     <comment>Delete all replay files?</comment>
   </data>
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
