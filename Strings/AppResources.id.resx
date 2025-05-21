@@ -2679,31 +2679,31 @@ Slow down to avoid further violations.</comment>
     <comment>Delete all replay files?</comment>
   </data>
   <data name="WeightAndBalance.Unavailable.Message" xml:space="preserve">
-    <value>Aktifkan Brek Penuh di landasan untuk membuat perubahan pada Pemberat dan Keseimbangan dalam Mod Live.</value>
+    <value>Aktifkan rem parkir di ramp untuk melakukan perubahan pada berat dan keseimbangan dalam mode langsung.</value>
     <comment>Activate Parking Brakes on the ramp to make changes to Weight and Balance in Live Mode.</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
-    <value>Tetapkan Brek Penuh dan matikan semua enjin untuk mengikat jambatan jet.</value>
+    <value>Aktifkan rem parkir dan matikan semua mesin untuk bersandar di jembatan jet.</value>
     <comment>Set parking brake and turn off all engines to dock jet bridges</comment>
   </data>
   <data name="FlightPlan.Add" xml:space="preserve">
-    <value>Tambah</value>
+    <value>Tambahkan</value>
     <comment>Add</comment>
   </data>
   <data name="Replay.DeleteUnstarred.Message" xml:space="preserve">
-    <value>Hapus fail ulangan tanpa tanda bintang?</value>
+    <value>Hapus file replay yang tidak diberi bintang?</value>
     <comment>Delete unstarred replay files?</comment>
   </data>
   <data name="FlightPlan.ImportReplaceAdd" xml:space="preserve">
-    <value>Anda mahu menggantikan atau menambah kepada rancangan penerbangan sedia ada?</value>
+    <value>Ditampilkan saat mengimpor berkas rencana penerbangan FPL</value>
     <comment>Shown when importing a flight plan FPL file</comment>
   </data>
   <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
-    <value>Hapus {0} fail ulangan yang dipilih?</value>
+    <value>Hapus {0} file replay yang dipilih?</value>
     <comment>Delete {0} selected replay files?</comment>
   </data>
   <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
-    <value>Hapus fail ulangan yang dipilih?</value>
+    <value>Hapus file tayangan ulang yang dipilih?</value>
     <comment>Delete selected replay file?</comment>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Title" xml:space="preserve">
@@ -2715,19 +2715,19 @@ Slow down to avoid further violations.</comment>
     <comment>LEGACY</comment>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
-    <value>Amaran: Pesawat ini adalah tambahan yang disertakan dari versi lama \ndan tidak memiliki kualitas yang sama dengan pesawat baru kami</value>
+    <value>Peringatan: Pesawat ini adalah tambahan dari versi lama \n dan tidak memiliki kualitas yang sama dengan pesawat kami yang lebih baru</value>
     <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
   <data name="Replay.DeleteUnstarred" xml:space="preserve">
-    <value>Hapus fail ulangan tanpa tanda bintang</value>
+    <value>Hapus yang tidak ditandai bintang</value>
     <comment>Delete Unstarred</comment>
   </data>
   <data name="Replay.DeleteSelected" xml:space="preserve">
-    <value>Hapus fail ulangan yang dipilih</value>
+    <value>Hapus file tayangan ulang yang dipilih</value>
     <comment>Delete Selected</comment>
   </data>
   <data name="Replay.DeleteAll" xml:space="preserve">
-    <value>Hapus semua fail ulangan</value>
+    <value>Hapus Semua</value>
     <comment>Delete All</comment>
   </data>
   <data name="MapItemInfoControl.Class" xml:space="preserve">
@@ -2735,35 +2735,35 @@ Slow down to avoid further violations.</comment>
     <comment>Class {0}</comment>
   </data>
   <data name="MapItemInfoControl.Contributor" xml:space="preserve">
-    <value>Penyumbang</value>
+    <value>Kontribusi</value>
     <comment>Contributor</comment>
   </data>
   <data name="MapItemInfoControl.Contributors" xml:space="preserve">
-    <value>Para Penyumbang</value>
+    <value>Kontributor</value>
     <comment>Contributors</comment>
   </data>
   <data name="UserAccountControl.Discord" xml:space="preserve">
-    <value>Akaun Discord</value>
+    <value>Akun Discord</value>
     <comment>Discord Account</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.Title" xml:space="preserve">
-    <value>Akaun Berhubung</value>
+    <value>Akun Ditautkan</value>
     <comment>Account Linked</comment>
   </data>
   <data name="SystemMessaging.ProximityWarning" xml:space="preserve">
-    <value>Sila menjaga jarak yang selamat dengan pesawat di depan</value>
+    <value>Harap jaga jarak aman dengan pesawat di depan</value>
     <comment>Please maintain a safe distance with the aircraft ahead</comment>
   </data>
   <data name="LoginSubscriptionPage.NoSubscriptionFound" xml:space="preserve">
-    <value>Kami telah menjumpai akaun anda tetapi tiada langganan yang aktif yang berkaitan dengannya.</value>
+    <value>Kami menemukan akun Anda tetapi tidak ada langganan aktif yang terkait dengannya.</value>
     <comment>We found your account but there is no active subscription associated to it.</comment>
   </data>
   <data name="UserAccountControl.Discord.Unlinked" xml:space="preserve">
-    <value>Sambungkan akaun Discord untuk mendapatkan akses eksklusif ke pelayan Pro kami</value>
+    <value>Hubungkan akun Discord Anda untuk mendapatkan akses eksklusif ke server PRO kami.</value>
     <comment>Link a Discord account to gain exclusive access to our Pro-only server</comment>
   </data>
   <data name="Error.NetworkErrorShort" xml:space="preserve">
-    <value>Ralat Rangkaian</value>
+    <value>Kesalahan Jaringan</value>
     <comment>Network Error</comment>
   </data>
   <data name="SystemStatus.Name" xml:space="preserve">
@@ -2771,11 +2771,11 @@ Slow down to avoid further violations.</comment>
     <comment>Systems Status</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>lapangan terbang yang dipilih tidak tersedia</value>
+    <value>Bandara yang dipilih tidak tersedia</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>Ciri ini tidak disokong</value>
+    <value>Fitur ini tidak didukung</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
@@ -2783,43 +2783,43 @@ Slow down to avoid further violations.</comment>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>Anda telah log keluar dan perlu log masuk semula secara manual</value>
+    <value>Anda telah keluar dan perlu masuk kembali secara manual</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
-    <value>Masuk ke TFR aktif di atau berdekatan dengan {0}
-{1}
-Semak peta untuk maklumat lanjut</value>
+    <value>Telah memasuki TFR Aktif di atau dekat {ICAO}
+{Judul}
+Periksa peta untuk informasi lebih lanjut</value>
     <comment>Entered an Active TFR at or near {ICAO}
 {Title}
 Check map for more information</comment>
   </data>
   <data name="UserAccountControl.Discord.Linked" xml:space="preserve">
-    <value>Akaun Discord anda telah berhubung dan anda mempunyai akses ke pelayan Discord hanya untuk Pro</value>
+    <value>Akun Discord Anda telah terhubung dan Anda memiliki akses ke server Discord eksklusif untuk anggota PRO</value>
     <comment>Your Discord account has been linked and you have access to our Pro-only Discord server</comment>
   </data>
   <data name="MapItemInfoControl.Information" xml:space="preserve">
-    <value>Maklumat</value>
+    <value>Informasi</value>
     <comment>Information</comment>
   </data>
   <data name="IntroPage.Home" xml:space="preserve">
-    <value>Laman Utama</value>
+    <value>Utama</value>
     <comment>Home</comment>
   </data>
   <data name="UserAccountControl.Discord.NotInstalled.Message" xml:space="preserve">
-    <value>Discord perlu dipasang dari App Store untuk menyertai Pelayan Infinite Flight. Adakah anda mahu memasangnya sekarang?</value>
+    <value>Discord harus diinstal dari App Store untuk bergabung dengan Infinite Flight Server. Apakah Anda ingin menginstalnya sekarang?</value>
     <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-    <value>Masa mula dan tamat sesi ini tidak sah (kod ralat {0})</value>
+    <value>Waktu mulai dan berakhir untuk sesi ini tidak valid.</value>
     <comment>The start and end times for this session aren't valid</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
-    <value>Pesawat warisan adalah kandungan tambahan dari versi-versi terdahulu Infinite Flight dan bukan kualiti yang sama. Tetap paparkan?</value>
+    <value>Pesawat legendaris adalah pesawat tambahan dari versi lama Infinite Flight dan tidak memiliki kualitas yang sama. Tetap tampilkan?</value>
     <comment>Legacy aircraft are extras from older versions of Infinite Flight and are not of the same quality. Show them anyway?</comment>
   </data>
   <data name="GroundServices.ConditionsNotMet" xml:space="preserve">
-    <value>Perkhidmatan darat memerlukan Brek Parking DINYALAKAN, Lampu Beacon DIMATIKAN, dan Enjin DIMATIKAN.</value>
+    <value>Layanan darat mengharuskan Rem Parkir AKTIF, Lampu Suar MATI, dan Mesin MATI.</value>
     <comment>Ground services require Parking Brakes ON, Beacon Lights OFF, and Engines OFF.</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.NotNow" xml:space="preserve">
@@ -2827,7 +2827,7 @@ Check map for more information</comment>
     <comment>Not Now</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Subtitle" xml:space="preserve">
-    <value>Paparkan pesawat warisan yang tidak mencerminkan perkembangan terkini (kokpit maya berkualiti tinggi, instrumen, dll...)</value>
+    <value>Tampilkan pesawat versi lama yang tidak mencerminkan perkembangan terbaru (kokpit virtual berkualitas tinggi, instrumen, dll...)</value>
     <comment>Show legacy airplanes that don't reflect the latest evolutions (high quality virtual cockpits, instruments, etc...)</comment>
   </data>
   <data name="WeightAndBalance.Unavailable" xml:space="preserve">
@@ -2835,54 +2835,55 @@ Check map for more information</comment>
     <comment>Unavailable</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Anda tidak diberikan tugasan untuk lapangan terbang ini. Sila hubungi pemeriksa atau moderator (kod ralat {0})</value>
+    <value>Anda tidak ditugaskan ke bandara ini. Silakan hubungi seorang reviewer atau moderator.</value>
     <comment>You are not assigned to this airport. Please contact a reviewer or moderator</comment>
   </data>
   <data name="SystemsStatus.NoInfo" xml:space="preserve">
-    <value>Tiada Info</value>
+    <value>Tidak ada Info</value>
     <comment>No Info</comment>
   </data>
   <data name="SystemsStatus.NoAdditionalInformation" xml:space="preserve">
-    <value>Tiada Maklumat Tambahan</value>
+    <value>Tidak ada Informasi Tambahan</value>
     <comment>No Additional Information</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableNearby" xml:space="preserve">
-    <value>Tiada jambatan udara tersedia berdekatan</value>
+    <value>Tidak ada jembatan pesawat terdekat yang tersedia</value>
     <comment>No jet bridges available nearby</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.NoJetbridgesAvailableAtAirport" xml:space="preserve">
-    <value>Tiada jambatan udara tersedia di lapangan terbang ini</value>
+    <value>Tidak ada jembatan pesawat di bandara ini</value>
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
-    <value>Tiada Pelayan Tersedia</value>
+    <value>Tidak ada server yang tersedia</value>
     <comment>No Available Server</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>Tiada pelayar yang tersedia untuk membuka pautan ini - pastikan anda mempunyai pelayar yang dipasang. Hubungi sokongan jika masalah berterusan (kod ralat {0})</value>
+    <value>Tidak ada browser yang tersedia untuk membuka tautan ini - pastikan Anda telah menginstal browser. Hubungi dukungan jika masalah berlanjut</value>
     <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>Satu perjanjian belum ditandatangani; anda perlu menandatangani perjanjian tersebut untuk melakukan tindakan ini (Digunakan dalam kes Perjanjian Lesen Penyumbang)</value>
+    <value>Perjanjian belum ditandatangani; Anda harus menandatangani perjanjian ini untuk melakukan tindakan ini (Digunakan dalam kasus Perjanjian Lisensi Kontributor)</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="LogbookControl.NoEntrySelected" xml:space="preserve">
-    <value>TIADA PAPARAN DIPILIH</value>
+    <value>TIDAK ADA ENTRI YANG DIPILIH</value>
     <comment>NO ENTRY SELECTED</comment>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>Tidak dapat menyambung ke pelayan, semak sambungan internet anda (kod ralat {0})</value>
+    <value>Tidak dapat terhubung ke server, silakan periksa koneksi internet Anda</value>
     <comment>Could not connect to the server, check your internet connection</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
-    <value>"Anda tidak mempunyai kebenaran untuk memuat naik perubahan ke lapangan terbang ini.
-Sila minta untuk diberikan tugasan melalui forum Penyuntingan Landskap terlebih dahulu"</value>
+    <value>"Anda tidak memiliki izin untuk mengunggah perubahan ke bandara ini.
+
+Silakan minta penugasan melalui forum Scenery Editing terlebih dahulu."</value>
     <comment>"You do not have permission to upload changes to this airport.
 
 Please ask to be assigned via the Scenery Editing forum first."</comment>
   </data>
   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
-    <value>Ketik untuk meneruskan</value>
+    <value>Ketuk untuk Melanjutkan</value>
     <comment>Tap to continue</comment>
   </data>
   <data name="FlightPlan.Replace" xml:space="preserve">
@@ -2890,21 +2891,21 @@ Please ask to be assigned via the Scenery Editing forum first."</comment>
     <comment>Replace</comment>
   </data>
   <data name="Global.RestorePurchases" xml:space="preserve">
-    <value>Kembalikan Pembelian</value>
+    <value>Pulihkan Pembelian</value>
     <comment>Restore Purchases</comment>
   </data>
   <data name="UserAccountControl.DiscordLinked.Message" xml:space="preserve">
-    <value>Akaun Discord anda telah disambungkan. Adakah anda mahu menyertai pelayan Discord Infinite Flight sekarang?</value>
+    <value>Akun Discord Anda telah terhubung. Apakah Anda ingin bergabung dengan server Discord Infinite Flight sekarang?</value>
   </data>
   <data name="SubscriptionControl.GooglePlaySubscriptionInfo" xml:space="preserve">
-    <value>Langganan akan diperbaharui secara automatik sehingga dibatalkan.
-Batalkan pada bila-bila masa di Pusat Langganan Google Play.</value>
+    <value>Langganan akan otomatis diperbarui hingga dibatalkan.
+Batalkan kapan saja di Pusat Langganan Google Play.</value>
   </data>
   <data name="AircraftPage.RentalBeginsNextFlight" xml:space="preserve">
-    <value>Sewa bermula pada penerbangan seterusnya</value>
+    <value>Penyewaan dimulai pada penerbangan berikutnya</value>
   </data>
   <data name="AircraftPage.RentalExpiresIn" xml:space="preserve">
-    <value>Tamat dalam {0}</value>
+    <value>Selesai dalam {0}</value>
   </data>
   <data name="AircraftPage.RentalPaymentCancelled" xml:space="preserve">
     <value>Penyewaan telah dibatalkan</value>
