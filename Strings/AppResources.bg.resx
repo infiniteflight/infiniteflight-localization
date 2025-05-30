@@ -1310,7 +1310,7 @@
     <comment>Broken</comment>
   </data>
   <data name="WeatherState.Clouds.Clear" xml:space="preserve">
-    <value>Ясни (Без)</value>
+    <value>Ясно небе</value>
     <comment>Clear</comment>
   </data>
   <data name="WeatherState.Clouds.Few" xml:space="preserve">
@@ -1354,7 +1354,7 @@
     <comment>account must be linked with IFC</comment>
   </data>
   <data name="Settings.NoVoicesAlert.Message" xml:space="preserve">
-    <value>Не бяха намерени гласове на устройството, искате ли да посетите Android Text to Speech настройките? (Все още имате проблеми? Проверете дали Google Speech Engine е избран)</value>
+    <value>Няма намерени гласове на това устройство. Желаете ли да отворите настройките за Android Text to Speech? (Ако продължавате да имате проблеми, проверете дали Google Speech Engine е избран)</value>
     <comment>No voices were found on the device, would you like to visit the Android Text to Speech Settings? (Still having issues? Make sure Google Speech Engine is selected)</comment>
   </data>
   <data name="MenuPageBase.Control" xml:space="preserve">
@@ -1398,7 +1398,7 @@
     <comment>Show Legacy Aircraft</comment>
   </data>
   <data name="AircraftPage.ShowProAircraft" xml:space="preserve">
-    <value>Показване на  Pro самолети</value>
+    <value>Показване на самолети, достъпни с Pro абонамент</value>
     <comment>Show Pro Aircraft</comment>
   </data>
   <data name="ATC.Approach" xml:space="preserve">
@@ -2410,7 +2410,7 @@
     <comment>Time on Frequency</comment>
   </data>
   <data name="SystemMessaging.ATCActive" xml:space="preserve">
-    <value>{0} {1} е активна. Присъединени сте към честотата автоматично.</value>
+    <value>Радиоточката {0} {1} е активна. Присъединени сте към честотата автоматично.</value>
     <comment>{airport} {position} is active. You have been tuned to this frequency.</comment>
   </data>
   <data name="SystemMessaging.ATCOffline" xml:space="preserve">
@@ -3444,7 +3444,7 @@ REPLAYS</comment>
     <comment>User needs to type this to confirm they want their account deleted</comment>
   </data>
   <data name="LogbookControl.EntriesUpper" xml:space="preserve">
-    <value>ЗАПИСИ</value>
+    <value>ДНЕВНИК</value>
     <comment>ENTRIES</comment>
   </data>
   <data name="LogbookControl.FailedRetrieveStartingAirport" xml:space="preserve">
@@ -4328,5 +4328,11 @@ Would you like to delete it?</comment>
   <data name="WeatherLiveControl.LatestTafUpper" xml:space="preserve">
     <value>ПОСЛЕДЕН TAF</value>
     <comment>LATEST TAF</comment>
+  </data>
+   <data name="Replay.OutdateReplayFile" xml:space="preserve">
+    <value>Този запис е създаден с друга версия на Infinite Flight</value>
+  </data>
+  <data name="Replay.DeleteSelectedReplayAction" xml:space="preserve">
+    <value>Изтриване на избрания запис</value>
   </data>
 </root>
