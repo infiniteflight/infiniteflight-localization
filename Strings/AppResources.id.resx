@@ -579,7 +579,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Use the entire screen when playing.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Title" xml:space="preserve">
-    <value>Layar Penuh<//value>
+    <value>Layar Penuh</value>
     <comment>Full Screen</comment>
   </data>
   <data name="Settings.Graphics.ObjectDensity.Subtitle" xml:space="preserve">
@@ -2056,7 +2056,7 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>ALT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.ArrivingAtDestination" xml:space="preserve">
-    <value>Tiba di tujuan dalam < 1 menit</value>
+    <value>Tiba di tujuan dalam &lt; 1 menit</value>
     <comment>ARRIVING AT DESTINATION in &lt; 1min</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.FlyHdg" xml:space="preserve">
@@ -2072,7 +2072,7 @@ Vertical Speed Mode must be enabled when Approach Mode is active</comment>
     <comment>NEXT WPT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
-    <value>WPT Berikutnya dalam < 1 Menit - Beralih ke HDG</value>
+    <value>WPT Berikutnya dalam &lt; 1 Menit - Beralih ke HDG</value>
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
