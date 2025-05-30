@@ -4343,4 +4343,10 @@ Would you like to delete it?</comment>
     <value>最新TAF</value>
     <comment>LATEST TAF</comment>
   </data>
+<data name="Replay.OutdateReplayFile" xml:space="preserve">
+    <value>该回放录制于不同的游戏版本，不兼容当前版本</value>
+  </data>
+  <data name="Replay.DeleteSelectedReplayAction" xml:space="preserve">
+    <value>删除选择的回放</value>
+  </data>
 </root>
