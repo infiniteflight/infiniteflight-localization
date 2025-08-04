@@ -115,6 +115,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to COMMERCIAL.
+        /// </summary>
+        internal static string AircraftFilterControl_Commercial {
+            get {
+                return ResourceManager.GetString("AircraftFilterControl.Commercial", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to COUNTRY.
         /// </summary>
         internal static string AircraftFilterControl_Country {
@@ -124,11 +133,38 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Engine Type.
+        /// </summary>
+        internal static string AircraftFilterControl_EngineType {
+            get {
+                return ResourceManager.GetString("AircraftFilterControl.EngineType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to JET.
+        /// </summary>
+        internal static string AircraftFilterControl_Jet {
+            get {
+                return ResourceManager.GetString("AircraftFilterControl.Jet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to MANUFACTURER.
         /// </summary>
         internal static string AircraftFilterControl_Manufacturer {
             get {
                 return ResourceManager.GetString("AircraftFilterControl.Manufacturer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MILITARY.
+        /// </summary>
+        internal static string AircraftFilterControl_Military {
+            get {
+                return ResourceManager.GetString("AircraftFilterControl.Military", resourceCulture);
             }
         }
         
@@ -151,6 +187,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Operator Type.
+        /// </summary>
+        internal static string AircraftFilterControl_OperatorType {
+            get {
+                return ResourceManager.GetString("AircraftFilterControl.OperatorType", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PISTON.
+        /// </summary>
+        internal static string AircraftFilterControl_Piston {
+            get {
+                return ResourceManager.GetString("AircraftFilterControl.Piston", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Show older aircraft.
         /// </summary>
         internal static string AircraftFilterControl_ShowOlderAircraft {
@@ -160,20 +214,20 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Show unlisted.
-        /// </summary>
-        internal static string AircraftFilterControl_ShowUnlisted {
-            get {
-                return ResourceManager.GetString("AircraftFilterControl.ShowUnlisted", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Sort By.
         /// </summary>
         internal static string AircraftFilterControl_SortBy {
             get {
                 return ResourceManager.GetString("AircraftFilterControl.SortBy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to TURBOPROP.
+        /// </summary>
+        internal static string AircraftFilterControl_Turboprop {
+            get {
+                return ResourceManager.GetString("AircraftFilterControl.Turboprop", resourceCulture);
             }
         }
         

@@ -4586,4 +4586,32 @@ Would you like to delete it?</comment>
     <value>REALISTIC ATMOSPHERE</value>
     <comment>REALISTIC ATMOSPHERE</comment>
   </data>
+  <data name="AircraftFilterControl.Commercial" xml:space="preserve">
+    <value>COMMERCIAL</value>
+    <comment>COMMERCIAL</comment>
+  </data>
+  <data name="AircraftFilterControl.EngineType" xml:space="preserve">
+    <value>Engine Type</value>
+    <comment>Engine Type</comment>
+  </data>
+  <data name="AircraftFilterControl.Jet" xml:space="preserve">
+    <value>JET</value>
+    <comment>JET</comment>
+  </data>
+  <data name="AircraftFilterControl.Military" xml:space="preserve">
+    <value>MILITARY</value>
+    <comment>MILITARY</comment>
+  </data>
+  <data name="AircraftFilterControl.OperatorType" xml:space="preserve">
+    <value>Operator Type</value>
+    <comment>Operator Type</comment>
+  </data>
+  <data name="AircraftFilterControl.Piston" xml:space="preserve">
+    <value>PISTON</value>
+    <comment>PISTON</comment>
+  </data>
+  <data name="AircraftFilterControl.Turboprop" xml:space="preserve">
+    <value>TURBOPROP</value>
+    <comment>TURBOPROP</comment>
+  </data>
 </root>
