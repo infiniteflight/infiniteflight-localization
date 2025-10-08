@@ -9724,11 +9724,11 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Clouds Altitude.
+        ///   Looks up a localized string similar to Cirrus Clouds Altitude.
         /// </summary>
-        internal static string WeatherPage_CloudsAltitude {
+        internal static string WeatherPage_CirrusCloudsAltitude {
             get {
-                return ResourceManager.GetString("WeatherPage.CloudsAltitude", resourceCulture);
+                return ResourceManager.GetString("WeatherPage.CirrusCloudsAltitude", resourceCulture);
             }
         }
         

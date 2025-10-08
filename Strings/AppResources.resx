@@ -1288,9 +1288,9 @@ We recommend keeping this setting to 30fps.</comment>
     <value>Cirrus Cloud Layer</value>
     <comment>Cirrus Cloud Layer</comment>
   </data>
-  <data name="WeatherPage.CloudsAltitude" xml:space="preserve">
-    <value>Clouds Altitude</value>
-    <comment>Clouds Altitude</comment>
+  <data name="WeatherPage.CirrusCloudsAltitude" xml:space="preserve">
+    <value>Cirrus Clouds Altitude</value>
+    <comment>Cirrus Clouds Altitude</comment>
   </data>
   <data name="WeatherPage.Temperature" xml:space="preserve">
     <value>Temperature</value>
