@@ -4614,4 +4614,97 @@ Would you like to delete it?</comment>
     <value>TURBOPROP</value>
     <comment>TURBOPROP</comment>
   </data>
+  <data name="PauseFlightControl.AutoExit" xml:space="preserve">
+    <value>Auto Exit</value>
+    <comment>Auto Exit toggle label in pause menu (AutoPilot+ feature)</comment>
+  </data>
+  <data name="PauseFlightControl.AutoExitDescription" xml:space="preserve">
+    <value>Automatically exits the flight
+30 minutes before destination
+and continues on AutoPilot+
+if conditions allow.</value>
+    <comment>Auto Exit feature description popup text</comment>
+  </data>
+  <data name="Hud2.FullScreenModeHintLine1" xml:space="preserve">
+    <value>LONG PRESS IN THE CENTER OF THE SCREEN TO TOGGLE CONTROLS</value>
+    <comment>Hint shown when entering full screen mode (hide controls)</comment>
+  </data>
+  <data name="Hud2.FullScreenModeHintDroneCamera" xml:space="preserve">
+    <value>DRONE CAMERA MOTION REMAINS ACTIVE</value>
+    <comment>Secondary hint when in drone camera mode with controls hidden</comment>
+  </data>
+  <data name="Hud2.FullScreenModeHintAileronElevator" xml:space="preserve">
+    <value>AILERON/ELEVATOR CONTROL REMAINS ACTIVE</value>
+    <comment>Secondary hint when on-screen controls enabled with controls hidden</comment>
+  </data>
+  <data name="OnScreenJoystickControl.Move" xml:space="preserve">
+    <value>MOVE</value>
+    <comment>Label for camera motion joystick (drone camera left stick)</comment>
+  </data>
+  <data name="OnScreenJoystickControl.Look" xml:space="preserve">
+    <value>LOOK</value>
+    <comment>Label for camera rotation joystick (drone camera right stick)</comment>
+  </data>
+  <data name="OnScreenJoystickControl.TapToUse" xml:space="preserve">
+    <value>TAP TO USE</value>
+    <comment>Onboarding hint for on-screen joystick controls</comment>
+  </data>
+  <data name="ControlMethodPopup.SelectControlMode" xml:space="preserve">
+    <value>SELECT CONTROL MODE</value>
+    <comment>Title of the control method selection popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Tilt" xml:space="preserve">
+    <value>TILT</value>
+    <comment>Label for tilt/accelerometer control option</comment>
+  </data>
+  <data name="ControlMethodPopup.Touch" xml:space="preserve">
+    <value>TOUCH</value>
+    <comment>Label for on-screen touch joystick control option</comment>
+  </data>
+  <data name="ControlMethodPopup.OK" xml:space="preserve">
+    <value>OK</value>
+    <comment>OK button text in control method popup</comment>
+  </data>
+  <data name="ApplicationSettings.FlightControlInput" xml:space="preserve">
+    <value>Flight Control Input</value>
+    <comment>Setting name for flight control input method selection</comment>
+  </data>
+  <data name="ApplicationSettings.FlightControlInputDescription" xml:space="preserve">
+    <value>Choose how to control the aircraft: motion or on-screen controls</value>
+    <comment>Setting description for flight control input method selection</comment>
+  </data>
+  <data name="ApplicationSettings.ShowControlMethodPopup" xml:space="preserve">
+    <value>Show Control Method Popup</value>
+    <comment>Debug setting name for showing control method selection on flight start</comment>
+  </data>
+  <data name="ApplicationSettings.ShowControlMethodPopupDescription" xml:space="preserve">
+    <value>Reset to show control method selection on flight start</value>
+    <comment>Debug setting description for showing control method selection on flight start</comment>
+  </data>
+  <data name="JoystickPanningArea.ShowingInterfaceInFormat" xml:space="preserve">
+    <value>Showing interface in {0}...</value>
+    <comment>Countdown text when long pressing to show hidden controls. {0} is seconds remaining.</comment>
+  </data>
+  <data name="JoystickPanningArea.HidingInterfaceInFormat" xml:space="preserve">
+    <value>Hiding interface in {0}...</value>
+    <comment>Countdown text when long pressing to hide controls. {0} is seconds remaining.</comment>
+  </data>
+  <data name="FlightAnalyzer.AutoPilotPlusTitle" xml:space="preserve">
+    <value>Auto Exit</value>
+    <comment>Title for the Auto Exit confirmation dialog</comment>
+  </data>
+  <data name="FlightAnalyzer.AutoPilotPlusMessage" xml:space="preserve">
+    <value>Auto Exit will engage automatically in 1 minute if conditions are still met.
+
+Press Cancel to turn it off.</value>
+    <comment>Message for the Auto Exit confirmation dialog</comment>
+  </data>
+  <data name="FlightAnalyzer.AutoPilotPlusOK" xml:space="preserve">
+    <value>OK</value>
+    <comment>OK button for Autopilot+ dialog</comment>
+  </data>
+  <data name="FlightAnalyzer.AutoPilotPlusCancel" xml:space="preserve">
+    <value>CANCEL</value>
+    <comment>Cancel button for Autopilot+ dialog</comment>
+  </data>
 </root>

@@ -5706,7 +5706,205 @@ namespace Fds.Framework.EmbeddedResources {
                 return ResourceManager.GetString("PauseFlightControl.RefuelingError.RentalPeriodExpired", resourceCulture);
             }
         }
-        
+
+        /// <summary>
+        ///   Looks up a localized string similar to Auto Exit.
+        /// </summary>
+        internal static string PauseFlightControl_AutoExit {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.AutoExit", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Automatically exits the flight 30 minutes before destination and continues on AutoPilot+ if conditions allow.
+        /// </summary>
+        internal static string PauseFlightControl_AutoExitDescription {
+            get {
+                return ResourceManager.GetString("PauseFlightControl.AutoExitDescription", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to LONG PRESS IN THE CENTER OF THE SCREEN TO TOGGLE CONTROLS.
+        /// </summary>
+        internal static string Hud2_FullScreenModeHintLine1 {
+            get {
+                return ResourceManager.GetString("Hud2.FullScreenModeHintLine1", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to DRONE CAMERA MOTION REMAINS ACTIVE.
+        /// </summary>
+        internal static string Hud2_FullScreenModeHintDroneCamera {
+            get {
+                return ResourceManager.GetString("Hud2.FullScreenModeHintDroneCamera", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to AILERON/ELEVATOR CONTROL REMAINS ACTIVE.
+        /// </summary>
+        internal static string Hud2_FullScreenModeHintAileronElevator {
+            get {
+                return ResourceManager.GetString("Hud2.FullScreenModeHintAileronElevator", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to MOVE.
+        /// </summary>
+        internal static string OnScreenJoystickControl_Move {
+            get {
+                return ResourceManager.GetString("OnScreenJoystickControl.Move", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to LOOK.
+        /// </summary>
+        internal static string OnScreenJoystickControl_Look {
+            get {
+                return ResourceManager.GetString("OnScreenJoystickControl.Look", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to TAP TO USE.
+        /// </summary>
+        internal static string OnScreenJoystickControl_TapToUse {
+            get {
+                return ResourceManager.GetString("OnScreenJoystickControl.TapToUse", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to SELECT CONTROL MODE.
+        /// </summary>
+        internal static string ControlMethodPopup_SelectControlMode {
+            get {
+                return ResourceManager.GetString("ControlMethodPopup.SelectControlMode", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to TILT.
+        /// </summary>
+        internal static string ControlMethodPopup_Tilt {
+            get {
+                return ResourceManager.GetString("ControlMethodPopup.Tilt", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to TOUCH.
+        /// </summary>
+        internal static string ControlMethodPopup_Touch {
+            get {
+                return ResourceManager.GetString("ControlMethodPopup.Touch", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to OK.
+        /// </summary>
+        internal static string ControlMethodPopup_OK {
+            get {
+                return ResourceManager.GetString("ControlMethodPopup.OK", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Flight Control Input.
+        /// </summary>
+        internal static string ApplicationSettings_FlightControlInput {
+            get {
+                return ResourceManager.GetString("ApplicationSettings.FlightControlInput", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Choose how to control the aircraft: motion or on-screen controls.
+        /// </summary>
+        internal static string ApplicationSettings_FlightControlInputDescription {
+            get {
+                return ResourceManager.GetString("ApplicationSettings.FlightControlInputDescription", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Show Control Method Popup.
+        /// </summary>
+        internal static string ApplicationSettings_ShowControlMethodPopup {
+            get {
+                return ResourceManager.GetString("ApplicationSettings.ShowControlMethodPopup", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Reset to show control method selection on flight start.
+        /// </summary>
+        internal static string ApplicationSettings_ShowControlMethodPopupDescription {
+            get {
+                return ResourceManager.GetString("ApplicationSettings.ShowControlMethodPopupDescription", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Showing interface in {0}....
+        /// </summary>
+        internal static string JoystickPanningArea_ShowingInterfaceInFormat {
+            get {
+                return ResourceManager.GetString("JoystickPanningArea.ShowingInterfaceInFormat", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Hiding interface in {0}....
+        /// </summary>
+        internal static string JoystickPanningArea_HidingInterfaceInFormat {
+            get {
+                return ResourceManager.GetString("JoystickPanningArea.HidingInterfaceInFormat", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Autopilot+.
+        /// </summary>
+        internal static string FlightAnalyzer_AutoPilotPlusTitle {
+            get {
+                return ResourceManager.GetString("FlightAnalyzer.AutoPilotPlusTitle", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Auto Save will engage Autopilot+ automatically in 1 minute if conditions are still met....
+        /// </summary>
+        internal static string FlightAnalyzer_AutoPilotPlusMessage {
+            get {
+                return ResourceManager.GetString("FlightAnalyzer.AutoPilotPlusMessage", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to OK.
+        /// </summary>
+        internal static string FlightAnalyzer_AutoPilotPlusOK {
+            get {
+                return ResourceManager.GetString("FlightAnalyzer.AutoPilotPlusOK", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to CANCEL.
+        /// </summary>
+        internal static string FlightAnalyzer_AutoPilotPlusCancel {
+            get {
+                return ResourceManager.GetString("FlightAnalyzer.AutoPilotPlusCancel", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Looks up a localized string similar to Failed to retrieve any subscription plans.
         /// </summary>

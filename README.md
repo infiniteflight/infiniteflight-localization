@@ -43,6 +43,8 @@ ServerMessages and Tips are json files and can be edited in any text editor. VSC
 
  - Text strings with values such as `{0}` and `{1}` represent variables which are replaced at runtime in the simulator. The comments should explain what these variables represent, but please ask if you are unsure.
 
+ - **IMPORTANT: Format placeholders must use numbers, not names.** Always use `{0}`, `{1}`, `{2}`, etc. exactly as they appear in the English source. Do NOT translate placeholders to named versions like `{airport}`, `{speed}`, or `{name}` - this will cause the app to crash. If the English string has `{0:0.00}` (with formatting), preserve the format specifier exactly.
+
  - Translated text should be equal or shorter in length to the English equivalent whenever possible to ensure it will fit in the UI. Please state in the Pull Request if this isn't possible.
 
  - For ServerMessages, it is important to state the following in the `welcomeMessages`: 

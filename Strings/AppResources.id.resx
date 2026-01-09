@@ -2344,7 +2344,7 @@ No waypoint in Flight Plan</comment>
     <comment>Reduce speed below {0}kts below 10000ft to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowMach" xml:space="preserve">
-    <value>Kurangi kecepatan di bawah Mach {speed} untuk menghindari pelanggaran</value>
+    <value>Kurangi kecepatan di bawah Mach {0:0.00} untuk menghindari pelanggaran</value>
     <comment>Reduce speed below Mach {speed} to avoid violations</comment>
   </data>
   <data name="SystemMessaging.OverspeedViolation.WarningTitle" xml:space="preserve">
@@ -2412,7 +2412,7 @@ Slow down to avoid further violations.</comment>
     <comment>Time on Frequency</comment>
   </data>
   <data name="SystemMessaging.ATCActive" xml:space="preserve">
-    <value>{bandara} {posisi} sedang aktif. Anda telah disetel ke frekuensi ini.</value>
+    <value>{0} {1} sedang aktif. Anda telah disetel ke frekuensi ini.</value>
     <comment>{airport} {position} is active. You have been tuned to this frequency.</comment>
   </data>
   <data name="SystemMessaging.ATCOffline" xml:space="preserve">
@@ -2420,7 +2420,7 @@ Slow down to avoid further violations.</comment>
     <comment>{airport} {position} is now offline</comment>
   </data>
   <data name="SystemMessaging.ATCOfflineRetuned" xml:space="preserve">
-    <value>{bandara} {lokasi} saat ini tidak tersedia. Anda telah dialihkan ke {2} {3}.</value>
+    <value>{0} {1} saat ini tidak tersedia. Anda telah dialihkan ke {2} {3}.</value>
     <comment>{airport} {position} is now offline. You have been tuned to {2} {3}.</comment>
   </data>
   <data name="Settings.General.ClearCache" xml:space="preserve">
@@ -2787,8 +2787,8 @@ Slow down to avoid further violations.</comment>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="SystemMessaging.Notams.EnteredTFR" xml:space="preserve">
-    <value>Telah memasuki TFR Aktif di atau dekat {ICAO}
-{Judul}
+    <value>Telah memasuki TFR Aktif di atau dekat {0}
+{1}
 Periksa peta untuk informasi lebih lanjut</value>
     <comment>Entered an Active TFR at or near {ICAO}
 {Title}
