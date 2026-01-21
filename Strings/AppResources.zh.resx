@@ -490,13 +490,19 @@
     <comment>Enable Automatic Low Power</comment>
   </data>
   <data name="Settings.General.ClearSceneryCache.Subtitle" xml:space="preserve">
-    <value>清除设备上的地景数据缓存</value>
+    <value>清除本地缓存的地景数据（可解决部分地景加载错误）</value>
     <comment>Clear scenery data cached on local storage</comment>
   </data>
   <data name="Settings.General.ClearSceneryCache.Title" xml:space="preserve">
     <value>清除地景缓存</value>
     <comment>Clear Scenery Cache</comment>
   </data>
+  <data name="Settings.General.ClearCache.Subtitle" xml:space="preserve">
+    <value>清除本地缓存的地景数据（可解决部分地景加载错误）</value>
+    <comment>Clear data cached on local storage</comment>
+  <data name="Settings.General.ClearCache.Title" xml:space="preserve">
+    <value>清除缓存</value>
+    <comment>Clear Cache</comment>
   <data name="Settings.General.Connect.Subtitle" xml:space="preserve">
     <value>启用Infinite Flight Connect API (实验性功能)</value>
     <comment>Enable Infinite Flight Connect API System (Experimental)</comment>
@@ -1349,6 +1355,10 @@
     <value>确认清除地景缓存？</value>
     <comment>Are you sure you want to clear the scenery cache?</comment>
   </data>
+  <data name="Settings.ClearCacheAlert.Message" xml:space="preserve">
+    <value>确认清除缓存？</value>
+    <comment>Are you sure you want to clear the cache?</comment>
+  </data>
   <data name="Settings.DisabledInFlight" xml:space="preserve">
     <value>在飞行时无法更改</value>
     <comment>can't be changed while in-flight</comment>
@@ -1926,7 +1936,7 @@
     <comment>Details</comment>
   </data>
   <data name="Global.Name" xml:space="preserve">
-    <value>用户名</value>
+    <value>名称</value>
     <comment>Name</comment>
   </data>
   <data name="Global.Report" xml:space="preserve">
@@ -2675,6 +2685,10 @@ Check map for more information</comment>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
     <value>无可用服务器</value>
     <comment>No Available Server</comment>
+  <data name="Error.InvalidTimeSpan" xml:space="preserve">
+    <value>错误：此会话的开始和结束时间无效</value>
+    <comment>The start and end times for this session aren't valid</comment>
+  </data>
   </data>
   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
     <value>更换飞机</value>
@@ -2780,6 +2794,9 @@ Check map for more information</comment>
   <data name="FlightSchoolControl.NoEntrySelected" xml:space="preserve">
       <value>未选择项目</value>
   </data>
+  <data name="FlightSchoolControl.NoEntrySelected" xml:space="preserve">
+    <value>未选择条目</value>
+    <comment>NO ENTRY SELECTED</comment>
   <data name="FlightSchoolControl.NoLessonsFoundUpper" xml:space="preserve">
       <value>未找到教程</value>
   </data>
@@ -4348,5 +4365,153 @@ Would you like to delete it?</comment>
   </data>
   <data name="Replay.DeleteSelectedReplayAction" xml:space="preserve">
     <value>删除选择的回放</value>
+  </data>
+<data name="AircraftFilterControl.Country" xml:space="preserve">
+    <value>国家/地区</value>
+    <comment>COUNTRY</comment>
+  </data>
+  <data name="AircraftFilterControl.Manufacturer" xml:space="preserve">
+    <value>制造商</value>
+    <comment>MANUFACTURER</comment>
+  </data>
+  <data name="AircraftFilterControl.Model" xml:space="preserve">
+    <value>机型</value>
+    <comment>MODEL</comment>
+  </data>
+  <data name="AircraftFilterControl.OnlyFreeRented" xml:space="preserve">
+    <value>仅显示免费/已租赁</value>
+    <comment>Only Free/Rented</comment>
+  </data>
+  <data name="AircraftFilterControl.ShowOlderAircraft" xml:space="preserve">
+    <value>显示早期机模</value>
+    <comment>Show older aircraft</comment>
+  </data>
+  <data name="AircraftFilterControl.SortBy" xml:space="preserve">
+    <value>排序方式</value>
+    <comment>Sort By</comment>
+  </data>
+  <data name="AircraftSelectionControl.AircraftCountPlural" xml:space="preserve">
+    <value>{0} 个机型</value>
+    <comment>{0} aircraft</comment>
+  </data>
+  <data name="AircraftSelectionControl.AircraftCountSingular" xml:space="preserve">
+    <value>{0} 个机型</value>
+    <comment>{0} aircraft</comment>
+  </data>
+  <data name="AircraftSelectionControl.LiveryCountPlural" xml:space="preserve">
+    <value>{0} 个涂装</value>
+    <comment>{0} liveries</comment>
+  </data>
+  <data name="AircraftSelectionControl.LiveryCountSingular" xml:space="preserve">
+    <value>{0} 个涂装</value>
+    <comment>{0} livery</comment>
+  </data>
+  <data name="AircraftSelectionControl.MiscShort" xml:space="preserve">
+    <value>其他</value>
+    <comment>Misc.</comment>
+  </data>
+  <data name="AircraftSelectionFooterControl.Operators" xml:space="preserve">
+    <value>运营人</value>
+    <comment>OPERATORS</comment>
+  </data>
+  <data name="ProPlansControl.FailedToRetrieveSubs" xml:space="preserve">
+    <value>获取订阅计划失败</value>
+    <comment>Failed to retrieve any subscription plans</comment>
+  </data>
+  <data name="ProPlansControl.MostPopular" xml:space="preserve">
+    <value>热门选择</value>
+    <comment>Most Popular</comment>
+  </data>
+  <data name="ProPlansControl.UnauthorizedAccess" xml:space="preserve">
+    <value>未授权访问订阅计划</value>
+    <comment>Unauthorized access to subscription plans</comment>
+  </data>
+  <data name="RentSubControl.ActiveCommunity.Description" xml:space="preserve">
+    <value>每日活动与组队飞行，让你与全球飞友紧密相连，共享天空的每一刻</value>
+    <comment>DAILY EVENTS AND GROUP FLIGHTS</comment>
+  </data>
+  <data name="RentSubControl.ActiveCommunity.Title" xml:space="preserve">
+    <value>活跃飞行社区</value>
+    <comment>ACTIVE COMMUNITY</comment>
+  </data>
+  <data name="RentSubControl.ExploreTheWorld.Description" xml:space="preserve">
+    <value>覆盖全球的高清卫星地形（15米/像素），真正的开放世界游戏</value>
+    <comment>WORLDWIDE HD 15M/PX SATELLITE TERRAIN IMAGERY</comment>
+  </data>
+  <data name="RentSubControl.ExploreTheWorld.Title" xml:space="preserve">
+    <value>探索整个世界</value>
+    <comment>EXPLORE THE WORLD</comment>
+  </data>
+  <data name="RentSubControl.Help" xml:space="preserve">
+    <value>帮助</value>
+    <comment>Help</comment>
+  </data>
+  <data name="RentSubControl.InstrumentProcedures.Description" xml:space="preserve">
+    <value>覆盖全球的真实导航数据，让你的航线精准无误、符合现实标准</value>
+    <comment>REAL-WORLD GLOBAL NAVIGATION DATA</comment>
+  </data>
+  <data name="RentSubControl.InstrumentProcedures.Title" xml:space="preserve">
+    <value>全球仪表程序</value>
+    <comment>INSTRUMENT PROCEDURES</comment>
+  </data>
+  <data name="RentSubControl.MessageAircraftLiverySub" xml:space="preserve">
+    <value>游玩{0} ({1}) 前需要订阅</value>
+    <comment>{0} ({1}) requires a subscription to fly</comment>
+  </data>
+  <data name="RentSubControl.MessageAircraftLiverySubRent" xml:space="preserve">
+    <value>游玩{0} ({1}) 前需要租赁或订阅</value>
+    <comment>{0} ({1}) requires a rental or a subscription to fly</comment>
+  </data>
+  <data name="RentSubControl.MessageGenericSub" xml:space="preserve">
+    <value>订阅无限飞行Pro即可畅玩所有机型，全球地景和多人连飞</value>
+    <comment>Infinite Flight Pro gives you access to all aircraft, global scenery and multiplayer</comment>
+  </data>
+  <data name="RentSubControl.MoreOptions" xml:space="preserve">
+    <value>更多选项</value>
+    <comment>More Options</comment>
+  </data>
+  <data name="RentSubControl.MultiplayerWithAtc.Description" xml:space="preserve">
+    <value>与数千名飞行员及空管同频连线，体验沉浸式的全球飞行网络环境</value>
+    <comment>FLY WITH THOUSANDS OF OTHER PILOTS &amp; ATC</comment>
+  </data>
+  <data name="RentSubControl.MultiplayerWithAtc.Title" xml:space="preserve">
+    <value>真人管制连飞</value>
+    <comment>MULTIPLAYER WITH ATC</comment>
+  </data>
+  <data name="RentSubControl.RealisticAtmosphere.Description" xml:space="preserve">
+    <value>云层、高空风场、昼夜交替等多种环境要素，为你还原真实的飞行氛围</value>
+    <comment>CLOUDS, WINDS ALOFT, DAY/NIGHT CYCLE, AND MORE</comment>
+  </data>
+  <data name="RentSubControl.RealisticAtmosphere.Title" xml:space="preserve">
+    <value>真实大气环境</value>
+    <comment>REALISTIC ATMOSPHERE</comment>
+  </data>
+  <data name="AircraftFilterControl.Commercial" xml:space="preserve">
+    <value>民用</value>
+    <comment>COMMERCIAL</comment>
+  </data>
+  <data name="AircraftFilterControl.EngineType" xml:space="preserve">
+    <value>发动机类型</value>
+    <comment>Engine Type</comment>
+  </data>
+  <data name="AircraftFilterControl.Jet" xml:space="preserve">
+    <value>喷气式</value>
+    <comment>JET</comment>
+  </data>
+  <data name="AircraftFilterControl.Military" xml:space="preserve">
+    <value>军用</value>
+    <comment>MILITARY</comment>
+  </data>
+  <data name="AircraftFilterControl.OperatorType" xml:space="preserve">
+    <value>运营人类型</value>
+    <comment>Operator Type</comment>
+  </data>
+  <data name="AircraftFilterControl.Piston" xml:space="preserve">
+    <value>活塞式</value>
+    <comment>PISTON</comment>
+  </data>
+  <data name="AircraftFilterControl.Turboprop" xml:space="preserve">
+    <value>涡桨</value>
+    <comment>TURBOPROP</comment>
   </data>
 </root>
