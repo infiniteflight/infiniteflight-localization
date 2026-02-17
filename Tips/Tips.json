@@ -298,7 +298,7 @@
   "tr": [
     "Frenleme Tüyosu: Yerde fren yapmak için dümen kaydırıcısını aşağı çekin.",
     "Infinite Flight'a eklenmesini istediğiniz özellikler mi var? community.infiniteflight.com adresinden fikriniz için oy verebilirsiniz.",
-    "ATC Önerisi: ATC ile diğer pilotların konuşmalarını kaldırmak için ATC konuşma metnine iki defa tıklayın.",
+    "Kontrolör Önerisi: Kontrolör ile diğer pilotların konuşmalarını kaldırmak için Kontrolör konuşma metnine iki defa tıklayın.",
     "Bizi Instagram, Facebook ve Twitter üzerinden takip edebilirsiniz, @infiniteflight.",
     "Sizinle aynı kafada insanlar veya sanal havayolları mı arıyorsunuz? Topluluk sayfamıza community.infiniteflight.com adresinden bir göz atın.",
     "youtube.com/infiniteflight adresinden Infinite Flight tecrübenizi geliştirecek kurslar ve harika ipuçları bulabilirsiniz!",
@@ -320,13 +320,13 @@
     "Öneri: Uçuş sistemlerinin kapanmaması için ana motorları kapatmadan önce APU'yu açın.",
     "Öneri: Bir havaalanına yaklaşma planlarken D-ATIS'i inceleyin.",
     "Pilot Tüyosu: Uzun mesafeli uçuşlarda menzilinizi ve genel performansınızı artırmak için 'Step Climb' tekniğini kullanabilirsiniz.",
-    "ATC Tüyosu: Haritayı daha kolay görmek için prosedürlerin opaklığını ayarlayabilirsiniz.",
+    "Kontrolör Tüyosu: Haritayı daha kolay görmek için prosedürlerin opaklığını ayarlayabilirsiniz.",
     "Öneri: Gerçek düşük görüş koşullarında enstrüman navigasyonu çalışmak için tekli modda havayı hassas şekilde ayarlayın.",
     "Centerı aktif olan bir hava sahasında uzun bir uçuş mı yapuyorsunuz? 'Uzak' ikonu basar ATC'nin sizi rahatsız etmesini engelleyebilirsiniz.",
     "Uçuş Tüyosu; Aktif bir kontolörün frekansına bağlanmak için haritadan havalimanının üstüne basabilirsiniz."
     "Bir işiniz mi çıktı? Autopilot+ ile uçuşunuzu arka planda devam ettirebilirsiniz."
-    "Pilot Tüyosu: ATC size pushback için kuyruk yönü verdiyse 'Auto Pushback' butonuna basıp yön tayini için sol üstteki pusulayı baz alabilirsiniz."
-    "Pilot Tüyosu: ATC size bir taksi talimatı verdiğinde haritayı yakılaştırarak pembe ile kulenin verdiği rotayı görebilirsiniz."
+    "Pilot Tüyosu: Kontrolör size pushback için kuyruk yönü verdiyse 'Auto Pushback' butonuna basıp yön tayini için sol üstteki pusulayı baz alabilirsiniz."
+    "Pilot Tüyosu: Kontrolör size bir taksi talimatı verdiğinde haritayı yakılaştırarak pembe ile kulenin verdiği rotayı görebilirsiniz."
     "Uçuş Tüyosu: Rotanıza ILS yaklaşma prosedürü eklerseniz otomatik olarak NAV 1'e ayarlanır."
     "Uçuş Tüyosu: Oyunu durduru 'AP+' butonuna basarak AP+ gerekliliklerini görebilir ve uçuşunuz özelinde şu anki durumunu görüntüleyebilirsiniz."
   ]
