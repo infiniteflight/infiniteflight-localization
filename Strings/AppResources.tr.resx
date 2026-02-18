@@ -858,7 +858,7 @@
     <comment>Community Forum Account</comment>
   </data>
   <data name="Settings.Account.Forum.UnlinkedAccount" xml:space="preserve">
-    <value>Uçuş sırasında kullanıcı adınızı göstermek için bir Infinite Flight Ropluluk hesabı bağlayın. Bu bağlantı, cihaz platformlarını değiştirirseniz giriş yapmanıza da izin verir.</value>
+    <value>Uçuş sırasında kullanıcı adınızı göstermek için bir Infinite Flight Topluluk hesabı bağlayın. Bu bağlantı, cihaz platformlarını değiştirirseniz giriş yapmanıza da izin verir.</value>
     <comment>Connect an Infinite Flight Community profile to show your username in-flight. This connection also allows you to sign in if you switch device platforms.</comment>
   </data>
   <data name="Settings.Account.ManageSubscription" xml:space="preserve">
@@ -2070,7 +2070,7 @@
     <comment>NEXT WPT</comment>
   </data>
   <data name="SystemMessaging.FlightPlan.NextWptTurnWarning" xml:space="preserve">
-    <value>SIRADAKİ WPT &lt; 1 Dk içinde - Turn to HDG</value>
+    <value>SIRADAKİ WPT &lt; 1 Dk içinde - Baş</value>
     <comment>NEXT WPT in &lt; 1 Min - Turn to HDG</comment>
   </data>
   <data name="SystemMessaging.FuelDump.CannotStart.AircraftBelow7000" xml:space="preserve">
@@ -2190,11 +2190,11 @@
     <comment>VNAV UnavailableNo waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.TargetUpdated" xml:space="preserve">
-    <value>VNAV Hedefi {0} ({2:#0.0}NM) @ {1:n0}ft e güncenllendi</value>
+    <value>VNAV Hedefi {0} ({2:#0.0}NM) @ {1:n0}ft e güncellendi</value>
     <comment>VNAV Target updated to {0} ({2:#0.0}NM) @ {1:n0}ft</comment>
   </data>
   <data name="Violations.ExceededDisconnection" xml:space="preserve">
-    <value>Bu mevcut oturum için aşırı ihlal nedeniyle bağlantınız kesildi.</value>
+    <value>Bu mevcut oturum için birkaç ihlal yaptığınız için bağlantınız kesildi.</value>
     <comment>You have been disconnected due to excess violations for this current session.</comment>
   </data>
   <data name="Violations.LimitExceeded" xml:space="preserve">
