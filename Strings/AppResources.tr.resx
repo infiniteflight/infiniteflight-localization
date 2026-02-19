@@ -146,7 +146,7 @@
     <comment>MULTIPLAYER</comment>
   </data>
   <data name="LoginSubscriptionPage.ProCarouselTitle4" xml:space="preserve">
-    <value>GRRÇEK HAVA TRAFİK KONTROLÖRÜ</value>
+    <value>GERÇEK HAVA TRAFİK KONTROLÖRÜ</value>
     <comment>HUMAN ATC</comment>
   </data>
   <data name="Global.Back" xml:space="preserve">
@@ -186,7 +186,7 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>Bağlamaya çalıştığınız hesap zaten başka bir Infinite Flight Pro aboneliğiyle bağlantılı </value>
+    <value>Bağlamaya çalıştığınız hesap zaten başka bir Infinite Flight Pro aboneliğine bağlı </value>
     <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
@@ -194,7 +194,7 @@
     <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>Bu ATC oturumu hakkında bir bilgi bulamıyoruz </value>
+    <value>Bu Hava Trafik Kontrolörü oturumu hakkında bir bilgi bulamıyoruz </value>
     <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
@@ -942,7 +942,7 @@
     <comment>Null Zone / Sensitivity</comment>
   </data>
   <data name="Settings.Controls.Axes.Reverse" xml:space="preserve">
-    <value>Ters itiş</value>
+    <value>Ters</value>
     <comment>Rev.</comment>
   </data>
   <data name="Settings.Controls.Axes.Sensitivity" xml:space="preserve">
@@ -1014,7 +1014,7 @@
     <comment>Cockpit Camera</comment>
   </data>
   <data name="Commands.FlyByCamera" xml:space="preserve">
-    <value>Fly By Kamera</value>
+    <value>Kamera</value>
     <comment>Fly By Camera</comment>
   </data>
   <data name="Commands.FollowCamera" xml:space="preserve">
@@ -1086,7 +1086,7 @@
     <comment>Reset Camera</comment>
   </data>
   <data name="Commands.SelectATCEntry" xml:space="preserve">
-    <value>{0}. ATC Girişini Seçin</value>
+    <value>{0}. Kontrolör Girişini Seçin</value>
     <comment>Select ATC Entry {number}</comment>
   </data>
   <data name="Commands.StartEngine" xml:space="preserve">
@@ -1098,7 +1098,7 @@
     <comment>Stop Specified Engine</comment>
   </data>
   <data name="Commands.ToggleATCWindow" xml:space="preserve">
-    <value>Hava Trarik Kontrolörü Penceresini Aç / Kapat</value>
+    <value>Hava Trafik Kontrolörü Penceresini Aç / Kapat</value>
     <comment>Toggle ATC Window</comment>
   </data>
   <data name="Commands.ToggleAutopilot" xml:space="preserve">
@@ -1470,11 +1470,11 @@
     <comment>Add</comment>
   </data>
   <data name="Global.Airport" xml:space="preserve">
-    <value>Havaalanı</value>
+    <value>Havalimanı</value>
     <comment>Airport</comment>
   </data>
   <data name="Global.NotQualified" xml:space="preserve">
-    <value>Kalifiye Değil</value>
+    <value>Kalifiye Değilsin</value>
     <comment>Not Qualified</comment>
   </data>
   <data name="Global.PleaseWait" xml:space="preserve">
@@ -1482,7 +1482,7 @@
     <comment>Please wait...</comment>
   </data>
   <data name="Global_FinalApproach" xml:space="preserve">
-    <value>Son Yaklaşma</value>
+    <value>Final Yaklaşım</value>
     <comment>Final Approach</comment>
   </data>
   <data name="Global_Runway" xml:space="preserve">
@@ -1814,7 +1814,7 @@
     <comment>Floor</comment>
   </data>
   <data name="Notam.From" xml:space="preserve">
-    <value>İtibaren   : {0} {1}Z</value>
+    <value> {0} {1}Z'dan itibaren</value>
     <comment>From (Date)</comment>
   </data>
   <data name="Notam.Message" xml:space="preserve">
@@ -2166,7 +2166,7 @@
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>PİST BOŞTA UYARI\nAktif pistlerde uzun süre kalmak yasaktır.\nİhlal almamak için pistten çıkın veya kalkış yapın</value>
+    <value>PİSTTE BEKLEME\nAktif pistlerde uzun süre kalmak yasaktır.\nİhlal almamak için pistten çıkın veya kalkış yapın</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
@@ -2206,7 +2206,7 @@
     <comment>Cargo</comment>
   </data>
   <data name="WeightAndBalance.FlightTime" xml:space="preserve">
-    <value>Tahmini Uçuş Süresi</value>
+    <value>Tahmini Menzil</value>
     <comment>Est. Flight Time</comment>
   </data>
   <data name="WeightAndBalance.FuelBurn" xml:space="preserve">
@@ -2350,7 +2350,7 @@
     <comment>SPEED WARNING</comment>
   </data>
   <data name="Violation.Level0Received.Message" xml:space="preserve">
-    <value>Bir kontrolör veya personel tarafından bağlantınız kesildi. Bu bir İhlal değildir ve temyize gerek yoktur.</value>
+    <value>Bir yerkili veya kontrolör tarafından bağlantınız kesildi. Bu bir İhlal değildir ve temyize gerek yoktur.</value>
     <comment>You have been disconnected by a controller or staff member. This is not a Violation and no appeal is necessary.</comment>
   </data>
   <data name="Violation.Level2Received.Message" xml:space="preserve">
@@ -2478,7 +2478,7 @@
     <comment>Delete All</comment>
   </data>
   <data name="Replay.DeleteAll.Message" xml:space="preserve">
-    <value>Bütün kayıtlar silinsin mi?</value>
+    <value>Bütün tekrarlar silinsin mi?</value>
     <comment>Delete all replay files?</comment>
   </data>
   <data name="Replay.DeleteSelected" xml:space="preserve">
@@ -2486,7 +2486,7 @@
     <comment>Delete Selected</comment>
   </data>
   <data name="Replay.DeleteSelectedPlural.Message" xml:space="preserve">
-    <value>Seçilen {0} kayıt dosyaları silinsin mi?</value>
+    <value>Seçilen {0} tekrar dosyaları silinsin mi?</value>
     <comment>Delete {0} selected replay files?</comment>
   </data>
   <data name="Replay.DeleteSelectedSingular.Message" xml:space="preserve">
@@ -2546,7 +2546,7 @@
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
-    <value>Değişiklikleri bu havalimanına yükleme izniniz yok. Lütfen önce Scenery Editor forumu aracılığıyla atanmayı isteyin.</value>
+    <value>Bu havalimanında değişiklik yapma izniniz yok. Lütfen önce Scenery Editor forumu aracılığıyla atanmayı isteyin.</value>
     <comment>You do not have permission to upload changes to this airport.Please ask to be assigned via the Scenery Editing forum first</comment>
   </data>
   <data name="SystemMessaging.Jetbridges.InvalidDockingConditions" xml:space="preserve">
