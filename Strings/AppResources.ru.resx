@@ -3059,4 +3059,12 @@ Check map for more information</comment>
     <value>Не удалось загрузить планы подписки</value>
     <comment>Failed to retrieve any subscription plans</comment>
   </data>
+  <data name="ControlMethodPopup.ChangeLaterHint" xml:space="preserve">
+    <value>Вы можете изменить схему управления в любое время позже в настройках, в разделе «Управление полетом».</value>
+    <comment>Helper text shown below the control method selection cards explaining the choice can be changed later in Settings</comment>
+  </data>
+  <data name="ControlMethodPopup.ShowAtStartup" xml:space="preserve">
+    <value>Показывать при запуске</value>
+    <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
+  </data>
 </root>

@@ -3387,4 +3387,12 @@ Saia do voo atual e tente novamente.</value>
     <value>Falha ao recuperar planos de assinatura</value>
     <comment>Failed to retrieve any subscription plans</comment>
   </data>
+  <data name="ControlMethodPopup.ChangeLaterHint" xml:space="preserve">
+    <value>Você pode alterar seu esquema de controle a qualquer momento depois em Configurações, em Entrada de controle de voo.</value>
+    <comment>Helper text shown below the control method selection cards explaining the choice can be changed later in Settings</comment>
+  </data>
+  <data name="ControlMethodPopup.ShowAtStartup" xml:space="preserve">
+    <value>Mostrar na inicialização</value>
+    <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
+  </data>
 </root>

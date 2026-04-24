@@ -3171,4 +3171,12 @@ Bármikor lemondhatja a Google Play előfizetési központjában.</value>
     <value>Az előfizetési csomagok lekérése sikertelen</value>
     <comment>Failed to retrieve any subscription plans</comment>
   </data>
+  <data name="ControlMethodPopup.ChangeLaterHint" xml:space="preserve">
+    <value>A vezérlési módot később bármikor megváltoztathatod a Beállításokban, a Repülésvezérlési bemenet alatt.</value>
+    <comment>Helper text shown below the control method selection cards explaining the choice can be changed later in Settings</comment>
+  </data>
+  <data name="ControlMethodPopup.ShowAtStartup" xml:space="preserve">
+    <value>Megjelenítés indításkor</value>
+    <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
+  </data>
 </root>

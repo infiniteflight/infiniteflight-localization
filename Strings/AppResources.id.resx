@@ -3092,4 +3092,12 @@ Batalkan kapan saja di Pusat Langganan Google Play.</value>
     <value>Gagal mengambil paket langganan</value>
     <comment>Failed to retrieve any subscription plans</comment>
   </data>
+  <data name="ControlMethodPopup.ChangeLaterHint" xml:space="preserve">
+    <value>Anda dapat mengubah skema kontrol kapan saja nanti di Pengaturan pada Input Kontrol Penerbangan.</value>
+    <comment>Helper text shown below the control method selection cards explaining the choice can be changed later in Settings</comment>
+  </data>
+  <data name="ControlMethodPopup.ShowAtStartup" xml:space="preserve">
+    <value>Tampilkan saat mulai</value>
+    <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
+  </data>
 </root>

@@ -4829,6 +4829,14 @@ if conditions allow.</value>
     <value>OK</value>
     <comment>OK button text in control method popup</comment>
   </data>
+  <data name="ControlMethodPopup.ChangeLaterHint" xml:space="preserve">
+    <value>You can change your control scheme at any time later in Settings under Flight Control Input.</value>
+    <comment>Helper text shown below the control method selection cards explaining the choice can be changed later in Settings</comment>
+  </data>
+  <data name="ControlMethodPopup.ShowAtStartup" xml:space="preserve">
+    <value>Show at startup</value>
+    <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
+  </data>
   <data name="ApplicationSettings.FlightControlInput" xml:space="preserve">
     <value>Flight Control Input</value>
     <comment>Setting name for flight control input method selection</comment>

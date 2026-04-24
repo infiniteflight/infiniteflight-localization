@@ -2790,4 +2790,12 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <value>לא ניתן לטעון מסלולי מנוי</value>
     <comment>Failed to retrieve any subscription plans</comment>
   </data>
+  <data name="ControlMethodPopup.ChangeLaterHint" xml:space="preserve">
+    <value>תוכל לשנות את שיטת השליטה בכל עת בהמשך בהגדרות תחת קלט בקרת טיסה.</value>
+    <comment>Helper text shown below the control method selection cards explaining the choice can be changed later in Settings</comment>
+  </data>
+  <data name="ControlMethodPopup.ShowAtStartup" xml:space="preserve">
+    <value>הצג בהפעלה</value>
+    <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
+  </data>
 </root>

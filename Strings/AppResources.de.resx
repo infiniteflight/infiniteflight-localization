@@ -3257,4 +3257,12 @@ Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
     <value>Abonnementpläne konnten nicht abgerufen werden</value>
     <comment>Failed to retrieve any subscription plans</comment>
   </data>
+  <data name="ControlMethodPopup.ChangeLaterHint" xml:space="preserve">
+    <value>Du kannst dein Steuerungsschema später jederzeit in den Einstellungen unter „Flugsteuerungseingabe“ ändern.</value>
+    <comment>Helper text shown below the control method selection cards explaining the choice can be changed later in Settings</comment>
+  </data>
+  <data name="ControlMethodPopup.ShowAtStartup" xml:space="preserve">
+    <value>Beim Start anzeigen</value>
+    <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
+  </data>
 </root>
