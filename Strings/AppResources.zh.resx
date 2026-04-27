@@ -4366,7 +4366,7 @@ Would you like to delete it?</comment>
     <comment>CHOOSE YOUR PLAN</comment>
   </data>
   <data name="RentSubControl.ContinueWithPro" xml:space="preserve">
-    <value>继续使用 Pro</value>
+    <value>继续使用Pro</value>
     <comment>Continue with Pro</comment>
   </data>
   <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
@@ -4374,23 +4374,23 @@ Would you like to delete it?</comment>
     <comment>&lt;EMPTY NAME&gt;</comment>
   </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
-    <value>60+ 架飞机</value>
+    <value>60多种机型</value>
     <comment>60+ aircraft</comment>
   </data>
   <data name="RentSubControl.FeatureAirports" xml:space="preserve">
-    <value>27,000+ 机场</value>
+    <value>27,000余座机场</value>
     <comment>27,000+ airports</comment>
   </data>
   <data name="RentSubControl.FeatureAirTrafficControl" xml:space="preserve">
-    <value>空中交通管制</value>
+    <value>真人空管</value>
     <comment>Air traffic control</comment>
   </data>
   <data name="RentSubControl.FeatureAutopilotPlus" xml:space="preserve">
-    <value>AutoPilot+</value>
+    <value>“自动驾驶Plus”后台挂飞</value>
     <comment>AutoPilot+</comment>
   </data>
   <data name="RentSubControl.FeatureEfbIntegration" xml:space="preserve">
-    <value>EFB 集成</value>
+    <value>电子飞行包（EFB）集成</value>
     <comment>EFB integration</comment>
   </data>
   <data name="RentSubControl.FeatureGlobalHdScenery" xml:space="preserve">
@@ -4398,11 +4398,11 @@ Would you like to delete it?</comment>
     <comment>Global HD scenery</comment>
   </data>
   <data name="RentSubControl.FeatureLiveries" xml:space="preserve">
-    <value>1,000+ 涂装</value>
+    <value>1,000多个涂装</value>
     <comment>1,000+ liveries</comment>
   </data>
   <data name="RentSubControl.FeatureLiveMultiplayer" xml:space="preserve">
-    <value>实时多人联机</value>
+    <value>实时多人联飞</value>
     <comment>Live multiplayer</comment>
   </data>
   <data name="RentSubControl.FeatureLiveWeather" xml:space="preserve">
@@ -4410,7 +4410,7 @@ Would you like to delete it?</comment>
     <comment>Live weather</comment>
   </data>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
-    <value>SimBrief 集成</value>
+    <value>SimBrief集成</value>
     <comment>SimBrief integration</comment>
   </data>
   <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
@@ -4418,7 +4418,7 @@ Would you like to delete it?</comment>
     <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
-    <value>月度</value>
+    <value>包月</value>
     <comment>Monthly</comment>
   </data>
   <data name="RentSubControl.OneTimePurchase" xml:space="preserve">
@@ -4438,15 +4438,15 @@ Would you like to delete it?</comment>
     <comment>/24hrs</comment>
   </data>
   <data name="RentSubControl.PeriodMonth" xml:space="preserve">
-    <value>/月</value>
+    <value>/包月</value>
     <comment>/month</comment>
   </data>
   <data name="RentSubControl.PeriodSixMonths" xml:space="preserve">
-    <value>/6个月</value>
+    <value>/半年</value>
     <comment>/6 months</comment>
   </data>
   <data name="RentSubControl.PeriodYear" xml:space="preserve">
-    <value>/年</value>
+    <value>/包年</value>
     <comment>/year</comment>
   </data>
   <data name="RentSubControl.PlanAndPriceFormat" xml:space="preserve">
@@ -4458,7 +4458,7 @@ Would you like to delete it?</comment>
     <comment>PRO</comment>
   </data>
   <data name="RentSubControl.RedeemCode" xml:space="preserve">
-    <value>兑换代码</value>
+    <value>兑换码</value>
     <comment>Redeem Code</comment>
   </data>
   <data name="RentSubControl.Rent24Hours" xml:space="preserve">
@@ -4474,19 +4474,19 @@ Would you like to delete it?</comment>
     <comment>{price}{period}.</comment>
   </data>
   <data name="RentSubControl.ReviewQuoteEngadget" xml:space="preserve">
-    <value>"App Store 上最好的之一" – Engadget</value>
+    <value>"App Store最佳模飞之一" – Engadget</value>
     <comment>"One of the best on the App Store" - Engadget</comment>
   </data>
   <data name="RentSubControl.ReviewQuoteNyt" xml:space="preserve">
-    <value>"移动端最好的飞行模拟器" – The New York Times</value>
+    <value>"移动端最好的飞行模拟器" – 纽约时报</value>
     <comment>"The best flight simulator on mobile" - The New York Times</comment>
   </data>
   <data name="RentSubControl.SavePercentUpper" xml:space="preserve">
-    <value>节省 {0}%</value>
+    <value>立省{0}%</value>
     <comment>SAVE {percent}%</comment>
   </data>
   <data name="RentSubControl.SixMonths" xml:space="preserve">
-    <value>6 个月</value>
+    <value>半年</value>
     <comment>6 Months</comment>
   </data>
   <data name="RentSubControl.SubscriptionFootnote" xml:space="preserve">
@@ -4498,7 +4498,7 @@ Would you like to delete it?</comment>
     <comment>Subscription Unavailable</comment>
   </data>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
-    <value>测试版中已禁用订阅购买。请从{0}安装 Infinite Flight 以订阅 Pro。</value>
+    <value>无法在测试版中购买订阅。请从{0}安装 Infinite Flight 以订阅 Pro。</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
   </data>
   <data name="RentSubControl.SwitchingTo" xml:space="preserve">
@@ -4510,7 +4510,7 @@ Would you like to delete it?</comment>
     <comment>Unlock the full flight simulation experience</comment>
   </data>
   <data name="RentSubControl.Yearly" xml:space="preserve">
-    <value>年度</value>
+    <value>包年</value>
     <comment>Yearly</comment>
   </data>
   <data name="ProPlansControl.FailedToRetrieveSubs" xml:space="preserve">
