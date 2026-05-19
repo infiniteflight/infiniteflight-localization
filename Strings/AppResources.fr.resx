@@ -1519,10 +1519,10 @@
     <value>Aucun résultat pour "{0}"</value>
   </data>
   <data name="ItemSearchControl.SearchAirports" xml:space="preserve">
-    <value>Rechercher des aéroports</value>
+    <value>Rechercher</value>
   </data>
   <data name="ItemSearchControl.SearchAirportsAndWaypoints" xml:space="preserve">
-    <value>Rechercher des aéroports/points</value>
+    <value>Rechercher</value>
   </data>
   <data name="LocationPage.NoAvailableStartLocations" xml:space="preserve">
     <value>Aucun point de départ disponible pour le {0}</value>
@@ -1957,7 +1957,7 @@
     <value>Décrochage imminent ! Poussez le manche vers l'avant pour récupérer</value>
   </data>
   <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>DÉCROCHAGE! Poussez le joug/bâton vers l'avant pour récupérer</value>
+    <value>DÉCROCHAGE! Poussez le manche vers l'avant pour récupérer</value>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>Le pilote automatique doit être activé pour modifier l'échelle de temps de la simulation</value>
@@ -2092,7 +2092,7 @@
     <value>Dépassement de vitesse émis</value>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnots" xml:space="preserve">
-    <value>Réduisez la vitesse en dessous de {0}kts pour éviter les infractions</value>
+    <value>Réduisez la vitesse en dessous de {0}kts pour éviter les violations</value>
   </data>
   <data name="SystemMessaging.OverspeedViolation.ReduceSpeedBelowKnotsBelow10k" xml:space="preserve">
     <value>Réduisez la vitesse en dessous de {0}kts en dessous de 10 000 pieds pour éviter les violations</value>
@@ -2116,13 +2116,13 @@
     <value>Raison non spécifiée</value>
   </data>
   <data name="Violations.AerobaticManouvers.Message" xml:space="preserve">
-    <value>Acrobaties aériennes interdites à proximité des aéroports.Une infraction de niveau 1 a été émise.</value>
+    <value>Acrobaties aériennes interdites à proximité des aéroports.Une violation de niveau 1 a été émise.</value>
   </data>
   <data name="Violations.AircraftIdle.Message" xml:space="preserve">
-    <value>Aéronef au ralenti sur la piste active pendant trop longtempsUne infraction de niveau 1 a été émise.</value>
+    <value>Aéronef au ralenti sur la piste active pendant trop longtempsUne violation de niveau 1 a été émise.</value>
   </data>
   <data name="Violations.GroundSpeed.Message" xml:space="preserve">
-    <value>Dépassement de la vitesse au sol maximale de 35 nœuds.Une infraction de niveau 1 a été émise.Ralentissez pour éviter d'autres violations.</value>
+    <value>Dépassement de la vitesse au sol maximale de 35 nœuds.Une violation de niveau 1 a été émise.Ralentissez pour éviter d'autres violations.</value>
   </data>
   <data name="ATCRatingPage.FrequencyCount" xml:space="preserve">
     <value>Fréquences actives</value>
