@@ -7491,6 +7491,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Helps maintain stable pitch and bank during flight.
+        /// </summary>
+        internal static string Settings_General_FlightAssist_Subtitle {
+            get {
+                return ResourceManager.GetString("Settings.General.FlightAssist.Subtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Hide the status when interface timeout occurs.
         /// </summary>
         internal static string Settings_General_HideStatusBar_Subtitle {
@@ -9386,11 +9395,11 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to STALL! Push yoke/stick forward to recover.
+        ///   Looks up a localized string similar to STALL.
         /// </summary>
-        internal static string SystemMessaging_Stall_InProgress {
+        internal static string SystemMessaging_Stall_InProgress_Title {
             get {
-                return ResourceManager.GetString("SystemMessaging.Stall.InProgress", resourceCulture);
+                return ResourceManager.GetString("SystemMessaging.Stall.InProgress.Title", resourceCulture);
             }
         }
         

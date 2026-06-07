@@ -945,6 +945,10 @@
     <value>Activa el link con EFB</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
+  <data name="Settings.General.FlightAssist.Subtitle" xml:space="preserve">
+    <value>Ayuda a mantener estables el cabeceo y el alabeo durante el vuelo</value>
+    <comment>Helps maintain stable pitch and bank during flight</comment>
+  </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>Oculta la barra de estados cuando se oculta el resto de la interfaz</value>
     <comment>Hide the status when interface timeout occurs</comment>
@@ -1982,8 +1986,9 @@ Pulse aquí para obtener más información</value>
   <data name="SystemMessaging.Stall.Approaching" xml:space="preserve">
     <value>¡Entrada en pérdida! Empuje el joystick y baja inclinación para recuperar control</value>
   </data>
-  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>¡ENTRADA EN PÉRDIDA! Empuje el joystick y baja inclinación para recuperar control</value>
+  <data name="SystemMessaging.Stall.InProgress.Title" xml:space="preserve">
+    <value>ENTRADA EN PÉRDIDA</value>
+    <comment>STALL</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>El piloto automático debe estar activado para cambiar la escala temporal del simulador</value>

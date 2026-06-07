@@ -513,6 +513,10 @@
     <value>连接电子飞行包（EFB）</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
+  <data name="Settings.General.FlightAssist.Subtitle" xml:space="preserve">
+    <value>帮助在飞行中保持稳定的俯仰和坡度</value>
+    <comment>Helps maintain stable pitch and bank during flight</comment>
+  </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>隐藏飞行控制组件同时隐藏底部状态栏</value>
     <comment>Hide the status when interface timeout occurs</comment>
@@ -2165,9 +2169,9 @@
     <value>即将失速！立即推杆以改出</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
-  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>失速！！立即推杆以改出</value>
-    <comment>STALL! Push yoke/stick forward to recover</comment>
+  <data name="SystemMessaging.Stall.InProgress.Title" xml:space="preserve">
+    <value>失速</value>
+    <comment>STALL</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>改变时间流速前必须接通自动驾驶</value>

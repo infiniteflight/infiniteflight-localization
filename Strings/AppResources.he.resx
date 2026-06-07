@@ -509,6 +509,10 @@
     <value>Enable EFB Link</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
+  <data name="Settings.General.FlightAssist.Subtitle" xml:space="preserve">
+    <value>עוזר לשמור על עלרוד והטיה יציבים במהלך הטיסה</value>
+    <comment>Helps maintain stable pitch and bank during flight</comment>
+  </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>הסתר את המצב כאשר מתרחש פסק זמן של הממשק</value>
     <comment>Hide the status when interface timeout occurs</comment>
@@ -2166,9 +2170,9 @@ Tap here for more information</comment>
     <value>Approaching stall! Push yoke/stick forward to recover</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
-  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>STALL! Push yoke/stick forward to recover</value>
-    <comment>STALL! Push yoke/stick forward to recover</comment>
+  <data name="SystemMessaging.Stall.InProgress.Title" xml:space="preserve">
+    <value>הזדקרות</value>
+    <comment>STALL</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>יש להפעיל את הטייס האוטומטי כדי לשנות את סולם הזמן של הסימולציה</value>

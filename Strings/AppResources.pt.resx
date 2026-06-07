@@ -1170,6 +1170,10 @@
   <data name="Settings.General.ForeFlight.Title" xml:space="preserve">
     <value>Ativar Link com EFB</value>
   </data>
+  <data name="Settings.General.FlightAssist.Subtitle" xml:space="preserve">
+    <value>Ajuda a manter a arfagem e a inclinação estáveis durante o voo</value>
+    <comment>Helps maintain stable pitch and bank during flight</comment>
+  </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>Oculta a barra de status quando a interface é ocultado</value>
   </data>
@@ -1565,8 +1569,9 @@ Toque aqui para mais informação</value>
   <data name="SystemMessaging.Stall.Approaching" xml:space="preserve">
     <value>Aproximando stall! Empurre o manche para reduzir inclinação para recuperar</value>
   </data>
-  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>STALL! Empurre o manche para frente para recuperar</value>
+  <data name="SystemMessaging.Stall.InProgress.Title" xml:space="preserve">
+    <value>STALL</value>
+    <comment>STALL</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>Piloto Automático precisa estar ativado para mudar a escala de tempo</value>

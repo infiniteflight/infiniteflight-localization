@@ -509,6 +509,10 @@
     <value>EFB Link'i Etkinleştir</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
+  <data name="Settings.General.FlightAssist.Subtitle" xml:space="preserve">
+    <value>Uçuş sırasında yunuslama ve yatışı sabit tutmaya yardımcı olur</value>
+    <comment>Helps maintain stable pitch and bank during flight</comment>
+  </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>Arayüz zaman aşımı gerçekleştiğinde durumu gizle</value>
     <comment>Hide the status when interface timeout occurs</comment>
@@ -2149,9 +2153,9 @@
     <value>Yaklaşma Perdovitesi! Kurtarmak için kolu/dümeni ileri itin</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
-  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>Perdovites! Kurtarmak için kolu/dümeni ileri itin</value>
-    <comment>STALL! Push yoke/stick forward to recover</comment>
+  <data name="SystemMessaging.Stall.InProgress.Title" xml:space="preserve">
+    <value>PERDÖVİTES</value>
+    <comment>STALL</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>Simülasyon zaman ölçeğini değiştirmek için otomatik pilot etkinleştirilmelidir</value>

@@ -509,6 +509,10 @@
     <value>Dayakan Link EFB</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
+  <data name="Settings.General.FlightAssist.Subtitle" xml:space="preserve">
+    <value>Membantu mengekalkan pic dan kecondongan yang stabil semasa penerbangan</value>
+    <comment>Helps maintain stable pitch and bank during flight</comment>
+  </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>Sembunyikan status apabila tamat masa antara muka berlaku</value>
     <comment>Hide the status when interface timeout occurs</comment>
@@ -2154,9 +2158,9 @@ Tap here for more information</comment>
     <value>Menghampiri gerai! Tolak kuk/tongkat ke hadapan untuk pulih</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
-  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>GERAI AERODINAMIK! Tolak kuk/tongkat ke hadapan untuk pulih</value>
-    <comment>STALL! Push yoke/stick forward to recover</comment>
+  <data name="SystemMessaging.Stall.InProgress.Title" xml:space="preserve">
+    <value>GERAI AERODINAMIK</value>
+    <comment>STALL</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>Autopilot mesti diaktifkan untuk menukar skala masa simulasi</value>

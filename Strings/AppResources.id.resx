@@ -510,6 +510,10 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <value>Aktifkan Tautan ForeFlight</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
+  <data name="Settings.General.FlightAssist.Subtitle" xml:space="preserve">
+    <value>Membantu menjaga pitch dan kemiringan tetap stabil selama penerbangan</value>
+    <comment>Helps maintain stable pitch and bank during flight</comment>
+  </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>Sembunyikan status saat waktu tunggu antarmuka habis</value>
     <comment>Hide the status when interface timeout occurs</comment>
@@ -2153,9 +2157,9 @@ Tap here for more information</comment>
     <value>Mendekati kondisi stall! Dorong tuas kemudi ke depan untuk memulihkan kendali.</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
-  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>KONDISI STALL! Dorong tuas kemudi ke depan untuk memulihkan kendali.</value>
-    <comment>STALL! Push yoke/stick forward to recover</comment>
+  <data name="SystemMessaging.Stall.InProgress.Title" xml:space="preserve">
+    <value>KONDISI STALL</value>
+    <comment>STALL</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>Autopilot harus diaktifkan untuk mengubah skala waktu simulasi</value>

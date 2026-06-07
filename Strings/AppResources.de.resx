@@ -509,6 +509,10 @@
     <value>EFB Link aktivieren</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
+  <data name="Settings.General.FlightAssist.Subtitle" xml:space="preserve">
+    <value>Hilft, Nicklage und Querneigung im Flug stabil zu halten</value>
+    <comment>Helps maintain stable pitch and bank during flight</comment>
+  </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>Blendet die Statusleiste aus, wenn die Benutzeroberfläche ausgeblendet wird</value>
     <comment>Hide the status when interface timeout occurs</comment>
@@ -2149,9 +2153,9 @@
     <value>Gefahr von Strömungsabriss! Zum Abfangen Steuerknüppel nach vorne drücken</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
-  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>STRÖMUNGSABRISS! Zum Abfangen Steuerknüppel nach vorne drücken</value>
-    <comment>STALL! Push yoke/stick forward to recover</comment>
+  <data name="SystemMessaging.Stall.InProgress.Title" xml:space="preserve">
+    <value>STRÖMUNGSABRISS</value>
+    <comment>STALL</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>Autopilot muss aktiviert sein, um die Zeitskalierung zu ändern</value>

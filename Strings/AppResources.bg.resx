@@ -509,6 +509,10 @@
     <value>Включване на EFB Link</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
+  <data name="Settings.General.FlightAssist.Subtitle" xml:space="preserve">
+    <value>Помага за поддържане на стабилен тангаж и крен по време на полет</value>
+    <comment>Helps maintain stable pitch and bank during flight</comment>
+  </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>Скриване на статус лентата при таймаут на интерфейса </value>
     <comment>Hide the status when interface timeout occurs</comment>
@@ -2161,9 +2165,9 @@
     <value>Губите подемна сила! Наклонете носа надолу, за да я възстановите</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
-  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>ГУБИТЕ ПОДЕМНА СИЛА! Наклонете носа надолу, за да я възстановите</value>
-    <comment>STALL! Push yoke/stick forward to recover</comment>
+  <data name="SystemMessaging.Stall.InProgress.Title" xml:space="preserve">
+    <value>ГУБИТЕ ПОДЕМНА СИЛА</value>
+    <comment>STALL</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>Автопилотът трябва да е включен, за да променяте времевата скала на симулацията</value>

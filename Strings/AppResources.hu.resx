@@ -509,6 +509,10 @@
     <value>EFB Összekapcsolás Engedélyezése</value>
     <comment>Enable ForeFlight Link</comment>
   </data>
+  <data name="Settings.General.FlightAssist.Subtitle" xml:space="preserve">
+    <value>Segít stabilan tartani a bólintást és a bedöntést repülés közben</value>
+    <comment>Helps maintain stable pitch and bank during flight</comment>
+  </data>
   <data name="Settings.General.HideStatusBar.Subtitle" xml:space="preserve">
     <value>Az alsó állapotsáv elrejtése, amikor interfész időtúllépés lép fel</value>
     <comment>Hide the status when interface timeout occurs</comment>
@@ -2166,9 +2170,9 @@ Tap here for more information</comment>
     <value>Átesés Közeledik! Told előre a kormányt</value>
     <comment>Approaching stall! Push yoke/stick forward to recover</comment>
   </data>
-  <data name="SystemMessaging.Stall.InProgress" xml:space="preserve">
-    <value>ÁTESÉS! Told előre a kormányt</value>
-    <comment>STALL! Push yoke/stick forward to recover</comment>
+  <data name="SystemMessaging.Stall.InProgress.Title" xml:space="preserve">
+    <value>ÁTESÉS</value>
+    <comment>STALL</comment>
   </data>
   <data name="SystemMessaging.TimeScale.AutopilotWarning" xml:space="preserve">
     <value>A szimulációs idő megváltoztatásához aktiválni kell a robotpilótát</value>
