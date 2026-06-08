@@ -2125,6 +2125,10 @@
     <value>Geschwindigkeitsüberschreitung! Reduziere den Schub, um unter die Maximalgeschwindigkeit zu kommen</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
+  <data name="SystemMessaging.Overspeed.Title" xml:space="preserve">
+    <value>ÜBERGESCHWINDIGKEIT</value>
+    <comment>OVERSPEED</comment>
+  </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
     <value>PUSHBACK GESTARTET</value>
     <comment>STARTING PUSHBACK</comment>

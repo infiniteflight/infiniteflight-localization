@@ -2142,6 +2142,10 @@ Tap here for more information</comment>
     <value>מהירות יתר! הפחת את המצערת/הספק כדי להאט מתחת למהירות המטוס המרבית</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
+  <data name="SystemMessaging.Overspeed.Title" xml:space="preserve">
+    <value>מהירות יתר</value>
+    <comment>OVERSPEED</comment>
+  </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
     <value>דחיפה לאחור מתחיל</value>
     <comment>STARTING PUSHBACK</comment>

@@ -1524,6 +1524,10 @@ Toque aqui para mais informação</value>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
     <value>Excesso de velocidade! Reduza a potência para reduzir a velocidade abaixo da velocidade máxima da aeronave</value>
   </data>
+  <data name="SystemMessaging.Overspeed.Title" xml:space="preserve">
+    <value>EXCESSO DE VELOCIDADE</value>
+    <comment>OVERSPEED</comment>
+  </data>
   <data name="SystemMessaging.OverspeedViolation.EnablingAutopilot" xml:space="preserve">
     <value>Configurando velocidade do piloto automático a {0}</value>
   </data>

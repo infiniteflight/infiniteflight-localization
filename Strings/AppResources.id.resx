@@ -2129,6 +2129,10 @@ Tap here for more information</comment>
     <value>Terlalucepat! Kurangi gas/daya untuk memperlambat kecepatan di bawah kecepatan maksimum pesawat.</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
+  <data name="SystemMessaging.Overspeed.Title" xml:space="preserve">
+    <value>KECEPATAN BERLEBIH</value>
+    <comment>OVERSPEED</comment>
+  </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
     <value>MULAI DORONG MUNDUR</value>
     <comment>STARTING PUSHBACK</comment>

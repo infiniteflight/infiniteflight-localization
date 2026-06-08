@@ -9251,6 +9251,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to OVERSPEED.
+        /// </summary>
+        internal static string SystemMessaging_Overspeed_Title {
+            get {
+                return ResourceManager.GetString("SystemMessaging.Overspeed.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Setting autopilot speed to {0}.
         /// </summary>
         internal static string SystemMessaging_OverspeedViolation_EnablingAutopilot {

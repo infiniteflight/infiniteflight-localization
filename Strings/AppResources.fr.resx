@@ -1939,6 +1939,10 @@
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
     <value>Excès de vitesse ! Réduire l'accélérateur/la puissance pour ralentir en dessous de la vitesse maximale de l'avion</value>
   </data>
+  <data name="SystemMessaging.Overspeed.Title" xml:space="preserve">
+    <value>SURVITESSE</value>
+    <comment>OVERSPEED</comment>
+  </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
     <value>DÉMARRAGE DU PUSHBACK</value>
   </data>

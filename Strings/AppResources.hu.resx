@@ -2142,6 +2142,10 @@ Tap here for more information</comment>
     <value>Túlsebesség! Csökkentse a gázt/teljesítményt, hogy a repülőgép maximális sebessége alá lassítson</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
+  <data name="SystemMessaging.Overspeed.Title" xml:space="preserve">
+    <value>TÚLSEBESSÉG</value>
+    <comment>OVERSPEED</comment>
+  </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
     <value>PUSHBACK INDÍTÁSA</value>
     <comment>STARTING PUSHBACK</comment>

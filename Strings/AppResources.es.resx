@@ -1965,6 +1965,10 @@ Pulse aquí para obtener más información</value>
   <data name="SystemMessaging.Overspeed" xml:space="preserve">
     <value>¡Sobrevelocidad! Reduce acelerador para bajar velocidad por debajo de la velocidad máxima del avión</value>
   </data>
+  <data name="SystemMessaging.Overspeed.Title" xml:space="preserve">
+    <value>SOBREVELOCIDAD</value>
+    <comment>OVERSPEED</comment>
+  </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
     <value>EMPEZANDO PUSHBACK</value>
   </data>

@@ -2124,6 +2124,10 @@
     <value>Превышение скорости! Сбавте тягу, чтобы вернуться к скорости ниже максимальной</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
+  <data name="SystemMessaging.Overspeed.Title" xml:space="preserve">
+    <value>ПРЕВЫШЕНИЕ СКОРОСТИ</value>
+    <comment>OVERSPEED</comment>
+  </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
     <value>ВЫТАЛКИВАНИЕ НАЧАТО</value>
     <comment>STARTING PUSHBACK</comment>

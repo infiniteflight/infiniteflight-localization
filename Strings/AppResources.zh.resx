@@ -2141,6 +2141,10 @@
     <value>超速！减小油门把速度降低到飞机最大速度以下</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
+  <data name="SystemMessaging.Overspeed.Title" xml:space="preserve">
+    <value>超速</value>
+    <comment>OVERSPEED</comment>
+  </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
     <value>推出开始</value>
     <comment>STARTING PUSHBACK</comment>

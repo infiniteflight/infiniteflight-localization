@@ -2137,6 +2137,10 @@
     <value>Превишаване на скоростта! Намалете мощността, за да намалите скоростта под максималната скорост на самолета</value>
     <comment>Overspeeding! Reduce throttle/power to slow down below max aircraft speed</comment>
   </data>
+  <data name="SystemMessaging.Overspeed.Title" xml:space="preserve">
+    <value>ПРЕВИШЕНА СКОРОСТ</value>
+    <comment>OVERSPEED</comment>
+  </data>
   <data name="SystemMessaging.PushbackStarting" xml:space="preserve">
     <value>ЗАПОЧВАНЕ НА БУКСИРАНЕТО</value>
     <comment>STARTING PUSHBACK</comment>
