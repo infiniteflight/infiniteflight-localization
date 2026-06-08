@@ -3746,6 +3746,34 @@ si las condiciones lo permiten.</value>
     <value>Mostrar al iniciar</value>
     <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
   </data>
+  <data name="ControlMethodPopup.FlightAssistTitle" xml:space="preserve">
+    <value>¿CÓMO QUIERES VOLAR?</value>
+    <comment>Title of the flight assist selection step in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Assisted" xml:space="preserve">
+    <value>ASISTIDO</value>
+    <comment>Label for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.AssistedDescription" xml:space="preserve">
+    <value>Ayuda a mantener estables el cabeceo y la inclinación.</value>
+    <comment>Description for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Manual" xml:space="preserve">
+    <value>MANUAL</value>
+    <comment>Label for the manual flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.ManualDescription" xml:space="preserve">
+    <value>Tú tienes el control total.</value>
+    <comment>Description for the manual flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.RecommendedForBeginners" xml:space="preserve">
+    <value>RECOMENDADO PARA PRINCIPIANTES</value>
+    <comment>Recommendation tag for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Next" xml:space="preserve">
+    <value>SIGUIENTE</value>
+    <comment>Next button text in the control method popup</comment>
+  </data>
   <data name="ApplicationSettings.FlightControlInput" xml:space="preserve">
     <value>Entrada de control de vuelo</value>
     <comment>Setting name for flight control input method selection</comment>

@@ -3404,4 +3404,32 @@ Saia do voo atual e tente novamente.</value>
     <value>Mostrar na inicialização</value>
     <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
   </data>
+  <data name="ControlMethodPopup.FlightAssistTitle" xml:space="preserve">
+    <value>COMO VOCÊ QUER VOAR?</value>
+    <comment>Title of the flight assist selection step in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Assisted" xml:space="preserve">
+    <value>ASSISTIDO</value>
+    <comment>Label for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.AssistedDescription" xml:space="preserve">
+    <value>Ajuda a manter arfagem e inclinação estáveis.</value>
+    <comment>Description for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Manual" xml:space="preserve">
+    <value>MANUAL</value>
+    <comment>Label for the manual flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.ManualDescription" xml:space="preserve">
+    <value>Você fica totalmente no controle.</value>
+    <comment>Description for the manual flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.RecommendedForBeginners" xml:space="preserve">
+    <value>RECOMENDADO PARA INICIANTES</value>
+    <comment>Recommendation tag for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Next" xml:space="preserve">
+    <value>AVANÇAR</value>
+    <comment>Next button text in the control method popup</comment>
+  </data>
 </root>

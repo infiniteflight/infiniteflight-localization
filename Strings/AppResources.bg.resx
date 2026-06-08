@@ -4519,4 +4519,32 @@ Would you like to delete it?</comment>
     <value>Показвай при стартиране</value>
     <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
   </data>
+  <data name="ControlMethodPopup.FlightAssistTitle" xml:space="preserve">
+    <value>КАК ИСКАТЕ ДА ЛЕТИТЕ?</value>
+    <comment>Title of the flight assist selection step in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Assisted" xml:space="preserve">
+    <value>АСИСТИРАНО</value>
+    <comment>Label for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.AssistedDescription" xml:space="preserve">
+    <value>Помага да поддържате тангажа и наклона стабилни.</value>
+    <comment>Description for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Manual" xml:space="preserve">
+    <value>РЪЧНО</value>
+    <comment>Label for the manual flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.ManualDescription" xml:space="preserve">
+    <value>Вие имате пълен контрол.</value>
+    <comment>Description for the manual flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.RecommendedForBeginners" xml:space="preserve">
+    <value>ПРЕПОРЪЧИТЕЛНО ЗА НАЧИНАЕЩИ</value>
+    <comment>Recommendation tag for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Next" xml:space="preserve">
+    <value>НАПРЕД</value>
+    <comment>Next button text in the control method popup</comment>
+  </data>
 </root>

@@ -3115,4 +3115,32 @@ Batalkan pada bila-bila masa di Pusat Langganan Google Play.</value>
     <value>Tunjukkan semasa mula</value>
     <comment>Checkbox label in the control method popup to show the selector again when starting a flight</comment>
   </data>
+  <data name="ControlMethodPopup.FlightAssistTitle" xml:space="preserve">
+    <value>BAGAIMANA ANDA MAHU TERBANG?</value>
+    <comment>Title of the flight assist selection step in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Assisted" xml:space="preserve">
+    <value>DIBANTU</value>
+    <comment>Label for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.AssistedDescription" xml:space="preserve">
+    <value>Membantu mengekalkan pitch dan bank yang stabil.</value>
+    <comment>Description for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Manual" xml:space="preserve">
+    <value>MANUAL</value>
+    <comment>Label for the manual flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.ManualDescription" xml:space="preserve">
+    <value>Anda kekal mengawal sepenuhnya.</value>
+    <comment>Description for the manual flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.RecommendedForBeginners" xml:space="preserve">
+    <value>DISYORKAN UNTUK PEMULA</value>
+    <comment>Recommendation tag for the assisted flight option in the control method popup</comment>
+  </data>
+  <data name="ControlMethodPopup.Next" xml:space="preserve">
+    <value>SETERUSNYA</value>
+    <comment>Next button text in the control method popup</comment>
+  </data>
 </root>
