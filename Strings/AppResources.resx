@@ -4915,4 +4915,24 @@ Press Cancel to turn it off.</value>
     <value>CANCEL</value>
     <comment>Cancel button for Autopilot+ dialog</comment>
   </data>
+  <data name="PurchaseAccountPrompt.Title" xml:space="preserve">
+    <value>Flown with us before?</value>
+    <comment>Flown with us before?</comment>
+  </data>
+  <data name="PurchaseAccountPrompt.Message" xml:space="preserve">
+    <value>Sign in with your Community profile to add this purchase to your existing account. Or start a new account with no flights or grade.</value>
+    <comment>Sign in with your Community profile to add this purchase to your existing account. Or start a new account with no flights or grade.</comment>
+  </data>
+  <data name="PurchaseAccountPrompt.SignIn" xml:space="preserve">
+    <value>Sign in with Community</value>
+    <comment>Sign in with Community</comment>
+  </data>
+  <data name="PurchaseAccountPrompt.StartNew" xml:space="preserve">
+    <value>Start a new account</value>
+    <comment>Start a new account</comment>
+  </data>
+  <data name="Error.LoginCancelled" xml:space="preserve">
+    <value>Sign in was cancelled.</value>
+    <comment>Sign in was cancelled.</comment>
+  </data>
 </root>

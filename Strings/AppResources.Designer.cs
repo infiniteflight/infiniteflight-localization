@@ -10688,5 +10688,50 @@ namespace Fds.Framework.EmbeddedResources {
                 return ResourceManager.GetString("WorldSelectionControl.NoWorldsAvailable", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flown with us before?.
+        /// </summary>
+        internal static string PurchaseAccountPrompt_Title {
+            get {
+                return ResourceManager.GetString("PurchaseAccountPrompt.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in with your Community profile to add this purchase to your existing account. Or start a new account with no flights or grade..
+        /// </summary>
+        internal static string PurchaseAccountPrompt_Message {
+            get {
+                return ResourceManager.GetString("PurchaseAccountPrompt.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in with Community.
+        /// </summary>
+        internal static string PurchaseAccountPrompt_SignIn {
+            get {
+                return ResourceManager.GetString("PurchaseAccountPrompt.SignIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Start a new account.
+        /// </summary>
+        internal static string PurchaseAccountPrompt_StartNew {
+            get {
+                return ResourceManager.GetString("PurchaseAccountPrompt.StartNew", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in was cancelled..
+        /// </summary>
+        internal static string Error_LoginCancelled {
+            get {
+                return ResourceManager.GetString("Error.LoginCancelled", resourceCulture);
+            }
+        }
     }
 }
