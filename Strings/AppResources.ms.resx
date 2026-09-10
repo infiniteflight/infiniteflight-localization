@@ -3311,4 +3311,16 @@ Batalkan pada bila-bila masa di Pusat Langganan Google Play.</value>
     <value>Menggunakan akaun yang dipautkan kepada langganan Play Store aktif anda</value>
     <comment>Subtitle of the Revert to Default Account row on Android</comment>
   </data>
+  <data name="LiftStore.QuantityUpper" xml:space="preserve">
+    <value>KUANTITI</value>
+    <comment>Caption above the quantity selector for one-time Lifts, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsDescription" xml:space="preserve">
+    <value>{0} 30 hari setiap satu · {1} · Pembelian sekali</value>
+    <comment>{lift count} for 30 days each · {total localized price} · One-time purchase; shown when more than one one-time Lift is selected</comment>
+  </data>
+  <data name="LiftStore.BuyLiftsPrompt" xml:space="preserve">
+    <value>Beli {0} dengan harga {1}? Ia masuk ke dompet anda dan setiap satu sah selama 30 hari selepas digunakan pada organisasi.</value>
+    <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
+  </data>
 </root>

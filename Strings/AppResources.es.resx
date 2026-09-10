@@ -4184,4 +4184,16 @@ Pulsa Cancelar para desactivarlo.</value>
     <value>Usa la cuenta vinculada a tu suscripción activa de Play Store</value>
     <comment>Subtitle of the Revert to Default Account row on Android</comment>
   </data>
+  <data name="LiftStore.QuantityUpper" xml:space="preserve">
+    <value>CANTIDAD</value>
+    <comment>Caption above the quantity selector for one-time Lifts, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsDescription" xml:space="preserve">
+    <value>{0} durante 30 días cada uno · {1} · Compra única</value>
+    <comment>{lift count} for 30 days each · {total localized price} · One-time purchase; shown when more than one one-time Lift is selected</comment>
+  </data>
+  <data name="LiftStore.BuyLiftsPrompt" xml:space="preserve">
+    <value>¿Comprar {0} por {1}? Van a tu monedero y cada uno dura 30 días una vez aplicado a una organización.</value>
+    <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
+  </data>
 </root>
