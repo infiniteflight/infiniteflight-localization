@@ -4265,6 +4265,357 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Active on organizations.
+        /// </summary>
+        internal static string LiftStore_ActiveOnOrganizations {
+            get {
+                return ResourceManager.GetString("LiftStore.ActiveOnOrganizations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Available.
+        /// </summary>
+        internal static string LiftStore_Available {
+            get {
+                return ResourceManager.GetString("LiftStore.Available", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to BILLING PERIOD.
+        /// </summary>
+        internal static string LiftStore_BillingPeriodUpper {
+            get {
+                return ResourceManager.GetString("LiftStore.BillingPeriodUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Buy this lift? It goes to your wallet and lasts 30 days once applied to an organization..
+        /// </summary>
+        internal static string LiftStore_BuyLiftPrompt {
+            get {
+                return ResourceManager.GetString("LiftStore.BuyLiftPrompt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Change to this plan? The store applies the change and any proration automatically..
+        /// </summary>
+        internal static string LiftStore_ChangePlanPrompt {
+            get {
+                return ResourceManager.GetString("LiftStore.ChangePlanPrompt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to This is your current plan..
+        /// </summary>
+        internal static string LiftStore_CurrentPlanMessage {
+            get {
+                return ResourceManager.GetString("LiftStore.CurrentPlanMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to CURRENT.
+        /// </summary>
+        internal static string LiftStore_CurrentUpper {
+            get {
+                return ResourceManager.GetString("LiftStore.CurrentUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} every month · {1} per month.
+        /// </summary>
+        internal static string LiftStore_ExtraLiftsPackDescription {
+            get {
+                return ResourceManager.GetString("LiftStore.ExtraLiftsPackDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} Extra Lifts.
+        /// </summary>
+        internal static string LiftStore_ExtraLiftsPackTitle {
+            get {
+                return ResourceManager.GetString("LiftStore.ExtraLiftsPackTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EXTRA LIFTS.
+        /// </summary>
+        internal static string LiftStore_ExtraLiftsUpper {
+            get {
+                return ResourceManager.GetString("LiftStore.ExtraLiftsUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} lifts.
+        /// </summary>
+        internal static string LiftStore_LiftCountPlural {
+            get {
+                return ResourceManager.GetString("LiftStore.LiftCountPlural", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} lift.
+        /// </summary>
+        internal static string LiftStore_LiftCountSingular {
+            get {
+                return ResourceManager.GetString("LiftStore.LiftCountSingular", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to -- lifts.
+        /// </summary>
+        internal static string LiftStore_LiftCountUnknown {
+            get {
+                return ResourceManager.GetString("LiftStore.LiftCountUnknown", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Next renewal.
+        /// </summary>
+        internal static string LiftStore_NextRenewal {
+            get {
+                return ResourceManager.GetString("LiftStore.NextRenewal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} for 30 days · {1} · One-time purchase.
+        /// </summary>
+        internal static string LiftStore_OneTimeLiftDescription {
+            get {
+                return ResourceManager.GetString("LiftStore.OneTimeLiftDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ONE-TIME LIFTS.
+        /// </summary>
+        internal static string LiftStore_OneTimeLiftsUpper {
+            get {
+                return ResourceManager.GetString("LiftStore.OneTimeLiftsUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 30-Day Lift.
+        /// </summary>
+        internal static string LiftStore_OneTimeLiftTitle {
+            get {
+                return ResourceManager.GetString("LiftStore.OneTimeLiftTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Daily.
+        /// </summary>
+        internal static string LiftStore_PeriodDaily {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodDaily", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 4 Weeks.
+        /// </summary>
+        internal static string LiftStore_PeriodFourWeeks {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodFourWeeks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to day.
+        /// </summary>
+        internal static string LiftStore_PeriodNounDay {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodNounDay", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 4 weeks.
+        /// </summary>
+        internal static string LiftStore_PeriodNounFourWeeks {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodNounFourWeeks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to month.
+        /// </summary>
+        internal static string LiftStore_PeriodNounMonth {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodNounMonth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to renewal.
+        /// </summary>
+        internal static string LiftStore_PeriodNounRenewal {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodNounRenewal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 6 months.
+        /// </summary>
+        internal static string LiftStore_PeriodNounSixMonths {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodNounSixMonths", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 3 months.
+        /// </summary>
+        internal static string LiftStore_PeriodNounThreeMonths {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodNounThreeMonths", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to week.
+        /// </summary>
+        internal static string LiftStore_PeriodNounWeek {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodNounWeek", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to year.
+        /// </summary>
+        internal static string LiftStore_PeriodNounYear {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodNounYear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 3 Months.
+        /// </summary>
+        internal static string LiftStore_PeriodThreeMonths {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodThreeMonths", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Weekly.
+        /// </summary>
+        internal static string LiftStore_PeriodWeekly {
+            get {
+                return ResourceManager.GetString("LiftStore.PeriodWeekly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to  · {0} per {1}.
+        /// </summary>
+        internal static string LiftStore_PlanPriceSuffix {
+            get {
+                return ResourceManager.GetString("LiftStore.PlanPriceSuffix", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to PRO PLANS.
+        /// </summary>
+        internal static string LiftStore_ProPlansUpper {
+            get {
+                return ResourceManager.GetString("LiftStore.ProPlansUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pro with {0} every {1}.
+        /// </summary>
+        internal static string LiftStore_ProWithLifts {
+            get {
+                return ResourceManager.GetString("LiftStore.ProWithLifts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pro without included lifts.
+        /// </summary>
+        internal static string LiftStore_ProWithoutLifts {
+            get {
+                return ResourceManager.GetString("LiftStore.ProWithoutLifts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Purchase Failed.
+        /// </summary>
+        internal static string LiftStore_PurchaseFailedTitle {
+            get {
+                return ResourceManager.GetString("LiftStore.PurchaseFailedTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lift balance, Pro + Lifts plans, extra lift packs, and one-time lifts.
+        /// </summary>
+        internal static string LiftStore_SettingsSubtitle {
+            get {
+                return ResourceManager.GetString("LiftStore.SettingsSubtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Subscribe to this pack? The extra lifts arrive with every renewal. If you already have a pack, the store changes it to this one..
+        /// </summary>
+        internal static string LiftStore_SubscribePackPrompt {
+            get {
+                return ResourceManager.GetString("LiftStore.SubscribePackPrompt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Subscribe to this plan?.
+        /// </summary>
+        internal static string LiftStore_SubscribePlanPrompt {
+            get {
+                return ResourceManager.GetString("LiftStore.SubscribePlanPrompt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lifts.
+        /// </summary>
+        internal static string LiftStore_Title {
+            get {
+                return ResourceManager.GetString("LiftStore.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to YOUR LIFTS.
+        /// </summary>
+        internal static string LiftStore_YourLiftsUpper {
+            get {
+                return ResourceManager.GetString("LiftStore.YourLiftsUpper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Live Data (All Servers).
         /// </summary>
         internal static string LiveMapControl_LiveData {
@@ -6890,6 +7241,33 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string Settings_Account_NotSubscribed {
             get {
                 return ResourceManager.GetString("Settings.Account.NotSubscribed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Restores previously purchased items and subscriptions.
+        /// </summary>
+        internal static string Settings_Account_RestorePurchases_Subtitle {
+            get {
+                return ResourceManager.GetString("Settings.Account.RestorePurchases.Subtitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Uses the account linked to your active Play Store subscription.
+        /// </summary>
+        internal static string Settings_Account_RevertToDefaultAccount_Subtitle_Android {
+            get {
+                return ResourceManager.GetString("Settings.Account.RevertToDefaultAccount.Subtitle.Android", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Uses the account linked to your active App Store subscription.
+        /// </summary>
+        internal static string Settings_Account_RevertToDefaultAccount_Subtitle_iOS {
+            get {
+                return ResourceManager.GetString("Settings.Account.RevertToDefaultAccount.Subtitle.iOS", resourceCulture);
             }
         }
         

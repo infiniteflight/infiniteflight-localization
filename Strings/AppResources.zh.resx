@@ -4561,4 +4561,172 @@ Would you like to delete it?</comment>
     <value>下一步</value>
     <comment>Next button text in the control method popup</comment>
   </data>
+  <data name="LiftStore.Title" xml:space="preserve">
+    <value>Lift</value>
+    <comment>Title of the in-app Lifts store and of the settings row that opens it</comment>
+  </data>
+  <data name="LiftStore.SettingsSubtitle" xml:space="preserve">
+    <value>Lift 余额、Pro + Lifts 方案、额外 Lift 包和一次性 Lift</value>
+    <comment>Subtitle of the settings row that opens the Lifts store</comment>
+  </data>
+  <data name="LiftStore.YourLiftsUpper" xml:space="preserve">
+    <value>你的 LIFT</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.ProPlansUpper" xml:space="preserve">
+    <value>PRO 方案</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.ExtraLiftsUpper" xml:space="preserve">
+    <value>额外 LIFT</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsUpper" xml:space="preserve">
+    <value>一次性 LIFT</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.BillingPeriodUpper" xml:space="preserve">
+    <value>计费周期</value>
+    <comment>Caption above the billing period selector, upper case</comment>
+  </data>
+  <data name="LiftStore.CurrentUpper" xml:space="preserve">
+    <value>当前</value>
+    <comment>Badge on the plan the user is subscribed to, upper case</comment>
+  </data>
+  <data name="LiftStore.Available" xml:space="preserve">
+    <value>可用</value>
+    <comment>Label of the unapplied Lifts metric</comment>
+  </data>
+  <data name="LiftStore.ActiveOnOrganizations" xml:space="preserve">
+    <value>已用于组织</value>
+    <comment>Label of the applied Lifts metric</comment>
+  </data>
+  <data name="LiftStore.NextRenewal" xml:space="preserve">
+    <value>下次续订</value>
+    <comment>Label of the next renewal date metric</comment>
+  </data>
+  <data name="LiftStore.LiftCountSingular" xml:space="preserve">
+    <value>{0} 个 Lift</value>
+    <comment>{count} lift, used when the count is exactly 1</comment>
+  </data>
+  <data name="LiftStore.LiftCountPlural" xml:space="preserve">
+    <value>{0} 个 Lift</value>
+    <comment>{count} lifts, used when the count is not 1</comment>
+  </data>
+  <data name="LiftStore.LiftCountUnknown" xml:space="preserve">
+    <value>-- 个 Lift</value>
+    <comment>Placeholder while the Lift balance is loading</comment>
+  </data>
+  <data name="LiftStore.ExtraLiftsPackTitle" xml:space="preserve">
+    <value>{0} 个额外 Lift</value>
+    <comment>{count} Extra Lifts; title of a recurring extra Lifts pack</comment>
+  </data>
+  <data name="LiftStore.ExtraLiftsPackDescription" xml:space="preserve">
+    <value>每月 {0} · 每月 {1}</value>
+    <comment>{lift count} every month · {localized price} per month</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftTitle" xml:space="preserve">
+    <value>30 天 Lift</value>
+    <comment>Title of the one-time 30-day Lift product</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftDescription" xml:space="preserve">
+    <value>{0}，为期 30 天 · {1} · 一次性购买</value>
+    <comment>{lift count} for 30 days · {localized price} · One-time purchase</comment>
+  </data>
+  <data name="LiftStore.ProWithLifts" xml:space="preserve">
+    <value>Pro，每{1}含 {0}</value>
+    <comment>Pro with {lift count} every {period noun}; description of a Pro + Lifts plan</comment>
+  </data>
+  <data name="LiftStore.ProWithoutLifts" xml:space="preserve">
+    <value>不含 Lift 的 Pro</value>
+    <comment>Description of the classic Pro plan that includes no Lifts</comment>
+  </data>
+  <data name="LiftStore.PlanPriceSuffix" xml:space="preserve">
+    <value> · 每{1} {0}</value>
+    <comment>Appended to a plan description: {localized price} per {period noun}. Keep the leading separator.</comment>
+  </data>
+  <data name="LiftStore.PeriodWeekly" xml:space="preserve">
+    <value>每周</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodFourWeeks" xml:space="preserve">
+    <value>4 周</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodThreeMonths" xml:space="preserve">
+    <value>3 个月</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodDaily" xml:space="preserve">
+    <value>每日</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodNounWeek" xml:space="preserve">
+    <value>周</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounFourWeeks" xml:space="preserve">
+    <value>4 周</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounMonth" xml:space="preserve">
+    <value>月</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounThreeMonths" xml:space="preserve">
+    <value>3 个月</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounSixMonths" xml:space="preserve">
+    <value>6 个月</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounYear" xml:space="preserve">
+    <value>年</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounDay" xml:space="preserve">
+    <value>天</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounRenewal" xml:space="preserve">
+    <value>次续订</value>
+    <comment>Fallback period noun when the billing period is unknown</comment>
+  </data>
+  <data name="LiftStore.CurrentPlanMessage" xml:space="preserve">
+    <value>这是你当前的方案。</value>
+    <comment>Alert shown when the user taps the plan they already have</comment>
+  </data>
+  <data name="LiftStore.SubscribePlanPrompt" xml:space="preserve">
+    <value>订阅此方案？</value>
+    <comment>Confirmation before subscribing to a Pro plan</comment>
+  </data>
+  <data name="LiftStore.ChangePlanPrompt" xml:space="preserve">
+    <value>更改为此方案？商店会自动应用更改及按比例计费。</value>
+    <comment>Confirmation before changing between Pro plans</comment>
+  </data>
+  <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
+    <value>购买此 Lift？它会存入你的钱包，应用到组织后有效期为 30 天。</value>
+    <comment>Confirmation before buying a one-time Lift</comment>
+  </data>
+  <data name="LiftStore.SubscribePackPrompt" xml:space="preserve">
+    <value>订阅此包？额外 Lift 会随每次续订发放。如果你已有一个包，商店会将其更换为此包。</value>
+    <comment>Confirmation before subscribing to an extra Lifts pack</comment>
+  </data>
+  <data name="LiftStore.PurchaseFailedTitle" xml:space="preserve">
+    <value>购买失败</value>
+    <comment>Title of the alert shown when a Lift purchase fails</comment>
+  </data>
+  <data name="Settings.Account.RestorePurchases.Subtitle" xml:space="preserve">
+    <value>恢复之前购买的项目和订阅</value>
+    <comment>Subtitle of the Restore Purchases row in account settings</comment>
+  </data>
+  <data name="Settings.Account.RevertToDefaultAccount.Subtitle.iOS" xml:space="preserve">
+    <value>使用与你当前 App Store 订阅关联的账户</value>
+    <comment>Subtitle of the Revert to Default Account row on iOS</comment>
+  </data>
+  <data name="Settings.Account.RevertToDefaultAccount.Subtitle.Android" xml:space="preserve">
+    <value>使用与你当前 Play Store 订阅关联的账户</value>
+    <comment>Subtitle of the Revert to Default Account row on Android</comment>
+  </data>
 </root>
