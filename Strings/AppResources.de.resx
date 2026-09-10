@@ -3301,4 +3301,172 @@ Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
     <value>WEITER</value>
     <comment>Next button text in the control method popup</comment>
   </data>
+  <data name="LiftStore.Title" xml:space="preserve">
+    <value>Lifts</value>
+    <comment>Title of the in-app Lifts store and of the settings row that opens it</comment>
+  </data>
+  <data name="LiftStore.SettingsSubtitle" xml:space="preserve">
+    <value>Lift-Guthaben, Pro + Lifts-Pläne, zusätzliche Lift-Pakete und einmalige Lifts</value>
+    <comment>Subtitle of the settings row that opens the Lifts store</comment>
+  </data>
+  <data name="LiftStore.YourLiftsUpper" xml:space="preserve">
+    <value>DEINE LIFTS</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.ProPlansUpper" xml:space="preserve">
+    <value>PRO-PLÄNE</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.ExtraLiftsUpper" xml:space="preserve">
+    <value>ZUSÄTZLICHE LIFTS</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsUpper" xml:space="preserve">
+    <value>EINMALIGE LIFTS</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.BillingPeriodUpper" xml:space="preserve">
+    <value>ABRECHNUNGSZEITRAUM</value>
+    <comment>Caption above the billing period selector, upper case</comment>
+  </data>
+  <data name="LiftStore.CurrentUpper" xml:space="preserve">
+    <value>AKTUELL</value>
+    <comment>Badge on the plan the user is subscribed to, upper case</comment>
+  </data>
+  <data name="LiftStore.Available" xml:space="preserve">
+    <value>Verfügbar</value>
+    <comment>Label of the unapplied Lifts metric</comment>
+  </data>
+  <data name="LiftStore.ActiveOnOrganizations" xml:space="preserve">
+    <value>Aktiv bei Organisationen</value>
+    <comment>Label of the applied Lifts metric</comment>
+  </data>
+  <data name="LiftStore.NextRenewal" xml:space="preserve">
+    <value>Nächste Verlängerung</value>
+    <comment>Label of the next renewal date metric</comment>
+  </data>
+  <data name="LiftStore.LiftCountSingular" xml:space="preserve">
+    <value>{0} Lift</value>
+    <comment>{count} lift, used when the count is exactly 1</comment>
+  </data>
+  <data name="LiftStore.LiftCountPlural" xml:space="preserve">
+    <value>{0} Lifts</value>
+    <comment>{count} lifts, used when the count is not 1</comment>
+  </data>
+  <data name="LiftStore.LiftCountUnknown" xml:space="preserve">
+    <value>-- Lifts</value>
+    <comment>Placeholder while the Lift balance is loading</comment>
+  </data>
+  <data name="LiftStore.ExtraLiftsPackTitle" xml:space="preserve">
+    <value>{0} zusätzliche Lifts</value>
+    <comment>{count} Extra Lifts; title of a recurring extra Lifts pack</comment>
+  </data>
+  <data name="LiftStore.ExtraLiftsPackDescription" xml:space="preserve">
+    <value>{0} jeden Monat · {1} pro Monat</value>
+    <comment>{lift count} every month · {localized price} per month</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftTitle" xml:space="preserve">
+    <value>30-Tage-Lift</value>
+    <comment>Title of the one-time 30-day Lift product</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftDescription" xml:space="preserve">
+    <value>{0} für 30 Tage · {1} · Einmaliger Kauf</value>
+    <comment>{lift count} for 30 days · {localized price} · One-time purchase</comment>
+  </data>
+  <data name="LiftStore.ProWithLifts" xml:space="preserve">
+    <value>Pro mit {0} pro {1}</value>
+    <comment>Pro with {lift count} every {period noun}; description of a Pro + Lifts plan</comment>
+  </data>
+  <data name="LiftStore.ProWithoutLifts" xml:space="preserve">
+    <value>Pro ohne enthaltene Lifts</value>
+    <comment>Description of the classic Pro plan that includes no Lifts</comment>
+  </data>
+  <data name="LiftStore.PlanPriceSuffix" xml:space="preserve">
+    <value> · {0} pro {1}</value>
+    <comment>Appended to a plan description: {localized price} per {period noun}. Keep the leading separator.</comment>
+  </data>
+  <data name="LiftStore.PeriodWeekly" xml:space="preserve">
+    <value>Wöchentlich</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodFourWeeks" xml:space="preserve">
+    <value>4 Wochen</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodThreeMonths" xml:space="preserve">
+    <value>3 Monate</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodDaily" xml:space="preserve">
+    <value>Täglich</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodNounWeek" xml:space="preserve">
+    <value>Woche</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounFourWeeks" xml:space="preserve">
+    <value>4 Wochen</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounMonth" xml:space="preserve">
+    <value>Monat</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounThreeMonths" xml:space="preserve">
+    <value>3 Monate</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounSixMonths" xml:space="preserve">
+    <value>6 Monate</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounYear" xml:space="preserve">
+    <value>Jahr</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounDay" xml:space="preserve">
+    <value>Tag</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounRenewal" xml:space="preserve">
+    <value>Verlängerung</value>
+    <comment>Fallback period noun when the billing period is unknown</comment>
+  </data>
+  <data name="LiftStore.CurrentPlanMessage" xml:space="preserve">
+    <value>Das ist dein aktueller Plan.</value>
+    <comment>Alert shown when the user taps the plan they already have</comment>
+  </data>
+  <data name="LiftStore.SubscribePlanPrompt" xml:space="preserve">
+    <value>Diesen Plan abonnieren?</value>
+    <comment>Confirmation before subscribing to a Pro plan</comment>
+  </data>
+  <data name="LiftStore.ChangePlanPrompt" xml:space="preserve">
+    <value>Zu diesem Plan wechseln? Der Store übernimmt den Wechsel und eine eventuelle anteilige Verrechnung automatisch.</value>
+    <comment>Confirmation before changing between Pro plans</comment>
+  </data>
+  <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
+    <value>Diesen Lift kaufen? Er landet in deiner Wallet und gilt 30 Tage, sobald er auf eine Organisation angewendet wird.</value>
+    <comment>Confirmation before buying a one-time Lift</comment>
+  </data>
+  <data name="LiftStore.SubscribePackPrompt" xml:space="preserve">
+    <value>Dieses Paket abonnieren? Die zusätzlichen Lifts kommen mit jeder Verlängerung. Wenn du bereits ein Paket hast, ersetzt der Store es durch dieses.</value>
+    <comment>Confirmation before subscribing to an extra Lifts pack</comment>
+  </data>
+  <data name="LiftStore.PurchaseFailedTitle" xml:space="preserve">
+    <value>Kauf fehlgeschlagen</value>
+    <comment>Title of the alert shown when a Lift purchase fails</comment>
+  </data>
+  <data name="Settings.Account.RestorePurchases.Subtitle" xml:space="preserve">
+    <value>Stellt zuvor gekaufte Artikel und Abonnements wieder her</value>
+    <comment>Subtitle of the Restore Purchases row in account settings</comment>
+  </data>
+  <data name="Settings.Account.RevertToDefaultAccount.Subtitle.iOS" xml:space="preserve">
+    <value>Verwendet das Konto, das mit deinem aktiven App-Store-Abonnement verknüpft ist</value>
+    <comment>Subtitle of the Revert to Default Account row on iOS</comment>
+  </data>
+  <data name="Settings.Account.RevertToDefaultAccount.Subtitle.Android" xml:space="preserve">
+    <value>Verwendet das Konto, das mit deinem aktiven Play-Store-Abonnement verknüpft ist</value>
+    <comment>Subtitle of the Revert to Default Account row on Android</comment>
+  </data>
 </root>

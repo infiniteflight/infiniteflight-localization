@@ -3270,4 +3270,172 @@ Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
     <value>İLERİ</value>
     <comment>Next button text in the control method popup</comment>
   </data>
+  <data name="LiftStore.Title" xml:space="preserve">
+    <value>Lift'ler</value>
+    <comment>Title of the in-app Lifts store and of the settings row that opens it</comment>
+  </data>
+  <data name="LiftStore.SettingsSubtitle" xml:space="preserve">
+    <value>Lift bakiyesi, Pro + Lifts planları, ek Lift paketleri ve tek seferlik Lift'ler</value>
+    <comment>Subtitle of the settings row that opens the Lifts store</comment>
+  </data>
+  <data name="LiftStore.YourLiftsUpper" xml:space="preserve">
+    <value>LIFT'LERİNİZ</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.ProPlansUpper" xml:space="preserve">
+    <value>PRO PLANLARI</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.ExtraLiftsUpper" xml:space="preserve">
+    <value>EK LIFT'LER</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsUpper" xml:space="preserve">
+    <value>TEK SEFERLİK LIFT'LER</value>
+    <comment>Section header, upper case</comment>
+  </data>
+  <data name="LiftStore.BillingPeriodUpper" xml:space="preserve">
+    <value>FATURA DÖNEMİ</value>
+    <comment>Caption above the billing period selector, upper case</comment>
+  </data>
+  <data name="LiftStore.CurrentUpper" xml:space="preserve">
+    <value>MEVCUT</value>
+    <comment>Badge on the plan the user is subscribed to, upper case</comment>
+  </data>
+  <data name="LiftStore.Available" xml:space="preserve">
+    <value>Kullanılabilir</value>
+    <comment>Label of the unapplied Lifts metric</comment>
+  </data>
+  <data name="LiftStore.ActiveOnOrganizations" xml:space="preserve">
+    <value>Organizasyonlarda etkin</value>
+    <comment>Label of the applied Lifts metric</comment>
+  </data>
+  <data name="LiftStore.NextRenewal" xml:space="preserve">
+    <value>Sonraki yenileme</value>
+    <comment>Label of the next renewal date metric</comment>
+  </data>
+  <data name="LiftStore.LiftCountSingular" xml:space="preserve">
+    <value>{0} Lift</value>
+    <comment>{count} lift, used when the count is exactly 1</comment>
+  </data>
+  <data name="LiftStore.LiftCountPlural" xml:space="preserve">
+    <value>{0} Lift</value>
+    <comment>{count} lifts, used when the count is not 1</comment>
+  </data>
+  <data name="LiftStore.LiftCountUnknown" xml:space="preserve">
+    <value>-- Lift</value>
+    <comment>Placeholder while the Lift balance is loading</comment>
+  </data>
+  <data name="LiftStore.ExtraLiftsPackTitle" xml:space="preserve">
+    <value>{0} Ek Lift</value>
+    <comment>{count} Extra Lifts; title of a recurring extra Lifts pack</comment>
+  </data>
+  <data name="LiftStore.ExtraLiftsPackDescription" xml:space="preserve">
+    <value>Her ay {0} · Aylık {1}</value>
+    <comment>{lift count} every month · {localized price} per month</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftTitle" xml:space="preserve">
+    <value>30 Günlük Lift</value>
+    <comment>Title of the one-time 30-day Lift product</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftDescription" xml:space="preserve">
+    <value>30 gün için {0} · {1} · Tek seferlik satın alma</value>
+    <comment>{lift count} for 30 days · {localized price} · One-time purchase</comment>
+  </data>
+  <data name="LiftStore.ProWithLifts" xml:space="preserve">
+    <value>Her {1} {0} ile Pro</value>
+    <comment>Pro with {lift count} every {period noun}; description of a Pro + Lifts plan</comment>
+  </data>
+  <data name="LiftStore.ProWithoutLifts" xml:space="preserve">
+    <value>Lift içermeyen Pro</value>
+    <comment>Description of the classic Pro plan that includes no Lifts</comment>
+  </data>
+  <data name="LiftStore.PlanPriceSuffix" xml:space="preserve">
+    <value> · {1} başına {0}</value>
+    <comment>Appended to a plan description: {localized price} per {period noun}. Keep the leading separator.</comment>
+  </data>
+  <data name="LiftStore.PeriodWeekly" xml:space="preserve">
+    <value>Haftalık</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodFourWeeks" xml:space="preserve">
+    <value>4 Hafta</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodThreeMonths" xml:space="preserve">
+    <value>3 Ay</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodDaily" xml:space="preserve">
+    <value>Günlük</value>
+    <comment>Billing period option</comment>
+  </data>
+  <data name="LiftStore.PeriodNounWeek" xml:space="preserve">
+    <value>hafta</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounFourWeeks" xml:space="preserve">
+    <value>4 hafta</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounMonth" xml:space="preserve">
+    <value>ay</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounThreeMonths" xml:space="preserve">
+    <value>3 ay</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounSixMonths" xml:space="preserve">
+    <value>6 ay</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounYear" xml:space="preserve">
+    <value>yıl</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounDay" xml:space="preserve">
+    <value>gün</value>
+    <comment>Period noun used in 'every {period}' and 'per {period}'</comment>
+  </data>
+  <data name="LiftStore.PeriodNounRenewal" xml:space="preserve">
+    <value>yenileme</value>
+    <comment>Fallback period noun when the billing period is unknown</comment>
+  </data>
+  <data name="LiftStore.CurrentPlanMessage" xml:space="preserve">
+    <value>Bu sizin mevcut planınız.</value>
+    <comment>Alert shown when the user taps the plan they already have</comment>
+  </data>
+  <data name="LiftStore.SubscribePlanPrompt" xml:space="preserve">
+    <value>Bu plana abone olunsun mu?</value>
+    <comment>Confirmation before subscribing to a Pro plan</comment>
+  </data>
+  <data name="LiftStore.ChangePlanPrompt" xml:space="preserve">
+    <value>Bu plana geçilsin mi? Mağaza değişikliği ve varsa oranlı ücretlendirmeyi otomatik uygular.</value>
+    <comment>Confirmation before changing between Pro plans</comment>
+  </data>
+  <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
+    <value>Bu Lift satın alınsın mı? Cüzdanınıza gider ve bir organizasyona uygulandıktan sonra 30 gün sürer.</value>
+    <comment>Confirmation before buying a one-time Lift</comment>
+  </data>
+  <data name="LiftStore.SubscribePackPrompt" xml:space="preserve">
+    <value>Bu pakete abone olunsun mu? Ek Lift'ler her yenilemede gelir. Zaten bir paketiniz varsa mağaza onu bununla değiştirir.</value>
+    <comment>Confirmation before subscribing to an extra Lifts pack</comment>
+  </data>
+  <data name="LiftStore.PurchaseFailedTitle" xml:space="preserve">
+    <value>Satın Alma Başarısız</value>
+    <comment>Title of the alert shown when a Lift purchase fails</comment>
+  </data>
+  <data name="Settings.Account.RestorePurchases.Subtitle" xml:space="preserve">
+    <value>Daha önce satın alınan öğeleri ve abonelikleri geri yükler</value>
+    <comment>Subtitle of the Restore Purchases row in account settings</comment>
+  </data>
+  <data name="Settings.Account.RevertToDefaultAccount.Subtitle.iOS" xml:space="preserve">
+    <value>Etkin App Store aboneliğinize bağlı hesabı kullanır</value>
+    <comment>Subtitle of the Revert to Default Account row on iOS</comment>
+  </data>
+  <data name="Settings.Account.RevertToDefaultAccount.Subtitle.Android" xml:space="preserve">
+    <value>Etkin Play Store aboneliğinize bağlı hesabı kullanır</value>
+    <comment>Subtitle of the Revert to Default Account row on Android</comment>
+  </data>
 </root>
