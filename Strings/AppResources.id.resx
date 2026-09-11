@@ -3304,4 +3304,16 @@ Batalkan kapan saja di Pusat Langganan Google Play.</value>
     <value>Menggunakan akun yang tertaut ke langganan Play Store aktif Anda</value>
     <comment>Subtitle of the Revert to Default Account row on Android</comment>
   </data>
+  <data name="LiftStore.QuantityUpper" xml:space="preserve">
+    <value>JUMLAH</value>
+    <comment>Caption above the quantity selector for one-time Lifts, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsDescription" xml:space="preserve">
+    <value>{0} masing-masing 30 hari · {1} · Pembelian sekali</value>
+    <comment>{lift count} for 30 days each · {total localized price} · One-time purchase; shown when more than one one-time Lift is selected</comment>
+  </data>
+  <data name="LiftStore.BuyLiftsPrompt" xml:space="preserve">
+    <value>Beli {0} seharga {1}? Lift masuk ke dompet Anda dan masing-masing berlaku 30 hari setelah diterapkan ke organisasi.</value>
+    <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
+  </data>
 </root>

@@ -4301,6 +4301,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Buy {0} for {1}? They go to your wallet and each lasts 30 days once applied to an organization..
+        /// </summary>
+        internal static string LiftStore_BuyLiftsPrompt {
+            get {
+                return ResourceManager.GetString("LiftStore.BuyLiftsPrompt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Change to this plan? The store applies the change and any proration automatically..
         /// </summary>
         internal static string LiftStore_ChangePlanPrompt {
@@ -4396,6 +4405,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string LiftStore_OneTimeLiftDescription {
             get {
                 return ResourceManager.GetString("LiftStore.OneTimeLiftDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {0} for 30 days each · {1} · One-time purchase.
+        /// </summary>
+        internal static string LiftStore_OneTimeLiftsDescription {
+            get {
+                return ResourceManager.GetString("LiftStore.OneTimeLiftsDescription", resourceCulture);
             }
         }
         
@@ -4567,6 +4585,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string LiftStore_PurchaseFailedTitle {
             get {
                 return ResourceManager.GetString("LiftStore.PurchaseFailedTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to QUANTITY.
+        /// </summary>
+        internal static string LiftStore_QuantityUpper {
+            get {
+                return ResourceManager.GetString("LiftStore.QuantityUpper", resourceCulture);
             }
         }
         

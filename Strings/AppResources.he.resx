@@ -3002,4 +3002,16 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <value>משתמש בחשבון המקושר למינוי ה-Play Store הפעיל שלך</value>
     <comment>Subtitle of the Revert to Default Account row on Android</comment>
   </data>
+  <data name="LiftStore.QuantityUpper" xml:space="preserve">
+    <value>כמות</value>
+    <comment>Caption above the quantity selector for one-time Lifts, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsDescription" xml:space="preserve">
+    <value>{0} ל-30 יום כל אחד · {1} · רכישה חד-פעמית</value>
+    <comment>{lift count} for 30 days each · {total localized price} · One-time purchase; shown when more than one one-time Lift is selected</comment>
+  </data>
+  <data name="LiftStore.BuyLiftsPrompt" xml:space="preserve">
+    <value>לקנות {0} תמורת {1}? הם נכנסים לארנק שלך וכל אחד תקף 30 יום לאחר שיוחל על ארגון.</value>
+    <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
+  </data>
 </root>

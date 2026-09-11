@@ -3438,4 +3438,16 @@ Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
     <value>Etkin Play Store aboneliğinize bağlı hesabı kullanır</value>
     <comment>Subtitle of the Revert to Default Account row on Android</comment>
   </data>
+  <data name="LiftStore.QuantityUpper" xml:space="preserve">
+    <value>ADET</value>
+    <comment>Caption above the quantity selector for one-time Lifts, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsDescription" xml:space="preserve">
+    <value>Her biri 30 gün için {0} · {1} · Tek seferlik satın alma</value>
+    <comment>{lift count} for 30 days each · {total localized price} · One-time purchase; shown when more than one one-time Lift is selected</comment>
+  </data>
+  <data name="LiftStore.BuyLiftsPrompt" xml:space="preserve">
+    <value>{1} karşılığında {0} satın alınsın mı? Cüzdanınıza gider ve her biri bir organizasyona uygulandıktan sonra 30 gün sürer.</value>
+    <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
+  </data>
 </root>

@@ -3383,4 +3383,16 @@ Bármikor lemondhatja a Google Play előfizetési központjában.</value>
     <value>Az aktív Play Store-előfizetésedhez kapcsolt fiókot használja</value>
     <comment>Subtitle of the Revert to Default Account row on Android</comment>
   </data>
+  <data name="LiftStore.QuantityUpper" xml:space="preserve">
+    <value>MENNYISÉG</value>
+    <comment>Caption above the quantity selector for one-time Lifts, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsDescription" xml:space="preserve">
+    <value>{0} egyenként 30 napra · {1} · Egyszeri vásárlás</value>
+    <comment>{lift count} for 30 days each · {total localized price} · One-time purchase; shown when more than one one-time Lift is selected</comment>
+  </data>
+  <data name="LiftStore.BuyLiftsPrompt" xml:space="preserve">
+    <value>Megveszel {0} Liftet {1} áron? A tárcádba kerülnek, és mindegyik 30 napig érvényes, miután egy szervezetre alkalmazod.</value>
+    <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
+  </data>
 </root>

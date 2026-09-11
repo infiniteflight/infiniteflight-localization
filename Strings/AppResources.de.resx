@@ -3469,4 +3469,16 @@ Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
     <value>Verwendet das Konto, das mit deinem aktiven Play-Store-Abonnement verknüpft ist</value>
     <comment>Subtitle of the Revert to Default Account row on Android</comment>
   </data>
+  <data name="LiftStore.QuantityUpper" xml:space="preserve">
+    <value>ANZAHL</value>
+    <comment>Caption above the quantity selector for one-time Lifts, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsDescription" xml:space="preserve">
+    <value>{0} für je 30 Tage · {1} · Einmaliger Kauf</value>
+    <comment>{lift count} for 30 days each · {total localized price} · One-time purchase; shown when more than one one-time Lift is selected</comment>
+  </data>
+  <data name="LiftStore.BuyLiftsPrompt" xml:space="preserve">
+    <value>{0} für {1} kaufen? Sie landen in deiner Wallet und gelten je 30 Tage, sobald sie auf eine Organisation angewendet werden.</value>
+    <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
+  </data>
 </root>

@@ -4715,4 +4715,16 @@ Would you like to delete it?</comment>
     <value>Използва акаунта, свързан с активния ви абонамент в Play Store</value>
     <comment>Subtitle of the Revert to Default Account row on Android</comment>
   </data>
+  <data name="LiftStore.QuantityUpper" xml:space="preserve">
+    <value>КОЛИЧЕСТВО</value>
+    <comment>Caption above the quantity selector for one-time Lifts, upper case</comment>
+  </data>
+  <data name="LiftStore.OneTimeLiftsDescription" xml:space="preserve">
+    <value>{0} за по 30 дни всеки · {1} · Еднократна покупка</value>
+    <comment>{lift count} for 30 days each · {total localized price} · One-time purchase; shown when more than one one-time Lift is selected</comment>
+  </data>
+  <data name="LiftStore.BuyLiftsPrompt" xml:space="preserve">
+    <value>Да купите ли {0} за {1}? Те отиват в портфейла ви и всеки е валиден 30 дни, след като бъде приложен към организация.</value>
+    <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
+  </data>
 </root>
