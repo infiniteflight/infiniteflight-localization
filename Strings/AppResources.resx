@@ -5095,4 +5095,8 @@ Press Cancel to turn it off.</value>
     <value>Buy {0} for {1}? They go to your wallet and each lasts 30 days once applied to an organization.</value>
     <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.BuyCta" xml:space="preserve">
+    <value>Buy {0} for {1}</value>
+    <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
+  </data>
 </root>

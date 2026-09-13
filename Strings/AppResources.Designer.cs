@@ -4292,6 +4292,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Buy {0} for {1}.
+        /// </summary>
+        internal static string LiftStore_BuyCta {
+            get {
+                return ResourceManager.GetString("LiftStore.BuyCta", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Buy this lift? It goes to your wallet and lasts 30 days once applied to an organization..
         /// </summary>
         internal static string LiftStore_BuyLiftPrompt {

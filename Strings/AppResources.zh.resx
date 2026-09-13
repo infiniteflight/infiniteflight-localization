@@ -4741,4 +4741,8 @@ Would you like to delete it?</comment>
     <value>以 {1} 购买 {0}？它们会存入你的钱包，应用到组织后每个有效期为 30 天。</value>
     <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.BuyCta" xml:space="preserve">
+    <value>以 {1} 购买 {0}</value>
+    <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
+  </data>
 </root>

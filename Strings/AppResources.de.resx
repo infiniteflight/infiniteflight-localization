@@ -3481,4 +3481,8 @@ Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
     <value>{0} für {1} kaufen? Sie landen in deiner Wallet und gelten je 30 Tage, sobald sie auf eine Organisation angewendet werden.</value>
     <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.BuyCta" xml:space="preserve">
+    <value>{0} für {1} kaufen</value>
+    <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
+  </data>
 </root>

@@ -3014,4 +3014,8 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <value>לקנות {0} תמורת {1}? הם נכנסים לארנק שלך וכל אחד תקף 30 יום לאחר שיוחל על ארגון.</value>
     <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.BuyCta" xml:space="preserve">
+    <value>קנה {0} תמורת {1}</value>
+    <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
+  </data>
 </root>

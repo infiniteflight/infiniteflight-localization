@@ -3450,4 +3450,8 @@ Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
     <value>{1} karşılığında {0} satın alınsın mı? Cüzdanınıza gider ve her biri bir organizasyona uygulandıktan sonra 30 gün sürer.</value>
     <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.BuyCta" xml:space="preserve">
+    <value>{1} karşılığında {0} satın al</value>
+    <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
+  </data>
 </root>
