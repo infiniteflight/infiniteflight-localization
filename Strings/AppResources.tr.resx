@@ -3454,4 +3454,28 @@ Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
     <value>{1} karşılığında {0} satın al</value>
     <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.OneTimeTopUp" xml:space="preserve">
+    <value>Tek seferlik yükleme</value>
+    <comment>Pill label on the one-time Lift top-up card</comment>
+  </data>
+  <data name="LiftStore.WalletLiftDetail" xml:space="preserve">
+    <value>Kullanılana kadar cüzdanında kalır · uygulandıktan 30 gün sonra sona erer</value>
+    <comment>Detail line under the Lift count on the top-up card</comment>
+  </data>
+  <data name="LiftStore.Quantity" xml:space="preserve">
+    <value>Adet</value>
+    <comment>Label next to the quantity stepper</comment>
+  </data>
+  <data name="LiftStore.QuantityAtCheckout" xml:space="preserve">
+    <value>Adet ödeme sırasında seçilebilir</value>
+    <comment>Shown on Android instead of the stepper: Google Play asks for the quantity</comment>
+  </data>
+  <data name="LiftStore.OneTimePayment" xml:space="preserve">
+    <value>Tek seferlik ödeme</value>
+    <comment>Caption under the price on the top-up card</comment>
+  </data>
+  <data name="LiftStore.TopUpWallet" xml:space="preserve">
+    <value>Cüzdanı yükle</value>
+    <comment>Call to action on the top-up card</comment>
+  </data>
 </root>

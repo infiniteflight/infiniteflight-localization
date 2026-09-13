@@ -4445,6 +4445,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to One-time payment.
+        /// </summary>
+        internal static string LiftStore_OneTimePayment {
+            get {
+                return ResourceManager.GetString("LiftStore.OneTimePayment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to One-time top-up.
+        /// </summary>
+        internal static string LiftStore_OneTimeTopUp {
+            get {
+                return ResourceManager.GetString("LiftStore.OneTimeTopUp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Daily.
         /// </summary>
         internal static string LiftStore_PeriodDaily {
@@ -4598,6 +4616,24 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Quantity.
+        /// </summary>
+        internal static string LiftStore_Quantity {
+            get {
+                return ResourceManager.GetString("LiftStore.Quantity", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Quantity can be selected at checkout.
+        /// </summary>
+        internal static string LiftStore_QuantityAtCheckout {
+            get {
+                return ResourceManager.GetString("LiftStore.QuantityAtCheckout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to QUANTITY.
         /// </summary>
         internal static string LiftStore_QuantityUpper {
@@ -4639,6 +4675,24 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string LiftStore_Title {
             get {
                 return ResourceManager.GetString("LiftStore.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Top up wallet.
+        /// </summary>
+        internal static string LiftStore_TopUpWallet {
+            get {
+                return ResourceManager.GetString("LiftStore.TopUpWallet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Stays in your wallet until used · expires 30 days after it is applied.
+        /// </summary>
+        internal static string LiftStore_WalletLiftDetail {
+            get {
+                return ResourceManager.GetString("LiftStore.WalletLiftDetail", resourceCulture);
             }
         }
         

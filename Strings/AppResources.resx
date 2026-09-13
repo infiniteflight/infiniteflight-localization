@@ -5099,4 +5099,28 @@ Press Cancel to turn it off.</value>
     <value>Buy {0} for {1}</value>
     <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.OneTimeTopUp" xml:space="preserve">
+    <value>One-time top-up</value>
+    <comment>Pill label on the one-time Lift top-up card</comment>
+  </data>
+  <data name="LiftStore.WalletLiftDetail" xml:space="preserve">
+    <value>Stays in your wallet until used · expires 30 days after it is applied</value>
+    <comment>Detail line under the Lift count on the top-up card</comment>
+  </data>
+  <data name="LiftStore.Quantity" xml:space="preserve">
+    <value>Quantity</value>
+    <comment>Label next to the quantity stepper</comment>
+  </data>
+  <data name="LiftStore.QuantityAtCheckout" xml:space="preserve">
+    <value>Quantity can be selected at checkout</value>
+    <comment>Shown on Android instead of the stepper: Google Play asks for the quantity</comment>
+  </data>
+  <data name="LiftStore.OneTimePayment" xml:space="preserve">
+    <value>One-time payment</value>
+    <comment>Caption under the price on the top-up card</comment>
+  </data>
+  <data name="LiftStore.TopUpWallet" xml:space="preserve">
+    <value>Top up wallet</value>
+    <comment>Call to action on the top-up card</comment>
+  </data>
 </root>

@@ -3327,4 +3327,28 @@ Batalkan pada bila-bila masa di Pusat Langganan Google Play.</value>
     <value>Beli {0} dengan harga {1}</value>
     <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.OneTimeTopUp" xml:space="preserve">
+    <value>Tambah nilai sekali</value>
+    <comment>Pill label on the one-time Lift top-up card</comment>
+  </data>
+  <data name="LiftStore.WalletLiftDetail" xml:space="preserve">
+    <value>Kekal dalam dompet sehingga digunakan · tamat tempoh 30 hari selepas digunakan</value>
+    <comment>Detail line under the Lift count on the top-up card</comment>
+  </data>
+  <data name="LiftStore.Quantity" xml:space="preserve">
+    <value>Kuantiti</value>
+    <comment>Label next to the quantity stepper</comment>
+  </data>
+  <data name="LiftStore.QuantityAtCheckout" xml:space="preserve">
+    <value>Kuantiti boleh dipilih semasa pembayaran</value>
+    <comment>Shown on Android instead of the stepper: Google Play asks for the quantity</comment>
+  </data>
+  <data name="LiftStore.OneTimePayment" xml:space="preserve">
+    <value>Bayaran sekali</value>
+    <comment>Caption under the price on the top-up card</comment>
+  </data>
+  <data name="LiftStore.TopUpWallet" xml:space="preserve">
+    <value>Tambah nilai dompet</value>
+    <comment>Call to action on the top-up card</comment>
+  </data>
 </root>
