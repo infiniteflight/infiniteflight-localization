@@ -3323,4 +3323,8 @@ Batalkan pada bila-bila masa di Pusat Langganan Google Play.</value>
     <value>Beli {0} dengan harga {1}? Ia masuk ke dompet anda dan setiap satu sah selama 30 hari selepas digunakan pada organisasi.</value>
     <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.BuyCta" xml:space="preserve">
+    <value>Beli {0} dengan harga {1}</value>
+    <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
+  </data>
 </root>

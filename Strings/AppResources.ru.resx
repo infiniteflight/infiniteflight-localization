@@ -3283,4 +3283,8 @@ Check map for more information</comment>
     <value>Купить {0} за {1}? Они попадут в ваш кошелёк, и каждый будет действовать 30 дней после применения к организации.</value>
     <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.BuyCta" xml:space="preserve">
+    <value>Купить {0} за {1}</value>
+    <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
+  </data>
 </root>

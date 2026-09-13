@@ -3395,4 +3395,8 @@ Bármikor lemondhatja a Google Play előfizetési központjában.</value>
     <value>Megveszel {0} Liftet {1} áron? A tárcádba kerülnek, és mindegyik 30 napig érvényes, miután egy szervezetre alkalmazod.</value>
     <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.BuyCta" xml:space="preserve">
+    <value>{0} vásárlása {1} áron</value>
+    <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
+  </data>
 </root>

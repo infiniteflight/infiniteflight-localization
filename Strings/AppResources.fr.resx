@@ -4090,4 +4090,8 @@ Appuyez sur Annuler pour désactiver.</value>
     <value>Acheter {0} pour {1} ? Ils sont ajoutés à votre portefeuille et chacun dure 30 jours une fois appliqué à une organisation.</value>
     <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.BuyCta" xml:space="preserve">
+    <value>Acheter {0} pour {1}</value>
+    <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
+  </data>
 </root>

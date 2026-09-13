@@ -4196,4 +4196,8 @@ Pulsa Cancelar para desactivarlo.</value>
     <value>¿Comprar {0} por {1}? Van a tu monedero y cada uno dura 30 días una vez aplicado a una organización.</value>
     <comment>Confirmation before buying more than one one-time Lift: {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.BuyCta" xml:space="preserve">
+    <value>Comprar {0} por {1}</value>
+    <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
+  </data>
 </root>
