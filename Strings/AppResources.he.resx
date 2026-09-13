@@ -3018,4 +3018,28 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <value>קנה {0} תמורת {1}</value>
     <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.OneTimeTopUp" xml:space="preserve">
+    <value>טעינה חד-פעמית</value>
+    <comment>Pill label on the one-time Lift top-up card</comment>
+  </data>
+  <data name="LiftStore.WalletLiftDetail" xml:space="preserve">
+    <value>נשאר בארנק עד לשימוש · פג תוקף 30 יום לאחר ההחלה</value>
+    <comment>Detail line under the Lift count on the top-up card</comment>
+  </data>
+  <data name="LiftStore.Quantity" xml:space="preserve">
+    <value>כמות</value>
+    <comment>Label next to the quantity stepper</comment>
+  </data>
+  <data name="LiftStore.QuantityAtCheckout" xml:space="preserve">
+    <value>ניתן לבחור כמות בקופה</value>
+    <comment>Shown on Android instead of the stepper: Google Play asks for the quantity</comment>
+  </data>
+  <data name="LiftStore.OneTimePayment" xml:space="preserve">
+    <value>תשלום חד-פעמי</value>
+    <comment>Caption under the price on the top-up card</comment>
+  </data>
+  <data name="LiftStore.TopUpWallet" xml:space="preserve">
+    <value>טען את הארנק</value>
+    <comment>Call to action on the top-up card</comment>
+  </data>
 </root>

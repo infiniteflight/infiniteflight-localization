@@ -4731,4 +4731,28 @@ Would you like to delete it?</comment>
     <value>Купете {0} за {1}</value>
     <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.OneTimeTopUp" xml:space="preserve">
+    <value>Еднократно зареждане</value>
+    <comment>Pill label on the one-time Lift top-up card</comment>
+  </data>
+  <data name="LiftStore.WalletLiftDetail" xml:space="preserve">
+    <value>Остава в портфейла ви до използване · изтича 30 дни след прилагане</value>
+    <comment>Detail line under the Lift count on the top-up card</comment>
+  </data>
+  <data name="LiftStore.Quantity" xml:space="preserve">
+    <value>Количество</value>
+    <comment>Label next to the quantity stepper</comment>
+  </data>
+  <data name="LiftStore.QuantityAtCheckout" xml:space="preserve">
+    <value>Количеството се избира при плащане</value>
+    <comment>Shown on Android instead of the stepper: Google Play asks for the quantity</comment>
+  </data>
+  <data name="LiftStore.OneTimePayment" xml:space="preserve">
+    <value>Еднократно плащане</value>
+    <comment>Caption under the price on the top-up card</comment>
+  </data>
+  <data name="LiftStore.TopUpWallet" xml:space="preserve">
+    <value>Заредете портфейла</value>
+    <comment>Call to action on the top-up card</comment>
+  </data>
 </root>

@@ -3485,4 +3485,28 @@ Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
     <value>{0} für {1} kaufen</value>
     <comment>Call to action under the one-time Lift quantity cards: Buy {lift count} for {total price}</comment>
   </data>
+  <data name="LiftStore.OneTimeTopUp" xml:space="preserve">
+    <value>Einmalige Aufladung</value>
+    <comment>Pill label on the one-time Lift top-up card</comment>
+  </data>
+  <data name="LiftStore.WalletLiftDetail" xml:space="preserve">
+    <value>Bleibt bis zur Nutzung in deinem Wallet · läuft 30 Tage nach dem Einsatz ab</value>
+    <comment>Detail line under the Lift count on the top-up card</comment>
+  </data>
+  <data name="LiftStore.Quantity" xml:space="preserve">
+    <value>Anzahl</value>
+    <comment>Label next to the quantity stepper</comment>
+  </data>
+  <data name="LiftStore.QuantityAtCheckout" xml:space="preserve">
+    <value>Die Anzahl wird beim Bezahlen gewählt</value>
+    <comment>Shown on Android instead of the stepper: Google Play asks for the quantity</comment>
+  </data>
+  <data name="LiftStore.OneTimePayment" xml:space="preserve">
+    <value>Einmalige Zahlung</value>
+    <comment>Caption under the price on the top-up card</comment>
+  </data>
+  <data name="LiftStore.TopUpWallet" xml:space="preserve">
+    <value>Wallet aufladen</value>
+    <comment>Call to action on the top-up card</comment>
+  </data>
 </root>
