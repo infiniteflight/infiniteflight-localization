@@ -306,7 +306,8 @@
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>Режимът на диагностика е изключен, изпратете ни логът, ако все още не сте.\nНатиснете бутона "Изпратете Лог", благодарим!</value>
+    <value>Режимът на диагностика е изключен, изпратете ни логът, ако все още не сте.
+Натиснете бутона "Изпратете Лог", благодарим!</value>
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
@@ -1950,7 +1951,8 @@
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>РВД докладване от [{0}]\n{1}</value>
+    <value>РВД докладване от [{0}]
+{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
@@ -2867,16 +2869,16 @@ Check map for more information</comment>
       <value>НАЧАЛО</value>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-      <value>Времевият интервал за тази сесия не е валиден (код на грешка {0})</value>
+      <value>Времевият интервал за тази сесия не е валиден</value>
   </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
       <value>Няма налични сървъри</value>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-      <value>Не е наличен браузър за отваряне на тази връзка. Уверете се, че имате инсталиран браузър. Свържете се с поддръжката, ако проблемът продължава (код на грешка {0})</value>
+      <value>Не е наличен браузър за отваряне на тази връзка. Уверете се, че имате инсталиран браузър. Свържете се с поддръжката, ако проблемът продължава</value>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-      <value>Неуспешно свързване със сървъра. Проверете интернет връзката си (код на грешка {0})</value>
+      <value>Неуспешно свързване със сървъра. Проверете интернет връзката си</value>
   </data>
   <data name="WarningMessageControl.TapToContinue" xml:space="preserve">
       <value>Докоснете, за да продължите</value>
@@ -3124,7 +3126,7 @@ You can quit this session or embark on another journey to a new destination.</co
     <comment>ATC NOT AVAILABLE</comment>
   </data>
   <data name="WorldModeModalControl.GradeThreeRequired" xml:space="preserve">
-    <value>ИЗИСКВА СЕ РАНГ 2</value>
+    <value>ИЗИСКВА СЕ РАНГ 3</value>
     <comment>GRADE 3 REQUIRED</comment>
   </data>
   <data name="WorldModeModalControl.MoreServersUpper" xml:space="preserve">
@@ -4262,7 +4264,8 @@ Exit curent flight and try again.</comment>
     <comment>Disconnection</comment>
   </data>
   <data name="AirTrafficControllerPage.DisconnectionMessage" xml:space="preserve">
-    <value>{0} съобщения са без отговор от {1} секунди.\nЩе бъдете изключени скоро.</value>
+    <value>{0} съобщения са без отговор от {1} секунди.
+Ще бъдете изключени скоро.</value>
     <comment>No response to {0} message(s) for {1} seconds.\nYou will be disconnected soon.</comment>
   </data>
   <data name="CallsignControl.FailedUpdateCallsign" xml:space="preserve">

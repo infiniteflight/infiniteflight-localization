@@ -306,7 +306,8 @@
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>Teşhis Modu artık kapalı, henüz yapmadıysanız günlüğü bize gönderdiğinizden emin olun.\nTıkla "Günlüğü Gönder" düğmesine tıklayın, teşekkürler!</value>
+    <value>Teşhis Modu artık kapalı, henüz yapmadıysanız günlüğü bize gönderdiğinizden emin olun.
+Tıkla "Günlüğü Gönder" düğmesine tıklayın, teşekkürler!</value>
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
@@ -574,7 +575,8 @@
     <comment>Frame rate limit</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
-    <value>Kare Hızını 60 fps'ye ayarlamak cihazınızın aşırı ısınmasına neden olabilir. Hasarı önlemek için cihazınız yavaşlayabilir ve bu da Infinite Flight'ın yavaş çalışmasına neden olabilir.\nBu ayarı 30 fps'de tutmanızı öneririz.</value>
+    <value>Kare Hızını 60 fps'ye ayarlamak cihazınızın aşırı ısınmasına neden olabilir. Hasarı önlemek için cihazınız yavaşlayabilir ve bu da Infinite Flight'ın yavaş çalışmasına neden olabilir.
+Bu ayarı 30 fps'de tutmanızı öneririz.</value>
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
@@ -1938,7 +1940,8 @@
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>ATC Uyarısı [{0}]\n{1}</value>
+    <value>ATC Uyarısı [{0}]
+{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
@@ -2174,7 +2177,9 @@
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>PİST BOŞTA UYARI\nAktif pistlerde uzun süre kalmak yasaktır.\nİhlal almamak için pistten çıkın veya kalkış yapın</value>
+    <value>PİST BOŞTA UYARI
+Aktif pistlerde uzun süre kalmak yasaktır.
+İhlal almamak için pistten çıkın veya kalkış yapın</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
@@ -2190,7 +2195,8 @@
     <comment>VNAV Descending to {0} at {1:n0}ft</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
-    <value>VNAV Kullanılamaz\nUçuş Planında herhangi bir ara nokta için yükseklik ayarı yapılmadı</value>
+    <value>VNAV Kullanılamaz
+Uçuş Planında herhangi bir ara nokta için yükseklik ayarı yapılmadı</value>
     <comment>VNAV Unavailable\nNo altitude set for any waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">

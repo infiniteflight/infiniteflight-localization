@@ -730,7 +730,8 @@
     <value>Reporte ATC</value>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>Reporte ATC por [{0}]\n{1}</value>
+    <value>Reporte ATC por [{0}]
+{1}</value>
   </data>
   <data name="Logbook.Details" xml:space="preserve">
     <value>Detalhes</value>
@@ -2255,16 +2256,16 @@ Verifique o mapa para mais informações</value>
     <value>Início</value>
 </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-    <value>Os horários de início e término para esta sessão não são válidos (código de erro {0})</value>
+    <value>Os horários de início e término para esta sessão não são válidos</value>
 </data>
   <data name="GameModeSelection.NoAvailableServer" xml:space="preserve">
     <value>Servidor Indisponível</value>
 </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>Nenhum navegador está disponível para abrir este link - certifique-se de ter um navegador instalado. Entre em contato com o suporte se o problema persistir (código de erro {0})</value>
+    <value>Nenhum navegador está disponível para abrir este link - certifique-se de ter um navegador instalado. Entre em contato com o suporte se o problema persistir</value>
 </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>Não foi possível conectar ao servidor. Verifique sua conexão com a internet (código de erro {0})</value>
+    <value>Não foi possível conectar ao servidor. Verifique sua conexão com a internet</value>
 </data>
   <data name="DefaultMission.AfterLanding" xml:space="preserve">
     <value>Bem vindo à {0}. Realize o taxi para o estacionamento e desligue a aeronave para completar essa missão</value>
@@ -2333,7 +2334,7 @@ Verifique o mapa para mais informações</value>
     <value>{0} é muito pequeno para a sua aeronave. Escolha outro aeroporto.</value>
   </data>
   <data name="Error.ApplicationInitializationError" xml:space="preserve">
-    <value>Infinite Flight não pode ser iniciado devido a um problema. Tente reiniciar ou contate o suporte. (código de erro {0})</value>
+    <value>Infinite Flight não pode ser iniciado devido a um problema. Tente reiniciar ou contate o suporte.</value>
   </data>
   <data name="DefaultMission.Congratulation" xml:space="preserve">
     <value>Parabéns em completar esse voo para {0}!
@@ -2966,10 +2967,10 @@ Tem certeza de que deseja deletar a conta?</value>
     <value>Já está conectado com outro dispositivo</value>
   </data>
   <data name="Error.MultiplayerAtcAlreadyActive" xml:space="preserve">
-    <value>Você já está conectado a este servidor multiplayer em outro dispositivo (código de erro {0})</value>
+    <value>Você já está conectado a este servidor multiplayer em outro dispositivo</value>
   </data>
   <data name="Error.MultiplayerFlightAlreadyActive" xml:space="preserve">
-    <value>Você já está conectado a este servidor multiplayer em outro dispositivo (código de erro {0})</value>
+    <value>Você já está conectado a este servidor multiplayer em outro dispositivo</value>
   </data>
   <data name="PushbackSystem.AutoPushbackNotAvailableAirport" xml:space="preserve">
     <value>O pushback automático não está disponível para {0} neste momento.</value>

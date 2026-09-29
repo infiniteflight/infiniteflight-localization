@@ -306,7 +306,8 @@
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>Режим Диагностики Выключен. Убедитесь, что вы отправили последний журнал.\nДля этого нажмите на кнопку \"Отправить Журнал\". Спасибо!</value>
+    <value>Режим Диагностики Выключен. Убедитесь, что вы отправили последний журнал.
+Для этого нажмите на кнопку "Отправить Журнал". Спасибо!</value>
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
@@ -1938,7 +1939,8 @@
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>Репорт от [{0}]\n{1}</value>
+    <value>Репорт от [{0}]
+{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
@@ -1989,7 +1991,8 @@
     <comment>Move axis on controller to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
-    <value>Подвиньте ось на \nконтроллере/клавиатуре для назначения</value>
+    <value>Подвиньте ось на 
+контроллере/клавиатуре для назначения</value>
     <comment>Press button on \nController/Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
@@ -2169,19 +2172,25 @@
     <comment>Simulation time scale cannot be changed for fighter jets.</comment>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
-    <value>ВЫСШИЙ ПИЛОТАЖ\nМаневры высшего пилотажа рядом с аэропортами запрещены.</value>
+    <value>ВЫСШИЙ ПИЛОТАЖ
+Маневры высшего пилотажа рядом с аэропортами запрещены.</value>
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>БЕЗДЕЙСТВИЕ НА ПОЛОСЕ\nДлительная остановка на полосе в работе запрещена.\nПокиньте полосу или совершите взлет, чтобы избежать нарушения</value>
+    <value>БЕЗДЕЙСТВИЕ НА ПОЛОСЕ
+Длительная остановка на полосе в работе запрещена.
+Покиньте полосу или совершите взлет, чтобы избежать нарушения</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>ВЫСОКАЯ СКОРОСТЬ НА ЗЕМЛЕ\nМаксимальная скорость на рулежной дорожке: 35 узл.\nСбавьте скорость, чтобы избежать нарушения.</value>
+    <value>ВЫСОКАЯ СКОРОСТЬ НА ЗЕМЛЕ
+Максимальная скорость на рулежной дорожке: 35 узл.
+Сбавьте скорость, чтобы избежать нарушения.</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
-    <value>VNAV недоступен для набора высоты.\nЭта функция доступна только для снижения.</value>
+    <value>VNAV недоступен для набора высоты.
+Эта функция доступна только для снижения.</value>
     <comment>VNAV unavailable during climb.\nThis functionality is only available for descent.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
@@ -2189,11 +2198,13 @@
     <comment>VNAV Descending to {0} at {1:n0}ft</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
-    <value>VNAV Недоступен.\nНи для одной из путевых точек не установлена высота</value>
+    <value>VNAV Недоступен.
+Ни для одной из путевых точек не установлена высота</value>
     <comment>VNAV Unavailable\nNo altitude set for any waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
-    <value>VNAV Недоступен.\nНет путевых точек в плане полета</value>
+    <value>VNAV Недоступен.
+Нет путевых точек в плане полета</value>
     <comment>VNAV UnavailableNo waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.TargetUpdated" xml:space="preserve">

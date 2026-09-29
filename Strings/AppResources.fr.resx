@@ -186,23 +186,23 @@
     <comment>Live Data (All Servers)</comment>
   </data>
   <data name="Error.AccountAlreadyInUse" xml:space="preserve">
-    <value>Le compte que vous essayez de connecter est déjà lié avec un autre abonnement à Infinite Flight Pro. (Code d'erreur {0})</value>
+    <value>Le compte que vous essayez de connecter est déjà lié avec un autre abonnement à Infinite Flight Pro.</value>
     <comment>The account you are trying to connect is already linked with another Infinite Flight Pro subscription</comment>
   </data>
   <data name="Error.AccountSuspended" xml:space="preserve">
-    <value>Votre compte à été suspendu. (Code d'erreur {0})</value>
+    <value>Votre compte à été suspendu.</value>
     <comment>Your account has been suspended</comment>
   </data>
   <data name="Error.ATCSessionNotFound" xml:space="preserve">
-    <value>Session ATC non trouvée. (Code erreur {0})</value>
+    <value>Session ATC non trouvée.</value>
     <comment>We can't find information about this ATC session</comment>
   </data>
   <data name="Error.AuthProviderFailure" xml:space="preserve">
-    <value>Erreur lors de la validation de ce compte avec le fournisseur (Code erreur {0})</value>
+    <value>Erreur lors de la validation de ce compte avec le fournisseur</value>
     <comment>There was an error validating this account with the provider</comment>
   </data>
   <data name="Error.DataNotLoaded" xml:space="preserve">
-    <value>Infinite Flight ne peut pas se connecter au serveur (Code erreur {0})</value>
+    <value>Infinite Flight ne peut pas se connecter au serveur</value>
     <comment>Infinite Flight can't connect to the server</comment>
   </data>
   <data name="Error.EndpointError" xml:space="preserve">
@@ -1592,7 +1592,7 @@
     <value>heure</value>
   </data>
   <data name="Time.Hours" xml:space="preserve">
-    <value>{0} heures</value>
+    <value>{0} heures</value>
   </data>
   <data name="Time.HoursAgo" xml:space="preserve">
     <value>il y a {0} heures</value>
@@ -1631,7 +1631,7 @@
     <value>minute</value>
   </data>
   <data name="Time.Minutes" xml:space="preserve">
-    <value>{0} minutes</value>
+    <value>{0} minutes</value>
   </data>
   <data name="Time.MinutesAgo" xml:space="preserve">
     <value>il y a {0} minutes</value>
@@ -2267,22 +2267,22 @@
     <value>Aucun pont à réaction disponible à cet aéroport</value>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>Aucune entente n’a été signée; Vous devez signer l’accord pour effectuer cette action (code d’erreur {0})</value>
+    <value>Aucune entente n’a été signée; Vous devez signer l’accord pour effectuer cette action</value>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>L’aéroport sélectionné n’est pas disponible (code d’erreur {0})</value>
+    <value>L’aéroport sélectionné n’est pas disponible</value>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>Vous avez été déconnecté et devez vous reconnecter manuellement (code d’erreur {0})</value>
+    <value>Vous avez été déconnecté et devez vous reconnecter manuellement</value>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>Cette fonctionnalité n’est pas prise en charge (code d’erreur {0})</value>
+    <value>Cette fonctionnalité n’est pas prise en charge</value>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>Le serveur sélectionné n’est pas disponible (code d’erreur {0})</value>
+    <value>Le serveur sélectionné n’est pas disponible</value>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Vous n’êtes pas affecté à cet aéroport. Veuillez contacter un réviseur ou un modérateur (code d’erreur {0})</value>
+    <value>Vous n’êtes pas affecté à cet aéroport. Veuillez contacter un réviseur ou un modérateur</value>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
     <value>Vous n’avez pas l’autorisation de télécharger des modifications dans cet aéroport.Veuillez d’abord demander à être attribué via le forum d’édition de décors.</value>
@@ -2333,13 +2333,13 @@
     <value>Les avions anciens sont des extras des anciennes versions d’Infinite Flight et ne sont pas de la même qualité. Montrez-leur quand même?</value>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>Aucun navigateur n’est disponible pour ouvrir ce lien. Assurez-vous qu’un navigateur est installé et contactez le support si le problème persiste (code d’erreur {0})</value>
+    <value>Aucun navigateur n’est disponible pour ouvrir ce lien. Assurez-vous qu’un navigateur est installé et contactez le support si le problème persiste</value>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>Impossible de se connecter au serveur, vérifiez votre connexion Internet (code d’erreur {0})</value>
+    <value>Impossible de se connecter au serveur, vérifiez votre connexion Internet</value>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-    <value>Les heures de début et de fin de cette session ne sont pas valides (code d’erreur {0})</value>
+    <value>Les heures de début et de fin de cette session ne sont pas valides</value>
   </data>
   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
     <value>CHANGER D'AVION</value>
@@ -3379,7 +3379,8 @@ Quittez le vol actuel et réessayez.</value>
     <value>Déconnexion</value>
   </data>
   <data name="AirTrafficControllerPage.DisconnectionMessage" xml:space="preserve">
-    <value>Aucune réponse à {0} message(s) depuis {1} secondes.\nVous serais bientôt déconnecté.</value>
+    <value>Aucune réponse à {0} message(s) depuis {1} secondes.
+Vous serais bientôt déconnecté.</value>
   </data>
   <data name="CallsignControl.FailedUpdateCallsign" xml:space="preserve">
     <value>Échec de la mise à jour de l’indicatif, réessayez plus tard</value>

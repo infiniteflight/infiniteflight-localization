@@ -306,7 +306,8 @@
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>A Kivizsgálási Mód ki van kapcsolva. Ha még nem tetted meg, feltétlenül küld el nekünk a naplót.\nKöszönjük, kattints a \"Napló küldése\" gombra!</value>
+    <value>A Kivizsgálási Mód ki van kapcsolva. Ha még nem tetted meg, feltétlenül küld el nekünk a naplót.
+Köszönjük, kattints a "Napló küldése" gombra!</value>
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
@@ -1782,7 +1783,9 @@
     <comment>Settings</comment>
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
-    <value>A(z) {0} túl nagy a(z) {2} jelenlegi kiindulási pontjához ({1}).\n\nKérjük, módosítsd a kiindulási helyet.</value>
+    <value>A(z) {0} túl nagy a(z) {2} jelenlegi kiindulási pontjához ({1}).
+
+Kérjük, módosítsd a kiindulási helyet.</value>
     <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
@@ -1950,7 +1953,8 @@
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>ATC Jelentés [{0}] által\n{1}</value>
+    <value>ATC Jelentés [{0}] által
+{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
@@ -2564,27 +2568,27 @@ Slow down to avoid further violations.</comment>
     <comment>No jet bridges available at this airport</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
-    <value>Nem írtad alá megállapodást; a művelet végrehajtásához alá kell írnod a szerződést (hibakód: {0})</value>
+    <value>Nem írtad alá megállapodást; a művelet végrehajtásához alá kell írnod a szerződést</value>
     <comment>An agreement has not been signed; you must sign the agreement to perform this action (Used in the case of a Contributor License Agreement)</comment>
   </data>
   <data name="Error.AirportNotFound" xml:space="preserve">
-    <value>A kiválasztott repülőtér nem elérhető (hibakód: {0})</value>
+    <value>A kiválasztott repülőtér nem elérhető</value>
     <comment>The selected airport is not available</comment>
   </data>
   <data name="Error.ExpiredToken" xml:space="preserve">
-    <value>Kijelentkeztél, és manuálisan újra be kell jelentkezned (hibakód: {0})</value>
+    <value>Kijelentkeztél, és manuálisan újra be kell jelentkezned</value>
     <comment>You have been logged out and need to log in again manually</comment>
   </data>
   <data name="Error.NotSupported" xml:space="preserve">
-    <value>Ez a funkció nem támogatott (hibakód: {0})</value>
+    <value>Ez a funkció nem támogatott</value>
     <comment>This feature is not supported</comment>
   </data>
   <data name="Error.ServerNotFound" xml:space="preserve">
-    <value>A kiválasztott szerver nem elérhető (hibakód: {0})</value>
+    <value>A kiválasztott szerver nem elérhető</value>
     <comment>The selected server is not available</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Nem vagy kijelölve erre a repülőtérre. Kérjük, fordulj egy ért ékelőhöz vagy moderátorhoz (hibakód: {0})</value>
+    <value>Nem vagy kijelölve erre a repülőtérre. Kérjük, fordulj egy ért ékelőhöz vagy moderátorhoz</value>
     <comment>You are not assigned to this airport</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">
@@ -2684,7 +2688,7 @@ Check map for more information</comment>
     <comment>Home</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>Nem érhető el böngésző a hivatkozás megnyitásához – győződj meg arról, hogy van telepítve böngésző. Ha nem tudod megoldani a problémát akkor, fordulj az ügyfélszolgálathoz (hibakód: {0})</value>
+    <value>Nem érhető el böngésző a hivatkozás megnyitásához – győződj meg arról, hogy van telepítve böngésző. Ha nem tudod megoldani a problémát akkor, fordulj az ügyfélszolgálathoz</value>
     <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists</comment>
   </data>
   <data name="FlightFreeControl.ChangeAircraftUpper" xml:space="preserve">
@@ -2902,13 +2906,13 @@ Check map for more information</comment>
     <value>Válassz saját repülőgépet és útvonalat, teszteld a pilóta képességeidet és fedezd fel a gyönyörű tájakat szabályok vagy más pilóták nélkül.</value>
   </data>
   <data name="Error.InvalidTimeSpan">
-    <value>A kezdő és befejező időpontok nem érvényesek (hiba kód: {0})</value>
+    <value>A kezdő és befejező időpontok nem érvényesek</value>
   </data>
   <data name="GameModeSelection.NoAvailableServer">
     <value>Nincs elérhető szerver</value>
   </data>
   <data name="Error.CouldNotGetFileSize">
-    <value>Nem sikerült csatlakozni a szerverhez, ellenőrizd az internetkapcsolatod (hiba kód: {0})</value>
+    <value>Nem sikerült csatlakozni a szerverhez, ellenőrizd az internetkapcsolatod</value>
   </data>
   <data name="DefaultMission.AfterLanding" xml:space="preserve">
     <value>Üdvözöllek a(z) {0} repülőtéren. Gurulj a parkolóhelyre és állítsd le a repülőgépet a küldetés teljesítéséhez.</value>

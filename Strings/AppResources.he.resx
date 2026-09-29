@@ -306,7 +306,8 @@
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>לחץ על כפתור "שלח יומן", תודה!\n.מצב אבחון כבוי כעת, ודא שאתה שולח לנו את היומן אם עדיין לא עשית זאת</value>
+    <value>לחץ על כפתור "שלח יומן", תודה!
+.מצב אבחון כבוי כעת, ודא שאתה שולח לנו את היומן אם עדיין לא עשית זאת</value>
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
@@ -574,7 +575,8 @@
     <comment>Frame rate limit</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
-    <value>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</value>
+    <value>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.
+We recommend keeping this setting to 30fps.</value>
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
@@ -1950,7 +1952,8 @@
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>ATC Report by [{0}]\n{1}</value>
+    <value>ATC Report by [{0}]
+{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
