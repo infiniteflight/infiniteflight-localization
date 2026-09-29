@@ -4393,7 +4393,8 @@ Exit current flight and try again.</comment>
     <comment>Disconnection</comment>
   </data>
   <data name="AirTrafficControllerPage.DisconnectionMessage" xml:space="preserve">
-    <value>No response to {0} message(s) for {1} seconds.\nYou will be disconnected soon.</value>
+    <value>No response to {0} message(s) for {1} seconds.
+You will be disconnected soon.</value>
     <comment>No response to {0} message(s) for {1} seconds.\nYou will be disconnected soon.</comment>
   </data>
   <data name="CallsignControl.FailedUpdateCallsign" xml:space="preserve">

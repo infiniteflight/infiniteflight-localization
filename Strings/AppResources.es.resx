@@ -1790,7 +1790,8 @@
     <value>Infracción de Control Aéreo</value>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>Infracción de Control Aéreo de [{0}]\n{1}</value>
+    <value>Infracción de Control Aéreo de [{0}]
+{1}</value>
   </data>
   <data name="Logbook.Details" xml:space="preserve">
     <value>Detalles</value>
@@ -1853,7 +1854,8 @@
     <value>Sincronizar</value>
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
-    <value>Pulse botón en \nteclado para asignar</value>
+    <value>Pulse botón en 
+teclado para asignar</value>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
     <value>Borrar</value>
@@ -1862,7 +1864,8 @@
     <value>Mover eje en controlador para asignar</value>
   </data>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
-    <value>Pulse botón en \ncontrolador/teclado para asignar</value>
+    <value>Pulse botón en 
+controlador/teclado para asignar</value>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
     <value>Pulse botón o mueve eje para asignar</value>
@@ -3626,7 +3629,8 @@ Sal del vuelo actual e intenta de nuevo.</value>
     <value>Desconexión</value>
   </data>
   <data name="AirTrafficControllerPage.DisconnectionMessage" xml:space="preserve">
-    <value>No hubo respuesta a {0} mensaje(s) durante {1} segundos.\nLa sesión se desconectará pronto.</value>
+    <value>No hubo respuesta a {0} mensaje(s) durante {1} segundos.
+La sesión se desconectará pronto.</value>
   </data>
   <data name="CallsignControl.FailedUpdateCallsign" xml:space="preserve">
     <value>No se pudo actualizar el indicativo. Inténtalo de nuevo más tarde</value>

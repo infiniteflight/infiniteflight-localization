@@ -306,7 +306,8 @@
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>Diagnostics Mode ist nun deaktiviert. Vergiss nicht, das Log an uns zu senden, falls du es noch nicht getan hast.\nKlicke auf den "Log senden" Knopf. Danke!</value>
+    <value>Diagnostics Mode ist nun deaktiviert. Vergiss nicht, das Log an uns zu senden, falls du es noch nicht getan hast.
+Klicke auf den "Log senden" Knopf. Danke!</value>
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
@@ -1938,7 +1939,8 @@
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>ATC Verstoß durch [{0}]\n{1}</value>
+    <value>ATC Verstoß durch [{0}]
+{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
@@ -1978,7 +1980,8 @@
     <comment />
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
-    <value>Zur Zuweisung Taste\nauf Tastatur drücken</value>
+    <value>Zur Zuweisung Taste
+auf Tastatur drücken</value>
     <comment>Press button on \nKeyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
@@ -1990,7 +1993,8 @@
     <comment>Move axis on controller to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
-    <value>Zur Zuweisung Taste\nauf Controller/Tastatur drücken</value>
+    <value>Zur Zuweisung Taste
+auf Controller/Tastatur drücken</value>
     <comment>Press button on \nController/Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">

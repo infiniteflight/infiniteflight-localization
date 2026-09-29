@@ -575,7 +575,8 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Frame rate limit</comment>
   </data>
   <data name="Settings.Graphics.FrameRateLimitWarning" xml:space="preserve">
-    <value>Menetapkan Frame Rate ke 60fps dapat menyebabkan perangkat Anda kepanasan. Untuk mencegah kerusakan, perangkat Anda dapat melambat yang dapat menyebabkan Infinite Flight berjalan lambat.\nKami sarankan untuk mempertahankan pengaturan ini pada 30fps.</value>
+    <value>Menetapkan Frame Rate ke 60fps dapat menyebabkan perangkat Anda kepanasan. Untuk mencegah kerusakan, perangkat Anda dapat melambat yang dapat menyebabkan Infinite Flight berjalan lambat.
+Kami sarankan untuk mempertahankan pengaturan ini pada 30fps.</value>
     <comment>Setting Frame Rate to 60fps can cause your device to overheat. To prevent damage, your device may slow down which can cause Infinite Flight to run slowly.\nWe recommend keeping this setting to 30fps.</comment>
   </data>
   <data name="Settings.Graphics.FullScreen.Subtitle" xml:space="preserve">
@@ -1771,7 +1772,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Settings</comment>
   </data>
   <data name="MenuPageBase.AircraftTooLarge" xml:space="preserve">
-    <value>Pesawat terlalu besar untuk titik awal saat ini {nama lokasi awal} di {nama bandara}.\n\nSilakan ubah lokasi awal.</value>
+    <value>{0} terlalu besar untuk titik awal saat ini {1} di {2}. Silakan ubah lokasi awal.</value>
     <comment>The {aircraft} is too large for current starting point {start location name} at {airport name}.\n\nPlease change the start location.</comment>
   </data>
   <data name="MenuPageBase.ATC" xml:space="preserve">
@@ -1803,7 +1804,7 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Infinite Flight PRO is required to start a flight at this location. Please change the start airport.</comment>
   </data>
   <data name="MenuPageBase.ShowUsernameDisabled" xml:space="preserve">
-    <value>Nama pengguna Anda harus terlihat sebelum memulai sesi. Aktifkan \"Tampilkan Nama Pengguna Saat Dalam Penerbangan\" di pengaturan</value>
+    <value>Nama pengguna Anda harus terlihat sebelum memulai sesi. Aktifkan "{0}" di pengaturan</value>
     <comment>Your username needs to be visible before starting a session. Enable \"Show Username In-Flight\" in settings</comment>
   </data>
   <data name="Notam.Airport" xml:space="preserve">
@@ -1939,7 +1940,8 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>Laporan ATC oleh [{0}]\n{1}</value>
+    <value>Laporan ATC oleh [{0}]
+{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
@@ -1978,7 +1980,8 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <value>Detail</value>
   </data>
   <data name="Settings.Controls.AltButtonCommandPrompt" xml:space="preserve">
-    <value>Tekan tombol pada \nKeyboard untuk mengaktifkan</value>
+    <value>Tekan tombol pada 
+Keyboard untuk mengaktifkan</value>
     <comment>Press button on \nKeyboard to assign</comment>
   </data>
   <data name="Settings.Controls.Delete" xml:space="preserve">
@@ -1990,7 +1993,8 @@ Klik tombol “Kirim Log”, terima kasih!</value>
     <comment>Move axis on controller to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOnController" xml:space="preserve">
-    <value>Tekan tombol pada \nPengontrol/Keyboard untuk mengaitkan</value>
+    <value>Tekan tombol pada 
+Pengontrol/Keyboard untuk mengaitkan</value>
     <comment>Press button on \nController/Keyboard to assign</comment>
   </data>
   <data name="Settings.Controls.PressButtonOrMoveAxis" xml:space="preserve">
@@ -2174,19 +2178,25 @@ Tap here for more information</comment>
     <comment>Simulation time scale cannot be changed for fighter jets.</comment>
   </data>
   <data name="SystemMessaging.Violations.AerobaticsWarning" xml:space="preserve">
-    <value>PERINGATAN EROBATIK\nManuver aerobatik dilarang di dekat bandara.</value>
+    <value>PERINGATAN EROBATIK
+Manuver aerobatik dilarang di dekat bandara.</value>
     <comment>AEROBATICS WARNING\nAerobatic Maneuvers prohibited near airports.</comment>
   </data>
   <data name="SystemMessaging.Violations.RunwayWarning" xml:space="preserve">
-    <value>Peringatan Idle di Landasan Pacu\nBerada di landasan pacu aktif dalam waktu yang lama dilarang.\nKeluar dari landasan pacu atau lepas landas untuk menghindari pelanggaran.</value>
+    <value>Peringatan Idle di Landasan Pacu
+Berada di landasan pacu aktif dalam waktu yang lama dilarang.
+Keluar dari landasan pacu atau lepas landas untuk menghindari pelanggaran.</value>
     <comment>RUNWAY IDLE WARNING\nStaying on active runways for extended periods of time is prohibited.\nExit the runway or take off to avoid receiving a violation</comment>
   </data>
   <data name="SystemMessaging.Violations.TaxiSpeedWarning" xml:space="preserve">
-    <value>PERINGATAN KE CEPATAN TAKSI\nKecepatan maksimum saat taksi: 35 knot.\nKurangi kecepatan untuk menghindari pelanggaran.</value>
+    <value>PERINGATAN KE CEPATAN TAKSI
+Kecepatan maksimum saat taksi: 35 knot.
+Kurangi kecepatan untuk menghindari pelanggaran.</value>
     <comment>TAXI SPEED WARNING\nMax ground speed while taxiing: 35kts.\nSlow down to avoid violations.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Climb" xml:space="preserve">
-    <value>VNAV tidak tersedia selama pendakian.\nFungsi ini hanya tersedia untuk penurunan.</value>
+    <value>VNAV tidak tersedia selama pendakian.
+Fungsi ini hanya tersedia untuk penurunan.</value>
     <comment>VNAV unavailable during climb.\nThis functionality is only available for descent.</comment>
   </data>
   <data name="SystemMessaging.VNAV.Descending" xml:space="preserve">
@@ -2194,7 +2204,8 @@ Tap here for more information</comment>
     <comment>VNAV Descending to {0} at {1:n0}ft</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanAltitude" xml:space="preserve">
-    <value>VNAV tidak tersedia\nTidak ada ketinggian yang ditetapkan untuk titik jalan mana pun dalam Rencana Penerbangan</value>
+    <value>VNAV tidak tersedia
+Tidak ada ketinggian yang ditetapkan untuk titik jalan mana pun dalam Rencana Penerbangan</value>
     <comment>VNAV Unavailable\nNo altitude set for any waypoint in Flight Plan</comment>
   </data>
   <data name="SystemMessaging.VNAV.NoFlightPlanWaypoint" xml:space="preserve">
@@ -2723,7 +2734,8 @@ Slow down to avoid further violations.</comment>
     <comment>LEGACY</comment>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
-    <value>Peringatan: Pesawat ini adalah tambahan dari versi lama \n dan tidak memiliki kualitas yang sama dengan pesawat kami yang lebih baru</value>
+    <value>Peringatan: Pesawat ini adalah tambahan dari versi lama 
+ dan tidak memiliki kualitas yang sama dengan pesawat kami yang lebih baru</value>
     <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
   <data name="Replay.DeleteUnstarred" xml:space="preserve">

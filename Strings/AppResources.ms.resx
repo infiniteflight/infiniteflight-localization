@@ -246,7 +246,7 @@
     <comment>Global Server streaming has failed because your device storage is full</comment>
   </data>
   <data name="Error.UserNotFound" xml:space="preserve">
-    <value>Akaun ini tidak dipautkan kepada langganan Infinite Flight Pro (kod ralat {0})</value>
+    <value>Akaun ini tidak dipautkan kepada langganan Infinite Flight Pro</value>
     <comment>This account isn't linked to an Infinite Flight Pro subscription</comment>
   </data>
   <data name="Global.CarryYourPassion" xml:space="preserve">
@@ -1938,7 +1938,8 @@
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>Laporan Pengawal Trafik Udara Oleh [{0}]\n{1}</value>
+    <value>Laporan Pengawal Trafik Udara Oleh [{0}]
+{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
@@ -2731,7 +2732,8 @@ Slow down to avoid further violations.</comment>
     <comment>LEGACY</comment>
   </data>
   <data name="AircraftPage.LegacyAircraftWarning" xml:space="preserve">
-    <value>Amaran: Pesawat ini adalah tambahan yang disertakan dari versi lama \ndan tidak memiliki kualitas yang sama dengan pesawat baru kami</value>
+    <value>Amaran: Pesawat ini adalah tambahan yang disertakan dari versi lama 
+dan tidak memiliki kualitas yang sama dengan pesawat baru kami</value>
     <comment>Warning: This aircraft is an extra included from an old version \nand is not of the same quality as our newer aircraft</comment>
   </data>
   <data name="Replay.DeleteUnstarred" xml:space="preserve">
@@ -2827,7 +2829,7 @@ Check map for more information</comment>
     <comment>Discord must be installed from the App Store to join the Infinite Flight Server. Do you want to install it now?</comment>
   </data>
   <data name="Error.InvalidTimeSpan" xml:space="preserve">
-    <value>Masa mula dan tamat sesi ini tidak sah (kod ralat {0})</value>
+    <value>Masa mula dan tamat sesi ini tidak sah</value>
     <comment>The start and end times for this session aren't valid</comment>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
@@ -2851,7 +2853,7 @@ Check map for more information</comment>
     <comment>Unavailable</comment>
   </data>
   <data name="Error.UserNotAssigned" xml:space="preserve">
-    <value>Anda tidak diberikan tugasan untuk lapangan terbang ini. Sila hubungi pemeriksa atau moderator (kod ralat {0})</value>
+    <value>Anda tidak diberikan tugasan untuk lapangan terbang ini. Sila hubungi pemeriksa atau moderator</value>
     <comment>You are not assigned to this airport. Please contact a reviewer or moderator</comment>
   </data>
   <data name="SystemsStatus.NoInfo" xml:space="preserve">
@@ -2875,7 +2877,7 @@ Check map for more information</comment>
     <comment>No Available Server</comment>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
-    <value>Tiada pelayar yang tersedia untuk membuka pautan ini - pastikan anda mempunyai pelayar yang dipasang. Hubungi sokongan jika masalah berterusan (kod ralat {0})</value>
+    <value>Tiada pelayar yang tersedia untuk membuka pautan ini - pastikan anda mempunyai pelayar yang dipasang. Hubungi sokongan jika masalah berterusan</value>
     <comment>No browser is available to open this link - ensure you have a browser installed. Contact support if the issue persists</comment>
   </data>
   <data name="Error.AgreementNotSigned" xml:space="preserve">
@@ -2887,7 +2889,7 @@ Check map for more information</comment>
     <comment>NO ENTRY SELECTED</comment>
   </data>
   <data name="Error.CouldNotGetFileSize" xml:space="preserve">
-    <value>Tidak dapat menyambung ke pelayan, semak sambungan internet anda (kod ralat {0})</value>
+    <value>Tidak dapat menyambung ke pelayan, semak sambungan internet anda</value>
     <comment>Could not connect to the server, check your internet connection</comment>
   </data>
   <data name="SceneryEditor.NoUploadPermissions" xml:space="preserve">

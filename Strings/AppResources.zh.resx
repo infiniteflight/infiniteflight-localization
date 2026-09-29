@@ -310,7 +310,8 @@
     <comment>Diagnostics Mode (title)</comment>
   </data>
   <data name="Settings.DiagnosticsModeOff" xml:space="preserve">
-    <value>调试模式已关闭, 确认您已向我们上传记录.\n点击 "上传记录" 按钮, 谢谢!</value>
+    <value>调试模式已关闭, 确认您已向我们上传记录.
+点击 "上传记录" 按钮, 谢谢!</value>
     <comment>Diagnostics Mode is now off, make sure you send us the log if you haven't done it yet.\nClick on the \"Send Log\" button, thanks!</comment>
   </data>
   <data name="Settings.DiagnosticsModeOn" xml:space="preserve">
@@ -1954,7 +1955,8 @@
     <comment>ATC Report</comment>
   </data>
   <data name="Logbook.ATCReport.Description" xml:space="preserve">
-    <value>违规报告 管制员： [{0}]\n{1}</value>
+    <value>违规报告 管制员： [{0}]
+{1}</value>
     <comment>ATC Report by [{name}]\n{description}</comment>
   </data>
   <data name="Logbook.ViewFlightDetails" xml:space="preserve">
@@ -3797,10 +3799,10 @@ REPLAYS</comment>
     <value>当前已在另一设备上连接</value>
   </data>
   <data name="Error.MultiplayerAtcAlreadyActive" xml:space="preserve">
-    <value>你当前在另一设备上已经连入此连飞服务器（错误代码{0}）</value>
+    <value>你当前在另一设备上已经连入此连飞服务器</value>
   </data>
   <data name="Error.MultiplayerFlightAlreadyActive" xml:space="preserve">
-    <value>你当前在另一设备上已经连入此连飞服务器（错误代码{0}）</value>
+    <value>你当前在另一设备上已经连入此连飞服务器</value>
   </data>
   <data name="NewsControl.Partnership" xml:space="preserve">
     <value>合作</value>
