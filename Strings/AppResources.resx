@@ -5129,8 +5129,8 @@ Press Cancel to turn it off.</value>
     <comment>Flown with us before?</comment>
   </data>
   <data name="PurchaseAccountPrompt.Message" xml:space="preserve">
-    <value>Sign in with your Community profile to add this purchase to your existing account. Or start a new account with no flights or grade.</value>
-    <comment>Sign in with your Community profile to add this purchase to your existing account. Or start a new account with no flights or grade.</comment>
+    <value>Sign in with your Infinite Flight Community account to add this purchase to the account you already fly with. Or start a new account with no flights or grade.</value>
+    <comment>Sign in with your Infinite Flight Community account to add this purchase to the account you already fly with. Or start a new account with no flights or grade.</comment>
   </data>
   <data name="PurchaseAccountPrompt.SignIn" xml:space="preserve">
     <value>Sign in with Community</value>

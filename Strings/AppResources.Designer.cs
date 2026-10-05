@@ -11167,7 +11167,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign in with your Community profile to add this purchase to your existing account. Or start a new account with no flights or grade..
+        ///   Looks up a localized string similar to Sign in with your Infinite Flight Community account to add this purchase to the account you already fly with. Or start a new account with no flights or grade..
         /// </summary>
         internal static string PurchaseAccountPrompt_Message {
             get {
