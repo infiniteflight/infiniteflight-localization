@@ -5124,4 +5124,24 @@ Press Cancel to turn it off.</value>
     <value>Top up wallet</value>
     <comment>Call to action on the top-up card</comment>
   </data>
+  <data name="PurchaseAccountPrompt.Title" xml:space="preserve">
+    <value>Do you already have an account?</value>
+    <comment>Do you already have an account?</comment>
+  </data>
+  <data name="PurchaseAccountPrompt.Message" xml:space="preserve">
+    <value>Sign in with your Infinite Flight Community account. We add this purchase to that account. Or create a new account with no flights.</value>
+    <comment>Sign in with your Infinite Flight Community account. We add this purchase to that account. Or create a new account with no flights.</comment>
+  </data>
+  <data name="PurchaseAccountPrompt.SignIn" xml:space="preserve">
+    <value>Sign in with Community</value>
+    <comment>Sign in with Community</comment>
+  </data>
+  <data name="PurchaseAccountPrompt.StartNew" xml:space="preserve">
+    <value>Create a new account</value>
+    <comment>Create a new account</comment>
+  </data>
+  <data name="Error.LoginCancelled" xml:space="preserve">
+    <value>Sign in was cancelled.</value>
+    <comment>Sign in was cancelled.</comment>
+  </data>
 </root>

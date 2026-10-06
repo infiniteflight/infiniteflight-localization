@@ -11156,5 +11156,50 @@ namespace Fds.Framework.EmbeddedResources {
                 return ResourceManager.GetString("WorldSelectionControl.NoWorldsAvailable", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Do you already have an account?.
+        /// </summary>
+        internal static string PurchaseAccountPrompt_Title {
+            get {
+                return ResourceManager.GetString("PurchaseAccountPrompt.Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in with your Infinite Flight Community account. We add this purchase to that account. Or create a new account with no flights..
+        /// </summary>
+        internal static string PurchaseAccountPrompt_Message {
+            get {
+                return ResourceManager.GetString("PurchaseAccountPrompt.Message", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in with Community.
+        /// </summary>
+        internal static string PurchaseAccountPrompt_SignIn {
+            get {
+                return ResourceManager.GetString("PurchaseAccountPrompt.SignIn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Create a new account.
+        /// </summary>
+        internal static string PurchaseAccountPrompt_StartNew {
+            get {
+                return ResourceManager.GetString("PurchaseAccountPrompt.StartNew", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sign in was cancelled..
+        /// </summary>
+        internal static string Error_LoginCancelled {
+            get {
+                return ResourceManager.GetString("Error.LoginCancelled", resourceCulture);
+            }
+        }
     }
 }
