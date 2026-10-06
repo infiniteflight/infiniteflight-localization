@@ -11158,7 +11158,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Flown with us before?.
+        ///   Looks up a localized string similar to Do you already have an account?.
         /// </summary>
         internal static string PurchaseAccountPrompt_Title {
             get {
@@ -11167,7 +11167,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sign in with your Infinite Flight Community account to add this purchase to the account you already fly with. Or start a new account with no flights or grade..
+        ///   Looks up a localized string similar to Sign in with your Infinite Flight Community account. We add this purchase to that account. Or create a new account with no flights..
         /// </summary>
         internal static string PurchaseAccountPrompt_Message {
             get {
@@ -11185,7 +11185,7 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Start a new account.
+        ///   Looks up a localized string similar to Create a new account.
         /// </summary>
         internal static string PurchaseAccountPrompt_StartNew {
             get {
