@@ -2956,10 +2956,6 @@ Batalkan kapan saja di Pusat Langganan Google Play.</value>
     <value>Lanjutkan dengan Pro</value>
     <comment>Continue with Pro</comment>
   </data>
-  <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
-    <value>&lt;TANPA NAMA&gt;</value>
-    <comment>&lt;EMPTY NAME&gt;</comment>
-  </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
     <value>60+ pesawat</value>
     <comment>60+ aircraft</comment>
@@ -2999,10 +2995,6 @@ Batalkan kapan saja di Pusat Langganan Google Play.</value>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
     <value>Integrasi SimBrief</value>
     <comment>SimBrief integration</comment>
-  </data>
-  <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
-    <value>Ditemukan {0} akun tersimpan.</value>
-    <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
     <value>Bulanan</value>
@@ -3087,10 +3079,6 @@ Batalkan kapan saja di Pusat Langganan Google Play.</value>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
     <value>Pembelian langganan dinonaktifkan di versi beta. Silakan instal Infinite Flight dari {0} untuk berlangganan Pro.</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
-  </data>
-  <data name="RentSubControl.SwitchingTo" xml:space="preserve">
-    <value>Beralih ke {0}</value>
-    <comment>Switching to {0}</comment>
   </data>
   <data name="RentSubControl.UnlockFullExperience" xml:space="preserve">
     <value>Buka pengalaman simulasi penerbangan penuh</value>

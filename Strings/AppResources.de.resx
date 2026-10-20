@@ -3113,10 +3113,6 @@ Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
     <value>Weiter mit Pro</value>
     <comment>Continue with Pro</comment>
   </data>
-  <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
-    <value>&lt;KEIN NAME&gt;</value>
-    <comment>&lt;EMPTY NAME&gt;</comment>
-  </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
     <value>Über 60 Flugzeuge</value>
     <comment>60+ aircraft</comment>
@@ -3156,10 +3152,6 @@ Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
     <value>SimBrief-Integration</value>
     <comment>SimBrief integration</comment>
-  </data>
-  <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
-    <value>{0} gespeicherte Konten gefunden.</value>
-    <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
     <value>Monatlich</value>
@@ -3244,10 +3236,6 @@ Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
     <value>Abonnements sind in der Beta-Version deaktiviert. Bitte installiere Infinite Flight aus dem {0}, um Pro zu abonnieren.</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
-  </data>
-  <data name="RentSubControl.SwitchingTo" xml:space="preserve">
-    <value>Wechsle zu {0}</value>
-    <comment>Switching to {0}</comment>
   </data>
   <data name="RentSubControl.UnlockFullExperience" xml:space="preserve">
     <value>Das volle Flugsimulationserlebnis freischalten</value>

@@ -4379,10 +4379,6 @@ Would you like to delete it?</comment>
     <value>继续使用 Pro</value>
     <comment>Continue with Pro</comment>
   </data>
-  <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
-    <value>&lt;未命名&gt;</value>
-    <comment>&lt;EMPTY NAME&gt;</comment>
-  </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
     <value>60+ 架飞机</value>
     <comment>60+ aircraft</comment>
@@ -4422,10 +4418,6 @@ Would you like to delete it?</comment>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
     <value>SimBrief 集成</value>
     <comment>SimBrief integration</comment>
-  </data>
-  <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
-    <value>找到 {0} 个已保存账户。</value>
-    <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
     <value>月度</value>
@@ -4510,10 +4502,6 @@ Would you like to delete it?</comment>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
     <value>测试版中已禁用订阅购买。请从{0}安装 Infinite Flight 以订阅 Pro。</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
-  </data>
-  <data name="RentSubControl.SwitchingTo" xml:space="preserve">
-    <value>正在切换至 {0}</value>
-    <comment>Switching to {0}</comment>
   </data>
   <data name="RentSubControl.UnlockFullExperience" xml:space="preserve">
     <value>解锁完整飞行模拟体验</value>

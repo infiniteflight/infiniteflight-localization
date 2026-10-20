@@ -3876,10 +3876,6 @@ Pulsa Cancelar para desactivarlo.</value>
     <value>Continuar con Pro</value>
     <comment>Continue with Pro</comment>
   </data>
-  <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
-    <value>&lt;NOMBRE VACÍO&gt;</value>
-    <comment>&lt;EMPTY NAME&gt;</comment>
-  </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
     <value>Más de 60 aviones</value>
     <comment>60+ aircraft</comment>
@@ -3919,10 +3915,6 @@ Pulsa Cancelar para desactivarlo.</value>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
     <value>Integración con SimBrief</value>
     <comment>SimBrief integration</comment>
-  </data>
-  <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
-    <value>Cuentas guardadas: {0}</value>
-    <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
     <value>Mensual</value>
@@ -4007,10 +3999,6 @@ Pulsa Cancelar para desactivarlo.</value>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
     <value>Las compras de suscripciones están desactivadas en la versión beta. Instala Infinite Flight desde {0} para suscribirte a Pro.</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
-  </data>
-  <data name="RentSubControl.SwitchingTo" xml:space="preserve">
-    <value>Cambiando a {0}</value>
-    <comment>Switching to {0}</comment>
   </data>
   <data name="RentSubControl.UnlockFullExperience" xml:space="preserve">
     <value>Vive la experiencia completa de vuelo</value>
