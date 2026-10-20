@@ -6649,15 +6649,6 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to &lt;EMPTY NAME&gt;.
-        /// </summary>
-        internal static string RentSubControl_EmptyAccountName {
-            get {
-                return ResourceManager.GetString("RentSubControl.EmptyAccountName", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to 60+ aircraft.
         /// </summary>
         internal static string RentSubControl_FeatureAircraft {
@@ -6744,15 +6735,6 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string RentSubControl_FeatureSimBriefIntegration {
             get {
                 return ResourceManager.GetString("RentSubControl.FeatureSimBriefIntegration", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Found {0} saved accounts..
-        /// </summary>
-        internal static string RentSubControl_InsufficientAccountsMessage {
-            get {
-                return ResourceManager.GetString("RentSubControl.InsufficientAccountsMessage", resourceCulture);
             }
         }
         
@@ -6942,15 +6924,6 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string RentSubControl_SubscriptionUnavailableBetaMessage {
             get {
                 return ResourceManager.GetString("RentSubControl.SubscriptionUnavailableBetaMessage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Switching to {0}.
-        /// </summary>
-        internal static string RentSubControl_SwitchingTo {
-            get {
-                return ResourceManager.GetString("RentSubControl.SwitchingTo", resourceCulture);
             }
         }
         

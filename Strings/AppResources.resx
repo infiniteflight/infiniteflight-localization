@@ -4599,10 +4599,6 @@ Would you like to delete it?</comment>
     <value>Continue with Pro</value>
     <comment>Continue with Pro</comment>
   </data>
-  <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
-    <value>&lt;EMPTY NAME&gt;</value>
-    <comment>&lt;EMPTY NAME&gt;</comment>
-  </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
     <value>60+ aircraft</value>
     <comment>60+ aircraft</comment>
@@ -4642,10 +4638,6 @@ Would you like to delete it?</comment>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
     <value>SimBrief integration</value>
     <comment>SimBrief integration</comment>
-  </data>
-  <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
-    <value>Found {0} saved accounts.</value>
-    <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
     <value>Monthly</value>
@@ -4730,10 +4722,6 @@ Would you like to delete it?</comment>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
     <value>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
-  </data>
-  <data name="RentSubControl.SwitchingTo" xml:space="preserve">
-    <value>Switching to {0}</value>
-    <comment>Switching to {0}</comment>
   </data>
   <data name="RentSubControl.UnlockFullExperience" xml:space="preserve">
     <value>Unlock the full flight simulation experience</value>

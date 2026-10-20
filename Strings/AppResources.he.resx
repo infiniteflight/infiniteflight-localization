@@ -2645,10 +2645,6 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <value>המשך עם Pro</value>
     <comment>Continue with Pro</comment>
   </data>
-  <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
-    <value>&lt;ללא שם&gt;</value>
-    <comment>&lt;EMPTY NAME&gt;</comment>
-  </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
     <value>60+ כלי טיס</value>
     <comment>60+ aircraft</comment>
@@ -2688,10 +2684,6 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
     <value>שילוב SimBrief</value>
     <comment>SimBrief integration</comment>
-  </data>
-  <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
-    <value>נמצאו {0} חשבונות שמורים.</value>
-    <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
     <value>חודשי</value>
@@ -2776,10 +2768,6 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
     <value>רכישת מנויים מושבתת בגרסת הבטא. אנא התקן את Infinite Flight מה-{0} כדי להירשם ל-Pro.</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
-  </data>
-  <data name="RentSubControl.SwitchingTo" xml:space="preserve">
-    <value>מעבר אל {0}</value>
-    <comment>Switching to {0}</comment>
   </data>
   <data name="RentSubControl.UnlockFullExperience" xml:space="preserve">
     <value>פתח את חוויית סימולציית הטיסה המלאה</value>

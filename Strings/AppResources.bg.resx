@@ -4366,10 +4366,6 @@ Would you like to delete it?</comment>
     <value>Продължи с Pro</value>
     <comment>Continue with Pro</comment>
   </data>
-  <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
-    <value>&lt;БЕЗ ИМЕ&gt;</value>
-    <comment>&lt;EMPTY NAME&gt;</comment>
-  </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
     <value>60+ самолета</value>
     <comment>60+ aircraft</comment>
@@ -4409,10 +4405,6 @@ Would you like to delete it?</comment>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
     <value>Интеграция на SimBrief</value>
     <comment>SimBrief integration</comment>
-  </data>
-  <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
-    <value>Намерени {0} запазени акаунта.</value>
-    <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
     <value>Месечно</value>
@@ -4497,10 +4489,6 @@ Would you like to delete it?</comment>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
     <value>Покупката на абонамент е деактивирана в бета версията. Моля, инсталирайте Infinite Flight от {0}, за да се абонирате за Pro.</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
-  </data>
-  <data name="RentSubControl.SwitchingTo" xml:space="preserve">
-    <value>Превключване към {0}</value>
-    <comment>Switching to {0}</comment>
   </data>
   <data name="RentSubControl.UnlockFullExperience" xml:space="preserve">
     <value>Отключи пълното изживяване на авиосимулатора</value>

@@ -2922,10 +2922,6 @@ Check map for more information</comment>
     <value>Продолжить с Pro</value>
     <comment>Continue with Pro</comment>
   </data>
-  <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
-    <value>&lt;БЕЗ ИМЕНИ&gt;</value>
-    <comment>&lt;EMPTY NAME&gt;</comment>
-  </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
     <value>Более 60 воздушных судов</value>
     <comment>60+ aircraft</comment>
@@ -2965,10 +2961,6 @@ Check map for more information</comment>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
     <value>Интеграция SimBrief</value>
     <comment>SimBrief integration</comment>
-  </data>
-  <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
-    <value>Найдено сохранённых аккаунтов: {0}.</value>
-    <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
     <value>Ежемесячно</value>
@@ -3053,10 +3045,6 @@ Check map for more information</comment>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
     <value>Покупка подписки отключена в бета-версии. Установите Infinite Flight из {0} для оформления подписки Pro.</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
-  </data>
-  <data name="RentSubControl.SwitchingTo" xml:space="preserve">
-    <value>Переключение на {0}</value>
-    <comment>Switching to {0}</comment>
   </data>
   <data name="RentSubControl.UnlockFullExperience" xml:space="preserve">
     <value>Откройте полный опыт авиасимулятора</value>

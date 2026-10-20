@@ -3084,10 +3084,6 @@ Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
     <value>Pro ile devam et</value>
     <comment>Continue with Pro</comment>
   </data>
-  <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
-    <value>&lt;İSİM YOK&gt;</value>
-    <comment>&lt;EMPTY NAME&gt;</comment>
-  </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
     <value>60'tan fazla uçak</value>
     <comment>60+ aircraft</comment>
@@ -3127,10 +3123,6 @@ Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
     <value>SimBrief entegrasyonu</value>
     <comment>SimBrief integration</comment>
-  </data>
-  <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
-    <value>{0} kayıtlı hesap bulundu.</value>
-    <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
     <value>Aylık</value>
@@ -3215,10 +3207,6 @@ Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
     <value>Abonelik satın alma beta sürümünde devre dışıdır. Pro'ya abone olmak için lütfen Infinite Flight'ı {0}'dan yükleyin.</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
-  </data>
-  <data name="RentSubControl.SwitchingTo" xml:space="preserve">
-    <value>{0} hesabına geçiliyor</value>
-    <comment>Switching to {0}</comment>
   </data>
   <data name="RentSubControl.UnlockFullExperience" xml:space="preserve">
     <value>Tam uçuş simülasyonu deneyimini açın</value>

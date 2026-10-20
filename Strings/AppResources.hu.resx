@@ -3027,10 +3027,6 @@ Bármikor lemondhatja a Google Play előfizetési központjában.</value>
     <value>Tovább a Pro-val</value>
     <comment>Continue with Pro</comment>
   </data>
-  <data name="RentSubControl.EmptyAccountName" xml:space="preserve">
-    <value>&lt;NINCS NÉV&gt;</value>
-    <comment>&lt;EMPTY NAME&gt;</comment>
-  </data>
   <data name="RentSubControl.FeatureAircraft" xml:space="preserve">
     <value>Több mint 60 repülőgép</value>
     <comment>60+ aircraft</comment>
@@ -3070,10 +3066,6 @@ Bármikor lemondhatja a Google Play előfizetési központjában.</value>
   <data name="RentSubControl.FeatureSimBriefIntegration" xml:space="preserve">
     <value>SimBrief-integráció</value>
     <comment>SimBrief integration</comment>
-  </data>
-  <data name="RentSubControl.InsufficientAccountsMessage" xml:space="preserve">
-    <value>{0} mentett fiók található.</value>
-    <comment>Found {0} saved accounts.</comment>
   </data>
   <data name="RentSubControl.Monthly" xml:space="preserve">
     <value>Havi</value>
@@ -3158,10 +3150,6 @@ Bármikor lemondhatja a Google Play előfizetési központjában.</value>
   <data name="RentSubControl.SubscriptionUnavailableBetaMessage" xml:space="preserve">
     <value>Az előfizetés a béta verzióban nem elérhető. Kérjük, telepítsd az Infinite Flight-ot a(z) {0}-ból a Pro előfizetéshez.</value>
     <comment>Subscription purchases are disabled in the beta version. Please install Infinite Flight from the {0} to subscribe to Pro.</comment>
-  </data>
-  <data name="RentSubControl.SwitchingTo" xml:space="preserve">
-    <value>Váltás: {0}</value>
-    <comment>Switching to {0}</comment>
   </data>
   <data name="RentSubControl.UnlockFullExperience" xml:space="preserve">
     <value>A teljes repülésszimulációs élmény feloldása</value>
