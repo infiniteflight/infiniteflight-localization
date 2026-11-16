@@ -4043,6 +4043,18 @@ Appuyez sur Annuler pour désactiver.</value>
     <value>Passer à ce forfait ? La boutique applique le changement et tout prorata automatiquement.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>Passer à ce forfait supérieur ? Le changement commence maintenant. La boutique vous crédite la partie non utilisée de votre forfait actuel.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>Passer à ce forfait lors de votre prochain renouvellement ? Vous gardez votre forfait actuel et ses Lifts jusque-là.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>Vous payez Pro via une autre boutique ou le site web. Annulez d'abord ce forfait là-bas pour ne pas payer deux fois.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>Acheter ce Lift ? Il est ajouté à votre portefeuille et dure 30 jours une fois appliqué à une organisation.</value>
     <comment>Confirmation before buying a one-time Lift</comment>

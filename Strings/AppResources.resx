@@ -5048,6 +5048,18 @@ Press Cancel to turn it off.</value>
     <value>Change to this plan? The store applies the change and any proration automatically.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>Upgrade to this plan? The change starts now. The store gives you credit for the part of your current plan that you did not use.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>Change to this plan at your next renewal? You keep your current plan and its lifts until then.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>You pay for Pro through another store or the website. Cancel that plan there first, so that you do not pay twice.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>Buy this lift? It goes to your wallet and lasts 30 days once applied to an organization.</value>
     <comment>Confirmation before buying a one-time Lift</comment>

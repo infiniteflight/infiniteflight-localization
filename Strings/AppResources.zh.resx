@@ -4695,6 +4695,18 @@ Would you like to delete it?</comment>
     <value>更改为此方案？商店会自动应用更改及按比例计费。</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>升级到此方案？更改立即生效。商店会按你当前方案未使用的部分给你抵扣。</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>在下次续订时更改为此方案？在此之前，你会保留当前方案及其 Lift。</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>你通过其他商店或网站支付 Pro。请先在那里取消该方案，以免重复付费。</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>购买此 Lift？它会存入你的钱包，应用到组织后有效期为 30 天。</value>
     <comment>Confirmation before buying a one-time Lift</comment>

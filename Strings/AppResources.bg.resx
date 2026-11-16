@@ -4682,6 +4682,18 @@ Would you like to delete it?</comment>
     <value>Да преминете ли към този план? Магазинът прилага промяната и евентуалното пропорционално таксуване автоматично.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>Да преминете ли към този по-висок план? Промяната започва веднага. Магазинът ви кредитира неизползваната част от текущия ви план.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>Да преминете ли към този план при следващото подновяване? Запазвате текущия си план и неговите Lifts дотогава.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>Плащате за Pro чрез друг магазин или уебсайта. Първо откажете този план там, за да не плащате два пъти.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>Да купите ли този Lift? Той отива в портфейла ви и е валиден 30 дни, след като бъде приложен към организация.</value>
     <comment>Confirmation before buying a one-time Lift</comment>

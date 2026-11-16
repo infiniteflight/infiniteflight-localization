@@ -3565,6 +3565,18 @@ Saia do voo atual e tente novamente.</value>
     <value>Mudar para este plano? A loja aplica a alteração e qualquer valor proporcional automaticamente.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>Atualizar para este plano? A alteração começa agora. A loja credita a parte não utilizada do seu plano atual.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>Mudar para este plano na próxima renovação? Mantém o plano atual e os respetivos Lifts até lá.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>Paga o Pro através de outra loja ou do site. Cancele primeiro esse plano lá para não pagar duas vezes.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>Comprar este Lift? Vai para a sua carteira e dura 30 dias depois de aplicado a uma organização.</value>
     <comment>Confirmation before buying a one-time Lift</comment>
