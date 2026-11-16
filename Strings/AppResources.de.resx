@@ -3437,6 +3437,18 @@ Kündigen Sie jederzeit im Abonnementzentrum von Google Play.</value>
     <value>Zu diesem Plan wechseln? Der Store übernimmt den Wechsel und eine eventuelle anteilige Verrechnung automatisch.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>Auf diesen Plan upgraden? Der Wechsel gilt sofort. Der Store schreibt dir den ungenutzten Teil deines aktuellen Plans gut.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>Bei der nächsten Verlängerung zu diesem Plan wechseln? Bis dahin behältst du deinen aktuellen Plan und seine Lifts.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>Du zahlst Pro über einen anderen Store oder die Website. Kündige diesen Plan zuerst dort, damit du nicht doppelt zahlst.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>Diesen Lift kaufen? Er landet in deiner Wallet und gilt 30 Tage, sobald er auf eine Organisation angewendet wird.</value>
     <comment>Confirmation before buying a one-time Lift</comment>

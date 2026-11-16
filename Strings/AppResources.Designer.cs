@@ -4346,6 +4346,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Change to this plan at your next renewal? You keep your current plan and its lifts until then..
+        /// </summary>
+        internal static string LiftStore_DowngradePlanPrompt {
+            get {
+                return ResourceManager.GetString("LiftStore.DowngradePlanPrompt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {0} every month · {1} per month.
         /// </summary>
         internal static string LiftStore_ExtraLiftsPackDescription {
@@ -4571,6 +4580,15 @@ namespace Fds.Framework.EmbeddedResources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to You pay for Pro through another store or the website. Cancel that plan there first, so that you do not pay twice..
+        /// </summary>
+        internal static string LiftStore_PlanBilledElsewhere {
+            get {
+                return ResourceManager.GetString("LiftStore.PlanBilledElsewhere", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to  · {0} per {1}.
         /// </summary>
         internal static string LiftStore_PlanPriceSuffix {
@@ -4684,6 +4702,15 @@ namespace Fds.Framework.EmbeddedResources {
         internal static string LiftStore_TopUpWallet {
             get {
                 return ResourceManager.GetString("LiftStore.TopUpWallet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Upgrade to this plan? The change starts now. The store gives you credit for the part of your current plan that you did not use..
+        /// </summary>
+        internal static string LiftStore_UpgradePlanPrompt {
+            get {
+                return ResourceManager.GetString("LiftStore.UpgradePlanPrompt", resourceCulture);
             }
         }
         

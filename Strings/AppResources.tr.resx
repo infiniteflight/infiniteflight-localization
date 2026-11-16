@@ -3408,6 +3408,18 @@ Google Play Abonelik Merkezi'nde istediğiniz zaman iptal edebilirsiniz.</value>
     <value>Bu plana geçilsin mi? Mağaza değişikliği ve varsa oranlı ücretlendirmeyi otomatik uygular.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>Bu plana yükseltilsin mi? Değişiklik hemen başlar. Mağaza, mevcut planınızın kullanılmayan kısmını size alacak olarak verir.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>Bir sonraki yenilemede bu plana geçilsin mi? O zamana kadar mevcut planınızı ve Lift'lerini korursunuz.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>Pro için başka bir mağaza veya web sitesi üzerinden ödüyorsunuz. İki kez ödememek için önce o planı orada iptal edin.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>Bu Lift satın alınsın mı? Cüzdanınıza gider ve bir organizasyona uygulandıktan sonra 30 gün sürer.</value>
     <comment>Confirmation before buying a one-time Lift</comment>

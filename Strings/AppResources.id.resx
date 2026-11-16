@@ -3280,6 +3280,18 @@ Batalkan kapan saja di Pusat Langganan Google Play.</value>
     <value>Ganti ke paket ini? Toko menerapkan perubahan dan prorata apa pun secara otomatis.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>Tingkatkan ke paket ini? Perubahan dimulai sekarang. Toko memberi kredit untuk bagian paket Anda saat ini yang belum terpakai.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>Ganti ke paket ini pada perpanjangan berikutnya? Anda tetap memiliki paket saat ini dan Lift-nya sampai saat itu.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>Anda membayar Pro melalui toko lain atau situs web. Batalkan paket itu di sana terlebih dahulu agar Anda tidak membayar dua kali.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>Beli Lift ini? Lift masuk ke dompet Anda dan berlaku 30 hari setelah diterapkan ke organisasi.</value>
     <comment>Confirmation before buying a one-time Lift</comment>

@@ -2969,6 +2969,18 @@ Please ask to be assigned via the Scenery Editing forum first</comment>
     <value>לעבור לתוכנית זו? החנות מחילה את השינוי וכל חיוב יחסי באופן אוטומטי.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>לשדרג לתוכנית זו? השינוי מתחיל עכשיו. החנות מזכה אותך על החלק שלא נוצל בתוכנית הנוכחית.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>לעבור לתוכנית זו בחידוש הבא? התוכנית הנוכחית וה-Lifts שלה נשארים אצלך עד אז.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>אתה משלם על Pro דרך חנות אחרת או דרך האתר. בטל קודם את התוכנית שם, כדי שלא תשלם פעמיים.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>לקנות Lift זה? הוא נכנס לארנק שלך ותקף 30 יום לאחר שיוחל על ארגון.</value>
     <comment>Confirmation before buying a one-time Lift</comment>

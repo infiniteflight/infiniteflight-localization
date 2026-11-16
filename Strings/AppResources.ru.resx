@@ -3246,6 +3246,18 @@ Check map for more information</comment>
     <value>Перейти на этот план? Магазин применит изменение и перерасчёт автоматически.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>Перейти на этот план выше? Изменение начнётся сейчас. Магазин зачтёт неиспользованную часть текущего плана.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>Перейти на этот план при следующем продлении? До тех пор у вас остаются текущий план и его Lifts.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>Вы платите за Pro через другой магазин или сайт. Сначала отмените этот план там, чтобы не платить дважды.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>Купить этот Lift? Он попадёт в ваш кошелёк и будет действовать 30 дней после применения к организации.</value>
     <comment>Confirmation before buying a one-time Lift</comment>

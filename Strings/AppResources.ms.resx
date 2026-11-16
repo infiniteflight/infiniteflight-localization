@@ -3277,6 +3277,18 @@ Batalkan pada bila-bila masa di Pusat Langganan Google Play.</value>
     <value>Tukar kepada pelan ini? Gedung menggunakan perubahan dan sebarang prorata secara automatik.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>Naik taraf kepada pelan ini? Perubahan bermula sekarang. Gedung memberi kredit untuk bahagian pelan semasa anda yang belum digunakan.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>Tukar kepada pelan ini pada pembaharuan seterusnya? Anda kekal dengan pelan semasa dan Lift-nya sehingga itu.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>Anda membayar Pro melalui gedung lain atau laman web. Batalkan pelan itu di sana dahulu supaya anda tidak membayar dua kali.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>Beli Lift ini? Ia masuk ke dompet anda dan sah selama 30 hari selepas digunakan pada organisasi.</value>
     <comment>Confirmation before buying a one-time Lift</comment>

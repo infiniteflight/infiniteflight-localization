@@ -3351,6 +3351,18 @@ Bármikor lemondhatja a Google Play előfizetési központjában.</value>
     <value>Váltasz erre a csomagra? Az áruház automatikusan alkalmazza a módosítást és az esetleges időarányos elszámolást.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>Váltasz erre a magasabb csomagra? A módosítás azonnal érvényes. Az áruház jóváírja a jelenlegi csomagod fel nem használt részét.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>A következő megújításkor váltasz erre a csomagra? Addig megtartod a jelenlegi csomagodat és a Liftjeit.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>A Pro-t egy másik áruházon vagy a weboldalon keresztül fizeted. Előbb ott mondd le azt a csomagot, hogy ne fizess kétszer.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>Megveszed ezt a Liftet? A tárcádba kerül, és 30 napig érvényes, miután egy szervezetre alkalmazod.</value>
     <comment>Confirmation before buying a one-time Lift</comment>

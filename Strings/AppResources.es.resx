@@ -4152,6 +4152,18 @@ Pulsa Cancelar para desactivarlo.</value>
     <value>¿Cambiar a este plan? La tienda aplica el cambio y cualquier prorrateo automáticamente.</value>
     <comment>Confirmation before changing between Pro plans</comment>
   </data>
+  <data name="LiftStore.UpgradePlanPrompt" xml:space="preserve">
+    <value>¿Mejorar a este plan? El cambio empieza ahora. La tienda te abona la parte no usada de tu plan actual.</value>
+    <comment>Confirmation before an upgrade to a Pro plan with more lifts. The change starts at once.</comment>
+  </data>
+  <data name="LiftStore.DowngradePlanPrompt" xml:space="preserve">
+    <value>¿Cambiar a este plan en tu próxima renovación? Conservas tu plan actual y sus Lifts hasta entonces.</value>
+    <comment>Confirmation before a change to a Pro plan with fewer lifts. The change starts at the next renewal.</comment>
+  </data>
+  <data name="LiftStore.PlanBilledElsewhere" xml:space="preserve">
+    <value>Pagas Pro a través de otra tienda o del sitio web. Cancela primero ese plan allí para no pagar dos veces.</value>
+    <comment>Shown when the user's Pro plan is billed by another store or the website, so a plan bought here would be a second subscription.</comment>
+  </data>
   <data name="LiftStore.BuyLiftPrompt" xml:space="preserve">
     <value>¿Comprar este Lift? Va a tu monedero y dura 30 días una vez aplicado a una organización.</value>
     <comment>Confirmation before buying a one-time Lift</comment>
