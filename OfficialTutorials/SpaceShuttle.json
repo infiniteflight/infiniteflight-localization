@@ -6,7 +6,7 @@
       "es": "Shuttle Approach Runway 15",
       "zh": "航天飞机返回任务-跑道15",
       "bg": "Подход за писта 15 с космическа совалка",
-      "tr": "Shuttle Approach Runway 15"
+      "tr": "Uzay Mekiği Yaklaşımı Pist 15"
     },
     "description": {
       "en": "Land the Space Shuttle Atlantis at Cape Canaveral by flying through the waypoints",
@@ -32,7 +32,7 @@
       "es": "Pasando los 2000 pies. Comienza a nivelar el avión.",
       "zh": "过2000英尺，开始拉平飘",
       "bg": "Пресякохте 2000фт. Започнете да изравнявате совалката.",
-      "tr": "2000 feet geçiliyor. Uçağı düzleştirmeye başlayın."
+      "tr": "2000ft'in altına indiniz. Uçağın burnunu kaldırmaya başlayın."
     },
     {
       "en": "300ft AGL, gear down",
@@ -40,7 +40,7 @@
       "es": "300 pies AGL, tren de aterrizaje abajo",
       "zh": "离地300英尺，放轮",
       "bg": "300фт над земята, спуснете колесника",
-      "tr": "300ft AGL, iniş takımlarını açın"
+      "tr": "Yerden 300ft yükseksiniz, iniş takımlarını açın"
     },
     {
       "en": "Touchdown!",
@@ -48,7 +48,7 @@
       "es": "Atterizaje!",
       "zh": "接地！",
       "bg": "Приземихте се!",
-      "tr": "İniş!"
+      "tr": "Temas!"
     },
     {
       "en": "Congratulations on a successful re-entry and mission completion. Everybody welcome back to earth! We'll meet you on page 5-3 of the reentry checklist.",
@@ -56,7 +56,7 @@
       "es": "¡Felicidades por una reentrada exitosa y la finalización de la misión! ¡Bienvenidos de vuelta a la Tierra a todos! Nos vemos en la página 5-3 de la lista de verificación de reentrada.",
       "zh": "恭喜你成功完成返回任务。欢迎各位回到地球！我们将按照再入检查单的5-3页执行着陆后程序。",
       "bg": "Поздравления за успешното навлизане и завършване на мисията. Добре дошли обратно на Земята! Ще се видим на страница 5-3 от контролната карта за навлизане.",
-      "tr": "Başarılı bir yeniden giriş ve görev tamamlama için tebrikler. Herkes dünyaya hoş geldiniz! Sizinle yeniden giriş kontrol listesinin 5-3. sayfasında buluşacağız."
+      "tr": "Yeniden giriş ve görevi başarıyla tamamladınız,tebrikler. Dünya'ya hoşgeldiniz! Sizinle yeniden giriş kontrol listesinin 5-3. sayfasında buluşacağız."
     }
   ],
   "stringsPerStepCompletionCondition": [
@@ -68,7 +68,7 @@
           "es": "Pasa por 2000ft",
           "zh": "下降通过2000英尺",
           "bg": "Пресечете 2000фт",
-          "tr": "2000ft'den geç"
+          "tr": "2000ft'in altına inin"
         }
       }
     ],
@@ -104,7 +104,7 @@
           "es": "Wheel Stop",
           "zh": "完全停稳飞机",
           "bg": "Спрете колелата",
-          "tr": "Wheel Stop"
+          "tr": "Tekerlek dursun"
         }
       },
       {
